@@ -8,5 +8,25 @@
     "week_seconds": 4,
     "week_start": 1781474466,
     "total_seconds": 4
+  },
+  "logic_man": {
+    "week_seconds": 0,
+    "week_start": 1781474483,
+    "total_seconds": 0
+  },
+  "dragran": {
+    "week_seconds": 32,
+    "week_start": 1781474495,
+    "total_seconds": 32
+  },
+  "turkishflavour": {
+    "week_seconds": 26,
+    "week_start": 1781474510,
+    "total_seconds": 26
+  },
+  "holdenvcaulfield": {
+    "week_seconds": 0,
+    "week_start": 1781474534,
+    "total_seconds": 0
   }
 }
