@@ -50,9 +50,9 @@
     "total_seconds": 0
   },
   "meenos": {
-    "week_seconds": 5105,
+    "week_seconds": 5179,
     "week_start": 1781474845,
-    "total_seconds": 5105
+    "total_seconds": 5179
   },
   "jadenjb": {
     "week_seconds": 125,
@@ -565,13 +565,28 @@
     "total_seconds": 27
   },
   "graydawn_": {
-    "week_seconds": 0,
+    "week_seconds": 426,
     "week_start": 1781480271,
-    "total_seconds": 0
+    "total_seconds": 426
   },
   "angie_dovie111": {
     "week_seconds": 30,
     "week_start": 1781480311,
     "total_seconds": 30
+  },
+  "balderbert": {
+    "week_seconds": 0,
+    "week_start": 1781480690,
+    "total_seconds": 0
+  },
+  "ethn__": {
+    "week_seconds": 0,
+    "week_start": 1781480700,
+    "total_seconds": 0
+  },
+  "suderp": {
+    "week_seconds": 0,
+    "week_start": 1781480713,
+    "total_seconds": 0
   }
 }
