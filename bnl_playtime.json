@@ -50,9 +50,9 @@
     "total_seconds": 0
   },
   "meenos": {
-    "week_seconds": 2376,
+    "week_seconds": 2415,
     "week_start": 1781474845,
-    "total_seconds": 2376
+    "total_seconds": 2415
   },
   "jadenjb": {
     "week_seconds": 125,
@@ -325,9 +325,9 @@
     "total_seconds": 0
   },
   "catgifs": {
-    "week_seconds": 140,
+    "week_seconds": 257,
     "week_start": 1781477373,
-    "total_seconds": 140
+    "total_seconds": 257
   },
   "demboiiiii": {
     "week_seconds": 0,
@@ -348,5 +348,10 @@
     "week_seconds": 5,
     "week_start": 1781477581,
     "total_seconds": 5
+  },
+  "stee1heart": {
+    "week_seconds": 0,
+    "week_start": 1781477658,
+    "total_seconds": 0
   }
 }
