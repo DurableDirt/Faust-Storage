@@ -10,9 +10,9 @@
     "total_seconds": 4
   },
   "logic_man": {
-    "week_seconds": 0,
+    "week_seconds": 127,
     "week_start": 1781474483,
-    "total_seconds": 0
+    "total_seconds": 127
   },
   "dragran": {
     "week_seconds": 32,
@@ -27,6 +27,11 @@
   "holdenvcaulfield": {
     "week_seconds": 0,
     "week_start": 1781474534,
+    "total_seconds": 0
+  },
+  "harved": {
+    "week_seconds": 0,
+    "week_start": 1781474573,
     "total_seconds": 0
   }
 }
