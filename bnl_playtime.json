@@ -155,9 +155,9 @@
     "total_seconds": 147
   },
   "lightningboi4": {
-    "week_seconds": 0,
+    "week_seconds": 760,
     "week_start": 1781476003,
-    "total_seconds": 0
+    "total_seconds": 760
   },
   "aaroni_macaroni": {
     "week_seconds": 0,
@@ -257,6 +257,16 @@
   "madmachinist25": {
     "week_seconds": 0,
     "week_start": 1781476666,
+    "total_seconds": 0
+  },
+  "mrjeremyfisher": {
+    "week_seconds": 0,
+    "week_start": 1781476749,
+    "total_seconds": 0
+  },
+  "slushhi": {
+    "week_seconds": 0,
+    "week_start": 1781476778,
     "total_seconds": 0
   }
 }
