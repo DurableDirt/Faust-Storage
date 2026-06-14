@@ -200,9 +200,9 @@
     "total_seconds": 355
   },
   "jalhf": {
-    "week_seconds": 0,
+    "week_seconds": 944,
     "week_start": 1781476208,
-    "total_seconds": 0
+    "total_seconds": 944
   },
   "r3nocidz": {
     "week_seconds": 608,
@@ -245,9 +245,9 @@
     "total_seconds": 132
   },
   "aluminum_foil_": {
-    "week_seconds": 0,
+    "week_seconds": 591,
     "week_start": 1781476568,
-    "total_seconds": 0
+    "total_seconds": 591
   },
   "mpusa": {
     "week_seconds": 0,
@@ -292,6 +292,16 @@
   "aguscon": {
     "week_seconds": 0,
     "week_start": 1781477034,
+    "total_seconds": 0
+  },
+  "microwavedmango": {
+    "week_seconds": 0,
+    "week_start": 1781477131,
+    "total_seconds": 0
+  },
+  "tatsu007": {
+    "week_seconds": 0,
+    "week_start": 1781477156,
     "total_seconds": 0
   }
 }
