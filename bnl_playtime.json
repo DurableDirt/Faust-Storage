@@ -365,9 +365,9 @@
     "total_seconds": 0
   },
   "wheaties24": {
-    "week_seconds": 0,
+    "week_seconds": 441,
     "week_start": 1781477776,
-    "total_seconds": 0
+    "total_seconds": 441
   },
   "spicon17": {
     "week_seconds": 0,
@@ -417,6 +417,11 @@
   "maverick1351": {
     "week_seconds": 0,
     "week_start": 1781478196,
+    "total_seconds": 0
+  },
+  "hg__80": {
+    "week_seconds": 0,
+    "week_start": 1781478206,
     "total_seconds": 0
   }
 }
