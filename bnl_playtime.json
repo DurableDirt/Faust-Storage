@@ -465,9 +465,9 @@
     "total_seconds": 0
   },
   "kaelon_othfryeli": {
-    "week_seconds": 0,
+    "week_seconds": 208,
     "week_start": 1781479264,
-    "total_seconds": 0
+    "total_seconds": 208
   },
   "anotnot": {
     "week_seconds": 0,
@@ -477,6 +477,16 @@
   "tntfortress": {
     "week_seconds": 0,
     "week_start": 1781479375,
+    "total_seconds": 0
+  },
+  "crafterkid50009": {
+    "week_seconds": 0,
+    "week_start": 1781479469,
+    "total_seconds": 0
+  },
+  "lemonrelic": {
+    "week_seconds": 0,
+    "week_start": 1781479480,
     "total_seconds": 0
   }
 }
