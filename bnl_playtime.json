@@ -340,9 +340,9 @@
     "total_seconds": 502
   },
   "ratslayer59": {
-    "week_seconds": 0,
+    "week_seconds": 598,
     "week_start": 1781477465,
-    "total_seconds": 0
+    "total_seconds": 598
   },
   "lightning62": {
     "week_seconds": 5,
@@ -392,6 +392,11 @@
   "kokomiology": {
     "week_seconds": 0,
     "week_start": 1781478005,
+    "total_seconds": 0
+  },
+  "toasted745": {
+    "week_seconds": 0,
+    "week_start": 1781478042,
     "total_seconds": 0
   }
 }
