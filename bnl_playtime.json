@@ -280,9 +280,9 @@
     "total_seconds": 33
   },
   "ansgardd": {
-    "week_seconds": 102,
+    "week_seconds": 1269,
     "week_start": 1781476881,
-    "total_seconds": 102
+    "total_seconds": 1269
   },
   "mechanicalrift": {
     "week_seconds": 0,
@@ -330,9 +330,9 @@
     "total_seconds": 257
   },
   "demboiiiii": {
-    "week_seconds": 0,
+    "week_seconds": 685,
     "week_start": 1781477438,
-    "total_seconds": 0
+    "total_seconds": 685
   },
   "tomahawk_762": {
     "week_seconds": 502,
@@ -397,6 +397,21 @@
   "toasted745": {
     "week_seconds": 0,
     "week_start": 1781478042,
+    "total_seconds": 0
+  },
+  "uprisingmax": {
+    "week_seconds": 0,
+    "week_start": 1781478140,
+    "total_seconds": 0
+  },
+  "freshoxygenair": {
+    "week_seconds": 0,
+    "week_start": 1781478147,
+    "total_seconds": 0
+  },
+  "cz10_xp": {
+    "week_seconds": 0,
+    "week_start": 1781478155,
     "total_seconds": 0
   }
 }
