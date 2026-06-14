@@ -50,9 +50,9 @@
     "total_seconds": 0
   },
   "meenos": {
-    "week_seconds": 2624,
+    "week_seconds": 2655,
     "week_start": 1781474845,
-    "total_seconds": 2624
+    "total_seconds": 2655
   },
   "jadenjb": {
     "week_seconds": 125,
@@ -372,6 +372,11 @@
   "spicon17": {
     "week_seconds": 0,
     "week_start": 1781477778,
+    "total_seconds": 0
+  },
+  "jamesthegmiguel": {
+    "week_seconds": 0,
+    "week_start": 1781477892,
     "total_seconds": 0
   }
 }
