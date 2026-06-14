@@ -50,9 +50,9 @@
     "total_seconds": 0
   },
   "meenos": {
-    "week_seconds": 2341,
+    "week_seconds": 2376,
     "week_start": 1781474845,
-    "total_seconds": 2341
+    "total_seconds": 2376
   },
   "jadenjb": {
     "week_seconds": 125,
@@ -343,5 +343,10 @@
     "week_seconds": 0,
     "week_start": 1781477465,
     "total_seconds": 0
+  },
+  "lightning62": {
+    "week_seconds": 5,
+    "week_start": 1781477581,
+    "total_seconds": 5
   }
 }
