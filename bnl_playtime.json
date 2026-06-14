@@ -50,9 +50,9 @@
     "total_seconds": 0
   },
   "meenos": {
-    "week_seconds": 2495,
+    "week_seconds": 2537,
     "week_start": 1781474845,
-    "total_seconds": 2495
+    "total_seconds": 2537
   },
   "jadenjb": {
     "week_seconds": 125,
@@ -260,9 +260,9 @@
     "total_seconds": 0
   },
   "mrjeremyfisher": {
-    "week_seconds": 578,
+    "week_seconds": 933,
     "week_start": 1781476749,
-    "total_seconds": 578
+    "total_seconds": 933
   },
   "slushhi": {
     "week_seconds": 644,
@@ -362,6 +362,16 @@
   "astrosandwich": {
     "week_seconds": 0,
     "week_start": 1781477694,
+    "total_seconds": 0
+  },
+  "wheaties24": {
+    "week_seconds": 0,
+    "week_start": 1781477776,
+    "total_seconds": 0
+  },
+  "spicon17": {
+    "week_seconds": 0,
+    "week_start": 1781477778,
     "total_seconds": 0
   }
 }
