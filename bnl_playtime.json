@@ -135,9 +135,9 @@
     "total_seconds": 525
   },
   "donnelpyke2": {
-    "week_seconds": 0,
+    "week_seconds": 3780,
     "week_start": 1781475849,
-    "total_seconds": 0
+    "total_seconds": 3780
   },
   "ziqh333": {
     "week_seconds": 7,
@@ -260,9 +260,9 @@
     "total_seconds": 0
   },
   "mrjeremyfisher": {
-    "week_seconds": 2271,
+    "week_seconds": 2711,
     "week_start": 1781476749,
-    "total_seconds": 2271
+    "total_seconds": 2711
   },
   "slushhi": {
     "week_seconds": 644,
@@ -487,6 +487,16 @@
   "lemonrelic": {
     "week_seconds": 0,
     "week_start": 1781479480,
+    "total_seconds": 0
+  },
+  "lord_allaire": {
+    "week_seconds": 0,
+    "week_start": 1781479545,
+    "total_seconds": 0
+  },
+  "_ssg_": {
+    "week_seconds": 0,
+    "week_start": 1781479625,
     "total_seconds": 0
   }
 }
