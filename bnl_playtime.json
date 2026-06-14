@@ -455,9 +455,9 @@
     "total_seconds": 0
   },
   "axsld": {
-    "week_seconds": 0,
+    "week_seconds": 667,
     "week_start": 1781479011,
-    "total_seconds": 0
+    "total_seconds": 667
   },
   "thespecialplum": {
     "week_seconds": 0,
@@ -490,13 +490,23 @@
     "total_seconds": 0
   },
   "lord_allaire": {
-    "week_seconds": 0,
+    "week_seconds": 137,
     "week_start": 1781479545,
-    "total_seconds": 0
+    "total_seconds": 137
   },
   "_ssg_": {
     "week_seconds": 0,
     "week_start": 1781479625,
+    "total_seconds": 0
+  },
+  "call_me_m1ke": {
+    "week_seconds": 0,
+    "week_start": 1781479656,
+    "total_seconds": 0
+  },
+  "josiekat": {
+    "week_seconds": 0,
+    "week_start": 1781479667,
     "total_seconds": 0
   }
 }
