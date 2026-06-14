@@ -230,9 +230,9 @@
     "total_seconds": 43
   },
   "the_fella7441": {
-    "week_seconds": 2516,
+    "week_seconds": 4393,
     "week_start": 1781476454,
-    "total_seconds": 2516
+    "total_seconds": 4393
   },
   "hentlol": {
     "week_seconds": 0,
@@ -485,9 +485,9 @@
     "total_seconds": 0
   },
   "lemonrelic": {
-    "week_seconds": 0,
+    "week_seconds": 1390,
     "week_start": 1781479480,
-    "total_seconds": 0
+    "total_seconds": 1390
   },
   "lord_allaire": {
     "week_seconds": 137,
@@ -587,6 +587,11 @@
   "suderp": {
     "week_seconds": 0,
     "week_start": 1781480713,
+    "total_seconds": 0
+  },
+  "cocobean1122": {
+    "week_seconds": 0,
+    "week_start": 1781480895,
     "total_seconds": 0
   }
 }
