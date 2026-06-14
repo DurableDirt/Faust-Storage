@@ -50,9 +50,9 @@
     "total_seconds": 0
   },
   "meenos": {
-    "week_seconds": 143,
+    "week_seconds": 322,
     "week_start": 1781474845,
-    "total_seconds": 143
+    "total_seconds": 322
   },
   "jadenjb": {
     "week_seconds": 62,
@@ -98,5 +98,10 @@
     "week_seconds": 38,
     "week_start": 1781475138,
     "total_seconds": 38
+  },
+  "fishsticks47": {
+    "week_seconds": 0,
+    "week_start": 1781475372,
+    "total_seconds": 0
   }
 }
