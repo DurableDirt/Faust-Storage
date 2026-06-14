@@ -50,9 +50,9 @@
     "total_seconds": 0
   },
   "meenos": {
-    "week_seconds": 5858,
+    "week_seconds": 5881,
     "week_start": 1781474845,
-    "total_seconds": 5858
+    "total_seconds": 5881
   },
   "jadenjb": {
     "week_seconds": 125,
@@ -265,9 +265,9 @@
     "total_seconds": 3880
   },
   "slushhi": {
-    "week_seconds": 644,
+    "week_seconds": 1463,
     "week_start": 1781476778,
-    "total_seconds": 644
+    "total_seconds": 1463
   },
   "dasonishere2": {
     "week_seconds": 1670,
@@ -460,9 +460,9 @@
     "total_seconds": 667
   },
   "thespecialplum": {
-    "week_seconds": 0,
+    "week_seconds": 2224,
     "week_start": 1781479236,
-    "total_seconds": 0
+    "total_seconds": 2224
   },
   "kaelon_othfryeli": {
     "week_seconds": 208,
@@ -642,6 +642,11 @@
   "beepcar": {
     "week_seconds": 0,
     "week_start": 1781481425,
+    "total_seconds": 0
+  },
+  "moopie50": {
+    "week_seconds": 0,
+    "week_start": 1781481486,
     "total_seconds": 0
   }
 }
