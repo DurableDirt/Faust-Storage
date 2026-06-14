@@ -250,9 +250,9 @@
     "total_seconds": 591
   },
   "mpusa": {
-    "week_seconds": 0,
+    "week_seconds": 2858,
     "week_start": 1781476578,
-    "total_seconds": 0
+    "total_seconds": 2858
   },
   "madmachinist25": {
     "week_seconds": 0,
@@ -472,6 +472,11 @@
   "anotnot": {
     "week_seconds": 0,
     "week_start": 1781479365,
+    "total_seconds": 0
+  },
+  "tntfortress": {
+    "week_seconds": 0,
+    "week_start": 1781479375,
     "total_seconds": 0
   }
 }
