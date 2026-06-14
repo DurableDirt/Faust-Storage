@@ -1,8 +1,8 @@
 {
   "durabledirt": {
-    "week_seconds": 0,
+    "week_seconds": 214,
     "week_start": 1781474461,
-    "total_seconds": 0
+    "total_seconds": 214
   },
   "alphaaaaaaaaalph": {
     "week_seconds": 4,
@@ -32,6 +32,16 @@
   "harved": {
     "week_seconds": 0,
     "week_start": 1781474573,
+    "total_seconds": 0
+  },
+  "maxxyrose": {
+    "week_seconds": 0,
+    "week_start": 1781474643,
+    "total_seconds": 0
+  },
+  "piotato": {
+    "week_seconds": 0,
+    "week_start": 1781474698,
     "total_seconds": 0
   }
 }
