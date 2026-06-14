@@ -50,9 +50,9 @@
     "total_seconds": 0
   },
   "meenos": {
-    "week_seconds": 5667,
+    "week_seconds": 5858,
     "week_start": 1781474845,
-    "total_seconds": 5667
+    "total_seconds": 5858
   },
   "jadenjb": {
     "week_seconds": 125,
@@ -622,6 +622,26 @@
   "justmicwa": {
     "week_seconds": 0,
     "week_start": 1781481295,
+    "total_seconds": 0
+  },
+  "ceceliarabbit": {
+    "week_seconds": 0,
+    "week_start": 1781481378,
+    "total_seconds": 0
+  },
+  "retrocitrus": {
+    "week_seconds": 0,
+    "week_start": 1781481396,
+    "total_seconds": 0
+  },
+  "thecrazygrape": {
+    "week_seconds": 0,
+    "week_start": 1781481410,
+    "total_seconds": 0
+  },
+  "beepcar": {
+    "week_seconds": 0,
+    "week_start": 1781481425,
     "total_seconds": 0
   }
 }
