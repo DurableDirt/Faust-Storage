@@ -230,9 +230,9 @@
     "total_seconds": 43
   },
   "the_fella7441": {
-    "week_seconds": 23,
+    "week_seconds": 2516,
     "week_start": 1781476454,
-    "total_seconds": 23
+    "total_seconds": 2516
   },
   "hentlol": {
     "week_seconds": 0,
@@ -452,6 +452,11 @@
   "mrtnt1925": {
     "week_seconds": 0,
     "week_start": 1781478966,
+    "total_seconds": 0
+  },
+  "axsld": {
+    "week_seconds": 0,
+    "week_start": 1781479011,
     "total_seconds": 0
   }
 }
