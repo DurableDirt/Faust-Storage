@@ -125,9 +125,9 @@
     "total_seconds": 1010
   },
   "nahsaimonnumber2": {
-    "week_seconds": 846,
+    "week_seconds": 916,
     "week_start": 1781475711,
-    "total_seconds": 846
+    "total_seconds": 916
   },
   "threeapplestall": {
     "week_seconds": 525,
@@ -327,6 +327,21 @@
   "catgifs": {
     "week_seconds": 0,
     "week_start": 1781477373,
+    "total_seconds": 0
+  },
+  "demboiiiii": {
+    "week_seconds": 0,
+    "week_start": 1781477438,
+    "total_seconds": 0
+  },
+  "tomahawk_762": {
+    "week_seconds": 0,
+    "week_start": 1781477453,
+    "total_seconds": 0
+  },
+  "ratslayer59": {
+    "week_seconds": 0,
+    "week_start": 1781477465,
     "total_seconds": 0
   }
 }
