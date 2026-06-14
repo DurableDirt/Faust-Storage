@@ -185,9 +185,9 @@
     "total_seconds": 0
   },
   "ahrimanne": {
-    "week_seconds": 0,
+    "week_seconds": 2419,
     "week_start": 1781476161,
-    "total_seconds": 0
+    "total_seconds": 2419
   },
   "princess__bow": {
     "week_seconds": 0,
@@ -437,6 +437,11 @@
   "morphobutterfly": {
     "week_seconds": 0,
     "week_start": 1781478414,
+    "total_seconds": 0
+  },
+  "screamteam2005": {
+    "week_seconds": 0,
+    "week_start": 1781478592,
     "total_seconds": 0
   }
 }
