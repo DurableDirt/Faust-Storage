@@ -125,9 +125,9 @@
     "total_seconds": 1010
   },
   "nahsaimonnumber2": {
-    "week_seconds": 916,
+    "week_seconds": 2799,
     "week_start": 1781475711,
-    "total_seconds": 916
+    "total_seconds": 2799
   },
   "threeapplestall": {
     "week_seconds": 525,
@@ -528,5 +528,20 @@
     "week_seconds": 26,
     "week_start": 1781479968,
     "total_seconds": 26
+  },
+  "hexayn": {
+    "week_seconds": 0,
+    "week_start": 1781480126,
+    "total_seconds": 0
+  },
+  "destaroos": {
+    "week_seconds": 0,
+    "week_start": 1781480127,
+    "total_seconds": 0
+  },
+  "mouthbreather30": {
+    "week_seconds": 0,
+    "week_start": 1781480133,
+    "total_seconds": 0
   }
 }
