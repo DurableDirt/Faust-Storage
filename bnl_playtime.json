@@ -50,9 +50,9 @@
     "total_seconds": 0
   },
   "meenos": {
-    "week_seconds": 5881,
+    "week_seconds": 5917,
     "week_start": 1781474845,
-    "total_seconds": 5881
+    "total_seconds": 5917
   },
   "jadenjb": {
     "week_seconds": 125,
@@ -230,9 +230,9 @@
     "total_seconds": 43
   },
   "the_fella7441": {
-    "week_seconds": 4393,
+    "week_seconds": 4978,
     "week_start": 1781476454,
-    "total_seconds": 4393
+    "total_seconds": 4978
   },
   "hentlol": {
     "week_seconds": 0,
@@ -485,9 +485,9 @@
     "total_seconds": 0
   },
   "lemonrelic": {
-    "week_seconds": 1390,
+    "week_seconds": 2041,
     "week_start": 1781479480,
-    "total_seconds": 1390
+    "total_seconds": 2041
   },
   "lord_allaire": {
     "week_seconds": 137,
@@ -647,6 +647,11 @@
   "moopie50": {
     "week_seconds": 0,
     "week_start": 1781481486,
+    "total_seconds": 0
+  },
+  "malafly": {
+    "week_seconds": 0,
+    "week_start": 1781481518,
     "total_seconds": 0
   }
 }
