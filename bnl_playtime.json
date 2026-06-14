@@ -50,9 +50,9 @@
     "total_seconds": 0
   },
   "meenos": {
-    "week_seconds": 72,
+    "week_seconds": 100,
     "week_start": 1781474845,
-    "total_seconds": 72
+    "total_seconds": 100
   },
   "jadenjb": {
     "week_seconds": 31,
@@ -88,5 +88,15 @@
     "week_seconds": 0,
     "week_start": 1781475069,
     "total_seconds": 0
+  },
+  "chips_and_salsa_": {
+    "week_seconds": 0,
+    "week_start": 1781475120,
+    "total_seconds": 0
+  },
+  "booger_godslayer": {
+    "week_seconds": 38,
+    "week_start": 1781475138,
+    "total_seconds": 38
   }
 }
