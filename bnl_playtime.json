@@ -120,9 +120,9 @@
     "total_seconds": 740
   },
   "popshotx9": {
-    "week_seconds": 0,
+    "week_seconds": 1010,
     "week_start": 1781475637,
-    "total_seconds": 0
+    "total_seconds": 1010
   },
   "nahsaimonnumber2": {
     "week_seconds": 846,
@@ -240,9 +240,9 @@
     "total_seconds": 0
   },
   "wasabiwhip": {
-    "week_seconds": 0,
+    "week_seconds": 132,
     "week_start": 1781476532,
-    "total_seconds": 0
+    "total_seconds": 132
   },
   "aluminum_foil_": {
     "week_seconds": 0,
@@ -252,6 +252,11 @@
   "mpusa": {
     "week_seconds": 0,
     "week_start": 1781476578,
+    "total_seconds": 0
+  },
+  "madmachinist25": {
+    "week_seconds": 0,
+    "week_start": 1781476666,
     "total_seconds": 0
   }
 }
