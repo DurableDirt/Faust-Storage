@@ -475,9 +475,9 @@
     "total_seconds": 359
   },
   "tntfortress": {
-    "week_seconds": 0,
+    "week_seconds": 1909,
     "week_start": 1781479375,
-    "total_seconds": 0
+    "total_seconds": 1909
   },
   "crafterkid50009": {
     "week_seconds": 0,
@@ -617,6 +617,11 @@
   "yodabird19": {
     "week_seconds": 0,
     "week_start": 1781481165,
+    "total_seconds": 0
+  },
+  "justmicwa": {
+    "week_seconds": 0,
+    "week_start": 1781481295,
     "total_seconds": 0
   }
 }
