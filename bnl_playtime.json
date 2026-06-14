@@ -250,9 +250,9 @@
     "total_seconds": 591
   },
   "mpusa": {
-    "week_seconds": 2858,
+    "week_seconds": 3458,
     "week_start": 1781476578,
-    "total_seconds": 2858
+    "total_seconds": 3458
   },
   "madmachinist25": {
     "week_seconds": 0,
@@ -535,13 +535,28 @@
     "total_seconds": 0
   },
   "destaroos": {
-    "week_seconds": 0,
+    "week_seconds": 32,
     "week_start": 1781480127,
-    "total_seconds": 0
+    "total_seconds": 32
   },
   "mouthbreather30": {
     "week_seconds": 0,
     "week_start": 1781480133,
+    "total_seconds": 0
+  },
+  "shoomsi": {
+    "week_seconds": 0,
+    "week_start": 1781480138,
+    "total_seconds": 0
+  },
+  "snivelbaby": {
+    "week_seconds": 0,
+    "week_start": 1781480166,
+    "total_seconds": 0
+  },
+  "zolo17": {
+    "week_seconds": 0,
+    "week_start": 1781480177,
     "total_seconds": 0
   }
 }
