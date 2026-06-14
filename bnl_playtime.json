@@ -50,9 +50,9 @@
     "total_seconds": 0
   },
   "meenos": {
-    "week_seconds": 584,
+    "week_seconds": 606,
     "week_start": 1781474845,
-    "total_seconds": 584
+    "total_seconds": 606
   },
   "jadenjb": {
     "week_seconds": 125,
@@ -90,9 +90,9 @@
     "total_seconds": 0
   },
   "chips_and_salsa_": {
-    "week_seconds": 0,
+    "week_seconds": 564,
     "week_start": 1781475120,
-    "total_seconds": 0
+    "total_seconds": 564
   },
   "booger_godslayer": {
     "week_seconds": 38,
@@ -122,6 +122,11 @@
   "popshotx9": {
     "week_seconds": 0,
     "week_start": 1781475637,
+    "total_seconds": 0
+  },
+  "nahsaimonnumber2": {
+    "week_seconds": 0,
+    "week_start": 1781475711,
     "total_seconds": 0
   }
 }
