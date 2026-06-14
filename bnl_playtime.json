@@ -390,9 +390,9 @@
     "total_seconds": 90
   },
   "kokomiology": {
-    "week_seconds": 0,
+    "week_seconds": 179,
     "week_start": 1781478005,
-    "total_seconds": 0
+    "total_seconds": 179
   },
   "toasted745": {
     "week_seconds": 0,
@@ -412,6 +412,11 @@
   "cz10_xp": {
     "week_seconds": 0,
     "week_start": 1781478155,
+    "total_seconds": 0
+  },
+  "maverick1351": {
+    "week_seconds": 0,
+    "week_start": 1781478196,
     "total_seconds": 0
   }
 }
