@@ -260,9 +260,9 @@
     "total_seconds": 0
   },
   "mrjeremyfisher": {
-    "week_seconds": 1985,
+    "week_seconds": 2033,
     "week_start": 1781476749,
-    "total_seconds": 1985
+    "total_seconds": 2033
   },
   "slushhi": {
     "week_seconds": 644,
@@ -435,13 +435,23 @@
     "total_seconds": 12
   },
   "morphobutterfly": {
-    "week_seconds": 459,
+    "week_seconds": 517,
     "week_start": 1781478414,
-    "total_seconds": 459
+    "total_seconds": 517
   },
   "screamteam2005": {
     "week_seconds": 0,
     "week_start": 1781478592,
+    "total_seconds": 0
+  },
+  "iron600": {
+    "week_seconds": 0,
+    "week_start": 1781478931,
+    "total_seconds": 0
+  },
+  "mrtnt1925": {
+    "week_seconds": 0,
+    "week_start": 1781478966,
     "total_seconds": 0
   }
 }
