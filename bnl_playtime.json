@@ -470,9 +470,9 @@
     "total_seconds": 208
   },
   "anotnot": {
-    "week_seconds": 349,
+    "week_seconds": 359,
     "week_start": 1781479365,
-    "total_seconds": 349
+    "total_seconds": 359
   },
   "tntfortress": {
     "week_seconds": 0,
@@ -518,5 +518,15 @@
     "week_seconds": 0,
     "week_start": 1781479823,
     "total_seconds": 0
+  },
+  "treeman38": {
+    "week_seconds": 0,
+    "week_start": 1781479896,
+    "total_seconds": 0
+  },
+  "shadno": {
+    "week_seconds": 21,
+    "week_start": 1781479968,
+    "total_seconds": 21
   }
 }
