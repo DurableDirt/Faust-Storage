@@ -375,9 +375,9 @@
     "total_seconds": 0
   },
   "jamesthegmiguel": {
-    "week_seconds": 529,
+    "week_seconds": 1482,
     "week_start": 1781477892,
-    "total_seconds": 529
+    "total_seconds": 1482
   },
   "noctash": {
     "week_seconds": 21,
@@ -607,6 +607,16 @@
   "hak0707": {
     "week_seconds": 0,
     "week_start": 1781481081,
+    "total_seconds": 0
+  },
+  "_blare": {
+    "week_seconds": 0,
+    "week_start": 1781481160,
+    "total_seconds": 0
+  },
+  "yodabird19": {
+    "week_seconds": 0,
+    "week_start": 1781481165,
     "total_seconds": 0
   }
 }
