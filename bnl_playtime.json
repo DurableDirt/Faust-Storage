@@ -145,8 +145,13 @@
     "total_seconds": 7
   },
   "hungermanwhocare": {
-    "week_seconds": 0,
+    "week_seconds": 100,
     "week_start": 1781475895,
+    "total_seconds": 100
+  },
+  "jqkz": {
+    "week_seconds": 0,
+    "week_start": 1781475994,
     "total_seconds": 0
   }
 }
