@@ -155,9 +155,9 @@
     "total_seconds": 147
   },
   "lightningboi4": {
-    "week_seconds": 760,
+    "week_seconds": 905,
     "week_start": 1781476003,
-    "total_seconds": 760
+    "total_seconds": 905
   },
   "aaroni_macaroni": {
     "week_seconds": 0,
@@ -287,6 +287,11 @@
   "mechanicalrift": {
     "week_seconds": 0,
     "week_start": 1781476919,
+    "total_seconds": 0
+  },
+  "aguscon": {
+    "week_seconds": 0,
+    "week_start": 1781477034,
     "total_seconds": 0
   }
 }
