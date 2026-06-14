@@ -260,9 +260,9 @@
     "total_seconds": 0
   },
   "mrjeremyfisher": {
-    "week_seconds": 989,
+    "week_seconds": 1130,
     "week_start": 1781476749,
-    "total_seconds": 989
+    "total_seconds": 1130
   },
   "slushhi": {
     "week_seconds": 644,
@@ -290,9 +290,9 @@
     "total_seconds": 0
   },
   "aguscon": {
-    "week_seconds": 0,
+    "week_seconds": 981,
     "week_start": 1781477034,
-    "total_seconds": 0
+    "total_seconds": 981
   },
   "microwavedmango": {
     "week_seconds": 70,
@@ -383,5 +383,15 @@
     "week_seconds": 21,
     "week_start": 1781477945,
     "total_seconds": 21
+  },
+  "opriva": {
+    "week_seconds": 0,
+    "week_start": 1781477978,
+    "total_seconds": 0
+  },
+  "kokomiology": {
+    "week_seconds": 0,
+    "week_start": 1781478005,
+    "total_seconds": 0
   }
 }
