@@ -50,9 +50,9 @@
     "total_seconds": 0
   },
   "meenos": {
-    "week_seconds": 1850,
+    "week_seconds": 2162,
     "week_start": 1781474845,
-    "total_seconds": 1850
+    "total_seconds": 2162
   },
   "jadenjb": {
     "week_seconds": 125,
@@ -307,6 +307,11 @@
   "olderastory": {
     "week_seconds": 0,
     "week_start": 1781477168,
+    "total_seconds": 0
+  },
+  "willowpox": {
+    "week_seconds": 0,
+    "week_start": 1781477232,
     "total_seconds": 0
   }
 }
