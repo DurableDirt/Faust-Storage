@@ -65,9 +65,9 @@
     "total_seconds": 1459
   },
   "rainsinger": {
-    "week_seconds": 17,
+    "week_seconds": 2902,
     "week_start": 1781474875,
-    "total_seconds": 17
+    "total_seconds": 2902
   },
   "jindosh": {
     "week_seconds": 0,
@@ -155,9 +155,9 @@
     "total_seconds": 147
   },
   "lightningboi4": {
-    "week_seconds": 905,
+    "week_seconds": 1671,
     "week_start": 1781476003,
-    "total_seconds": 905
+    "total_seconds": 1671
   },
   "aaroni_macaroni": {
     "week_seconds": 0,
@@ -335,9 +335,9 @@
     "total_seconds": 0
   },
   "tomahawk_762": {
-    "week_seconds": 0,
+    "week_seconds": 502,
     "week_start": 1781477453,
-    "total_seconds": 0
+    "total_seconds": 502
   },
   "ratslayer59": {
     "week_seconds": 0,
@@ -378,5 +378,10 @@
     "week_seconds": 0,
     "week_start": 1781477892,
     "total_seconds": 0
+  },
+  "noctash": {
+    "week_seconds": 21,
+    "week_start": 1781477945,
+    "total_seconds": 21
   }
 }
