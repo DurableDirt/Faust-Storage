@@ -50,9 +50,9 @@
     "total_seconds": 0
   },
   "meenos": {
-    "week_seconds": 322,
+    "week_seconds": 358,
     "week_start": 1781474845,
-    "total_seconds": 322
+    "total_seconds": 358
   },
   "jadenjb": {
     "week_seconds": 62,
@@ -75,9 +75,9 @@
     "total_seconds": 0
   },
   "40mm": {
-    "week_seconds": 0,
+    "week_seconds": 436,
     "week_start": 1781475020,
-    "total_seconds": 0
+    "total_seconds": 436
   },
   "lynx2007": {
     "week_seconds": 0,
@@ -102,6 +102,16 @@
   "fishsticks47": {
     "week_seconds": 0,
     "week_start": 1781475372,
+    "total_seconds": 0
+  },
+  "slothinasuit": {
+    "week_seconds": 0,
+    "week_start": 1781475413,
+    "total_seconds": 0
+  },
+  "jck20h": {
+    "week_seconds": 0,
+    "week_start": 1781475457,
     "total_seconds": 0
   }
 }
