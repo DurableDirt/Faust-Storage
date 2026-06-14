@@ -200,9 +200,9 @@
     "total_seconds": 355
   },
   "jalhf": {
-    "week_seconds": 944,
+    "week_seconds": 1883,
     "week_start": 1781476208,
-    "total_seconds": 944
+    "total_seconds": 1883
   },
   "r3nocidz": {
     "week_seconds": 632,
@@ -462,6 +462,11 @@
   "thespecialplum": {
     "week_seconds": 0,
     "week_start": 1781479236,
+    "total_seconds": 0
+  },
+  "kaelon_othfryeli": {
+    "week_seconds": 0,
+    "week_start": 1781479264,
     "total_seconds": 0
   }
 }
