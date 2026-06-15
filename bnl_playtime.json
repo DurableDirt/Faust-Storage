@@ -280,9 +280,9 @@
     "total_seconds": 2154
   },
   "ansgardd": {
-    "week_seconds": 6651,
+    "week_seconds": 6724,
     "week_start": 1781476881,
-    "total_seconds": 6651
+    "total_seconds": 6724
   },
   "mechanicalrift": {
     "week_seconds": 31467,
@@ -630,9 +630,9 @@
     "total_seconds": 1410
   },
   "retrocitrus": {
-    "week_seconds": 9510,
+    "week_seconds": 9511,
     "week_start": 1781481396,
-    "total_seconds": 9510
+    "total_seconds": 9511
   },
   "thecrazygrape": {
     "week_seconds": 8260,
@@ -2515,9 +2515,9 @@
     "total_seconds": 6042
   },
   "disdage": {
-    "week_seconds": 10951,
+    "week_seconds": 13573,
     "week_start": 1781536383,
-    "total_seconds": 10951
+    "total_seconds": 13573
   },
   "thomas2point0": {
     "week_seconds": 78,
@@ -3210,8 +3210,8 @@
     "total_seconds": 210
   },
   "cifec": {
-    "week_seconds": 0,
+    "week_seconds": 369,
     "week_start": 1781558539,
-    "total_seconds": 0
+    "total_seconds": 369
   }
 }
