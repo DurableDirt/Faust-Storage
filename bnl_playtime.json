@@ -315,9 +315,9 @@
     "total_seconds": 1643
   },
   "ian21652": {
-    "week_seconds": 0,
+    "week_seconds": 7190,
     "week_start": 1781477313,
-    "total_seconds": 0
+    "total_seconds": 7190
   },
   "skormcel": {
     "week_seconds": 0,
@@ -415,9 +415,9 @@
     "total_seconds": 396
   },
   "maverick1351": {
-    "week_seconds": 0,
+    "week_seconds": 6326,
     "week_start": 1781478196,
-    "total_seconds": 0
+    "total_seconds": 6326
   },
   "hg__80": {
     "week_seconds": 3653,
@@ -480,9 +480,9 @@
     "total_seconds": 1909
   },
   "crafterkid50009": {
-    "week_seconds": 0,
+    "week_seconds": 5060,
     "week_start": 1781479469,
-    "total_seconds": 0
+    "total_seconds": 5060
   },
   "lemonrelic": {
     "week_seconds": 2041,
@@ -585,9 +585,9 @@
     "total_seconds": 345
   },
   "suderp": {
-    "week_seconds": 285,
+    "week_seconds": 3472,
     "week_start": 1781480713,
-    "total_seconds": 285
+    "total_seconds": 3472
   },
   "cocobean1122": {
     "week_seconds": 1742,
@@ -853,5 +853,15 @@
     "week_seconds": 0,
     "week_start": 1781484453,
     "total_seconds": 0
+  },
+  "kixitbud": {
+    "week_seconds": 0,
+    "week_start": 1781484459,
+    "total_seconds": 0
+  },
+  "elekssa": {
+    "week_seconds": 23,
+    "week_start": 1781484479,
+    "total_seconds": 23
   }
 }
