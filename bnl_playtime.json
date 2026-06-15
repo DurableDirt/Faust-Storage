@@ -3440,9 +3440,9 @@
     "total_seconds": 0
   },
   "jromeasfsniper": {
-    "week_seconds": 0,
+    "week_seconds": 302,
     "week_start": 1781566212,
-    "total_seconds": 0
+    "total_seconds": 302
   },
   "smilers": {
     "week_seconds": 3,
@@ -3453,5 +3453,10 @@
     "week_seconds": 31,
     "week_start": 1781566358,
     "total_seconds": 31
+  },
+  "turtleum": {
+    "week_seconds": 0,
+    "week_start": 1781566511,
+    "total_seconds": 0
   }
 }
