@@ -1525,9 +1525,9 @@
     "total_seconds": 1822
   },
   "deuteriumoxide1": {
-    "week_seconds": 1209,
+    "week_seconds": 3493,
     "week_start": 1781502340,
-    "total_seconds": 1209
+    "total_seconds": 3493
   },
   "xlader161": {
     "week_seconds": 5238,
@@ -1570,9 +1570,9 @@
     "total_seconds": 983
   },
   "physicsgamer": {
-    "week_seconds": 6158,
+    "week_seconds": 6261,
     "week_start": 1781504070,
-    "total_seconds": 6158
+    "total_seconds": 6261
   },
   "_2k42_": {
     "week_seconds": 3019,
@@ -1683,5 +1683,15 @@
     "week_seconds": 4,
     "week_start": 1781510458,
     "total_seconds": 4
+  },
+  "oceanic161story": {
+    "week_seconds": 0,
+    "week_start": 1781510582,
+    "total_seconds": 0
+  },
+  "solitaire7": {
+    "week_seconds": 0,
+    "week_start": 1781510605,
+    "total_seconds": 0
   }
 }
