@@ -2495,9 +2495,9 @@
     "total_seconds": 0
   },
   "blazelogic": {
-    "week_seconds": 2155,
+    "week_seconds": 3898,
     "week_start": 1781535865,
-    "total_seconds": 2155
+    "total_seconds": 3898
   },
   "mariora": {
     "week_seconds": 867,
@@ -2672,6 +2672,16 @@
   "ghanumpro": {
     "week_seconds": 0,
     "week_start": 1781541150,
+    "total_seconds": 0
+  },
+  "cesarrr505": {
+    "week_seconds": 0,
+    "week_start": 1781541183,
+    "total_seconds": 0
+  },
+  "baserdx": {
+    "week_seconds": 0,
+    "week_start": 1781541193,
     "total_seconds": 0
   }
 }
