@@ -200,9 +200,9 @@
     "total_seconds": 1180
   },
   "jalhf": {
-    "week_seconds": 1883,
+    "week_seconds": 8329,
     "week_start": 1781476208,
-    "total_seconds": 1883
+    "total_seconds": 8329
   },
   "r3nocidz": {
     "week_seconds": 632,
@@ -2065,9 +2065,9 @@
     "total_seconds": 1824
   },
   "whisky_1": {
-    "week_seconds": 0,
+    "week_seconds": 7186,
     "week_start": 1781524601,
-    "total_seconds": 0
+    "total_seconds": 7186
   },
   "leonardus07": {
     "week_seconds": 0,
@@ -2225,9 +2225,9 @@
     "total_seconds": 3186
   },
   "dorthit_0194a8au": {
-    "week_seconds": 1682,
+    "week_seconds": 3029,
     "week_start": 1781528750,
-    "total_seconds": 1682
+    "total_seconds": 3029
   },
   "nevsednam2007": {
     "week_seconds": 191,
@@ -2328,5 +2328,10 @@
     "week_seconds": 32,
     "week_start": 1781531619,
     "total_seconds": 32
+  },
+  "xa_n": {
+    "week_seconds": 0,
+    "week_start": 1781531746,
+    "total_seconds": 0
   }
 }
