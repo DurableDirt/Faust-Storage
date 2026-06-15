@@ -2015,9 +2015,9 @@
     "total_seconds": 1083
   },
   "xlamdg96_": {
-    "week_seconds": 2128,
+    "week_seconds": 2138,
     "week_start": 1781523379,
-    "total_seconds": 2128
+    "total_seconds": 2138
   },
   "luxleee_58": {
     "week_seconds": 2598,
@@ -2247,6 +2247,11 @@
   "ambersolberg205": {
     "week_seconds": 0,
     "week_start": 1781529273,
+    "total_seconds": 0
+  },
+  "scottytohoty420": {
+    "week_seconds": 0,
+    "week_start": 1781529312,
     "total_seconds": 0
   }
 }
