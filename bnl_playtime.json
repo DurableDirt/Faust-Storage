@@ -1685,9 +1685,9 @@
     "total_seconds": 4
   },
   "oceanic161story": {
-    "week_seconds": 3631,
+    "week_seconds": 5471,
     "week_start": 1781510582,
-    "total_seconds": 3631
+    "total_seconds": 5471
   },
   "solitaire7": {
     "week_seconds": 3016,
@@ -1805,13 +1805,33 @@
     "total_seconds": 275
   },
   "creepi0n": {
-    "week_seconds": 0,
+    "week_seconds": 361,
     "week_start": 1781515950,
-    "total_seconds": 0
+    "total_seconds": 361
   },
   "_monor": {
     "week_seconds": 0,
     "week_start": 1781516111,
+    "total_seconds": 0
+  },
+  "airdav": {
+    "week_seconds": 0,
+    "week_start": 1781516178,
+    "total_seconds": 0
+  },
+  "ch0rk": {
+    "week_seconds": 0,
+    "week_start": 1781516198,
+    "total_seconds": 0
+  },
+  "castorguy": {
+    "week_seconds": 0,
+    "week_start": 1781516202,
+    "total_seconds": 0
+  },
+  "yinz001": {
+    "week_seconds": 0,
+    "week_start": 1781516248,
     "total_seconds": 0
   }
 }
