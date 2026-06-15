@@ -2580,9 +2580,9 @@
     "total_seconds": 199
   },
   "7qou": {
-    "week_seconds": 0,
+    "week_seconds": 430,
     "week_start": 1781539089,
-    "total_seconds": 0
+    "total_seconds": 430
   },
   "cordius": {
     "week_seconds": 72,
@@ -2592,6 +2592,11 @@
   "dant481heman": {
     "week_seconds": 0,
     "week_start": 1781539434,
+    "total_seconds": 0
+  },
+  "aredstonegod378": {
+    "week_seconds": 0,
+    "week_start": 1781539497,
     "total_seconds": 0
   }
 }
