@@ -1675,9 +1675,9 @@
     "total_seconds": 3575
   },
   "jaydon_": {
-    "week_seconds": 4678,
+    "week_seconds": 27781,
     "week_start": 1781510086,
-    "total_seconds": 4678
+    "total_seconds": 27781
   },
   "pina0210": {
     "week_seconds": 4,
@@ -2932,6 +2932,11 @@
   "lolle0": {
     "week_seconds": 0,
     "week_start": 1781549154,
+    "total_seconds": 0
+  },
+  "catmit446": {
+    "week_seconds": 0,
+    "week_start": 1781549680,
     "total_seconds": 0
   }
 }
