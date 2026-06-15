@@ -2655,9 +2655,9 @@
     "total_seconds": 12
   },
   "simo1825": {
-    "week_seconds": 782,
+    "week_seconds": 833,
     "week_start": 1781540594,
-    "total_seconds": 782
+    "total_seconds": 833
   },
   "binchymonkey": {
     "week_seconds": 0,
@@ -2687,6 +2687,11 @@
   "danielgall2010": {
     "week_seconds": 0,
     "week_start": 1781541304,
+    "total_seconds": 0
+  },
+  "addeiscool990": {
+    "week_seconds": 0,
+    "week_start": 1781541439,
     "total_seconds": 0
   }
 }
