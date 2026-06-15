@@ -630,9 +630,9 @@
     "total_seconds": 1410
   },
   "retrocitrus": {
-    "week_seconds": 0,
+    "week_seconds": 5822,
     "week_start": 1781481396,
-    "total_seconds": 0
+    "total_seconds": 5822
   },
   "thecrazygrape": {
     "week_seconds": 4060,
@@ -680,9 +680,9 @@
     "total_seconds": 65
   },
   "varbo": {
-    "week_seconds": 4872,
+    "week_seconds": 5272,
     "week_start": 1781481943,
-    "total_seconds": 4872
+    "total_seconds": 5272
   },
   "cheesenoodle24": {
     "week_seconds": 0,
@@ -1057,6 +1057,11 @@
   "arkane9975": {
     "week_seconds": 0,
     "week_start": 1781487185,
+    "total_seconds": 0
+  },
+  "___theboss___": {
+    "week_seconds": 0,
+    "week_start": 1781487230,
     "total_seconds": 0
   }
 }
