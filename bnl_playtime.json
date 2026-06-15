@@ -1650,9 +1650,9 @@
     "total_seconds": 8379
   },
   "virexil": {
-    "week_seconds": 2362,
+    "week_seconds": 2367,
     "week_start": 1781509271,
-    "total_seconds": 2362
+    "total_seconds": 2367
   },
   "voidvin": {
     "week_seconds": 13162,
@@ -2137,6 +2137,11 @@
   "captainaxes": {
     "week_seconds": 0,
     "week_start": 1781526698,
+    "total_seconds": 0
+  },
+  "sqopenspellbook": {
+    "week_seconds": 0,
+    "week_start": 1781526809,
     "total_seconds": 0
   }
 }
