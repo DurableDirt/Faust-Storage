@@ -315,9 +315,9 @@
     "total_seconds": 1643
   },
   "ian21652": {
-    "week_seconds": 7190,
+    "week_seconds": 8587,
     "week_start": 1781477313,
-    "total_seconds": 7190
+    "total_seconds": 8587
   },
   "skormcel": {
     "week_seconds": 8502,
@@ -2690,9 +2690,9 @@
     "total_seconds": 0
   },
   "addeiscool990": {
-    "week_seconds": 0,
+    "week_seconds": 1516,
     "week_start": 1781541439,
-    "total_seconds": 0
+    "total_seconds": 1516
   },
   "nighthed": {
     "week_seconds": 0,
@@ -2718,5 +2718,10 @@
     "week_seconds": 12,
     "week_start": 1781542629,
     "total_seconds": 12
+  },
+  "hierophant1319": {
+    "week_seconds": 0,
+    "week_start": 1781542931,
+    "total_seconds": 0
   }
 }
