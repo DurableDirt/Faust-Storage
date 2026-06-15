@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 42227,
+    "week_seconds": 43127,
     "week_start": 1781479760,
-    "total_seconds": 42227
+    "total_seconds": 43127
   },
   "matilda4k9": {
     "week_seconds": 3147,
@@ -2510,9 +2510,9 @@
     "total_seconds": 179
   },
   "leontheprofess": {
-    "week_seconds": 436,
+    "week_seconds": 4777,
     "week_start": 1781536375,
-    "total_seconds": 436
+    "total_seconds": 4777
   },
   "disdage": {
     "week_seconds": 1507,
@@ -2667,6 +2667,11 @@
   "thehypercore": {
     "week_seconds": 0,
     "week_start": 1781540664,
+    "total_seconds": 0
+  },
+  "ghanumpro": {
+    "week_seconds": 0,
+    "week_start": 1781541150,
     "total_seconds": 0
   }
 }
