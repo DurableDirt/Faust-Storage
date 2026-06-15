@@ -940,9 +940,9 @@
     "total_seconds": 14196
   },
   "x1025": {
-    "week_seconds": 47602,
+    "week_seconds": 49939,
     "week_start": 1781485724,
-    "total_seconds": 47602
+    "total_seconds": 49939
   },
   "xcios": {
     "week_seconds": 1282,
@@ -2600,9 +2600,9 @@
     "total_seconds": 2136
   },
   "invertedmind": {
-    "week_seconds": 2023,
+    "week_seconds": 2063,
     "week_start": 1781539543,
-    "total_seconds": 2023
+    "total_seconds": 2063
   },
   "luannn25": {
     "week_seconds": 231,
@@ -2697,6 +2697,11 @@
   "nighthed": {
     "week_seconds": 0,
     "week_start": 1781541617,
+    "total_seconds": 0
+  },
+  "tuffboi674193": {
+    "week_seconds": 0,
+    "week_start": 1781542103,
     "total_seconds": 0
   }
 }
