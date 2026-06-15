@@ -60,9 +60,9 @@
     "total_seconds": 1493
   },
   "mitthraw91": {
-    "week_seconds": 9774,
+    "week_seconds": 9799,
     "week_start": 1781474873,
-    "total_seconds": 9774
+    "total_seconds": 9799
   },
   "rainsinger": {
     "week_seconds": 4975,
@@ -1430,8 +1430,13 @@
     "total_seconds": 5
   },
   "juniortide": {
-    "week_seconds": 0,
+    "week_seconds": 253,
     "week_start": 1781496869,
+    "total_seconds": 253
+  },
+  "oceanstrider195": {
+    "week_seconds": 0,
+    "week_start": 1781497129,
     "total_seconds": 0
   }
 }
