@@ -1755,9 +1755,9 @@
     "total_seconds": 0
   },
   "facocero09": {
-    "week_seconds": 0,
+    "week_seconds": 1115,
     "week_start": 1781514012,
-    "total_seconds": 0
+    "total_seconds": 1115
   },
   "happyfeet4607": {
     "week_seconds": 708,
@@ -1777,6 +1777,11 @@
   "badwaffles_": {
     "week_seconds": 0,
     "week_start": 1781514752,
+    "total_seconds": 0
+  },
+  "nanajshi": {
+    "week_seconds": 0,
+    "week_start": 1781514955,
     "total_seconds": 0
   }
 }
