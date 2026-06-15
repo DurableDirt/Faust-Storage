@@ -150,9 +150,9 @@
     "total_seconds": 100
   },
   "jqkz": {
-    "week_seconds": 7267,
+    "week_seconds": 9634,
     "week_start": 1781475994,
-    "total_seconds": 7267
+    "total_seconds": 9634
   },
   "lightningboi4": {
     "week_seconds": 8733,
@@ -1365,9 +1365,9 @@
     "total_seconds": 1112
   },
   "rammyls": {
-    "week_seconds": 11851,
+    "week_seconds": 15261,
     "week_start": 1781495283,
-    "total_seconds": 11851
+    "total_seconds": 15261
   },
   "adelover01": {
     "week_seconds": 7559,
@@ -2757,6 +2757,16 @@
   "krakacz": {
     "week_seconds": 0,
     "week_start": 1781545030,
+    "total_seconds": 0
+  },
+  "krampus1108": {
+    "week_seconds": 10,
+    "week_start": 1781545224,
+    "total_seconds": 10
+  },
+  "ybarraboyz112": {
+    "week_seconds": 0,
+    "week_start": 1781545237,
     "total_seconds": 0
   }
 }
