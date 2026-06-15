@@ -2045,9 +2045,9 @@
     "total_seconds": 0
   },
   "nareik01": {
-    "week_seconds": 0,
+    "week_seconds": 4200,
     "week_start": 1781524184,
-    "total_seconds": 0
+    "total_seconds": 4200
   },
   "busy_donut": {
     "week_seconds": 695,
@@ -2200,9 +2200,9 @@
     "total_seconds": 0
   },
   "pandyteddyyt": {
-    "week_seconds": 0,
+    "week_seconds": 327,
     "week_start": 1781528053,
-    "total_seconds": 0
+    "total_seconds": 327
   },
   "britzsin": {
     "week_seconds": 5,
@@ -2218,5 +2218,10 @@
     "week_seconds": 75,
     "week_start": 1781528270,
     "total_seconds": 75
+  },
+  "falphaeus": {
+    "week_seconds": 0,
+    "week_start": 1781528404,
+    "total_seconds": 0
   }
 }
