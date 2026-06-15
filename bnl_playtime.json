@@ -890,9 +890,9 @@
     "total_seconds": 2039
   },
   "c32shark": {
-    "week_seconds": 0,
+    "week_seconds": 1976,
     "week_start": 1781484918,
-    "total_seconds": 0
+    "total_seconds": 1976
   },
   "bigg2010": {
     "week_seconds": 0,
@@ -1040,8 +1040,13 @@
     "total_seconds": 8
   },
   "pharomachrus2": {
-    "week_seconds": 0,
+    "week_seconds": 91,
     "week_start": 1781486796,
+    "total_seconds": 91
+  },
+  "endville360": {
+    "week_seconds": 0,
+    "week_start": 1781486895,
     "total_seconds": 0
   }
 }
