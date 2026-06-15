@@ -1370,9 +1370,9 @@
     "total_seconds": 8443
   },
   "adelover01": {
-    "week_seconds": 1581,
+    "week_seconds": 4123,
     "week_start": 1781495390,
-    "total_seconds": 1581
+    "total_seconds": 4123
   },
   "furybyproxy": {
     "week_seconds": 5533,
@@ -1933,5 +1933,15 @@
     "week_seconds": 78,
     "week_start": 1781520572,
     "total_seconds": 78
+  },
+  "walkers": {
+    "week_seconds": 0,
+    "week_start": 1781521145,
+    "total_seconds": 0
+  },
+  "worthlessbean": {
+    "week_seconds": 0,
+    "week_start": 1781521151,
+    "total_seconds": 0
   }
 }
