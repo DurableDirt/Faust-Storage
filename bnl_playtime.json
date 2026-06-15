@@ -940,9 +940,9 @@
     "total_seconds": 14196
   },
   "x1025": {
-    "week_seconds": 49939,
+    "week_seconds": 50000,
     "week_start": 1781485724,
-    "total_seconds": 49939
+    "total_seconds": 50000
   },
   "xcios": {
     "week_seconds": 1282,
@@ -2355,9 +2355,9 @@
     "total_seconds": 8878
   },
   "enderjones529": {
-    "week_seconds": 5192,
+    "week_seconds": 8652,
     "week_start": 1781532119,
-    "total_seconds": 5192
+    "total_seconds": 8652
   },
   "creaptor1": {
     "week_seconds": 7229,
@@ -2702,6 +2702,11 @@
   "tuffboi674193": {
     "week_seconds": 0,
     "week_start": 1781542103,
+    "total_seconds": 0
+  },
+  "alzucats": {
+    "week_seconds": 0,
+    "week_start": 1781542157,
     "total_seconds": 0
   }
 }
