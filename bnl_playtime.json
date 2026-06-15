@@ -1765,9 +1765,9 @@
     "total_seconds": 708
   },
   "bravoocto15": {
-    "week_seconds": 4146,
+    "week_seconds": 4296,
     "week_start": 1781514162,
-    "total_seconds": 4146
+    "total_seconds": 4296
   },
   "wandrumdum": {
     "week_seconds": 1992,
@@ -2810,8 +2810,13 @@
     "total_seconds": 0
   },
   "nemesiscy": {
-    "week_seconds": 0,
+    "week_seconds": 33,
     "week_start": 1781546410,
+    "total_seconds": 33
+  },
+  "quazaa32": {
+    "week_seconds": 0,
+    "week_start": 1781546457,
     "total_seconds": 0
   }
 }
