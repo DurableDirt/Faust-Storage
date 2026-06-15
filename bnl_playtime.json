@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 25596,
+    "week_seconds": 25769,
     "week_start": 1781479760,
-    "total_seconds": 25596
+    "total_seconds": 25769
   },
   "matilda4k9": {
     "week_seconds": 3147,
@@ -1535,9 +1535,9 @@
     "total_seconds": 2350
   },
   "trinityx45": {
-    "week_seconds": 24,
+    "week_seconds": 3409,
     "week_start": 1781502687,
-    "total_seconds": 24
+    "total_seconds": 3409
   },
   "hab_pepper": {
     "week_seconds": 1404,
@@ -1602,6 +1602,11 @@
   "guvn0r_uk": {
     "week_seconds": 0,
     "week_start": 1781506051,
+    "total_seconds": 0
+  },
+  "scavedr": {
+    "week_seconds": 0,
+    "week_start": 1781506060,
     "total_seconds": 0
   }
 }
