@@ -745,9 +745,9 @@
     "total_seconds": 0
   },
   "complexii": {
-    "week_seconds": 0,
+    "week_seconds": 3241,
     "week_start": 1781482657,
-    "total_seconds": 0
+    "total_seconds": 3241
   },
   "goosehoss": {
     "week_seconds": 184,
@@ -915,9 +915,9 @@
     "total_seconds": 79
   },
   "myfatherisnotch": {
-    "week_seconds": 455,
+    "week_seconds": 510,
     "week_start": 1781485400,
-    "total_seconds": 455
+    "total_seconds": 510
   },
   "way2muchprada": {
     "week_seconds": 0,
@@ -925,9 +925,9 @@
     "total_seconds": 0
   },
   "thugfork": {
-    "week_seconds": 0,
+    "week_seconds": 386,
     "week_start": 1781485549,
-    "total_seconds": 0
+    "total_seconds": 386
   },
   "diebb8": {
     "week_seconds": 0,
@@ -940,13 +940,18 @@
     "total_seconds": 0
   },
   "x1025": {
-    "week_seconds": 66,
+    "week_seconds": 100,
     "week_start": 1781485724,
-    "total_seconds": 66
+    "total_seconds": 100
   },
   "xcios": {
     "week_seconds": 0,
     "week_start": 1781485868,
+    "total_seconds": 0
+  },
+  "bylethseisner": {
+    "week_seconds": 0,
+    "week_start": 1781485916,
     "total_seconds": 0
   }
 }
