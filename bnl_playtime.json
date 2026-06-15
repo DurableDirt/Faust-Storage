@@ -665,9 +665,9 @@
     "total_seconds": 7458
   },
   "unique_nullptr": {
-    "week_seconds": 33466,
+    "week_seconds": 34475,
     "week_start": 1781481654,
-    "total_seconds": 33466
+    "total_seconds": 34475
   },
   "boatoverbogs": {
     "week_seconds": 8392,
@@ -2942,6 +2942,11 @@
   "dr_bacon_hair": {
     "week_seconds": 0,
     "week_start": 1781549800,
+    "total_seconds": 0
+  },
+  "_excalibur": {
+    "week_seconds": 0,
+    "week_start": 1781549873,
     "total_seconds": 0
   }
 }
