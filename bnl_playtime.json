@@ -3080,9 +3080,9 @@
     "total_seconds": 250
   },
   "starryjeongyeon": {
-    "week_seconds": 0,
+    "week_seconds": 5577,
     "week_start": 1781554088,
-    "total_seconds": 0
+    "total_seconds": 5577
   },
   "refwoza": {
     "week_seconds": 1090,
@@ -3227,6 +3227,11 @@
   "pixitchi_o3o": {
     "week_seconds": 0,
     "week_start": 1781559524,
+    "total_seconds": 0
+  },
+  "solid_pandaman": {
+    "week_seconds": 0,
+    "week_start": 1781559685,
     "total_seconds": 0
   }
 }
