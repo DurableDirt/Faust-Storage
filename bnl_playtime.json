@@ -1150,9 +1150,9 @@
     "total_seconds": 0
   },
   "moahbalin": {
-    "week_seconds": 0,
+    "week_seconds": 124,
     "week_start": 1781489437,
-    "total_seconds": 0
+    "total_seconds": 124
   },
   "fumpkle": {
     "week_seconds": 0,
@@ -1167,6 +1167,16 @@
   "nateoneandonly": {
     "week_seconds": 0,
     "week_start": 1781489459,
+    "total_seconds": 0
+  },
+  "opozzumz": {
+    "week_seconds": 0,
+    "week_start": 1781489545,
+    "total_seconds": 0
+  },
+  "astralchroma": {
+    "week_seconds": 0,
+    "week_start": 1781489556,
     "total_seconds": 0
   }
 }
