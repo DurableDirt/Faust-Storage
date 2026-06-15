@@ -180,9 +180,9 @@
     "total_seconds": 137
   },
   "pasteldepapa777": {
-    "week_seconds": 0,
+    "week_seconds": 8669,
     "week_start": 1781476144,
-    "total_seconds": 0
+    "total_seconds": 8669
   },
   "ahrimanne": {
     "week_seconds": 2419,
@@ -575,9 +575,9 @@
     "total_seconds": 2714
   },
   "balderbert": {
-    "week_seconds": 2671,
+    "week_seconds": 2692,
     "week_start": 1781480690,
-    "total_seconds": 2671
+    "total_seconds": 2692
   },
   "ethn__": {
     "week_seconds": 345,
@@ -878,5 +878,10 @@
     "week_seconds": 5,
     "week_start": 1781484683,
     "total_seconds": 5
+  },
+  "ajrose19": {
+    "week_seconds": 0,
+    "week_start": 1781484803,
+    "total_seconds": 0
   }
 }
