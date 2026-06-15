@@ -330,9 +330,9 @@
     "total_seconds": 1519
   },
   "demboiiiii": {
-    "week_seconds": 685,
+    "week_seconds": 1946,
     "week_start": 1781477438,
-    "total_seconds": 685
+    "total_seconds": 1946
   },
   "tomahawk_762": {
     "week_seconds": 502,
@@ -785,13 +785,28 @@
     "total_seconds": 150
   },
   "lalibo": {
-    "week_seconds": 0,
+    "week_seconds": 344,
     "week_start": 1781483266,
-    "total_seconds": 0
+    "total_seconds": 344
   },
   "fazeleafblower": {
     "week_seconds": 5,
     "week_start": 1781483384,
     "total_seconds": 5
+  },
+  "moneyboypassion": {
+    "week_seconds": 0,
+    "week_start": 1781483583,
+    "total_seconds": 0
+  },
+  "zanzirbibley": {
+    "week_seconds": 0,
+    "week_start": 1781483617,
+    "total_seconds": 0
+  },
+  "theunreales": {
+    "week_seconds": 0,
+    "week_start": 1781483636,
+    "total_seconds": 0
   }
 }
