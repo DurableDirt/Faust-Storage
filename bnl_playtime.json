@@ -1115,9 +1115,9 @@
     "total_seconds": 18162
   },
   "boatcat": {
-    "week_seconds": 17452,
+    "week_seconds": 28935,
     "week_start": 1781488238,
-    "total_seconds": 17452
+    "total_seconds": 28935
   },
   "dbeatzxd": {
     "week_seconds": 19674,
@@ -3307,6 +3307,11 @@
   "neocel": {
     "week_seconds": 0,
     "week_start": 1781561733,
+    "total_seconds": 0
+  },
+  "sagapocalypse": {
+    "week_seconds": 0,
+    "week_start": 1781561905,
     "total_seconds": 0
   }
 }
