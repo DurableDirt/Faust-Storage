@@ -665,9 +665,9 @@
     "total_seconds": 3044
   },
   "unique_nullptr": {
-    "week_seconds": 18154,
+    "week_seconds": 25183,
     "week_start": 1781481654,
-    "total_seconds": 18154
+    "total_seconds": 25183
   },
   "boatoverbogs": {
     "week_seconds": 8392,
@@ -1285,9 +1285,9 @@
     "total_seconds": 2109
   },
   "darkwingz17": {
-    "week_seconds": 5926,
+    "week_seconds": 6311,
     "week_start": 1781491958,
-    "total_seconds": 5926
+    "total_seconds": 6311
   },
   "tomete13": {
     "week_seconds": 517,
@@ -2648,5 +2648,10 @@
     "week_seconds": 103,
     "week_start": 1781540344,
     "total_seconds": 103
+  },
+  "foldingchairgm": {
+    "week_seconds": 0,
+    "week_start": 1781540562,
+    "total_seconds": 0
   }
 }
