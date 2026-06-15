@@ -280,9 +280,9 @@
     "total_seconds": 2249
   },
   "ansgardd": {
-    "week_seconds": 11183,
+    "week_seconds": 12012,
     "week_start": 1781476881,
-    "total_seconds": 11183
+    "total_seconds": 12012
   },
   "mechanicalrift": {
     "week_seconds": 36270,
@@ -1615,9 +1615,9 @@
     "total_seconds": 11272
   },
   "cedarvaliant": {
-    "week_seconds": 10226,
+    "week_seconds": 14848,
     "week_start": 1781506488,
-    "total_seconds": 10226
+    "total_seconds": 14848
   },
   "jejames27": {
     "week_seconds": 5500,
@@ -3392,6 +3392,11 @@
   "thebigapple67": {
     "week_seconds": 0,
     "week_start": 1781564627,
+    "total_seconds": 0
+  },
+  "tatemcraelover": {
+    "week_seconds": 0,
+    "week_start": 1781564646,
     "total_seconds": 0
   }
 }
