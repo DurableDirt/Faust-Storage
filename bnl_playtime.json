@@ -1225,9 +1225,9 @@
     "total_seconds": 1364
   },
   "_oceanstar": {
-    "week_seconds": 10204,
+    "week_seconds": 10235,
     "week_start": 1781490835,
-    "total_seconds": 10204
+    "total_seconds": 10235
   },
   "kahina": {
     "week_seconds": 1913,
@@ -3172,6 +3172,16 @@
   "rosalinopossum": {
     "week_seconds": 0,
     "week_start": 1781557258,
+    "total_seconds": 0
+  },
+  "baby_yodayt": {
+    "week_seconds": 54,
+    "week_start": 1781557380,
+    "total_seconds": 54
+  },
+  "1stev0": {
+    "week_seconds": 0,
+    "week_start": 1781557435,
     "total_seconds": 0
   }
 }
