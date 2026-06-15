@@ -3320,13 +3320,18 @@
     "total_seconds": 0
   },
   "tehe0_0": {
-    "week_seconds": 29,
+    "week_seconds": 147,
     "week_start": 1781562442,
-    "total_seconds": 29
+    "total_seconds": 147
   },
   "noneavailable": {
     "week_seconds": 111,
     "week_start": 1781562445,
     "total_seconds": 111
+  },
+  "diegochotocho": {
+    "week_seconds": 0,
+    "week_start": 1781562607,
+    "total_seconds": 0
   }
 }
