@@ -1880,8 +1880,13 @@
     "total_seconds": 0
   },
   "olgadiamondcat": {
-    "week_seconds": 0,
+    "week_seconds": 30,
     "week_start": 1781518835,
+    "total_seconds": 30
+  },
+  "gidein": {
+    "week_seconds": 0,
+    "week_start": 1781518844,
     "total_seconds": 0
   }
 }
