@@ -2615,9 +2615,9 @@
     "total_seconds": 0
   },
   "catputer500": {
-    "week_seconds": 267,
+    "week_seconds": 341,
     "week_start": 1781540081,
-    "total_seconds": 267
+    "total_seconds": 341
   },
   "comstaat": {
     "week_seconds": 58,
@@ -2650,8 +2650,18 @@
     "total_seconds": 103
   },
   "foldingchairgm": {
-    "week_seconds": 0,
+    "week_seconds": 12,
     "week_start": 1781540562,
+    "total_seconds": 12
+  },
+  "simo1825": {
+    "week_seconds": 0,
+    "week_start": 1781540594,
+    "total_seconds": 0
+  },
+  "binchymonkey": {
+    "week_seconds": 0,
+    "week_start": 1781540594,
     "total_seconds": 0
   }
 }
