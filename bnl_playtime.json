@@ -2235,9 +2235,9 @@
     "total_seconds": 191
   },
   "viperth": {
-    "week_seconds": 9447,
+    "week_seconds": 9928,
     "week_start": 1781529096,
-    "total_seconds": 9447
+    "total_seconds": 9928
   },
   "zalvvv": {
     "week_seconds": 336,
@@ -2662,6 +2662,11 @@
   "binchymonkey": {
     "week_seconds": 0,
     "week_start": 1781540594,
+    "total_seconds": 0
+  },
+  "thehypercore": {
+    "week_seconds": 0,
+    "week_start": 1781540664,
     "total_seconds": 0
   }
 }
