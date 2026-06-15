@@ -115,9 +115,9 @@
     "total_seconds": 150
   },
   "xjetistuff": {
-    "week_seconds": 2516,
+    "week_seconds": 3861,
     "week_start": 1781475510,
-    "total_seconds": 2516
+    "total_seconds": 3861
   },
   "popshotx9": {
     "week_seconds": 1010,
@@ -1997,6 +1997,11 @@
   "bytetheiv": {
     "week_seconds": 0,
     "week_start": 1781522873,
+    "total_seconds": 0
+  },
+  "pablopaavo123": {
+    "week_seconds": 0,
+    "week_start": 1781522965,
     "total_seconds": 0
   }
 }
