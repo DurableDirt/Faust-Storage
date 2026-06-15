@@ -70,9 +70,9 @@
     "total_seconds": 2902
   },
   "jindosh": {
-    "week_seconds": 9167,
+    "week_seconds": 13654,
     "week_start": 1781475011,
-    "total_seconds": 9167
+    "total_seconds": 13654
   },
   "40mm": {
     "week_seconds": 626,
@@ -230,9 +230,9 @@
     "total_seconds": 43
   },
   "the_fella7441": {
-    "week_seconds": 4978,
+    "week_seconds": 5416,
     "week_start": 1781476454,
-    "total_seconds": 4978
+    "total_seconds": 5416
   },
   "hentlol": {
     "week_seconds": 9027,
@@ -385,9 +385,9 @@
     "total_seconds": 7809
   },
   "opriva": {
-    "week_seconds": 4859,
+    "week_seconds": 6133,
     "week_start": 1781477978,
-    "total_seconds": 4859
+    "total_seconds": 6133
   },
   "kokomiology": {
     "week_seconds": 179,
@@ -1122,6 +1122,11 @@
   "dbeatzxd": {
     "week_seconds": 0,
     "week_start": 1781488437,
+    "total_seconds": 0
+  },
+  "t00tsmag00ts": {
+    "week_seconds": 0,
+    "week_start": 1781488616,
     "total_seconds": 0
   }
 }
