@@ -1940,9 +1940,9 @@
     "total_seconds": 326
   },
   "worthlessbean": {
-    "week_seconds": 0,
+    "week_seconds": 1190,
     "week_start": 1781521151,
-    "total_seconds": 0
+    "total_seconds": 1190
   },
   "lolmi202": {
     "week_seconds": 0,
@@ -1977,6 +1977,16 @@
   "capybaralove90": {
     "week_seconds": 0,
     "week_start": 1781522300,
+    "total_seconds": 0
+  },
+  "monoilo": {
+    "week_seconds": 0,
+    "week_start": 1781522307,
+    "total_seconds": 0
+  },
+  "shockeddd": {
+    "week_seconds": 0,
+    "week_start": 1781522313,
     "total_seconds": 0
   }
 }
