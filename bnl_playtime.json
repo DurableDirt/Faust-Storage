@@ -330,9 +330,9 @@
     "total_seconds": 1519
   },
   "demboiiiii": {
-    "week_seconds": 1946,
+    "week_seconds": 3440,
     "week_start": 1781477438,
-    "total_seconds": 1946
+    "total_seconds": 3440
   },
   "tomahawk_762": {
     "week_seconds": 502,
@@ -560,9 +560,9 @@
     "total_seconds": 0
   },
   "dutchcringe": {
-    "week_seconds": 27,
+    "week_seconds": 4109,
     "week_start": 1781480187,
-    "total_seconds": 27
+    "total_seconds": 4109
   },
   "graydawn_": {
     "week_seconds": 4151,
@@ -785,9 +785,9 @@
     "total_seconds": 150
   },
   "lalibo": {
-    "week_seconds": 344,
+    "week_seconds": 2864,
     "week_start": 1781483266,
-    "total_seconds": 344
+    "total_seconds": 2864
   },
   "fazeleafblower": {
     "week_seconds": 5,
@@ -915,9 +915,9 @@
     "total_seconds": 79
   },
   "myfatherisnotch": {
-    "week_seconds": 510,
+    "week_seconds": 579,
     "week_start": 1781485400,
-    "total_seconds": 510
+    "total_seconds": 579
   },
   "way2muchprada": {
     "week_seconds": 0,
@@ -1008,5 +1008,10 @@
     "week_seconds": 0,
     "week_start": 1781486330,
     "total_seconds": 0
+  },
+  "mightyjulian661": {
+    "week_seconds": 12,
+    "week_start": 1781486422,
+    "total_seconds": 12
   }
 }
