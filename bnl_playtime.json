@@ -3315,9 +3315,9 @@
     "total_seconds": 0
   },
   "praoubl": {
-    "week_seconds": 1910,
+    "week_seconds": 2624,
     "week_start": 1781562177,
-    "total_seconds": 1910
+    "total_seconds": 2624
   },
   "tehe0_0": {
     "week_seconds": 436,
@@ -3407,6 +3407,11 @@
   "ripuhh": {
     "week_seconds": 0,
     "week_start": 1781564798,
+    "total_seconds": 0
+  },
+  "hedrone": {
+    "week_seconds": 0,
+    "week_start": 1781564878,
     "total_seconds": 0
   }
 }
