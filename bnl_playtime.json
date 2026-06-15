@@ -80,9 +80,9 @@
     "total_seconds": 6505
   },
   "lynx2007": {
-    "week_seconds": 15429,
+    "week_seconds": 15460,
     "week_start": 1781475059,
-    "total_seconds": 15429
+    "total_seconds": 15460
   },
   "cunningwind6139": {
     "week_seconds": 3737,
@@ -3127,6 +3127,11 @@
   "rantha": {
     "week_seconds": 0,
     "week_start": 1781555224,
+    "total_seconds": 0
+  },
+  "blankestatlas": {
+    "week_seconds": 0,
+    "week_start": 1781555374,
     "total_seconds": 0
   }
 }
