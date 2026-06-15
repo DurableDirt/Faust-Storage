@@ -460,9 +460,9 @@
     "total_seconds": 2782
   },
   "thespecialplum": {
-    "week_seconds": 2224,
+    "week_seconds": 4947,
     "week_start": 1781479236,
-    "total_seconds": 2224
+    "total_seconds": 4947
   },
   "kaelon_othfryeli": {
     "week_seconds": 2541,
@@ -645,9 +645,9 @@
     "total_seconds": 0
   },
   "moopie50": {
-    "week_seconds": 0,
+    "week_seconds": 2783,
     "week_start": 1781481486,
-    "total_seconds": 0
+    "total_seconds": 2783
   },
   "malafly": {
     "week_seconds": 0,
@@ -842,6 +842,11 @@
   "socialistspectre": {
     "week_seconds": 0,
     "week_start": 1781484121,
+    "total_seconds": 0
+  },
+  "desmonddotjpeg": {
+    "week_seconds": 0,
+    "week_start": 1781484202,
     "total_seconds": 0
   }
 }
