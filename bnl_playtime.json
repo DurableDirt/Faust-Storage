@@ -1175,9 +1175,9 @@
     "total_seconds": 17773
   },
   "astralchroma": {
-    "week_seconds": 6489,
+    "week_seconds": 8939,
     "week_start": 1781489556,
-    "total_seconds": 6489
+    "total_seconds": 8939
   },
   "kingstell": {
     "week_seconds": 50,
@@ -2227,6 +2227,11 @@
   "dorthit_0194a8au": {
     "week_seconds": 0,
     "week_start": 1781528750,
+    "total_seconds": 0
+  },
+  "nevsednam2007": {
+    "week_seconds": 0,
+    "week_start": 1781529021,
     "total_seconds": 0
   }
 }
