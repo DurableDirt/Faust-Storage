@@ -65,9 +65,9 @@
     "total_seconds": 5552
   },
   "rainsinger": {
-    "week_seconds": 2902,
+    "week_seconds": 4231,
     "week_start": 1781474875,
-    "total_seconds": 2902
+    "total_seconds": 4231
   },
   "jindosh": {
     "week_seconds": 13654,
@@ -1205,9 +1205,9 @@
     "total_seconds": 16
   },
   "xenol_wolf": {
-    "week_seconds": 0,
+    "week_seconds": 1055,
     "week_start": 1781490461,
-    "total_seconds": 0
+    "total_seconds": 1055
   },
   "ephlibian": {
     "week_seconds": 0,
