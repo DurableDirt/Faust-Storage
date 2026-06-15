@@ -760,9 +760,9 @@
     "total_seconds": 3008
   },
   "zaytch_7": {
-    "week_seconds": 0,
+    "week_seconds": 4961,
     "week_start": 1781482991,
-    "total_seconds": 0
+    "total_seconds": 4961
   },
   "studshottt": {
     "week_seconds": 2317,
@@ -1090,13 +1090,23 @@
     "total_seconds": 32
   },
   "majjcrunsgf": {
-    "week_seconds": 0,
+    "week_seconds": 136,
     "week_start": 1781487828,
-    "total_seconds": 0
+    "total_seconds": 136
   },
   "magickponch": {
     "week_seconds": 0,
     "week_start": 1781487886,
+    "total_seconds": 0
+  },
+  "nevergrimm": {
+    "week_seconds": 0,
+    "week_start": 1781487964,
+    "total_seconds": 0
+  },
+  "lagiacrus": {
+    "week_seconds": 0,
+    "week_start": 1781487967,
     "total_seconds": 0
   }
 }
