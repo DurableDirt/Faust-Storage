@@ -580,9 +580,9 @@
     "total_seconds": 12171
   },
   "ethn__": {
-    "week_seconds": 18045,
+    "week_seconds": 19876,
     "week_start": 1781480700,
-    "total_seconds": 18045
+    "total_seconds": 19876
   },
   "suderp": {
     "week_seconds": 3472,
@@ -995,9 +995,9 @@
     "total_seconds": 4919
   },
   "dud4vier": {
-    "week_seconds": 14323,
+    "week_seconds": 16332,
     "week_start": 1781486280,
-    "total_seconds": 14323
+    "total_seconds": 16332
   },
   "thedragstermc": {
     "week_seconds": 58,
@@ -3427,6 +3427,16 @@
   "greenfroggy13": {
     "week_seconds": 0,
     "week_start": 1781565769,
+    "total_seconds": 0
+  },
+  "shroomy_boi77": {
+    "week_seconds": 0,
+    "week_start": 1781566029,
+    "total_seconds": 0
+  },
+  "huskydog9988": {
+    "week_seconds": 0,
+    "week_start": 1781566038,
     "total_seconds": 0
   }
 }
