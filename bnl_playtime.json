@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 18559,
+    "week_seconds": 18703,
     "week_start": 1781479760,
-    "total_seconds": 18559
+    "total_seconds": 18703
   },
   "matilda4k9": {
     "week_seconds": 3147,
@@ -1080,9 +1080,9 @@
     "total_seconds": 214
   },
   "orestraya": {
-    "week_seconds": 4890,
+    "week_seconds": 8230,
     "week_start": 1781487686,
-    "total_seconds": 4890
+    "total_seconds": 8230
   },
   "satava": {
     "week_seconds": 5384,
@@ -1478,5 +1478,10 @@
     "week_seconds": 87,
     "week_start": 1781498730,
     "total_seconds": 87
+  },
+  "m4_enthusiasts": {
+    "week_seconds": 0,
+    "week_start": 1781499006,
+    "total_seconds": 0
   }
 }
