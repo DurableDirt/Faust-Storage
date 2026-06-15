@@ -1765,9 +1765,9 @@
     "total_seconds": 708
   },
   "bravoocto15": {
-    "week_seconds": 4365,
+    "week_seconds": 4992,
     "week_start": 1781514162,
-    "total_seconds": 4365
+    "total_seconds": 4992
   },
   "wandrumdum": {
     "week_seconds": 1992,
@@ -1985,9 +1985,9 @@
     "total_seconds": 6364
   },
   "shockeddd": {
-    "week_seconds": 4018,
+    "week_seconds": 4093,
     "week_start": 1781522313,
-    "total_seconds": 4018
+    "total_seconds": 4093
   },
   "pl_y3r": {
     "week_seconds": 14604,
@@ -2980,9 +2980,9 @@
     "total_seconds": 0
   },
   "dester32": {
-    "week_seconds": 0,
+    "week_seconds": 2609,
     "week_start": 1781551199,
-    "total_seconds": 0
+    "total_seconds": 2609
   },
   "nostalgie_": {
     "week_seconds": 1929,
@@ -3040,9 +3040,9 @@
     "total_seconds": 0
   },
   "theocomboed": {
-    "week_seconds": 329,
+    "week_seconds": 363,
     "week_start": 1781553072,
-    "total_seconds": 329
+    "total_seconds": 363
   },
   "dogvee9": {
     "week_seconds": 0,
@@ -3063,5 +3063,10 @@
     "week_seconds": 51,
     "week_start": 1781553465,
     "total_seconds": 51
+  },
+  "evuquarter": {
+    "week_seconds": 0,
+    "week_start": 1781553800,
+    "total_seconds": 0
   }
 }
