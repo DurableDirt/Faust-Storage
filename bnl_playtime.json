@@ -3065,13 +3065,18 @@
     "total_seconds": 51
   },
   "evuquarter": {
-    "week_seconds": 0,
+    "week_seconds": 120,
     "week_start": 1781553800,
-    "total_seconds": 0
+    "total_seconds": 120
   },
   "justyaboisoul": {
     "week_seconds": 20,
     "week_start": 1781553860,
     "total_seconds": 20
+  },
+  "alarmedbread540": {
+    "week_seconds": 0,
+    "week_start": 1781553886,
+    "total_seconds": 0
   }
 }
