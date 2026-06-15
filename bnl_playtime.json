@@ -320,9 +320,9 @@
     "total_seconds": 8587
   },
   "skormcel": {
-    "week_seconds": 8535,
+    "week_seconds": 8567,
     "week_start": 1781477339,
-    "total_seconds": 8535
+    "total_seconds": 8567
   },
   "catgifs": {
     "week_seconds": 1572,
@@ -1825,9 +1825,9 @@
     "total_seconds": 767
   },
   "castorguy": {
-    "week_seconds": 10742,
+    "week_seconds": 14165,
     "week_start": 1781516202,
-    "total_seconds": 10742
+    "total_seconds": 14165
   },
   "yinz001": {
     "week_seconds": 15741,
@@ -2865,8 +2865,8 @@
     "total_seconds": 0
   },
   "torqale": {
-    "week_seconds": 0,
+    "week_seconds": 117,
     "week_start": 1781547203,
-    "total_seconds": 0
+    "total_seconds": 117
   }
 }
