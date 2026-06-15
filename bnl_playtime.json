@@ -240,9 +240,9 @@
     "total_seconds": 12689
   },
   "wasabiwhip": {
-    "week_seconds": 1332,
+    "week_seconds": 2147,
     "week_start": 1781476532,
-    "total_seconds": 1332
+    "total_seconds": 2147
   },
   "aluminum_foil_": {
     "week_seconds": 18426,
@@ -2177,6 +2177,16 @@
   "mike5905": {
     "week_seconds": 0,
     "week_start": 1781527585,
+    "total_seconds": 0
+  },
+  "lopsterbisque": {
+    "week_seconds": 0,
+    "week_start": 1781527669,
+    "total_seconds": 0
+  },
+  "nunicek17": {
+    "week_seconds": 0,
+    "week_start": 1781527820,
     "total_seconds": 0
   }
 }
