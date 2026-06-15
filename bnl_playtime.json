@@ -420,9 +420,9 @@
     "total_seconds": 0
   },
   "hg__80": {
-    "week_seconds": 0,
+    "week_seconds": 3653,
     "week_start": 1781478206,
-    "total_seconds": 0
+    "total_seconds": 3653
   },
   "hekghlkegh": {
     "week_seconds": 326,
@@ -667,6 +667,11 @@
   "unique_nullptr": {
     "week_seconds": 0,
     "week_start": 1781481654,
+    "total_seconds": 0
+  },
+  "boatoverbogs": {
+    "week_seconds": 0,
+    "week_start": 1781481750,
     "total_seconds": 0
   }
 }
