@@ -1160,9 +1160,9 @@
     "total_seconds": 427
   },
   "toonylinksr": {
-    "week_seconds": 8,
+    "week_seconds": 307,
     "week_start": 1781489447,
-    "total_seconds": 8
+    "total_seconds": 307
   },
   "nateoneandonly": {
     "week_seconds": 0,
@@ -1213,5 +1213,10 @@
     "week_seconds": 0,
     "week_start": 1781490475,
     "total_seconds": 0
+  },
+  "dabinky01": {
+    "week_seconds": 40,
+    "week_start": 1781490502,
+    "total_seconds": 40
   }
 }
