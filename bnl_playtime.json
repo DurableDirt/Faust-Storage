@@ -785,9 +785,9 @@
     "total_seconds": 4514
   },
   "lalibo": {
-    "week_seconds": 23094,
+    "week_seconds": 25364,
     "week_start": 1781483266,
-    "total_seconds": 23094
+    "total_seconds": 25364
   },
   "fazeleafblower": {
     "week_seconds": 5,
@@ -2995,9 +2995,9 @@
     "total_seconds": 7819
   },
   "theoneofthevoid": {
-    "week_seconds": 1165,
+    "week_seconds": 8392,
     "week_start": 1781551514,
-    "total_seconds": 1165
+    "total_seconds": 8392
   },
   "t0ast_realtoast": {
     "week_seconds": 4,
@@ -3240,8 +3240,8 @@
     "total_seconds": 40
   },
   "whenurcrazy": {
-    "week_seconds": 0,
+    "week_seconds": 65,
     "week_start": 1781560006,
-    "total_seconds": 0
+    "total_seconds": 65
   }
 }
