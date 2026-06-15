@@ -1885,9 +1885,9 @@
     "total_seconds": 30
   },
   "gidein": {
-    "week_seconds": 5877,
+    "week_seconds": 8316,
     "week_start": 1781518844,
-    "total_seconds": 5877
+    "total_seconds": 8316
   },
   "londara": {
     "week_seconds": 1120,
@@ -2502,6 +2502,31 @@
   "mariora": {
     "week_seconds": 0,
     "week_start": 1781536092,
+    "total_seconds": 0
+  },
+  "d0d0ng": {
+    "week_seconds": 0,
+    "week_start": 1781536361,
+    "total_seconds": 0
+  },
+  "leontheprofess": {
+    "week_seconds": 0,
+    "week_start": 1781536375,
+    "total_seconds": 0
+  },
+  "disdage": {
+    "week_seconds": 0,
+    "week_start": 1781536383,
+    "total_seconds": 0
+  },
+  "thomas2point0": {
+    "week_seconds": 0,
+    "week_start": 1781536414,
+    "total_seconds": 0
+  },
+  "szymon1999": {
+    "week_seconds": 0,
+    "week_start": 1781536427,
     "total_seconds": 0
   }
 }
