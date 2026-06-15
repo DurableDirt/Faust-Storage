@@ -2480,9 +2480,9 @@
     "total_seconds": 4815
   },
   "a_penguin_pal": {
-    "week_seconds": 7907,
+    "week_seconds": 9252,
     "week_start": 1781535840,
-    "total_seconds": 7907
+    "total_seconds": 9252
   },
   "emperorashina": {
     "week_seconds": 5141,
@@ -3088,5 +3088,15 @@
     "week_seconds": 0,
     "week_start": 1781554201,
     "total_seconds": 0
+  },
+  "programmergod": {
+    "week_seconds": 0,
+    "week_start": 1781554499,
+    "total_seconds": 0
+  },
+  "monkeyaceparagon": {
+    "week_seconds": 21,
+    "week_start": 1781554531,
+    "total_seconds": 21
   }
 }
