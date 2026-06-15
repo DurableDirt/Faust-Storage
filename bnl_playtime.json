@@ -2330,8 +2330,23 @@
     "total_seconds": 32
   },
   "xa_n": {
-    "week_seconds": 0,
+    "week_seconds": 140,
     "week_start": 1781531746,
+    "total_seconds": 140
+  },
+  "leander2714": {
+    "week_seconds": 0,
+    "week_start": 1781531804,
+    "total_seconds": 0
+  },
+  "shyguy_wph": {
+    "week_seconds": 0,
+    "week_start": 1781531847,
+    "total_seconds": 0
+  },
+  "crimsonfang3139": {
+    "week_seconds": 0,
+    "week_start": 1781531866,
     "total_seconds": 0
   }
 }
