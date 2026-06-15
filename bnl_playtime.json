@@ -3385,9 +3385,9 @@
     "total_seconds": 0
   },
   "snekintophat": {
-    "week_seconds": 0,
+    "week_seconds": 2007,
     "week_start": 1781564335,
-    "total_seconds": 0
+    "total_seconds": 2007
   },
   "thebigapple67": {
     "week_seconds": 121,
@@ -3442,6 +3442,11 @@
   "jromeasfsniper": {
     "week_seconds": 0,
     "week_start": 1781566212,
+    "total_seconds": 0
+  },
+  "smilers": {
+    "week_seconds": 0,
+    "week_start": 1781566348,
     "total_seconds": 0
   }
 }
