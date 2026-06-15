@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 5166,
+    "week_seconds": 7235,
     "week_start": 1781513574,
-    "total_seconds": 5166
+    "total_seconds": 7235
   },
   "stavros_ell": {
     "week_seconds": 3935,
@@ -1845,9 +1845,9 @@
     "total_seconds": 6
   },
   "xfier": {
-    "week_seconds": 294,
+    "week_seconds": 3539,
     "week_start": 1781517152,
-    "total_seconds": 294
+    "total_seconds": 3539
   },
   "basicallyagungan": {
     "week_seconds": 4111,
@@ -2058,5 +2058,10 @@
     "week_seconds": 5,
     "week_start": 1781524292,
     "total_seconds": 5
+  },
+  "robomagical732": {
+    "week_seconds": 0,
+    "week_start": 1781524434,
+    "total_seconds": 0
   }
 }
