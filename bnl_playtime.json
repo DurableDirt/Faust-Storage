@@ -2415,9 +2415,9 @@
     "total_seconds": 0
   },
   "sml128": {
-    "week_seconds": 147,
+    "week_seconds": 2335,
     "week_start": 1781534411,
-    "total_seconds": 147
+    "total_seconds": 2335
   },
   "malipan": {
     "week_seconds": 1165,
@@ -2528,5 +2528,10 @@
     "week_seconds": 10,
     "week_start": 1781536427,
     "total_seconds": 10
+  },
+  "lucfdez": {
+    "week_seconds": 0,
+    "week_start": 1781536725,
+    "total_seconds": 0
   }
 }
