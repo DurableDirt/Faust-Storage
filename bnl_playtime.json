@@ -50,9 +50,9 @@
     "total_seconds": 10798
   },
   "meenos": {
-    "week_seconds": 12599,
+    "week_seconds": 13523,
     "week_start": 1781474845,
-    "total_seconds": 12599
+    "total_seconds": 13523
   },
   "jadenjb": {
     "week_seconds": 1493,
@@ -3437,6 +3437,11 @@
   "huskydog9988": {
     "week_seconds": 0,
     "week_start": 1781566038,
+    "total_seconds": 0
+  },
+  "jromeasfsniper": {
+    "week_seconds": 0,
+    "week_start": 1781566212,
     "total_seconds": 0
   }
 }
