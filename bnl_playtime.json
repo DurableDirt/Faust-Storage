@@ -1365,9 +1365,9 @@
     "total_seconds": 1112
   },
   "rammyls": {
-    "week_seconds": 6304,
+    "week_seconds": 8443,
     "week_start": 1781495283,
-    "total_seconds": 6304
+    "total_seconds": 8443
   },
   "adelover01": {
     "week_seconds": 1020,
@@ -1853,5 +1853,10 @@
     "week_seconds": 0,
     "week_start": 1781517220,
     "total_seconds": 0
+  },
+  "archieisverydum": {
+    "week_seconds": 17,
+    "week_start": 1781517326,
+    "total_seconds": 17
   }
 }
