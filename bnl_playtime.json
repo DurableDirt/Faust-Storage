@@ -220,9 +220,9 @@
     "total_seconds": 5727
   },
   "gabrixb1234": {
-    "week_seconds": 6333,
+    "week_seconds": 6571,
     "week_start": 1781476276,
-    "total_seconds": 6333
+    "total_seconds": 6571
   },
   "gorilladragon454": {
     "week_seconds": 43,
@@ -865,9 +865,9 @@
     "total_seconds": 23
   },
   "anvil": {
-    "week_seconds": 117,
+    "week_seconds": 140,
     "week_start": 1781484585,
-    "total_seconds": 117
+    "total_seconds": 140
   },
   "deerifius": {
     "week_seconds": 1489,
@@ -1132,6 +1132,16 @@
   "exyzi": {
     "week_seconds": 0,
     "week_start": 1781488750,
+    "total_seconds": 0
+  },
+  "hazqr_": {
+    "week_seconds": 0,
+    "week_start": 1781488842,
+    "total_seconds": 0
+  },
+  "steelhand7": {
+    "week_seconds": 0,
+    "week_start": 1781488907,
     "total_seconds": 0
   }
 }
