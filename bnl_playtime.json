@@ -2810,9 +2810,9 @@
     "total_seconds": 3099
   },
   "nemesiscy": {
-    "week_seconds": 33,
+    "week_seconds": 42,
     "week_start": 1781546410,
-    "total_seconds": 33
+    "total_seconds": 42
   },
   "quazaa32": {
     "week_seconds": 287,
@@ -3192,6 +3192,11 @@
   "leadattic_": {
     "week_seconds": 0,
     "week_start": 1781557797,
+    "total_seconds": 0
+  },
+  "black__wolf_": {
+    "week_seconds": 0,
+    "week_start": 1781557800,
     "total_seconds": 0
   }
 }
