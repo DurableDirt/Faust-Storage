@@ -1575,9 +1575,9 @@
     "total_seconds": 6805
   },
   "_2k42_": {
-    "week_seconds": 6743,
+    "week_seconds": 8835,
     "week_start": 1781504570,
-    "total_seconds": 6743
+    "total_seconds": 8835
   },
   "gobblin": {
     "week_seconds": 7639,
@@ -2845,9 +2845,9 @@
     "total_seconds": 74
   },
   "artels": {
-    "week_seconds": 36,
+    "week_seconds": 60,
     "week_start": 1781546723,
-    "total_seconds": 36
+    "total_seconds": 60
   },
   "queenceliathe1st": {
     "week_seconds": 0,
@@ -2860,9 +2860,9 @@
     "total_seconds": 870
   },
   "puremaster11": {
-    "week_seconds": 640,
+    "week_seconds": 761,
     "week_start": 1781547192,
-    "total_seconds": 640
+    "total_seconds": 761
   },
   "torqale": {
     "week_seconds": 147,
@@ -2888,5 +2888,10 @@
     "week_seconds": 0,
     "week_start": 1781547810,
     "total_seconds": 0
+  },
+  "rushisbored": {
+    "week_seconds": 14,
+    "week_start": 1781548108,
+    "total_seconds": 14
   }
 }
