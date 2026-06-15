@@ -300,9 +300,9 @@
     "total_seconds": 3375
   },
   "tatsu007": {
-    "week_seconds": 15285,
+    "week_seconds": 15382,
     "week_start": 1781477156,
-    "total_seconds": 15285
+    "total_seconds": 15382
   },
   "olderastory": {
     "week_seconds": 7949,
@@ -2115,9 +2115,9 @@
     "total_seconds": 0
   },
   "trizzzx": {
-    "week_seconds": 5771,
+    "week_seconds": 6674,
     "week_start": 1781526367,
-    "total_seconds": 5771
+    "total_seconds": 6674
   },
   "reffelruz": {
     "week_seconds": 6475,
@@ -2135,9 +2135,9 @@
     "total_seconds": 208
   },
   "captainaxes": {
-    "week_seconds": 5269,
+    "week_seconds": 6480,
     "week_start": 1781526698,
-    "total_seconds": 5269
+    "total_seconds": 6480
   },
   "sqopenspellbook": {
     "week_seconds": 11279,
@@ -3122,6 +3122,11 @@
   "jackmarston1914": {
     "week_seconds": 0,
     "week_start": 1781555162,
+    "total_seconds": 0
+  },
+  "rantha": {
+    "week_seconds": 0,
+    "week_start": 1781555224,
     "total_seconds": 0
   }
 }
