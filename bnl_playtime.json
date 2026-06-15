@@ -2015,9 +2015,9 @@
     "total_seconds": 1083
   },
   "xlamdg96_": {
-    "week_seconds": 308,
+    "week_seconds": 1748,
     "week_start": 1781523379,
-    "total_seconds": 308
+    "total_seconds": 1748
   },
   "luxleee_58": {
     "week_seconds": 2598,
@@ -2222,6 +2222,11 @@
   "falphaeus": {
     "week_seconds": 0,
     "week_start": 1781528404,
+    "total_seconds": 0
+  },
+  "dorthit_0194a8au": {
+    "week_seconds": 0,
+    "week_start": 1781528750,
     "total_seconds": 0
   }
 }
