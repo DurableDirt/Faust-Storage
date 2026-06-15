@@ -1285,9 +1285,9 @@
     "total_seconds": 2109
   },
   "darkwingz17": {
-    "week_seconds": 2032,
+    "week_seconds": 3875,
     "week_start": 1781491958,
-    "total_seconds": 2032
+    "total_seconds": 3875
   },
   "tomete13": {
     "week_seconds": 517,
@@ -1538,5 +1538,10 @@
     "week_seconds": 24,
     "week_start": 1781502687,
     "total_seconds": 24
+  },
+  "hab_pepper": {
+    "week_seconds": 0,
+    "week_start": 1781502956,
+    "total_seconds": 0
   }
 }
