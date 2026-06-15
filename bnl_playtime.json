@@ -2630,9 +2630,9 @@
     "total_seconds": 0
   },
   "joldidk": {
-    "week_seconds": 1245,
+    "week_seconds": 1947,
     "week_start": 1781540251,
-    "total_seconds": 1245
+    "total_seconds": 1947
   },
   "hegghogaming": {
     "week_seconds": 1930,
@@ -2982,6 +2982,11 @@
   "dester32": {
     "week_seconds": 0,
     "week_start": 1781551199,
+    "total_seconds": 0
+  },
+  "nostalgie_": {
+    "week_seconds": 0,
+    "week_start": 1781551232,
     "total_seconds": 0
   }
 }
