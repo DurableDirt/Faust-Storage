@@ -60,9 +60,9 @@
     "total_seconds": 1493
   },
   "mitthraw91": {
-    "week_seconds": 9838,
+    "week_seconds": 10105,
     "week_start": 1781474873,
-    "total_seconds": 9838
+    "total_seconds": 10105
   },
   "rainsinger": {
     "week_seconds": 4975,
@@ -1447,6 +1447,11 @@
   "ferretwings": {
     "week_seconds": 0,
     "week_start": 1781497670,
+    "total_seconds": 0
+  },
+  "xenoum": {
+    "week_seconds": 0,
+    "week_start": 1781497822,
     "total_seconds": 0
   }
 }
