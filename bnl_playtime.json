@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 48163,
+    "week_seconds": 49779,
     "week_start": 1781479760,
-    "total_seconds": 48163
+    "total_seconds": 49779
   },
   "matilda4k9": {
     "week_seconds": 3147,
@@ -2255,9 +2255,9 @@
     "total_seconds": 1379
   },
   "sajtos_puffancs": {
-    "week_seconds": 5858,
+    "week_seconds": 15361,
     "week_start": 1781529400,
-    "total_seconds": 5858
+    "total_seconds": 15361
   },
   "nekroz09": {
     "week_seconds": 923,
@@ -2883,5 +2883,10 @@
     "week_seconds": 3,
     "week_start": 1781547435,
     "total_seconds": 3
+  },
+  "dlpea12": {
+    "week_seconds": 0,
+    "week_start": 1781547810,
+    "total_seconds": 0
   }
 }
