@@ -470,9 +470,9 @@
     "total_seconds": 2541
   },
   "anotnot": {
-    "week_seconds": 24636,
+    "week_seconds": 27928,
     "week_start": 1781479365,
-    "total_seconds": 24636
+    "total_seconds": 27928
   },
   "tntfortress": {
     "week_seconds": 15530,
@@ -1515,9 +1515,9 @@
     "total_seconds": 110
   },
   "fang_op": {
-    "week_seconds": 4412,
+    "week_seconds": 8618,
     "week_start": 1781501594,
-    "total_seconds": 4412
+    "total_seconds": 8618
   },
   "_jaek": {
     "week_seconds": 20545,
@@ -2733,5 +2733,10 @@
     "week_seconds": 44,
     "week_start": 1781543814,
     "total_seconds": 44
+  },
+  "anttolisa": {
+    "week_seconds": 0,
+    "week_start": 1781543984,
+    "total_seconds": 0
   }
 }
