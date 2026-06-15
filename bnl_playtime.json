@@ -65,9 +65,9 @@
     "total_seconds": 5785
   },
   "rainsinger": {
-    "week_seconds": 4430,
+    "week_seconds": 4975,
     "week_start": 1781474875,
-    "total_seconds": 4430
+    "total_seconds": 4975
   },
   "jindosh": {
     "week_seconds": 13654,
@@ -1325,9 +1325,9 @@
     "total_seconds": 1079
   },
   "virizion": {
-    "week_seconds": 0,
+    "week_seconds": 1091,
     "week_start": 1781492912,
-    "total_seconds": 0
+    "total_seconds": 1091
   },
   "elinut": {
     "week_seconds": 379,
