@@ -1905,9 +1905,9 @@
     "total_seconds": 2132
   },
   "hxrl": {
-    "week_seconds": 1738,
+    "week_seconds": 4155,
     "week_start": 1781519516,
-    "total_seconds": 1738
+    "total_seconds": 4155
   },
   "ech0o_o0": {
     "week_seconds": 2725,
@@ -3165,9 +3165,9 @@
     "total_seconds": 68
   },
   "metropolitan_": {
-    "week_seconds": 0,
+    "week_seconds": 2249,
     "week_start": 1781556797,
-    "total_seconds": 0
+    "total_seconds": 2249
   },
   "rosalinopossum": {
     "week_seconds": 0,
@@ -3217,6 +3217,11 @@
   "tikrainegedvilas": {
     "week_seconds": 0,
     "week_start": 1781558983,
+    "total_seconds": 0
+  },
+  "mannami": {
+    "week_seconds": 0,
+    "week_start": 1781559016,
     "total_seconds": 0
   }
 }
