@@ -290,9 +290,9 @@
     "total_seconds": 0
   },
   "aguscon": {
-    "week_seconds": 981,
+    "week_seconds": 7488,
     "week_start": 1781477034,
-    "total_seconds": 981
+    "total_seconds": 7488
   },
   "microwavedmango": {
     "week_seconds": 3375,
@@ -922,6 +922,11 @@
   "way2muchprada": {
     "week_seconds": 0,
     "week_start": 1781485533,
+    "total_seconds": 0
+  },
+  "thugfork": {
+    "week_seconds": 0,
+    "week_start": 1781485549,
     "total_seconds": 0
   }
 }
