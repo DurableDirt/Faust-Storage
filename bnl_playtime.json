@@ -35,9 +35,9 @@
     "total_seconds": 1352
   },
   "maxxyrose": {
-    "week_seconds": 0,
+    "week_seconds": 734,
     "week_start": 1781474643,
-    "total_seconds": 0
+    "total_seconds": 734
   },
   "piotato": {
     "week_seconds": 12616,
@@ -1770,9 +1770,9 @@
     "total_seconds": 2782
   },
   "wandrumdum": {
-    "week_seconds": 1341,
+    "week_seconds": 1992,
     "week_start": 1781514455,
-    "total_seconds": 1341
+    "total_seconds": 1992
   },
   "badwaffles_": {
     "week_seconds": 3597,
@@ -2728,5 +2728,10 @@
     "week_seconds": 0,
     "week_start": 1781543214,
     "total_seconds": 0
+  },
+  "witherstorm2446": {
+    "week_seconds": 44,
+    "week_start": 1781543814,
+    "total_seconds": 44
   }
 }
