@@ -2275,13 +2275,13 @@
     "total_seconds": 0
   },
   "fighterferret": {
-    "week_seconds": 0,
+    "week_seconds": 72,
     "week_start": 1781530175,
-    "total_seconds": 0
+    "total_seconds": 72
   },
   "beckerlet": {
-    "week_seconds": 0,
+    "week_seconds": 66,
     "week_start": 1781530178,
-    "total_seconds": 0
+    "total_seconds": 66
   }
 }
