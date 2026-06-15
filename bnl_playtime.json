@@ -1703,5 +1703,10 @@
     "week_seconds": 35,
     "week_start": 1781511497,
     "total_seconds": 35
+  },
+  "snailytrail": {
+    "week_seconds": 5,
+    "week_start": 1781511587,
+    "total_seconds": 5
   }
 }
