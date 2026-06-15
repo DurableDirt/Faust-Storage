@@ -365,9 +365,9 @@
     "total_seconds": 14932
   },
   "wheaties24": {
-    "week_seconds": 3249,
+    "week_seconds": 5131,
     "week_start": 1781477776,
-    "total_seconds": 3249
+    "total_seconds": 5131
   },
   "spicon17": {
     "week_seconds": 6568,
@@ -645,9 +645,9 @@
     "total_seconds": 37579
   },
   "moopie50": {
-    "week_seconds": 8161,
+    "week_seconds": 10876,
     "week_start": 1781481486,
-    "total_seconds": 8161
+    "total_seconds": 10876
   },
   "malafly": {
     "week_seconds": 6743,
@@ -2790,9 +2790,9 @@
     "total_seconds": 0
   },
   "sirboss001": {
-    "week_seconds": 7795,
+    "week_seconds": 7947,
     "week_start": 1781545653,
-    "total_seconds": 7795
+    "total_seconds": 7947
   },
   "vortexx_xq": {
     "week_seconds": 12,
@@ -3220,9 +3220,9 @@
     "total_seconds": 2168
   },
   "mannami": {
-    "week_seconds": 0,
+    "week_seconds": 4247,
     "week_start": 1781559016,
-    "total_seconds": 0
+    "total_seconds": 4247
   },
   "pixitchi_o3o": {
     "week_seconds": 2887,
@@ -3280,9 +3280,9 @@
     "total_seconds": 0
   },
   "artikul583": {
-    "week_seconds": 0,
+    "week_seconds": 2267,
     "week_start": 1781561010,
-    "total_seconds": 0
+    "total_seconds": 2267
   },
   "360menter": {
     "week_seconds": 221,
@@ -3347,6 +3347,11 @@
   "yumball12": {
     "week_seconds": 0,
     "week_start": 1781563063,
+    "total_seconds": 0
+  },
+  "sparkyjuice": {
+    "week_seconds": 0,
+    "week_start": 1781563281,
     "total_seconds": 0
   }
 }
