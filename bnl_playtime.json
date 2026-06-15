@@ -570,9 +570,9 @@
     "total_seconds": 12421
   },
   "angie_dovie111": {
-    "week_seconds": 4512,
+    "week_seconds": 14176,
     "week_start": 1781480311,
-    "total_seconds": 4512
+    "total_seconds": 14176
   },
   "balderbert": {
     "week_seconds": 2692,
@@ -1530,9 +1530,9 @@
     "total_seconds": 14250
   },
   "xlader161": {
-    "week_seconds": 19522,
+    "week_seconds": 22525,
     "week_start": 1781502651,
-    "total_seconds": 19522
+    "total_seconds": 22525
   },
   "trinityx45": {
     "week_seconds": 3409,
@@ -2283,5 +2283,15 @@
     "week_seconds": 66,
     "week_start": 1781530178,
     "total_seconds": 66
+  },
+  "jr212": {
+    "week_seconds": 0,
+    "week_start": 1781530293,
+    "total_seconds": 0
+  },
+  "smagz24": {
+    "week_seconds": 0,
+    "week_start": 1781530300,
+    "total_seconds": 0
   }
 }
