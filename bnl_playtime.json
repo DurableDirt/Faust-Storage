@@ -1995,9 +1995,9 @@
     "total_seconds": 11217
   },
   "bytetheiv": {
-    "week_seconds": 3865,
+    "week_seconds": 3897,
     "week_start": 1781522873,
-    "total_seconds": 3865
+    "total_seconds": 3897
   },
   "pablopaavo123": {
     "week_seconds": 1247,
@@ -2578,5 +2578,10 @@
     "week_seconds": 199,
     "week_start": 1781538879,
     "total_seconds": 199
+  },
+  "7qou": {
+    "week_seconds": 0,
+    "week_start": 1781539089,
+    "total_seconds": 0
   }
 }
