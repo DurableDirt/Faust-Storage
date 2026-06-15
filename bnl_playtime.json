@@ -130,9 +130,9 @@
     "total_seconds": 2799
   },
   "threeapplestall": {
-    "week_seconds": 15254,
+    "week_seconds": 41566,
     "week_start": 1781475744,
-    "total_seconds": 15254
+    "total_seconds": 41566
   },
   "donnelpyke2": {
     "week_seconds": 11156,
@@ -1845,9 +1845,9 @@
     "total_seconds": 6
   },
   "xfier": {
-    "week_seconds": 0,
+    "week_seconds": 217,
     "week_start": 1781517152,
-    "total_seconds": 0
+    "total_seconds": 217
   },
   "basicallyagungan": {
     "week_seconds": 0,
@@ -1858,5 +1858,10 @@
     "week_seconds": 17,
     "week_start": 1781517326,
     "total_seconds": 17
+  },
+  "nythrion07": {
+    "week_seconds": 0,
+    "week_start": 1781517378,
+    "total_seconds": 0
   }
 }
