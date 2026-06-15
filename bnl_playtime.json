@@ -240,9 +240,9 @@
     "total_seconds": 12689
   },
   "wasabiwhip": {
-    "week_seconds": 2389,
+    "week_seconds": 2509,
     "week_start": 1781476532,
-    "total_seconds": 2389
+    "total_seconds": 2509
   },
   "aluminum_foil_": {
     "week_seconds": 18426,
@@ -2220,9 +2220,9 @@
     "total_seconds": 75
   },
   "falphaeus": {
-    "week_seconds": 3038,
+    "week_seconds": 3158,
     "week_start": 1781528404,
-    "total_seconds": 3038
+    "total_seconds": 3158
   },
   "dorthit_0194a8au": {
     "week_seconds": 1682,
@@ -2320,8 +2320,13 @@
     "total_seconds": 120
   },
   "yiantrk": {
-    "week_seconds": 0,
+    "week_seconds": 68,
     "week_start": 1781531554,
-    "total_seconds": 0
+    "total_seconds": 68
+  },
+  "bluechickpro": {
+    "week_seconds": 32,
+    "week_start": 1781531619,
+    "total_seconds": 32
   }
 }
