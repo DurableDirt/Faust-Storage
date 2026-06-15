@@ -70,9 +70,9 @@
     "total_seconds": 2902
   },
   "jindosh": {
-    "week_seconds": 0,
+    "week_seconds": 9167,
     "week_start": 1781475011,
-    "total_seconds": 0
+    "total_seconds": 9167
   },
   "40mm": {
     "week_seconds": 626,
@@ -620,9 +620,9 @@
     "total_seconds": 0
   },
   "justmicwa": {
-    "week_seconds": 0,
+    "week_seconds": 2886,
     "week_start": 1781481295,
-    "total_seconds": 0
+    "total_seconds": 2886
   },
   "ceceliarabbit": {
     "week_seconds": 1410,
@@ -832,6 +832,16 @@
   "samtheblow": {
     "week_seconds": 0,
     "week_start": 1781483985,
+    "total_seconds": 0
+  },
+  "rydestar": {
+    "week_seconds": 0,
+    "week_start": 1781484093,
+    "total_seconds": 0
+  },
+  "socialistspectre": {
+    "week_seconds": 0,
+    "week_start": 1781484121,
     "total_seconds": 0
   }
 }
