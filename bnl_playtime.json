@@ -560,9 +560,9 @@
     "total_seconds": 58849
   },
   "dutchcringe": {
-    "week_seconds": 10748,
+    "week_seconds": 13536,
     "week_start": 1781480187,
-    "total_seconds": 10748
+    "total_seconds": 13536
   },
   "graydawn_": {
     "week_seconds": 31122,
@@ -640,9 +640,9 @@
     "total_seconds": 8260
   },
   "beepcar": {
-    "week_seconds": 23768,
+    "week_seconds": 33667,
     "week_start": 1781481425,
-    "total_seconds": 23768
+    "total_seconds": 33667
   },
   "moopie50": {
     "week_seconds": 5807,
@@ -2845,9 +2845,9 @@
     "total_seconds": 74
   },
   "artels": {
-    "week_seconds": 60,
+    "week_seconds": 86,
     "week_start": 1781546723,
-    "total_seconds": 60
+    "total_seconds": 86
   },
   "queenceliathe1st": {
     "week_seconds": 0,
@@ -2907,6 +2907,11 @@
   "emarile": {
     "week_seconds": 0,
     "week_start": 1781548436,
+    "total_seconds": 0
+  },
+  "jcool640": {
+    "week_seconds": 0,
+    "week_start": 1781548505,
     "total_seconds": 0
   }
 }
