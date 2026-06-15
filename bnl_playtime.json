@@ -115,9 +115,9 @@
     "total_seconds": 150
   },
   "xjetistuff": {
-    "week_seconds": 2345,
+    "week_seconds": 2516,
     "week_start": 1781475510,
-    "total_seconds": 2345
+    "total_seconds": 2516
   },
   "popshotx9": {
     "week_seconds": 1010,
@@ -1942,6 +1942,11 @@
   "worthlessbean": {
     "week_seconds": 0,
     "week_start": 1781521151,
+    "total_seconds": 0
+  },
+  "lolmi202": {
+    "week_seconds": 0,
+    "week_start": 1781521408,
     "total_seconds": 0
   }
 }
