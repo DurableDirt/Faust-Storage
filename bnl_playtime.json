@@ -95,9 +95,9 @@
     "total_seconds": 564
   },
   "booger_godslayer": {
-    "week_seconds": 38,
+    "week_seconds": 1337,
     "week_start": 1781475138,
-    "total_seconds": 38
+    "total_seconds": 1337
   },
   "fishsticks47": {
     "week_seconds": 727,
@@ -445,9 +445,9 @@
     "total_seconds": 3866
   },
   "iron600": {
-    "week_seconds": 0,
+    "week_seconds": 5920,
     "week_start": 1781478931,
-    "total_seconds": 0
+    "total_seconds": 5920
   },
   "mrtnt1925": {
     "week_seconds": 3836,
@@ -882,6 +882,11 @@
   "ajrose19": {
     "week_seconds": 0,
     "week_start": 1781484803,
+    "total_seconds": 0
+  },
+  "espec17": {
+    "week_seconds": 0,
+    "week_start": 1781484846,
     "total_seconds": 0
   }
 }
