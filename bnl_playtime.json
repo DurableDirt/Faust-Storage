@@ -1760,13 +1760,23 @@
     "total_seconds": 0
   },
   "happyfeet4607": {
-    "week_seconds": 0,
+    "week_seconds": 708,
     "week_start": 1781514091,
-    "total_seconds": 0
+    "total_seconds": 708
   },
   "bravoocto15": {
     "week_seconds": 0,
     "week_start": 1781514162,
+    "total_seconds": 0
+  },
+  "wandrumdum": {
+    "week_seconds": 0,
+    "week_start": 1781514455,
+    "total_seconds": 0
+  },
+  "badwaffles_": {
+    "week_seconds": 0,
+    "week_start": 1781514752,
     "total_seconds": 0
   }
 }
