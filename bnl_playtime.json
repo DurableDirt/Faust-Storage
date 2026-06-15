@@ -1100,9 +1100,9 @@
     "total_seconds": 2842
   },
   "nevergrimm": {
-    "week_seconds": 0,
+    "week_seconds": 3510,
     "week_start": 1781487964,
-    "total_seconds": 0
+    "total_seconds": 3510
   },
   "lagiacrus": {
     "week_seconds": 416,
@@ -1247,6 +1247,16 @@
   "intelligences": {
     "week_seconds": 0,
     "week_start": 1781491347,
+    "total_seconds": 0
+  },
+  "drippydippy": {
+    "week_seconds": 0,
+    "week_start": 1781491446,
+    "total_seconds": 0
+  },
+  "blu9710": {
+    "week_seconds": 0,
+    "week_start": 1781491456,
     "total_seconds": 0
   }
 }
