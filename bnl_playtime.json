@@ -815,9 +815,9 @@
     "total_seconds": 2198
   },
   "gnathope": {
-    "week_seconds": 5482,
+    "week_seconds": 5528,
     "week_start": 1781483765,
-    "total_seconds": 5482
+    "total_seconds": 5528
   },
   "freeblade999": {
     "week_seconds": 0,
@@ -1183,5 +1183,10 @@
     "week_seconds": 50,
     "week_start": 1781489596,
     "total_seconds": 50
+  },
+  "animeme_master": {
+    "week_seconds": 0,
+    "week_start": 1781489801,
+    "total_seconds": 0
   }
 }
