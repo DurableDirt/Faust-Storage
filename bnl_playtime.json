@@ -1795,9 +1795,9 @@
     "total_seconds": 1066
   },
   "lgamant": {
-    "week_seconds": 2097,
+    "week_seconds": 3413,
     "week_start": 1781515516,
-    "total_seconds": 2097
+    "total_seconds": 3413
   },
   "emilew": {
     "week_seconds": 1536,
@@ -1907,6 +1907,11 @@
   "hxrl": {
     "week_seconds": 0,
     "week_start": 1781519516,
+    "total_seconds": 0
+  },
+  "ech0o_o0": {
+    "week_seconds": 0,
+    "week_start": 1781519898,
     "total_seconds": 0
   }
 }
