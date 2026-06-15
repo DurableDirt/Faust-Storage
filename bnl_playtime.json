@@ -580,9 +580,9 @@
     "total_seconds": 2692
   },
   "ethn__": {
-    "week_seconds": 5386,
+    "week_seconds": 6870,
     "week_start": 1781480700,
-    "total_seconds": 5386
+    "total_seconds": 6870
   },
   "suderp": {
     "week_seconds": 3472,
@@ -2748,5 +2748,10 @@
     "week_seconds": 12,
     "week_start": 1781544668,
     "total_seconds": 12
+  },
+  "i_am_a_millipede": {
+    "week_seconds": 0,
+    "week_start": 1781544786,
+    "total_seconds": 0
   }
 }
