@@ -1285,9 +1285,9 @@
     "total_seconds": 2109
   },
   "darkwingz17": {
-    "week_seconds": 3875,
+    "week_seconds": 5926,
     "week_start": 1781491958,
-    "total_seconds": 3875
+    "total_seconds": 5926
   },
   "tomete13": {
     "week_seconds": 517,
@@ -2235,9 +2235,9 @@
     "total_seconds": 191
   },
   "viperth": {
-    "week_seconds": 4484,
+    "week_seconds": 9186,
     "week_start": 1781529096,
-    "total_seconds": 4484
+    "total_seconds": 9186
   },
   "zalvvv": {
     "week_seconds": 336,
@@ -2597,6 +2597,11 @@
   "aredstonegod378": {
     "week_seconds": 0,
     "week_start": 1781539497,
+    "total_seconds": 0
+  },
+  "invertedmind": {
+    "week_seconds": 0,
+    "week_start": 1781539543,
     "total_seconds": 0
   }
 }
