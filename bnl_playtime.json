@@ -1085,9 +1085,9 @@
     "total_seconds": 23420
   },
   "satava": {
-    "week_seconds": 14311,
+    "week_seconds": 14342,
     "week_start": 1781487788,
-    "total_seconds": 14311
+    "total_seconds": 14342
   },
   "majjcrunsgf": {
     "week_seconds": 709,
@@ -2108,5 +2108,10 @@
     "week_seconds": 140,
     "week_start": 1781525800,
     "total_seconds": 140
+  },
+  "pikabooos": {
+    "week_seconds": 0,
+    "week_start": 1781525984,
+    "total_seconds": 0
   }
 }
