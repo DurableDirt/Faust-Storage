@@ -1765,9 +1765,9 @@
     "total_seconds": 708
   },
   "bravoocto15": {
-    "week_seconds": 4992,
+    "week_seconds": 5006,
     "week_start": 1781514162,
-    "total_seconds": 4992
+    "total_seconds": 5006
   },
   "wandrumdum": {
     "week_seconds": 1992,
@@ -3163,5 +3163,10 @@
     "week_seconds": 68,
     "week_start": 1781556449,
     "total_seconds": 68
+  },
+  "metropolitan_": {
+    "week_seconds": 0,
+    "week_start": 1781556797,
+    "total_seconds": 0
   }
 }
