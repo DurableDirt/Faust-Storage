@@ -2335,9 +2335,9 @@
     "total_seconds": 191
   },
   "leander2714": {
-    "week_seconds": 0,
+    "week_seconds": 1763,
     "week_start": 1781531804,
-    "total_seconds": 0
+    "total_seconds": 1763
   },
   "shyguy_wph": {
     "week_seconds": 680,
@@ -2393,5 +2393,10 @@
     "week_seconds": 14,
     "week_start": 1781533233,
     "total_seconds": 14
+  },
+  "lightingturbo": {
+    "week_seconds": 0,
+    "week_start": 1781533588,
+    "total_seconds": 0
   }
 }
