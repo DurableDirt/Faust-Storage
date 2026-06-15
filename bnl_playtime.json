@@ -940,9 +940,9 @@
     "total_seconds": 0
   },
   "x1025": {
-    "week_seconds": 232,
+    "week_seconds": 419,
     "week_start": 1781485724,
-    "total_seconds": 232
+    "total_seconds": 419
   },
   "xcios": {
     "week_seconds": 0,
@@ -1047,6 +1047,11 @@
   "endville360": {
     "week_seconds": 0,
     "week_start": 1781486895,
+    "total_seconds": 0
+  },
+  "rodragonlux": {
+    "week_seconds": 0,
+    "week_start": 1781487016,
     "total_seconds": 0
   }
 }
