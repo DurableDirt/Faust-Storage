@@ -565,9 +565,9 @@
     "total_seconds": 4895
   },
   "graydawn_": {
-    "week_seconds": 7857,
+    "week_seconds": 12146,
     "week_start": 1781480271,
-    "total_seconds": 7857
+    "total_seconds": 12146
   },
   "angie_dovie111": {
     "week_seconds": 2714,
@@ -710,9 +710,9 @@
     "total_seconds": 1086
   },
   "airheadsupreme": {
-    "week_seconds": 5876,
+    "week_seconds": 10147,
     "week_start": 1781482314,
-    "total_seconds": 5876
+    "total_seconds": 10147
   },
   "limtingus1": {
     "week_seconds": 1791,
@@ -1308,5 +1308,10 @@
     "week_seconds": 2,
     "week_start": 1781492559,
     "total_seconds": 2
+  },
+  "goblinparty123": {
+    "week_seconds": 0,
+    "week_start": 1781492689,
+    "total_seconds": 0
   }
 }
