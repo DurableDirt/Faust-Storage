@@ -1765,9 +1765,9 @@
     "total_seconds": 708
   },
   "bravoocto15": {
-    "week_seconds": 4333,
+    "week_seconds": 4365,
     "week_start": 1781514162,
-    "total_seconds": 4333
+    "total_seconds": 4365
   },
   "wandrumdum": {
     "week_seconds": 1992,
@@ -2985,9 +2985,9 @@
     "total_seconds": 0
   },
   "nostalgie_": {
-    "week_seconds": 0,
+    "week_seconds": 1929,
     "week_start": 1781551232,
-    "total_seconds": 0
+    "total_seconds": 1929
   },
   "martini8": {
     "week_seconds": 0,
@@ -3010,9 +3010,9 @@
     "total_seconds": 0
   },
   "avale86x64": {
-    "week_seconds": 0,
+    "week_seconds": 1165,
     "week_start": 1781551967,
-    "total_seconds": 0
+    "total_seconds": 1165
   },
   "houdiniandseek": {
     "week_seconds": 2,
@@ -3043,5 +3043,10 @@
     "week_seconds": 32,
     "week_start": 1781553072,
     "total_seconds": 32
+  },
+  "dogvee9": {
+    "week_seconds": 0,
+    "week_start": 1781553136,
+    "total_seconds": 0
   }
 }
