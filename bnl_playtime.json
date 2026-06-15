@@ -1780,9 +1780,9 @@
     "total_seconds": 3597
   },
   "nanajshi": {
-    "week_seconds": 4486,
+    "week_seconds": 4811,
     "week_start": 1781514955,
-    "total_seconds": 4486
+    "total_seconds": 4811
   },
   "minecraftendston": {
     "week_seconds": 4286,
@@ -2297,6 +2297,11 @@
   "stun2845": {
     "week_seconds": 0,
     "week_start": 1781530817,
+    "total_seconds": 0
+  },
+  "zeologue": {
+    "week_seconds": 0,
+    "week_start": 1781531048,
     "total_seconds": 0
   }
 }
