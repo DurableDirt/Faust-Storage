@@ -2150,9 +2150,9 @@
     "total_seconds": 0
   },
   "azurisdev": {
-    "week_seconds": 34,
+    "week_seconds": 133,
     "week_start": 1781527446,
-    "total_seconds": 34
+    "total_seconds": 133
   },
   "dryna1825": {
     "week_seconds": 16,
@@ -2167,6 +2167,16 @@
   "hemsku": {
     "week_seconds": 0,
     "week_start": 1781527535,
+    "total_seconds": 0
+  },
+  "to7a_": {
+    "week_seconds": 29,
+    "week_start": 1781527568,
+    "total_seconds": 29
+  },
+  "mike5905": {
+    "week_seconds": 0,
+    "week_start": 1781527585,
     "total_seconds": 0
   }
 }
