@@ -670,9 +670,9 @@
     "total_seconds": 0
   },
   "boatoverbogs": {
-    "week_seconds": 7305,
+    "week_seconds": 8392,
     "week_start": 1781481750,
-    "total_seconds": 7305
+    "total_seconds": 8392
   },
   "versedreset": {
     "week_seconds": 65,
@@ -1218,5 +1218,10 @@
     "week_seconds": 40,
     "week_start": 1781490502,
     "total_seconds": 40
+  },
+  "imafrenchfry": {
+    "week_seconds": 0,
+    "week_start": 1781490792,
+    "total_seconds": 0
   }
 }
