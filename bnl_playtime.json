@@ -3315,9 +3315,9 @@
     "total_seconds": 3220
   },
   "praoubl": {
-    "week_seconds": 2624,
+    "week_seconds": 3483,
     "week_start": 1781562177,
-    "total_seconds": 2624
+    "total_seconds": 3483
   },
   "tehe0_0": {
     "week_seconds": 436,
@@ -3422,6 +3422,11 @@
   "giant_ninja_ham": {
     "week_seconds": 0,
     "week_start": 1781565607,
+    "total_seconds": 0
+  },
+  "greenfroggy13": {
+    "week_seconds": 0,
+    "week_start": 1781565769,
     "total_seconds": 0
   }
 }
