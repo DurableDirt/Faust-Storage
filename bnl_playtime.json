@@ -1885,9 +1885,9 @@
     "total_seconds": 30
   },
   "gidein": {
-    "week_seconds": 9683,
+    "week_seconds": 14478,
     "week_start": 1781518844,
-    "total_seconds": 9683
+    "total_seconds": 14478
   },
   "londara": {
     "week_seconds": 1120,
@@ -3205,8 +3205,8 @@
     "total_seconds": 0
   },
   "proofen22": {
-    "week_seconds": 0,
+    "week_seconds": 210,
     "week_start": 1781558133,
-    "total_seconds": 0
+    "total_seconds": 210
   }
 }
