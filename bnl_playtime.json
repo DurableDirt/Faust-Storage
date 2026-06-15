@@ -255,9 +255,9 @@
     "total_seconds": 3463
   },
   "madmachinist25": {
-    "week_seconds": 0,
+    "week_seconds": 4970,
     "week_start": 1781476666,
-    "total_seconds": 0
+    "total_seconds": 4970
   },
   "mrjeremyfisher": {
     "week_seconds": 3880,
@@ -652,6 +652,21 @@
   "malafly": {
     "week_seconds": 0,
     "week_start": 1781481518,
+    "total_seconds": 0
+  },
+  "velares": {
+    "week_seconds": 0,
+    "week_start": 1781481619,
+    "total_seconds": 0
+  },
+  "demobottle12": {
+    "week_seconds": 0,
+    "week_start": 1781481621,
+    "total_seconds": 0
+  },
+  "unique_nullptr": {
+    "week_seconds": 0,
+    "week_start": 1781481654,
     "total_seconds": 0
   }
 }
