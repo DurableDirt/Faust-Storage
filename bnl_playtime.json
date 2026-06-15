@@ -100,9 +100,9 @@
     "total_seconds": 2523
   },
   "fishsticks47": {
-    "week_seconds": 727,
+    "week_seconds": 3149,
     "week_start": 1781475372,
-    "total_seconds": 727
+    "total_seconds": 3149
   },
   "slothinasuit": {
     "week_seconds": 6126,
@@ -385,9 +385,9 @@
     "total_seconds": 7809
   },
   "opriva": {
-    "week_seconds": 4809,
+    "week_seconds": 4859,
     "week_start": 1781477978,
-    "total_seconds": 4809
+    "total_seconds": 4859
   },
   "kokomiology": {
     "week_seconds": 179,
@@ -1062,6 +1062,11 @@
   "___theboss___": {
     "week_seconds": 0,
     "week_start": 1781487230,
+    "total_seconds": 0
+  },
+  "goldlirio": {
+    "week_seconds": 0,
+    "week_start": 1781487271,
     "total_seconds": 0
   }
 }
