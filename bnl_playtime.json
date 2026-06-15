@@ -1695,9 +1695,9 @@
     "total_seconds": 17629
   },
   "masqo_": {
-    "week_seconds": 13590,
+    "week_seconds": 13663,
     "week_start": 1781511452,
-    "total_seconds": 13590
+    "total_seconds": 13663
   },
   "eyestrainz": {
     "week_seconds": 14272,
@@ -2480,9 +2480,9 @@
     "total_seconds": 4815
   },
   "a_penguin_pal": {
-    "week_seconds": 7747,
+    "week_seconds": 7814,
     "week_start": 1781535840,
-    "total_seconds": 7747
+    "total_seconds": 7814
   },
   "emperorashina": {
     "week_seconds": 5141,
@@ -2898,5 +2898,15 @@
     "week_seconds": 29,
     "week_start": 1781548186,
     "total_seconds": 29
+  },
+  "zamoradin": {
+    "week_seconds": 0,
+    "week_start": 1781548307,
+    "total_seconds": 0
+  },
+  "emarile": {
+    "week_seconds": 0,
+    "week_start": 1781548436,
+    "total_seconds": 0
   }
 }
