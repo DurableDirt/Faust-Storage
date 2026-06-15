@@ -1605,9 +1605,9 @@
     "total_seconds": 181
   },
   "scavedr": {
-    "week_seconds": 0,
+    "week_seconds": 766,
     "week_start": 1781506060,
-    "total_seconds": 0
+    "total_seconds": 766
   },
   "adeadhead": {
     "week_seconds": 43,
@@ -1622,6 +1622,11 @@
   "jejames27": {
     "week_seconds": 0,
     "week_start": 1781506543,
+    "total_seconds": 0
+  },
+  "mryellowtail": {
+    "week_seconds": 0,
+    "week_start": 1781506813,
     "total_seconds": 0
   }
 }
