@@ -75,9 +75,9 @@
     "total_seconds": 16727
   },
   "40mm": {
-    "week_seconds": 1759,
+    "week_seconds": 1903,
     "week_start": 1781475020,
-    "total_seconds": 1759
+    "total_seconds": 1903
   },
   "lynx2007": {
     "week_seconds": 15071,
@@ -525,9 +525,9 @@
     "total_seconds": 7709
   },
   "shadno": {
-    "week_seconds": 352,
+    "week_seconds": 390,
     "week_start": 1781479968,
-    "total_seconds": 352
+    "total_seconds": 390
   },
   "hexayn": {
     "week_seconds": 974,
@@ -1780,9 +1780,9 @@
     "total_seconds": 2519
   },
   "nanajshi": {
-    "week_seconds": 3631,
+    "week_seconds": 4486,
     "week_start": 1781514955,
-    "total_seconds": 3631
+    "total_seconds": 4486
   },
   "minecraftendston": {
     "week_seconds": 4286,
@@ -2053,5 +2053,10 @@
     "week_seconds": 0,
     "week_start": 1781524263,
     "total_seconds": 0
+  },
+  "spearitz": {
+    "week_seconds": 5,
+    "week_start": 1781524292,
+    "total_seconds": 5
   }
 }
