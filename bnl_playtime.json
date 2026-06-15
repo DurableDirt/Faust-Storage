@@ -805,9 +805,9 @@
     "total_seconds": 6557
   },
   "theunreales": {
-    "week_seconds": 7633,
+    "week_seconds": 8285,
     "week_start": 1781483636,
-    "total_seconds": 7633
+    "total_seconds": 8285
   },
   "timantha": {
     "week_seconds": 7552,
@@ -1278,5 +1278,25 @@
     "week_seconds": 10,
     "week_start": 1781491863,
     "total_seconds": 10
+  },
+  "big_linguine": {
+    "week_seconds": 0,
+    "week_start": 1781491944,
+    "total_seconds": 0
+  },
+  "darkwingz17": {
+    "week_seconds": 0,
+    "week_start": 1781491958,
+    "total_seconds": 0
+  },
+  "tomete13": {
+    "week_seconds": 0,
+    "week_start": 1781492021,
+    "total_seconds": 0
+  },
+  "expolon": {
+    "week_seconds": 32,
+    "week_start": 1781492040,
+    "total_seconds": 32
   }
 }
