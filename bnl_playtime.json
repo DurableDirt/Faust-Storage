@@ -1388,5 +1388,10 @@
     "week_seconds": 0,
     "week_start": 1781495930,
     "total_seconds": 0
+  },
+  "alphg": {
+    "week_seconds": 60,
+    "week_start": 1781495956,
+    "total_seconds": 60
   }
 }
