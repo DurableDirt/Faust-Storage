@@ -1085,9 +1085,9 @@
     "total_seconds": 8230
   },
   "satava": {
-    "week_seconds": 8299,
+    "week_seconds": 9202,
     "week_start": 1781487788,
-    "total_seconds": 8299
+    "total_seconds": 9202
   },
   "majjcrunsgf": {
     "week_seconds": 709,
@@ -1528,5 +1528,15 @@
     "week_seconds": 0,
     "week_start": 1781502340,
     "total_seconds": 0
+  },
+  "xlader161": {
+    "week_seconds": 0,
+    "week_start": 1781502651,
+    "total_seconds": 0
+  },
+  "trinityx45": {
+    "week_seconds": 24,
+    "week_start": 1781502687,
+    "total_seconds": 24
   }
 }
