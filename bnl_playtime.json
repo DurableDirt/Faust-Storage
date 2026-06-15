@@ -2190,9 +2190,9 @@
     "total_seconds": 92
   },
   "tohmatbc": {
-    "week_seconds": 0,
+    "week_seconds": 6400,
     "week_start": 1781528032,
-    "total_seconds": 0
+    "total_seconds": 6400
   },
   "cheetahboi2": {
     "week_seconds": 0,
@@ -2407,6 +2407,16 @@
   "gothmogthemighty": {
     "week_seconds": 0,
     "week_start": 1781534083,
+    "total_seconds": 0
+  },
+  "tuomasz_": {
+    "week_seconds": 0,
+    "week_start": 1781534346,
+    "total_seconds": 0
+  },
+  "sml128": {
+    "week_seconds": 0,
+    "week_start": 1781534411,
     "total_seconds": 0
   }
 }
