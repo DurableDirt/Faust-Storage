@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 22998,
+    "week_seconds": 24208,
     "week_start": 1781479760,
-    "total_seconds": 22998
+    "total_seconds": 24208
   },
   "matilda4k9": {
     "week_seconds": 3147,
@@ -1572,6 +1572,11 @@
   "physicsgamer": {
     "week_seconds": 0,
     "week_start": 1781504070,
+    "total_seconds": 0
+  },
+  "_2k42_": {
+    "week_seconds": 0,
+    "week_start": 1781504570,
     "total_seconds": 0
   }
 }
