@@ -1755,9 +1755,9 @@
     "total_seconds": 3935
   },
   "facocero09": {
-    "week_seconds": 1801,
+    "week_seconds": 2443,
     "week_start": 1781514012,
-    "total_seconds": 1801
+    "total_seconds": 2443
   },
   "happyfeet4607": {
     "week_seconds": 708,
@@ -1923,5 +1923,10 @@
     "week_seconds": 3,
     "week_start": 1781520302,
     "total_seconds": 3
+  },
+  "fl1xnl": {
+    "week_seconds": 0,
+    "week_start": 1781520360,
+    "total_seconds": 0
   }
 }
