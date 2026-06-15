@@ -70,9 +70,9 @@
     "total_seconds": 4975
   },
   "jindosh": {
-    "week_seconds": 15801,
+    "week_seconds": 15946,
     "week_start": 1781475011,
-    "total_seconds": 15801
+    "total_seconds": 15946
   },
   "40mm": {
     "week_seconds": 626,
@@ -1460,13 +1460,13 @@
     "total_seconds": 138
   },
   "baes200": {
-    "week_seconds": 0,
+    "week_seconds": 417,
     "week_start": 1781497990,
-    "total_seconds": 0
+    "total_seconds": 417
   },
   "cdragonmaster48": {
-    "week_seconds": 28,
+    "week_seconds": 330,
     "week_start": 1781498015,
-    "total_seconds": 28
+    "total_seconds": 330
   }
 }
