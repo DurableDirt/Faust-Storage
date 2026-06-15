@@ -2005,14 +2005,14 @@
     "total_seconds": 1247
   },
   "kelsokevin": {
-    "week_seconds": 0,
+    "week_seconds": 1238,
     "week_start": 1781523034,
-    "total_seconds": 0
+    "total_seconds": 1238
   },
   "olliebell": {
-    "week_seconds": 0,
+    "week_seconds": 1083,
     "week_start": 1781523158,
-    "total_seconds": 0
+    "total_seconds": 1083
   },
   "xlamdg96_": {
     "week_seconds": 308,
@@ -2047,6 +2047,11 @@
   "nareik01": {
     "week_seconds": 0,
     "week_start": 1781524184,
+    "total_seconds": 0
+  },
+  "busy_donut": {
+    "week_seconds": 0,
+    "week_start": 1781524263,
     "total_seconds": 0
   }
 }
