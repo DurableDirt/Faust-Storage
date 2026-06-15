@@ -620,9 +620,9 @@
     "total_seconds": 25124
   },
   "justmicwa": {
-    "week_seconds": 6320,
+    "week_seconds": 10379,
     "week_start": 1781481295,
-    "total_seconds": 6320
+    "total_seconds": 10379
   },
   "ceceliarabbit": {
     "week_seconds": 1410,
@@ -1530,9 +1530,9 @@
     "total_seconds": 1209
   },
   "xlader161": {
-    "week_seconds": 5093,
+    "week_seconds": 5135,
     "week_start": 1781502651,
-    "total_seconds": 5093
+    "total_seconds": 5135
   },
   "trinityx45": {
     "week_seconds": 3409,
@@ -1637,6 +1637,11 @@
   "aesth1te": {
     "week_seconds": 0,
     "week_start": 1781508461,
+    "total_seconds": 0
+  },
+  "dominius_x": {
+    "week_seconds": 0,
+    "week_start": 1781508863,
     "total_seconds": 0
   }
 }
