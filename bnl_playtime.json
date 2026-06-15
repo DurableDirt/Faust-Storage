@@ -495,9 +495,9 @@
     "total_seconds": 137
   },
   "_ssg_": {
-    "week_seconds": 0,
+    "week_seconds": 6634,
     "week_start": 1781479625,
-    "total_seconds": 0
+    "total_seconds": 6634
   },
   "call_me_m1ke": {
     "week_seconds": 5629,
@@ -985,13 +985,23 @@
     "total_seconds": 0
   },
   "ms_enchanted": {
-    "week_seconds": 0,
+    "week_seconds": 126,
     "week_start": 1781486152,
-    "total_seconds": 0
+    "total_seconds": 126
   },
   "jettkid17": {
     "week_seconds": 0,
     "week_start": 1781486257,
+    "total_seconds": 0
+  },
+  "dud4vier": {
+    "week_seconds": 0,
+    "week_start": 1781486280,
+    "total_seconds": 0
+  },
+  "thedragstermc": {
+    "week_seconds": 0,
+    "week_start": 1781486293,
     "total_seconds": 0
   }
 }
