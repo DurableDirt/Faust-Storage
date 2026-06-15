@@ -2303,5 +2303,15 @@
     "week_seconds": 0,
     "week_start": 1781531048,
     "total_seconds": 0
+  },
+  "infernognome": {
+    "week_seconds": 0,
+    "week_start": 1781531391,
+    "total_seconds": 0
+  },
+  "hehlord": {
+    "week_seconds": 5,
+    "week_start": 1781531429,
+    "total_seconds": 5
   }
 }
