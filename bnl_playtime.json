@@ -1220,9 +1220,9 @@
     "total_seconds": 40
   },
   "imafrenchfry": {
-    "week_seconds": 0,
+    "week_seconds": 1364,
     "week_start": 1781490792,
-    "total_seconds": 0
+    "total_seconds": 1364
   },
   "_oceanstar": {
     "week_seconds": 93,
@@ -1300,8 +1300,8 @@
     "total_seconds": 32
   },
   "godofplush": {
-    "week_seconds": 0,
+    "week_seconds": 38,
     "week_start": 1781492125,
-    "total_seconds": 0
+    "total_seconds": 38
   }
 }
