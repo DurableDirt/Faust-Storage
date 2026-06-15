@@ -1080,9 +1080,9 @@
     "total_seconds": 214
   },
   "orestraya": {
-    "week_seconds": 4787,
+    "week_seconds": 4890,
     "week_start": 1781487686,
-    "total_seconds": 4787
+    "total_seconds": 4890
   },
   "satava": {
     "week_seconds": 5384,
@@ -1270,9 +1270,9 @@
     "total_seconds": 1169
   },
   "regencyshadow40": {
-    "week_seconds": 1912,
+    "week_seconds": 1943,
     "week_start": 1781491859,
-    "total_seconds": 1912
+    "total_seconds": 1943
   },
   "yatzplz": {
     "week_seconds": 10,
@@ -1285,9 +1285,9 @@
     "total_seconds": 0
   },
   "darkwingz17": {
-    "week_seconds": 0,
+    "week_seconds": 2032,
     "week_start": 1781491958,
-    "total_seconds": 0
+    "total_seconds": 2032
   },
   "tomete13": {
     "week_seconds": 517,
@@ -1320,9 +1320,9 @@
     "total_seconds": 16
   },
   "goku12323": {
-    "week_seconds": 0,
+    "week_seconds": 1079,
     "week_start": 1781492889,
-    "total_seconds": 0
+    "total_seconds": 1079
   },
   "virizion": {
     "week_seconds": 0,
@@ -1342,6 +1342,11 @@
   "misprint293": {
     "week_seconds": 0,
     "week_start": 1781493068,
+    "total_seconds": 0
+  },
+  "choripancaliente": {
+    "week_seconds": 0,
+    "week_start": 1781493956,
     "total_seconds": 0
   }
 }
