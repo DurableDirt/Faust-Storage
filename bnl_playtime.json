@@ -385,9 +385,9 @@
     "total_seconds": 7809
   },
   "opriva": {
-    "week_seconds": 90,
+    "week_seconds": 3916,
     "week_start": 1781477978,
-    "total_seconds": 90
+    "total_seconds": 3916
   },
   "kokomiology": {
     "week_seconds": 179,
@@ -987,6 +987,11 @@
   "ms_enchanted": {
     "week_seconds": 0,
     "week_start": 1781486152,
+    "total_seconds": 0
+  },
+  "jettkid17": {
+    "week_seconds": 0,
+    "week_start": 1781486257,
     "total_seconds": 0
   }
 }
