@@ -1645,9 +1645,9 @@
     "total_seconds": 388
   },
   "xenos": {
-    "week_seconds": 8379,
+    "week_seconds": 17629,
     "week_start": 1781509100,
-    "total_seconds": 8379
+    "total_seconds": 17629
   },
   "virexil": {
     "week_seconds": 2367,
@@ -2188,5 +2188,20 @@
     "week_seconds": 92,
     "week_start": 1781527820,
     "total_seconds": 92
+  },
+  "tohmatbc": {
+    "week_seconds": 0,
+    "week_start": 1781528032,
+    "total_seconds": 0
+  },
+  "cheetahboi2": {
+    "week_seconds": 0,
+    "week_start": 1781528046,
+    "total_seconds": 0
+  },
+  "pandyteddyyt": {
+    "week_seconds": 0,
+    "week_start": 1781528053,
+    "total_seconds": 0
   }
 }
