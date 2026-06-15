@@ -320,9 +320,9 @@
     "total_seconds": 7190
   },
   "skormcel": {
-    "week_seconds": 0,
+    "week_seconds": 8502,
     "week_start": 1781477339,
-    "total_seconds": 0
+    "total_seconds": 8502
   },
   "catgifs": {
     "week_seconds": 1519,
@@ -610,9 +610,9 @@
     "total_seconds": 459
   },
   "_blare": {
-    "week_seconds": 0,
+    "week_seconds": 4669,
     "week_start": 1781481160,
-    "total_seconds": 0
+    "total_seconds": 4669
   },
   "yodabird19": {
     "week_seconds": 0,
@@ -940,8 +940,8 @@
     "total_seconds": 0
   },
   "x1025": {
-    "week_seconds": 21,
+    "week_seconds": 66,
     "week_start": 1781485724,
-    "total_seconds": 21
+    "total_seconds": 66
   }
 }
