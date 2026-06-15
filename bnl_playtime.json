@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 18703,
+    "week_seconds": 18730,
     "week_start": 1781479760,
-    "total_seconds": 18703
+    "total_seconds": 18730
   },
   "matilda4k9": {
     "week_seconds": 3147,
@@ -1105,9 +1105,9 @@
     "total_seconds": 3510
   },
   "lagiacrus": {
-    "week_seconds": 416,
+    "week_seconds": 1460,
     "week_start": 1781487967,
-    "total_seconds": 416
+    "total_seconds": 1460
   },
   "warendrop": {
     "week_seconds": 1281,
@@ -1335,9 +1335,9 @@
     "total_seconds": 379
   },
   "cactusbecool": {
-    "week_seconds": 0,
+    "week_seconds": 6146,
     "week_start": 1781492928,
-    "total_seconds": 0
+    "total_seconds": 6146
   },
   "misprint293": {
     "week_seconds": 2259,
@@ -1482,6 +1482,11 @@
   "m4_enthusiasts": {
     "week_seconds": 0,
     "week_start": 1781499006,
+    "total_seconds": 0
+  },
+  "jpmiii": {
+    "week_seconds": 0,
+    "week_start": 1781499050,
     "total_seconds": 0
   }
 }
