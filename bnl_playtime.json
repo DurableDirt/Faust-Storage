@@ -2260,9 +2260,9 @@
     "total_seconds": 5858
   },
   "nekroz09": {
-    "week_seconds": 236,
+    "week_seconds": 923,
     "week_start": 1781529591,
-    "total_seconds": 236
+    "total_seconds": 923
   },
   "pergyskeel": {
     "week_seconds": 5002,
@@ -2537,6 +2537,11 @@
   "mr_mine_mc1": {
     "week_seconds": 0,
     "week_start": 1781536816,
+    "total_seconds": 0
+  },
+  "i_waffle_i": {
+    "week_seconds": 0,
+    "week_start": 1781537232,
     "total_seconds": 0
   }
 }
