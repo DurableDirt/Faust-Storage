@@ -60,9 +60,9 @@
     "total_seconds": 1493
   },
   "mitthraw91": {
-    "week_seconds": 9507,
+    "week_seconds": 9692,
     "week_start": 1781474873,
-    "total_seconds": 9507
+    "total_seconds": 9692
   },
   "rainsinger": {
     "week_seconds": 4975,
@@ -1372,6 +1372,11 @@
   "adelover01": {
     "week_seconds": 0,
     "week_start": 1781495390,
+    "total_seconds": 0
+  },
+  "furybyproxy": {
+    "week_seconds": 0,
+    "week_start": 1781495627,
     "total_seconds": 0
   }
 }
