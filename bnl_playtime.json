@@ -580,9 +580,9 @@
     "total_seconds": 2692
   },
   "ethn__": {
-    "week_seconds": 7280,
+    "week_seconds": 8999,
     "week_start": 1781480700,
-    "total_seconds": 7280
+    "total_seconds": 8999
   },
   "suderp": {
     "week_seconds": 3472,
@@ -1225,9 +1225,9 @@
     "total_seconds": 1364
   },
   "_oceanstar": {
-    "week_seconds": 9916,
+    "week_seconds": 10204,
     "week_start": 1781490835,
-    "total_seconds": 9916
+    "total_seconds": 10204
   },
   "kahina": {
     "week_seconds": 1913,
@@ -1765,9 +1765,9 @@
     "total_seconds": 708
   },
   "bravoocto15": {
-    "week_seconds": 4300,
+    "week_seconds": 4333,
     "week_start": 1781514162,
-    "total_seconds": 4300
+    "total_seconds": 4333
   },
   "wandrumdum": {
     "week_seconds": 1992,
@@ -3037,6 +3037,11 @@
   "thyme13": {
     "week_seconds": 0,
     "week_start": 1781552629,
+    "total_seconds": 0
+  },
+  "theocomboed": {
+    "week_seconds": 0,
+    "week_start": 1781553072,
     "total_seconds": 0
   }
 }
