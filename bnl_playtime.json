@@ -705,9 +705,9 @@
     "total_seconds": 0
   },
   "kard_bord": {
-    "week_seconds": 0,
+    "week_seconds": 1086,
     "week_start": 1781482303,
-    "total_seconds": 0
+    "total_seconds": 1086
   },
   "airheadsupreme": {
     "week_seconds": 0,
@@ -788,5 +788,10 @@
     "week_seconds": 0,
     "week_start": 1781483266,
     "total_seconds": 0
+  },
+  "fazeleafblower": {
+    "week_seconds": 5,
+    "week_start": 1781483384,
+    "total_seconds": 5
   }
 }
