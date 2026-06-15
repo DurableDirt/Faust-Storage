@@ -1370,9 +1370,9 @@
     "total_seconds": 8443
   },
   "adelover01": {
-    "week_seconds": 4123,
+    "week_seconds": 5071,
     "week_start": 1781495390,
-    "total_seconds": 4123
+    "total_seconds": 5071
   },
   "furybyproxy": {
     "week_seconds": 5533,
@@ -1670,9 +1670,9 @@
     "total_seconds": 222
   },
   "wuli": {
-    "week_seconds": 2619,
+    "week_seconds": 2621,
     "week_start": 1781509985,
-    "total_seconds": 2619
+    "total_seconds": 2621
   },
   "jaydon_": {
     "week_seconds": 4186,
@@ -1810,9 +1810,9 @@
     "total_seconds": 3937
   },
   "_monor": {
-    "week_seconds": 3912,
+    "week_seconds": 4975,
     "week_start": 1781516111,
-    "total_seconds": 3912
+    "total_seconds": 4975
   },
   "airdav": {
     "week_seconds": 4420,
@@ -1988,5 +1988,10 @@
     "week_seconds": 108,
     "week_start": 1781522313,
     "total_seconds": 108
+  },
+  "pl_y3r": {
+    "week_seconds": 0,
+    "week_start": 1781522770,
+    "total_seconds": 0
   }
 }
