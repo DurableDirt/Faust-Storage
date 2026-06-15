@@ -405,9 +405,9 @@
     "total_seconds": 0
   },
   "freshoxygenair": {
-    "week_seconds": 867,
+    "week_seconds": 897,
     "week_start": 1781478147,
-    "total_seconds": 867
+    "total_seconds": 897
   },
   "cz10_xp": {
     "week_seconds": 396,
@@ -695,14 +695,14 @@
     "total_seconds": 0
   },
   "mr_kalboy": {
-    "week_seconds": 0,
+    "week_seconds": 1348,
     "week_start": 1781482170,
-    "total_seconds": 0
+    "total_seconds": 1348
   },
   "baro_mortis": {
-    "week_seconds": 0,
+    "week_seconds": 1334,
     "week_start": 1781482179,
-    "total_seconds": 0
+    "total_seconds": 1334
   },
   "kard_bord": {
     "week_seconds": 1086,
@@ -765,9 +765,9 @@
     "total_seconds": 0
   },
   "studshottt": {
-    "week_seconds": 0,
+    "week_seconds": 552,
     "week_start": 1781483000,
-    "total_seconds": 0
+    "total_seconds": 552
   },
   "nextstian": {
     "week_seconds": 64,
