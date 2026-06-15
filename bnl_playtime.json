@@ -1365,9 +1365,9 @@
     "total_seconds": 1112
   },
   "rammyls": {
-    "week_seconds": 8443,
+    "week_seconds": 8884,
     "week_start": 1781495283,
-    "total_seconds": 8443
+    "total_seconds": 8884
   },
   "adelover01": {
     "week_seconds": 5207,
@@ -1650,9 +1650,9 @@
     "total_seconds": 8379
   },
   "virexil": {
-    "week_seconds": 2323,
+    "week_seconds": 2362,
     "week_start": 1781509271,
-    "total_seconds": 2323
+    "total_seconds": 2362
   },
   "voidvin": {
     "week_seconds": 13162,
@@ -2030,9 +2030,9 @@
     "total_seconds": 8
   },
   "benzoeg": {
-    "week_seconds": 0,
+    "week_seconds": 2624,
     "week_start": 1781523759,
-    "total_seconds": 0
+    "total_seconds": 2624
   },
   "showerenjoyer7": {
     "week_seconds": 1594,
@@ -2112,6 +2112,16 @@
   "pikabooos": {
     "week_seconds": 0,
     "week_start": 1781525984,
+    "total_seconds": 0
+  },
+  "trizzzx": {
+    "week_seconds": 0,
+    "week_start": 1781526367,
+    "total_seconds": 0
+  },
+  "reffelruz": {
+    "week_seconds": 0,
+    "week_start": 1781526384,
     "total_seconds": 0
   }
 }
