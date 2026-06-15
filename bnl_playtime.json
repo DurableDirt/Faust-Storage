@@ -285,9 +285,9 @@
     "total_seconds": 1269
   },
   "mechanicalrift": {
-    "week_seconds": 31436,
+    "week_seconds": 31467,
     "week_start": 1781476919,
-    "total_seconds": 31436
+    "total_seconds": 31467
   },
   "aguscon": {
     "week_seconds": 7488,
@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 34977,
+    "week_seconds": 35040,
     "week_start": 1781479760,
-    "total_seconds": 34977
+    "total_seconds": 35040
   },
   "matilda4k9": {
     "week_seconds": 3147,
@@ -1730,9 +1730,9 @@
     "total_seconds": 195
   },
   "tacofromii": {
-    "week_seconds": 0,
+    "week_seconds": 2154,
     "week_start": 1781513316,
-    "total_seconds": 0
+    "total_seconds": 2154
   },
   "mayaafox": {
     "week_seconds": 0,
@@ -1782,6 +1782,16 @@
   "nanajshi": {
     "week_seconds": 0,
     "week_start": 1781514955,
+    "total_seconds": 0
+  },
+  "minecraftendston": {
+    "week_seconds": 0,
+    "week_start": 1781515490,
+    "total_seconds": 0
+  },
+  "battleofsky": {
+    "week_seconds": 0,
+    "week_start": 1781515496,
     "total_seconds": 0
   }
 }
