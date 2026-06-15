@@ -1805,14 +1805,14 @@
     "total_seconds": 415
   },
   "creepi0n": {
-    "week_seconds": 361,
+    "week_seconds": 507,
     "week_start": 1781515950,
-    "total_seconds": 361
+    "total_seconds": 507
   },
   "_monor": {
-    "week_seconds": 0,
+    "week_seconds": 750,
     "week_start": 1781516111,
-    "total_seconds": 0
+    "total_seconds": 750
   },
   "airdav": {
     "week_seconds": 0,
@@ -1833,5 +1833,15 @@
     "week_seconds": 0,
     "week_start": 1781516248,
     "total_seconds": 0
+  },
+  "coockie70": {
+    "week_seconds": 0,
+    "week_start": 1781516833,
+    "total_seconds": 0
+  },
+  "sn1sr": {
+    "week_seconds": 6,
+    "week_start": 1781516860,
+    "total_seconds": 6
   }
 }
