@@ -2405,9 +2405,9 @@
     "total_seconds": 11
   },
   "gothmogthemighty": {
-    "week_seconds": 0,
+    "week_seconds": 758,
     "week_start": 1781534083,
-    "total_seconds": 0
+    "total_seconds": 758
   },
   "tuomasz_": {
     "week_seconds": 0,
@@ -2430,8 +2430,18 @@
     "total_seconds": 0
   },
   "spain2728": {
-    "week_seconds": 0,
+    "week_seconds": 59,
     "week_start": 1781534780,
+    "total_seconds": 59
+  },
+  "robertsboberst14": {
+    "week_seconds": 0,
+    "week_start": 1781534832,
+    "total_seconds": 0
+  },
+  "buei": {
+    "week_seconds": 0,
+    "week_start": 1781534844,
     "total_seconds": 0
   }
 }
