@@ -1875,9 +1875,9 @@
     "total_seconds": 7613
   },
   "stratmatt57": {
-    "week_seconds": 14563,
+    "week_seconds": 14579,
     "week_start": 1781518763,
-    "total_seconds": 14563
+    "total_seconds": 14579
   },
   "olgadiamondcat": {
     "week_seconds": 30,
@@ -3472,6 +3472,11 @@
   "imrobinrobin": {
     "week_seconds": 0,
     "week_start": 1781567081,
+    "total_seconds": 0
+  },
+  "bloxtlemc": {
+    "week_seconds": 0,
+    "week_start": 1781567213,
     "total_seconds": 0
   }
 }
