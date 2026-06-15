@@ -1475,9 +1475,9 @@
     "total_seconds": 5
   },
   "red___medic": {
-    "week_seconds": 87,
+    "week_seconds": 2762,
     "week_start": 1781498730,
-    "total_seconds": 87
+    "total_seconds": 2762
   },
   "m4_enthusiasts": {
     "week_seconds": 880,
@@ -1518,5 +1518,10 @@
     "week_seconds": 23,
     "week_start": 1781501594,
     "total_seconds": 23
+  },
+  "_jaek": {
+    "week_seconds": 0,
+    "week_start": 1781501895,
+    "total_seconds": 0
   }
 }
