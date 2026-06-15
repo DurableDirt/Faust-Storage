@@ -870,9 +870,9 @@
     "total_seconds": 140
   },
   "deerifius": {
-    "week_seconds": 10564,
+    "week_seconds": 11039,
     "week_start": 1781484629,
-    "total_seconds": 10564
+    "total_seconds": 11039
   },
   "dreadyheadyyn": {
     "week_seconds": 5,
@@ -1442,6 +1442,11 @@
   "straightup_mc": {
     "week_seconds": 0,
     "week_start": 1781497379,
+    "total_seconds": 0
+  },
+  "ferretwings": {
+    "week_seconds": 0,
+    "week_start": 1781497670,
     "total_seconds": 0
   }
 }
