@@ -1650,9 +1650,9 @@
     "total_seconds": 17629
   },
   "virexil": {
-    "week_seconds": 2553,
+    "week_seconds": 2652,
     "week_start": 1781509271,
-    "total_seconds": 2553
+    "total_seconds": 2652
   },
   "voidvin": {
     "week_seconds": 24064,
@@ -2547,6 +2547,11 @@
   "milevsky": {
     "week_seconds": 0,
     "week_start": 1781537262,
+    "total_seconds": 0
+  },
+  "wallbeck": {
+    "week_seconds": 0,
+    "week_start": 1781537379,
     "total_seconds": 0
   }
 }
