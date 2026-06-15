@@ -375,9 +375,9 @@
     "total_seconds": 6568
   },
   "jamesthegmiguel": {
-    "week_seconds": 1482,
+    "week_seconds": 1566,
     "week_start": 1781477892,
-    "total_seconds": 1482
+    "total_seconds": 1566
   },
   "noctash": {
     "week_seconds": 7809,
@@ -1085,9 +1085,9 @@
     "total_seconds": 855
   },
   "satava": {
-    "week_seconds": 32,
+    "week_seconds": 3233,
     "week_start": 1781487788,
-    "total_seconds": 32
+    "total_seconds": 3233
   },
   "majjcrunsgf": {
     "week_seconds": 709,
@@ -1232,6 +1232,11 @@
   "kahina": {
     "week_seconds": 0,
     "week_start": 1781491056,
+    "total_seconds": 0
+  },
+  "grantwellson": {
+    "week_seconds": 0,
+    "week_start": 1781491105,
     "total_seconds": 0
   }
 }
