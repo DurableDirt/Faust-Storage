@@ -245,9 +245,9 @@
     "total_seconds": 184
   },
   "aluminum_foil_": {
-    "week_seconds": 13964,
+    "week_seconds": 14866,
     "week_start": 1781476568,
-    "total_seconds": 13964
+    "total_seconds": 14866
   },
   "mpusa": {
     "week_seconds": 5267,
@@ -1435,9 +1435,9 @@
     "total_seconds": 2668
   },
   "oceanstrider195": {
-    "week_seconds": 222,
+    "week_seconds": 261,
     "week_start": 1781497129,
-    "total_seconds": 222
+    "total_seconds": 261
   },
   "straightup_mc": {
     "week_seconds": 466,
@@ -1670,8 +1670,13 @@
     "total_seconds": 222
   },
   "wuli": {
-    "week_seconds": 0,
+    "week_seconds": 142,
     "week_start": 1781509985,
+    "total_seconds": 142
+  },
+  "jaydon_": {
+    "week_seconds": 0,
+    "week_start": 1781510086,
     "total_seconds": 0
   }
 }
