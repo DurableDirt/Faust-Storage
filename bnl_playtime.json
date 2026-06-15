@@ -440,9 +440,9 @@
     "total_seconds": 5853
   },
   "screamteam2005": {
-    "week_seconds": 6080,
+    "week_seconds": 7236,
     "week_start": 1781478592,
-    "total_seconds": 6080
+    "total_seconds": 7236
   },
   "iron600": {
     "week_seconds": 24143,
@@ -1355,9 +1355,9 @@
     "total_seconds": 22538
   },
   "s_s_sobolev": {
-    "week_seconds": 6010,
+    "week_seconds": 6211,
     "week_start": 1781494871,
-    "total_seconds": 6010
+    "total_seconds": 6211
   },
   "c4rbonello": {
     "week_seconds": 1112,
@@ -2572,6 +2572,11 @@
   "littletankerbug": {
     "week_seconds": 0,
     "week_start": 1781538323,
+    "total_seconds": 0
+  },
+  "snowpix_": {
+    "week_seconds": 0,
+    "week_start": 1781538879,
     "total_seconds": 0
   }
 }
