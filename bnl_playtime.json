@@ -995,13 +995,18 @@
     "total_seconds": 0
   },
   "dud4vier": {
-    "week_seconds": 0,
+    "week_seconds": 51,
     "week_start": 1781486280,
-    "total_seconds": 0
+    "total_seconds": 51
   },
   "thedragstermc": {
     "week_seconds": 0,
     "week_start": 1781486293,
+    "total_seconds": 0
+  },
+  "marada_sword": {
+    "week_seconds": 0,
+    "week_start": 1781486330,
     "total_seconds": 0
   }
 }
