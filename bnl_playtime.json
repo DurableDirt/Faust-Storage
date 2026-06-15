@@ -3200,9 +3200,9 @@
     "total_seconds": 0
   },
   "060__": {
-    "week_seconds": 0,
+    "week_seconds": 1893,
     "week_start": 1781557885,
-    "total_seconds": 0
+    "total_seconds": 1893
   },
   "proofen22": {
     "week_seconds": 210,
@@ -3232,6 +3232,11 @@
   "solid_pandaman": {
     "week_seconds": 0,
     "week_start": 1781559685,
+    "total_seconds": 0
+  },
+  "yarnnn": {
+    "week_seconds": 0,
+    "week_start": 1781559766,
     "total_seconds": 0
   }
 }
