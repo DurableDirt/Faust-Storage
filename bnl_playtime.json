@@ -45,9 +45,9 @@
     "total_seconds": 7809
   },
   "lucifer420xx": {
-    "week_seconds": 0,
+    "week_seconds": 7958,
     "week_start": 1781474834,
-    "total_seconds": 0
+    "total_seconds": 7958
   },
   "meenos": {
     "week_seconds": 7150,
@@ -1360,9 +1360,9 @@
     "total_seconds": 0
   },
   "c4rbonello": {
-    "week_seconds": 567,
+    "week_seconds": 1112,
     "week_start": 1781494889,
-    "total_seconds": 567
+    "total_seconds": 1112
   },
   "rammyls": {
     "week_seconds": 0,
@@ -1418,5 +1418,10 @@
     "week_seconds": 0,
     "week_start": 1781496572,
     "total_seconds": 0
+  },
+  "vibeturtle": {
+    "week_seconds": 33,
+    "week_start": 1781496687,
+    "total_seconds": 33
   }
 }
