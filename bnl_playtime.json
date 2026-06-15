@@ -35,9 +35,9 @@
     "total_seconds": 1352
   },
   "maxxyrose": {
-    "week_seconds": 734,
+    "week_seconds": 1239,
     "week_start": 1781474643,
-    "total_seconds": 734
+    "total_seconds": 1239
   },
   "piotato": {
     "week_seconds": 12616,
@@ -2802,6 +2802,11 @@
   "sneedchungus": {
     "week_seconds": 0,
     "week_start": 1781546071,
+    "total_seconds": 0
+  },
+  "koklushz": {
+    "week_seconds": 0,
+    "week_start": 1781546247,
     "total_seconds": 0
   }
 }
