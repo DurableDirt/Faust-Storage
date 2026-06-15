@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 30996,
+    "week_seconds": 31143,
     "week_start": 1781479760,
-    "total_seconds": 30996
+    "total_seconds": 31143
   },
   "matilda4k9": {
     "week_seconds": 3147,
@@ -1693,5 +1693,15 @@
     "week_seconds": 0,
     "week_start": 1781510605,
     "total_seconds": 0
+  },
+  "masqo_": {
+    "week_seconds": 0,
+    "week_start": 1781511452,
+    "total_seconds": 0
+  },
+  "eyestrainz": {
+    "week_seconds": 35,
+    "week_start": 1781511497,
+    "total_seconds": 35
   }
 }
