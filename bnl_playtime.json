@@ -810,9 +810,9 @@
     "total_seconds": 15780
   },
   "timantha": {
-    "week_seconds": 22792,
+    "week_seconds": 24306,
     "week_start": 1781483687,
-    "total_seconds": 22792
+    "total_seconds": 24306
   },
   "gnathope": {
     "week_seconds": 20057,
@@ -2350,9 +2350,9 @@
     "total_seconds": 4580
   },
   "asgeir9": {
-    "week_seconds": 8878,
+    "week_seconds": 10121,
     "week_start": 1781532087,
-    "total_seconds": 8878
+    "total_seconds": 10121
   },
   "enderjones529": {
     "week_seconds": 8652,
@@ -2753,5 +2753,10 @@
     "week_seconds": 148,
     "week_start": 1781544786,
     "total_seconds": 148
+  },
+  "krakacz": {
+    "week_seconds": 0,
+    "week_start": 1781545030,
+    "total_seconds": 0
   }
 }
