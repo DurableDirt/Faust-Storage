@@ -185,9 +185,9 @@
     "total_seconds": 8669
   },
   "ahrimanne": {
-    "week_seconds": 6197,
+    "week_seconds": 7034,
     "week_start": 1781476161,
-    "total_seconds": 6197
+    "total_seconds": 7034
   },
   "princess__bow": {
     "week_seconds": 9187,
@@ -965,9 +965,9 @@
     "total_seconds": 123
   },
   "sdorr": {
-    "week_seconds": 0,
+    "week_seconds": 4776,
     "week_start": 1781486048,
-    "total_seconds": 0
+    "total_seconds": 4776
   },
   "cynical_darling": {
     "week_seconds": 2738,
@@ -1222,6 +1222,11 @@
   "imafrenchfry": {
     "week_seconds": 0,
     "week_start": 1781490792,
+    "total_seconds": 0
+  },
+  "_oceanstar": {
+    "week_seconds": 0,
+    "week_start": 1781490835,
     "total_seconds": 0
   }
 }
