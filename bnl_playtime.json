@@ -60,9 +60,9 @@
     "total_seconds": 1493
   },
   "mitthraw91": {
-    "week_seconds": 9692,
+    "week_seconds": 9774,
     "week_start": 1781474873,
-    "total_seconds": 9692
+    "total_seconds": 9774
   },
   "rainsinger": {
     "week_seconds": 4975,
@@ -1377,6 +1377,11 @@
   "furybyproxy": {
     "week_seconds": 0,
     "week_start": 1781495627,
+    "total_seconds": 0
+  },
+  "luin": {
+    "week_seconds": 0,
+    "week_start": 1781495818,
     "total_seconds": 0
   }
 }
