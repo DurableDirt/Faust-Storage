@@ -240,9 +240,9 @@
     "total_seconds": 12689
   },
   "wasabiwhip": {
-    "week_seconds": 956,
+    "week_seconds": 960,
     "week_start": 1781476532,
-    "total_seconds": 956
+    "total_seconds": 960
   },
   "aluminum_foil_": {
     "week_seconds": 18426,
@@ -2035,9 +2035,9 @@
     "total_seconds": 0
   },
   "showerenjoyer7": {
-    "week_seconds": 0,
+    "week_seconds": 1594,
     "week_start": 1781523915,
-    "total_seconds": 0
+    "total_seconds": 1594
   },
   "el_shap0": {
     "week_seconds": 0,
@@ -2082,6 +2082,16 @@
   "ice_cream_guy": {
     "week_seconds": 0,
     "week_start": 1781525044,
+    "total_seconds": 0
+  },
+  "strocraft": {
+    "week_seconds": 0,
+    "week_start": 1781525482,
+    "total_seconds": 0
+  },
+  "m4xoff": {
+    "week_seconds": 0,
+    "week_start": 1781525517,
     "total_seconds": 0
   }
 }
