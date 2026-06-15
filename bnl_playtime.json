@@ -1380,9 +1380,9 @@
     "total_seconds": 1150
   },
   "luin": {
-    "week_seconds": 0,
+    "week_seconds": 1744,
     "week_start": 1781495818,
-    "total_seconds": 0
+    "total_seconds": 1744
   },
   "sommdummy": {
     "week_seconds": 873,
@@ -1410,9 +1410,9 @@
     "total_seconds": 115
   },
   "helloheavy": {
-    "week_seconds": 0,
+    "week_seconds": 1107,
     "week_start": 1781496480,
-    "total_seconds": 0
+    "total_seconds": 1107
   },
   "octo_kat": {
     "week_seconds": 0,
