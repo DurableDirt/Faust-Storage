@@ -245,9 +245,9 @@
     "total_seconds": 5066
   },
   "aluminum_foil_": {
-    "week_seconds": 20579,
+    "week_seconds": 31522,
     "week_start": 1781476568,
-    "total_seconds": 20579
+    "total_seconds": 31522
   },
   "mpusa": {
     "week_seconds": 17226,
@@ -3382,6 +3382,11 @@
   "leozin2k9": {
     "week_seconds": 0,
     "week_start": 1781564305,
+    "total_seconds": 0
+  },
+  "snekintophat": {
+    "week_seconds": 0,
+    "week_start": 1781564335,
     "total_seconds": 0
   }
 }
