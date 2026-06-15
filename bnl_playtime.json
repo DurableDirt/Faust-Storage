@@ -835,9 +835,9 @@
     "total_seconds": 0
   },
   "rydestar": {
-    "week_seconds": 0,
+    "week_seconds": 866,
     "week_start": 1781484093,
-    "total_seconds": 0
+    "total_seconds": 866
   },
   "socialistspectre": {
     "week_seconds": 0,
@@ -887,6 +887,16 @@
   "espec17": {
     "week_seconds": 0,
     "week_start": 1781484846,
+    "total_seconds": 0
+  },
+  "c32shark": {
+    "week_seconds": 0,
+    "week_start": 1781484918,
+    "total_seconds": 0
+  },
+  "bigg2010": {
+    "week_seconds": 0,
+    "week_start": 1781484989,
     "total_seconds": 0
   }
 }
