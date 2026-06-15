@@ -135,9 +135,9 @@
     "total_seconds": 15254
   },
   "donnelpyke2": {
-    "week_seconds": 6235,
+    "week_seconds": 7466,
     "week_start": 1781475849,
-    "total_seconds": 6235
+    "total_seconds": 7466
   },
   "ziqh333": {
     "week_seconds": 7,
@@ -1382,6 +1382,11 @@
   "luin": {
     "week_seconds": 0,
     "week_start": 1781495818,
+    "total_seconds": 0
+  },
+  "sommdummy": {
+    "week_seconds": 0,
+    "week_start": 1781495930,
     "total_seconds": 0
   }
 }
