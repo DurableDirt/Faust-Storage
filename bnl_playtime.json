@@ -1110,9 +1110,9 @@
     "total_seconds": 1460
   },
   "warendrop": {
-    "week_seconds": 13184,
+    "week_seconds": 18162,
     "week_start": 1781488025,
-    "total_seconds": 13184
+    "total_seconds": 18162
   },
   "boatcat": {
     "week_seconds": 17452,
@@ -1713,5 +1713,10 @@
     "week_seconds": 0,
     "week_start": 1781511995,
     "total_seconds": 0
+  },
+  "hugolegend2014": {
+    "week_seconds": 32,
+    "week_start": 1781512251,
+    "total_seconds": 32
   }
 }
