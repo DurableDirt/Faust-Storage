@@ -2005,9 +2005,9 @@
     "total_seconds": 1247
   },
   "kelsokevin": {
-    "week_seconds": 1238,
+    "week_seconds": 6990,
     "week_start": 1781523034,
-    "total_seconds": 1238
+    "total_seconds": 6990
   },
   "olliebell": {
     "week_seconds": 1083,
@@ -2125,9 +2125,9 @@
     "total_seconds": 17
   },
   "princeundead": {
-    "week_seconds": 0,
+    "week_seconds": 3588,
     "week_start": 1781526446,
-    "total_seconds": 0
+    "total_seconds": 3588
   },
   "itssoly4548": {
     "week_seconds": 208,
@@ -2263,5 +2263,10 @@
     "week_seconds": 236,
     "week_start": 1781529591,
     "total_seconds": 236
+  },
+  "pergyskeel": {
+    "week_seconds": 0,
+    "week_start": 1781530012,
+    "total_seconds": 0
   }
 }
