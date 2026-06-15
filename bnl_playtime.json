@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 40007,
+    "week_seconds": 42096,
     "week_start": 1781479760,
-    "total_seconds": 40007
+    "total_seconds": 42096
   },
   "matilda4k9": {
     "week_seconds": 3147,
@@ -2235,9 +2235,9 @@
     "total_seconds": 191
   },
   "viperth": {
-    "week_seconds": 9186,
+    "week_seconds": 9447,
     "week_start": 1781529096,
-    "total_seconds": 9186
+    "total_seconds": 9447
   },
   "zalvvv": {
     "week_seconds": 336,
@@ -2608,5 +2608,10 @@
     "week_seconds": 231,
     "week_start": 1781539748,
     "total_seconds": 231
+  },
+  "phytophthorato": {
+    "week_seconds": 0,
+    "week_start": 1781540062,
+    "total_seconds": 0
   }
 }
