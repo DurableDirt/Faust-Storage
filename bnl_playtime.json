@@ -2555,9 +2555,9 @@
     "total_seconds": 1116
   },
   "yunfi": {
-    "week_seconds": 5900,
+    "week_seconds": 6984,
     "week_start": 1781537464,
-    "total_seconds": 5900
+    "total_seconds": 6984
   },
   "myng11": {
     "week_seconds": 606,
@@ -2837,6 +2837,21 @@
   "lilcyber": {
     "week_seconds": 0,
     "week_start": 1781546690,
+    "total_seconds": 0
+  },
+  "lc4d": {
+    "week_seconds": 0,
+    "week_start": 1781546695,
+    "total_seconds": 0
+  },
+  "artels": {
+    "week_seconds": 0,
+    "week_start": 1781546723,
+    "total_seconds": 0
+  },
+  "queenceliathe1st": {
+    "week_seconds": 0,
+    "week_start": 1781546737,
     "total_seconds": 0
   }
 }
