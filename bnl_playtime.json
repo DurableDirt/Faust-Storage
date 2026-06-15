@@ -2080,9 +2080,9 @@
     "total_seconds": 0
   },
   "ice_cream_guy": {
-    "week_seconds": 0,
+    "week_seconds": 597,
     "week_start": 1781525044,
-    "total_seconds": 0
+    "total_seconds": 597
   },
   "strocraft": {
     "week_seconds": 0,
@@ -2090,8 +2090,8 @@
     "total_seconds": 0
   },
   "m4xoff": {
-    "week_seconds": 0,
+    "week_seconds": 156,
     "week_start": 1781525517,
-    "total_seconds": 0
+    "total_seconds": 156
   }
 }
