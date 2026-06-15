@@ -1735,9 +1735,9 @@
     "total_seconds": 2154
   },
   "mayaafox": {
-    "week_seconds": 4100,
+    "week_seconds": 4225,
     "week_start": 1781513537,
-    "total_seconds": 4100
+    "total_seconds": 4225
   },
   "colorkoded": {
     "week_seconds": 41,
@@ -1892,6 +1892,11 @@
   "londara": {
     "week_seconds": 0,
     "week_start": 1781518921,
+    "total_seconds": 0
+  },
+  "ragthanatos1": {
+    "week_seconds": 0,
+    "week_start": 1781519051,
     "total_seconds": 0
   }
 }
