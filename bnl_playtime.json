@@ -1340,9 +1340,9 @@
     "total_seconds": 6146
   },
   "misprint293": {
-    "week_seconds": 3259,
+    "week_seconds": 3588,
     "week_start": 1781493068,
-    "total_seconds": 3259
+    "total_seconds": 3588
   },
   "choripancaliente": {
     "week_seconds": 933,
@@ -1582,6 +1582,11 @@
   "gobblin": {
     "week_seconds": 0,
     "week_start": 1781505039,
+    "total_seconds": 0
+  },
+  "vlinar": {
+    "week_seconds": 0,
+    "week_start": 1781505389,
     "total_seconds": 0
   }
 }
