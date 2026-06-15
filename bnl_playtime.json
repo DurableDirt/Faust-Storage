@@ -60,9 +60,9 @@
     "total_seconds": 1493
   },
   "mitthraw91": {
-    "week_seconds": 40020,
+    "week_seconds": 40306,
     "week_start": 1781474873,
-    "total_seconds": 40020
+    "total_seconds": 40306
   },
   "rainsinger": {
     "week_seconds": 22222,
@@ -2235,9 +2235,9 @@
     "total_seconds": 191
   },
   "viperth": {
-    "week_seconds": 3166,
+    "week_seconds": 4484,
     "week_start": 1781529096,
-    "total_seconds": 3166
+    "total_seconds": 4484
   },
   "zalvvv": {
     "week_seconds": 336,
@@ -2435,13 +2435,18 @@
     "total_seconds": 59
   },
   "robertsboberst14": {
-    "week_seconds": 0,
+    "week_seconds": 54,
     "week_start": 1781534832,
-    "total_seconds": 0
+    "total_seconds": 54
   },
   "buei": {
-    "week_seconds": 0,
+    "week_seconds": 49,
     "week_start": 1781534844,
+    "total_seconds": 49
+  },
+  "soggywafle236": {
+    "week_seconds": 0,
+    "week_start": 1781534874,
     "total_seconds": 0
   }
 }
