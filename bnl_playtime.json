@@ -35,9 +35,9 @@
     "total_seconds": 1352
   },
   "maxxyrose": {
-    "week_seconds": 2276,
+    "week_seconds": 5414,
     "week_start": 1781474643,
-    "total_seconds": 2276
+    "total_seconds": 5414
   },
   "piotato": {
     "week_seconds": 14627,
@@ -840,9 +840,9 @@
     "total_seconds": 2971
   },
   "socialistspectre": {
-    "week_seconds": 27014,
+    "week_seconds": 31665,
     "week_start": 1781484121,
-    "total_seconds": 27014
+    "total_seconds": 31665
   },
   "desmonddotjpeg": {
     "week_seconds": 364,
@@ -3260,9 +3260,9 @@
     "total_seconds": 2279
   },
   "primalrex_3": {
-    "week_seconds": 0,
+    "week_seconds": 2481,
     "week_start": 1781560574,
-    "total_seconds": 0
+    "total_seconds": 2481
   },
   "sebsterim": {
     "week_seconds": 443,
@@ -3340,8 +3340,13 @@
     "total_seconds": 0
   },
   "tintin360": {
-    "week_seconds": 0,
+    "week_seconds": 226,
     "week_start": 1781562836,
+    "total_seconds": 226
+  },
+  "yumball12": {
+    "week_seconds": 0,
+    "week_start": 1781563063,
     "total_seconds": 0
   }
 }
