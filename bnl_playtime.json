@@ -805,9 +805,9 @@
     "total_seconds": 6557
   },
   "theunreales": {
-    "week_seconds": 15780,
+    "week_seconds": 17907,
     "week_start": 1781483636,
-    "total_seconds": 15780
+    "total_seconds": 17907
   },
   "timantha": {
     "week_seconds": 28576,
@@ -2965,9 +2965,9 @@
     "total_seconds": 1475
   },
   "yuitzzy": {
-    "week_seconds": 0,
+    "week_seconds": 2290,
     "week_start": 1781550989,
-    "total_seconds": 0
+    "total_seconds": 2290
   },
   "_aperson1": {
     "week_seconds": 0,
@@ -3047,6 +3047,11 @@
   "dogvee9": {
     "week_seconds": 0,
     "week_start": 1781553136,
+    "total_seconds": 0
+  },
+  "ehjohnson666": {
+    "week_seconds": 0,
+    "week_start": 1781553269,
     "total_seconds": 0
   }
 }
