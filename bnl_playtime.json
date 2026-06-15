@@ -810,9 +810,9 @@
     "total_seconds": 18868
   },
   "timantha": {
-    "week_seconds": 37625,
+    "week_seconds": 37842,
     "week_start": 1781483687,
-    "total_seconds": 37625
+    "total_seconds": 37842
   },
   "gnathope": {
     "week_seconds": 22187,
@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 22670,
+    "week_seconds": 24945,
     "week_start": 1781513574,
-    "total_seconds": 22670
+    "total_seconds": 24945
   },
   "stavros_ell": {
     "week_seconds": 11447,
@@ -3418,5 +3418,10 @@
     "week_seconds": 5,
     "week_start": 1781565478,
     "total_seconds": 5
+  },
+  "giant_ninja_ham": {
+    "week_seconds": 0,
+    "week_start": 1781565607,
+    "total_seconds": 0
   }
 }
