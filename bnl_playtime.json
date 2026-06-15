@@ -525,9 +525,9 @@
     "total_seconds": 7709
   },
   "shadno": {
-    "week_seconds": 283,
+    "week_seconds": 329,
     "week_start": 1781479968,
-    "total_seconds": 283
+    "total_seconds": 329
   },
   "hexayn": {
     "week_seconds": 974,
@@ -2042,6 +2042,11 @@
   "el_shap0": {
     "week_seconds": 0,
     "week_start": 1781523974,
+    "total_seconds": 0
+  },
+  "nareik01": {
+    "week_seconds": 0,
+    "week_start": 1781524184,
     "total_seconds": 0
   }
 }
