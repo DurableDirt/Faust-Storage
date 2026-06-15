@@ -690,9 +690,9 @@
     "total_seconds": 0
   },
   "supposed": {
-    "week_seconds": 0,
+    "week_seconds": 2466,
     "week_start": 1781482108,
-    "total_seconds": 0
+    "total_seconds": 2466
   },
   "mr_kalboy": {
     "week_seconds": 1348,
@@ -845,9 +845,9 @@
     "total_seconds": 0
   },
   "desmonddotjpeg": {
-    "week_seconds": 0,
+    "week_seconds": 364,
     "week_start": 1781484202,
-    "total_seconds": 0
+    "total_seconds": 364
   },
   "tgkpur": {
     "week_seconds": 0,
@@ -863,5 +863,10 @@
     "week_seconds": 23,
     "week_start": 1781484479,
     "total_seconds": 23
+  },
+  "anvil": {
+    "week_seconds": 0,
+    "week_start": 1781484585,
+    "total_seconds": 0
   }
 }
