@@ -685,9 +685,9 @@
     "total_seconds": 5272
   },
   "cheesenoodle24": {
-    "week_seconds": 7861,
+    "week_seconds": 9716,
     "week_start": 1781482060,
-    "total_seconds": 7861
+    "total_seconds": 9716
   },
   "supposed": {
     "week_seconds": 2466,
@@ -1607,6 +1607,11 @@
   "scavedr": {
     "week_seconds": 0,
     "week_start": 1781506060,
+    "total_seconds": 0
+  },
+  "adeadhead": {
+    "week_seconds": 0,
+    "week_start": 1781506340,
     "total_seconds": 0
   }
 }
