@@ -440,9 +440,9 @@
     "total_seconds": 5853
   },
   "screamteam2005": {
-    "week_seconds": 3866,
+    "week_seconds": 5964,
     "week_start": 1781478592,
-    "total_seconds": 3866
+    "total_seconds": 5964
   },
   "iron600": {
     "week_seconds": 24143,
@@ -2542,6 +2542,11 @@
   "i_waffle_i": {
     "week_seconds": 0,
     "week_start": 1781537232,
+    "total_seconds": 0
+  },
+  "milevsky": {
+    "week_seconds": 0,
+    "week_start": 1781537262,
     "total_seconds": 0
   }
 }
