@@ -940,9 +940,9 @@
     "total_seconds": 0
   },
   "x1025": {
-    "week_seconds": 419,
+    "week_seconds": 512,
     "week_start": 1781485724,
-    "total_seconds": 419
+    "total_seconds": 512
   },
   "xcios": {
     "week_seconds": 1282,
@@ -1078,5 +1078,10 @@
     "week_seconds": 214,
     "week_start": 1781487417,
     "total_seconds": 214
+  },
+  "orestraya": {
+    "week_seconds": 0,
+    "week_start": 1781487686,
+    "total_seconds": 0
   }
 }
