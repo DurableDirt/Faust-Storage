@@ -1515,9 +1515,9 @@
     "total_seconds": 110
   },
   "fang_op": {
-    "week_seconds": 1373,
+    "week_seconds": 4412,
     "week_start": 1781501594,
-    "total_seconds": 1373
+    "total_seconds": 4412
   },
   "_jaek": {
     "week_seconds": 20545,
@@ -2427,6 +2427,11 @@
   "nojabro10": {
     "week_seconds": 0,
     "week_start": 1781534610,
+    "total_seconds": 0
+  },
+  "spain2728": {
+    "week_seconds": 0,
+    "week_start": 1781534780,
     "total_seconds": 0
   }
 }
