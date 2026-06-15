@@ -1685,9 +1685,9 @@
     "total_seconds": 4
   },
   "oceanic161story": {
-    "week_seconds": 12854,
+    "week_seconds": 15579,
     "week_start": 1781510582,
-    "total_seconds": 12854
+    "total_seconds": 15579
   },
   "solitaire7": {
     "week_seconds": 4308,
@@ -2158,5 +2158,15 @@
     "week_seconds": 16,
     "week_start": 1781527495,
     "total_seconds": 16
+  },
+  "voidhecker": {
+    "week_seconds": 0,
+    "week_start": 1781527533,
+    "total_seconds": 0
+  },
+  "hemsku": {
+    "week_seconds": 0,
+    "week_start": 1781527535,
+    "total_seconds": 0
   }
 }
