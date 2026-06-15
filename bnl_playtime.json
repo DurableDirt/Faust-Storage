@@ -990,9 +990,9 @@
     "total_seconds": 126
   },
   "jettkid17": {
-    "week_seconds": 0,
+    "week_seconds": 4919,
     "week_start": 1781486257,
-    "total_seconds": 0
+    "total_seconds": 4919
   },
   "dud4vier": {
     "week_seconds": 51,
@@ -1080,9 +1080,9 @@
     "total_seconds": 214
   },
   "orestraya": {
-    "week_seconds": 855,
+    "week_seconds": 3152,
     "week_start": 1781487686,
-    "total_seconds": 855
+    "total_seconds": 3152
   },
   "satava": {
     "week_seconds": 3233,
@@ -1225,9 +1225,9 @@
     "total_seconds": 0
   },
   "_oceanstar": {
-    "week_seconds": 62,
+    "week_seconds": 93,
     "week_start": 1781490835,
-    "total_seconds": 62
+    "total_seconds": 93
   },
   "kahina": {
     "week_seconds": 0,
@@ -1237,6 +1237,11 @@
   "grantwellson": {
     "week_seconds": 0,
     "week_start": 1781491105,
+    "total_seconds": 0
+  },
+  "mtfuji": {
+    "week_seconds": 0,
+    "week_start": 1781491151,
     "total_seconds": 0
   }
 }
