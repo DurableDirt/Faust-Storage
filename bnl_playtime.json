@@ -685,9 +685,9 @@
     "total_seconds": 5272
   },
   "cheesenoodle24": {
-    "week_seconds": 5559,
+    "week_seconds": 7861,
     "week_start": 1781482060,
-    "total_seconds": 5559
+    "total_seconds": 7861
   },
   "supposed": {
     "week_seconds": 2466,
@@ -1473,5 +1473,10 @@
     "week_seconds": 5,
     "week_start": 1781498653,
     "total_seconds": 5
+  },
+  "red___medic": {
+    "week_seconds": 0,
+    "week_start": 1781498730,
+    "total_seconds": 0
   }
 }
