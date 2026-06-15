@@ -915,9 +915,9 @@
     "total_seconds": 2025
   },
   "myfatherisnotch": {
-    "week_seconds": 579,
+    "week_seconds": 2040,
     "week_start": 1781485400,
-    "total_seconds": 579
+    "total_seconds": 2040
   },
   "way2muchprada": {
     "week_seconds": 1349,
@@ -1092,6 +1092,11 @@
   "majjcrunsgf": {
     "week_seconds": 0,
     "week_start": 1781487828,
+    "total_seconds": 0
+  },
+  "magickponch": {
+    "week_seconds": 0,
+    "week_start": 1781487886,
     "total_seconds": 0
   }
 }
