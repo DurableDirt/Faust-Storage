@@ -240,9 +240,9 @@
     "total_seconds": 12689
   },
   "wasabiwhip": {
-    "week_seconds": 960,
+    "week_seconds": 1332,
     "week_start": 1781476532,
-    "total_seconds": 960
+    "total_seconds": 1332
   },
   "aluminum_foil_": {
     "week_seconds": 18426,
@@ -2120,8 +2120,8 @@
     "total_seconds": 0
   },
   "reffelruz": {
-    "week_seconds": 0,
+    "week_seconds": 17,
     "week_start": 1781526384,
-    "total_seconds": 0
+    "total_seconds": 17
   }
 }
