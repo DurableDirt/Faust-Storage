@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 50767,
+    "week_seconds": 50958,
     "week_start": 1781479760,
-    "total_seconds": 50767
+    "total_seconds": 50958
   },
   "matilda4k9": {
     "week_seconds": 3147,
@@ -715,9 +715,9 @@
     "total_seconds": 10383
   },
   "limtingus1": {
-    "week_seconds": 15029,
+    "week_seconds": 15036,
     "week_start": 1781482426,
-    "total_seconds": 15029
+    "total_seconds": 15036
   },
   "the_montenegrin": {
     "week_seconds": 329,
@@ -3312,6 +3312,11 @@
   "sagapocalypse": {
     "week_seconds": 0,
     "week_start": 1781561905,
+    "total_seconds": 0
+  },
+  "praoubl": {
+    "week_seconds": 0,
+    "week_start": 1781562177,
     "total_seconds": 0
   }
 }
