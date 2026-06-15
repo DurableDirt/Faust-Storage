@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 10030,
+    "week_seconds": 18601,
     "week_start": 1781513574,
-    "total_seconds": 10030
+    "total_seconds": 18601
   },
   "stavros_ell": {
     "week_seconds": 11447,
@@ -2497,6 +2497,11 @@
   "blazelogic": {
     "week_seconds": 0,
     "week_start": 1781535865,
+    "total_seconds": 0
+  },
+  "mariora": {
+    "week_seconds": 0,
+    "week_start": 1781536092,
     "total_seconds": 0
   }
 }
