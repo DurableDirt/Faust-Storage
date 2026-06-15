@@ -440,9 +440,9 @@
     "total_seconds": 616
   },
   "screamteam2005": {
-    "week_seconds": 0,
+    "week_seconds": 3866,
     "week_start": 1781478592,
-    "total_seconds": 0
+    "total_seconds": 3866
   },
   "iron600": {
     "week_seconds": 0,
@@ -712,6 +712,11 @@
   "airheadsupreme": {
     "week_seconds": 0,
     "week_start": 1781482314,
+    "total_seconds": 0
+  },
+  "limtingus1": {
+    "week_seconds": 0,
+    "week_start": 1781482426,
     "total_seconds": 0
   }
 }
