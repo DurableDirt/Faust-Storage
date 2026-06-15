@@ -1975,9 +1975,9 @@
     "total_seconds": 240
   },
   "capybaralove90": {
-    "week_seconds": 0,
+    "week_seconds": 1600,
     "week_start": 1781522300,
-    "total_seconds": 0
+    "total_seconds": 1600
   },
   "monoilo": {
     "week_seconds": 0,
@@ -2032,6 +2032,11 @@
   "benzoeg": {
     "week_seconds": 0,
     "week_start": 1781523759,
+    "total_seconds": 0
+  },
+  "showerenjoyer7": {
+    "week_seconds": 0,
+    "week_start": 1781523915,
     "total_seconds": 0
   }
 }
