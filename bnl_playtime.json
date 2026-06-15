@@ -3025,9 +3025,9 @@
     "total_seconds": 0
   },
   "jsdude437": {
-    "week_seconds": 0,
+    "week_seconds": 2483,
     "week_start": 1781552386,
-    "total_seconds": 0
+    "total_seconds": 2483
   },
   "capollie": {
     "week_seconds": 0,
@@ -3102,6 +3102,11 @@
   "borito185": {
     "week_seconds": 0,
     "week_start": 1781554566,
+    "total_seconds": 0
+  },
+  "crow9225": {
+    "week_seconds": 0,
+    "week_start": 1781554864,
     "total_seconds": 0
   }
 }
