@@ -80,9 +80,9 @@
     "total_seconds": 5009
   },
   "lynx2007": {
-    "week_seconds": 15244,
+    "week_seconds": 15274,
     "week_start": 1781475059,
-    "total_seconds": 15244
+    "total_seconds": 15274
   },
   "cunningwind6139": {
     "week_seconds": 3737,
@@ -3032,6 +3032,11 @@
   "capollie": {
     "week_seconds": 0,
     "week_start": 1781552442,
+    "total_seconds": 0
+  },
+  "thyme13": {
+    "week_seconds": 0,
+    "week_start": 1781552629,
     "total_seconds": 0
   }
 }
