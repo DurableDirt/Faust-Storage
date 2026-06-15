@@ -300,9 +300,9 @@
     "total_seconds": 3375
   },
   "tatsu007": {
-    "week_seconds": 14325,
+    "week_seconds": 14570,
     "week_start": 1781477156,
-    "total_seconds": 14325
+    "total_seconds": 14570
   },
   "olderastory": {
     "week_seconds": 7949,
@@ -2893,5 +2893,10 @@
     "week_seconds": 14,
     "week_start": 1781548108,
     "total_seconds": 14
+  },
+  "nolsie14": {
+    "week_seconds": 23,
+    "week_start": 1781548186,
+    "total_seconds": 23
   }
 }
