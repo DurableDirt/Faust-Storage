@@ -115,9 +115,9 @@
     "total_seconds": 150
   },
   "xjetistuff": {
-    "week_seconds": 3861,
+    "week_seconds": 6487,
     "week_start": 1781475510,
-    "total_seconds": 3861
+    "total_seconds": 6487
   },
   "popshotx9": {
     "week_seconds": 1010,
@@ -2093,5 +2093,20 @@
     "week_seconds": 156,
     "week_start": 1781525517,
     "total_seconds": 156
+  },
+  "thatguymisan": {
+    "week_seconds": 0,
+    "week_start": 1781525737,
+    "total_seconds": 0
+  },
+  "nomadf": {
+    "week_seconds": 0,
+    "week_start": 1781525780,
+    "total_seconds": 0
+  },
+  "lukedsp": {
+    "week_seconds": 0,
+    "week_start": 1781525800,
+    "total_seconds": 0
   }
 }
