@@ -285,9 +285,9 @@
     "total_seconds": 12012
   },
   "mechanicalrift": {
-    "week_seconds": 36270,
+    "week_seconds": 39474,
     "week_start": 1781476919,
-    "total_seconds": 36270
+    "total_seconds": 39474
   },
   "aguscon": {
     "week_seconds": 9250,
@@ -1370,9 +1370,9 @@
     "total_seconds": 16532
   },
   "adelover01": {
-    "week_seconds": 7559,
+    "week_seconds": 11010,
     "week_start": 1781495390,
-    "total_seconds": 7559
+    "total_seconds": 11010
   },
   "furybyproxy": {
     "week_seconds": 18687,
@@ -3410,8 +3410,8 @@
     "total_seconds": 0
   },
   "hedrone": {
-    "week_seconds": 0,
+    "week_seconds": 157,
     "week_start": 1781564878,
-    "total_seconds": 0
+    "total_seconds": 157
   }
 }
