@@ -1525,9 +1525,9 @@
     "total_seconds": 0
   },
   "deuteriumoxide1": {
-    "week_seconds": 0,
+    "week_seconds": 1209,
     "week_start": 1781502340,
-    "total_seconds": 0
+    "total_seconds": 1209
   },
   "xlader161": {
     "week_seconds": 657,
@@ -1548,5 +1548,10 @@
     "week_seconds": 11,
     "week_start": 1781503288,
     "total_seconds": 11
+  },
+  "layyodious": {
+    "week_seconds": 0,
+    "week_start": 1781503498,
+    "total_seconds": 0
   }
 }
