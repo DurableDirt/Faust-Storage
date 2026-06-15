@@ -80,9 +80,9 @@
     "total_seconds": 626
   },
   "lynx2007": {
-    "week_seconds": 5507,
+    "week_seconds": 15071,
     "week_start": 1781475059,
-    "total_seconds": 5507
+    "total_seconds": 15071
   },
   "cunningwind6139": {
     "week_seconds": 3737,
@@ -1298,5 +1298,10 @@
     "week_seconds": 32,
     "week_start": 1781492040,
     "total_seconds": 32
+  },
+  "godofplush": {
+    "week_seconds": 0,
+    "week_start": 1781492125,
+    "total_seconds": 0
   }
 }
