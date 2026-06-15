@@ -2285,9 +2285,9 @@
     "total_seconds": 66
   },
   "jr212": {
-    "week_seconds": 4611,
+    "week_seconds": 4650,
     "week_start": 1781530293,
-    "total_seconds": 4611
+    "total_seconds": 4650
   },
   "smagz24": {
     "week_seconds": 0,
@@ -2627,6 +2627,11 @@
   "syvslime": {
     "week_seconds": 0,
     "week_start": 1781540180,
+    "total_seconds": 0
+  },
+  "joldidk": {
+    "week_seconds": 0,
+    "week_start": 1781540251,
     "total_seconds": 0
   }
 }
