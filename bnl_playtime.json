@@ -1670,9 +1670,9 @@
     "total_seconds": 222
   },
   "wuli": {
-    "week_seconds": 2621,
+    "week_seconds": 3575,
     "week_start": 1781509985,
-    "total_seconds": 2621
+    "total_seconds": 3575
   },
   "jaydon_": {
     "week_seconds": 4678,
@@ -2028,5 +2028,10 @@
     "week_seconds": 8,
     "week_start": 1781523646,
     "total_seconds": 8
+  },
+  "benzoeg": {
+    "week_seconds": 0,
+    "week_start": 1781523759,
+    "total_seconds": 0
   }
 }
