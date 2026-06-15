@@ -165,9 +165,9 @@
     "total_seconds": 9295
   },
   "nobodypanicc": {
-    "week_seconds": 11599,
+    "week_seconds": 12077,
     "week_start": 1781476038,
-    "total_seconds": 11599
+    "total_seconds": 12077
   },
   "snw": {
     "week_seconds": 2715,
@@ -540,9 +540,9 @@
     "total_seconds": 32
   },
   "mouthbreather30": {
-    "week_seconds": 12718,
+    "week_seconds": 15288,
     "week_start": 1781480133,
-    "total_seconds": 12718
+    "total_seconds": 15288
   },
   "shoomsi": {
     "week_seconds": 5193,
@@ -3222,6 +3222,11 @@
   "mannami": {
     "week_seconds": 0,
     "week_start": 1781559016,
+    "total_seconds": 0
+  },
+  "pixitchi_o3o": {
+    "week_seconds": 0,
+    "week_start": 1781559524,
     "total_seconds": 0
   }
 }
