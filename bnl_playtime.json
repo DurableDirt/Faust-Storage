@@ -1225,9 +1225,9 @@
     "total_seconds": 1364
   },
   "_oceanstar": {
-    "week_seconds": 8139,
+    "week_seconds": 8172,
     "week_start": 1781490835,
-    "total_seconds": 8139
+    "total_seconds": 8172
   },
   "kahina": {
     "week_seconds": 1913,
@@ -2957,6 +2957,11 @@
   "enchanted_cow": {
     "week_seconds": 0,
     "week_start": 1781550099,
+    "total_seconds": 0
+  },
+  "lucifer_sh": {
+    "week_seconds": 0,
+    "week_start": 1781550837,
     "total_seconds": 0
   }
 }
