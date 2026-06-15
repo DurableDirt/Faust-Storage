@@ -1525,9 +1525,9 @@
     "total_seconds": 11644
   },
   "deuteriumoxide1": {
-    "week_seconds": 10204,
+    "week_seconds": 13534,
     "week_start": 1781502340,
-    "total_seconds": 10204
+    "total_seconds": 13534
   },
   "xlader161": {
     "week_seconds": 16016,
@@ -1675,9 +1675,9 @@
     "total_seconds": 142
   },
   "jaydon_": {
-    "week_seconds": 2102,
+    "week_seconds": 4186,
     "week_start": 1781510086,
-    "total_seconds": 2102
+    "total_seconds": 4186
   },
   "pina0210": {
     "week_seconds": 4,
@@ -1957,6 +1957,11 @@
   "thebigbeast2711": {
     "week_seconds": 0,
     "week_start": 1781521803,
+    "total_seconds": 0
+  },
+  "flygbuss_tom": {
+    "week_seconds": 0,
+    "week_start": 1781521967,
     "total_seconds": 0
   }
 }
