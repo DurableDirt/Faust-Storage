@@ -285,9 +285,9 @@
     "total_seconds": 1269
   },
   "mechanicalrift": {
-    "week_seconds": 0,
+    "week_seconds": 12150,
     "week_start": 1781476919,
-    "total_seconds": 0
+    "total_seconds": 12150
   },
   "aguscon": {
     "week_seconds": 7488,
@@ -1135,13 +1135,18 @@
     "total_seconds": 0
   },
   "hazqr_": {
-    "week_seconds": 0,
+    "week_seconds": 222,
     "week_start": 1781488842,
-    "total_seconds": 0
+    "total_seconds": 222
   },
   "steelhand7": {
     "week_seconds": 10,
     "week_start": 1781488907,
     "total_seconds": 10
+  },
+  "hitmehn": {
+    "week_seconds": 0,
+    "week_start": 1781489056,
+    "total_seconds": 0
   }
 }
