@@ -50,9 +50,9 @@
     "total_seconds": 0
   },
   "meenos": {
-    "week_seconds": 6462,
+    "week_seconds": 6503,
     "week_start": 1781474845,
-    "total_seconds": 6462
+    "total_seconds": 6503
   },
   "jadenjb": {
     "week_seconds": 1493,
@@ -250,9 +250,9 @@
     "total_seconds": 591
   },
   "mpusa": {
-    "week_seconds": 3463,
+    "week_seconds": 5267,
     "week_start": 1781476578,
-    "total_seconds": 3463
+    "total_seconds": 5267
   },
   "madmachinist25": {
     "week_seconds": 4970,
@@ -360,9 +360,9 @@
     "total_seconds": 201
   },
   "astrosandwich": {
-    "week_seconds": 1493,
+    "week_seconds": 4420,
     "week_start": 1781477694,
-    "total_seconds": 1493
+    "total_seconds": 4420
   },
   "wheaties24": {
     "week_seconds": 441,
@@ -692,6 +692,16 @@
   "supposed": {
     "week_seconds": 0,
     "week_start": 1781482108,
+    "total_seconds": 0
+  },
+  "mr_kalboy": {
+    "week_seconds": 0,
+    "week_start": 1781482170,
+    "total_seconds": 0
+  },
+  "baro_mortis": {
+    "week_seconds": 0,
+    "week_start": 1781482179,
     "total_seconds": 0
   }
 }
