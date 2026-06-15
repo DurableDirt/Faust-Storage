@@ -2780,9 +2780,9 @@
     "total_seconds": 1786
   },
   "monny12345": {
-    "week_seconds": 4455,
+    "week_seconds": 5618,
     "week_start": 1781545483,
-    "total_seconds": 4455
+    "total_seconds": 5618
   },
   "zzumzum": {
     "week_seconds": 0,
@@ -3197,6 +3197,11 @@
   "black__wolf_": {
     "week_seconds": 0,
     "week_start": 1781557800,
+    "total_seconds": 0
+  },
+  "060__": {
+    "week_seconds": 0,
+    "week_start": 1781557885,
     "total_seconds": 0
   }
 }
