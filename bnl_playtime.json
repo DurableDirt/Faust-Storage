@@ -290,9 +290,9 @@
     "total_seconds": 36270
   },
   "aguscon": {
-    "week_seconds": 7488,
+    "week_seconds": 9250,
     "week_start": 1781477034,
-    "total_seconds": 7488
+    "total_seconds": 9250
   },
   "microwavedmango": {
     "week_seconds": 3375,
@@ -565,9 +565,9 @@
     "total_seconds": 14156
   },
   "graydawn_": {
-    "week_seconds": 31122,
+    "week_seconds": 38559,
     "week_start": 1781480271,
-    "total_seconds": 31122
+    "total_seconds": 38559
   },
   "angie_dovie111": {
     "week_seconds": 14176,
@@ -3297,6 +3297,11 @@
   "twinkieexpresss": {
     "week_seconds": 0,
     "week_start": 1781561231,
+    "total_seconds": 0
+  },
+  "senkucola": {
+    "week_seconds": 0,
+    "week_start": 1781561460,
     "total_seconds": 0
   }
 }
