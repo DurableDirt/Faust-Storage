@@ -525,9 +525,9 @@
     "total_seconds": 7709
   },
   "shadno": {
-    "week_seconds": 26,
+    "week_seconds": 52,
     "week_start": 1781479968,
-    "total_seconds": 26
+    "total_seconds": 52
   },
   "hexayn": {
     "week_seconds": 974,
@@ -1947,6 +1947,16 @@
   "lolmi202": {
     "week_seconds": 0,
     "week_start": 1781521408,
+    "total_seconds": 0
+  },
+  "teato": {
+    "week_seconds": 0,
+    "week_start": 1781521729,
+    "total_seconds": 0
+  },
+  "thebigbeast2711": {
+    "week_seconds": 0,
+    "week_start": 1781521803,
     "total_seconds": 0
   }
 }
