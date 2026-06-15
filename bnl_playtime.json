@@ -75,9 +75,9 @@
     "total_seconds": 16727
   },
   "40mm": {
-    "week_seconds": 4888,
+    "week_seconds": 5009,
     "week_start": 1781475020,
-    "total_seconds": 4888
+    "total_seconds": 5009
   },
   "lynx2007": {
     "week_seconds": 15218,
@@ -2350,9 +2350,9 @@
     "total_seconds": 4580
   },
   "asgeir9": {
-    "week_seconds": 12096,
+    "week_seconds": 13007,
     "week_start": 1781532087,
-    "total_seconds": 12096
+    "total_seconds": 13007
   },
   "enderjones529": {
     "week_seconds": 8652,
@@ -3022,6 +3022,11 @@
   "goog_industries": {
     "week_seconds": 0,
     "week_start": 1781552329,
+    "total_seconds": 0
+  },
+  "jsdude437": {
+    "week_seconds": 0,
+    "week_start": 1781552386,
     "total_seconds": 0
   }
 }
