@@ -485,9 +485,9 @@
     "total_seconds": 5060
   },
   "lemonrelic": {
-    "week_seconds": 2041,
+    "week_seconds": 3974,
     "week_start": 1781479480,
-    "total_seconds": 2041
+    "total_seconds": 3974
   },
   "lord_allaire": {
     "week_seconds": 137,
@@ -3090,9 +3090,9 @@
     "total_seconds": 1090
   },
   "programmergod": {
-    "week_seconds": 1499,
+    "week_seconds": 2507,
     "week_start": 1781554499,
-    "total_seconds": 1499
+    "total_seconds": 2507
   },
   "monkeyaceparagon": {
     "week_seconds": 21,
@@ -3185,8 +3185,8 @@
     "total_seconds": 0
   },
   "jonandr5735": {
-    "week_seconds": 0,
+    "week_seconds": 94,
     "week_start": 1781557522,
-    "total_seconds": 0
+    "total_seconds": 94
   }
 }
