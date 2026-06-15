@@ -1950,9 +1950,9 @@
     "total_seconds": 0
   },
   "teato": {
-    "week_seconds": 0,
+    "week_seconds": 3117,
     "week_start": 1781521729,
-    "total_seconds": 0
+    "total_seconds": 3117
   },
   "thebigbeast2711": {
     "week_seconds": 238,
@@ -2067,6 +2067,11 @@
   "whisky_1": {
     "week_seconds": 0,
     "week_start": 1781524601,
+    "total_seconds": 0
+  },
+  "leonardus07": {
+    "week_seconds": 0,
+    "week_start": 1781524847,
     "total_seconds": 0
   }
 }
