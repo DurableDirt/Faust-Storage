@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 33041,
+    "week_seconds": 33169,
     "week_start": 1781479760,
-    "total_seconds": 33041
+    "total_seconds": 33169
   },
   "matilda4k9": {
     "week_seconds": 3147,
@@ -1575,9 +1575,9 @@
     "total_seconds": 6805
   },
   "_2k42_": {
-    "week_seconds": 3662,
+    "week_seconds": 5820,
     "week_start": 1781504570,
-    "total_seconds": 3662
+    "total_seconds": 5820
   },
   "gobblin": {
     "week_seconds": 4611,
@@ -1695,9 +1695,9 @@
     "total_seconds": 0
   },
   "masqo_": {
-    "week_seconds": 0,
+    "week_seconds": 2156,
     "week_start": 1781511452,
-    "total_seconds": 0
+    "total_seconds": 2156
   },
   "eyestrainz": {
     "week_seconds": 405,
@@ -1732,6 +1732,21 @@
   "tacofromii": {
     "week_seconds": 0,
     "week_start": 1781513316,
+    "total_seconds": 0
+  },
+  "mayaafox": {
+    "week_seconds": 0,
+    "week_start": 1781513537,
+    "total_seconds": 0
+  },
+  "colorkoded": {
+    "week_seconds": 41,
+    "week_start": 1781513547,
+    "total_seconds": 41
+  },
+  "ferohan11": {
+    "week_seconds": 0,
+    "week_start": 1781513574,
     "total_seconds": 0
   }
 }
