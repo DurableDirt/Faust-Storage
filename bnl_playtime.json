@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 16597,
+    "week_seconds": 18559,
     "week_start": 1781479760,
-    "total_seconds": 16597
+    "total_seconds": 18559
   },
   "matilda4k9": {
     "week_seconds": 3147,
@@ -1475,8 +1475,8 @@
     "total_seconds": 5
   },
   "red___medic": {
-    "week_seconds": 0,
+    "week_seconds": 87,
     "week_start": 1781498730,
-    "total_seconds": 0
+    "total_seconds": 87
   }
 }
