@@ -725,9 +725,9 @@
     "total_seconds": 329
   },
   "zzcqmbozz": {
-    "week_seconds": 5613,
+    "week_seconds": 6210,
     "week_start": 1781482541,
-    "total_seconds": 5613
+    "total_seconds": 6210
   },
   "marc_1500": {
     "week_seconds": 5023,
@@ -1205,9 +1205,9 @@
     "total_seconds": 16
   },
   "xenol_wolf": {
-    "week_seconds": 1055,
+    "week_seconds": 2121,
     "week_start": 1781490461,
-    "total_seconds": 1055
+    "total_seconds": 2121
   },
   "ephlibian": {
     "week_seconds": 27037,
@@ -3148,5 +3148,10 @@
     "week_seconds": 21,
     "week_start": 1781555877,
     "total_seconds": 21
+  },
+  "thaddemus": {
+    "week_seconds": 0,
+    "week_start": 1781556086,
+    "total_seconds": 0
   }
 }
