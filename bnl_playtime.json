@@ -1005,9 +1005,9 @@
     "total_seconds": 58
   },
   "marada_sword": {
-    "week_seconds": 5922,
+    "week_seconds": 13701,
     "week_start": 1781486330,
-    "total_seconds": 5922
+    "total_seconds": 13701
   },
   "mightyjulian661": {
     "week_seconds": 12,
@@ -1627,6 +1627,11 @@
   "mryellowtail": {
     "week_seconds": 0,
     "week_start": 1781506813,
+    "total_seconds": 0
+  },
+  "alternativchik": {
+    "week_seconds": 0,
+    "week_start": 1781506970,
     "total_seconds": 0
   }
 }
