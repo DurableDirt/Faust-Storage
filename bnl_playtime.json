@@ -375,9 +375,9 @@
     "total_seconds": 6568
   },
   "jamesthegmiguel": {
-    "week_seconds": 5851,
+    "week_seconds": 6341,
     "week_start": 1781477892,
-    "total_seconds": 5851
+    "total_seconds": 6341
   },
   "noctash": {
     "week_seconds": 14841,
@@ -2487,6 +2487,16 @@
   "emperorashina": {
     "week_seconds": 0,
     "week_start": 1781535841,
+    "total_seconds": 0
+  },
+  "sailorwillis": {
+    "week_seconds": 0,
+    "week_start": 1781535863,
+    "total_seconds": 0
+  },
+  "blazelogic": {
+    "week_seconds": 0,
+    "week_start": 1781535865,
     "total_seconds": 0
   }
 }
