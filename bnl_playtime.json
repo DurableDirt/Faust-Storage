@@ -2535,9 +2535,9 @@
     "total_seconds": 0
   },
   "mr_mine_mc1": {
-    "week_seconds": 2483,
+    "week_seconds": 2517,
     "week_start": 1781536816,
-    "total_seconds": 2483
+    "total_seconds": 2517
   },
   "i_waffle_i": {
     "week_seconds": 0,
@@ -2683,5 +2683,10 @@
     "week_seconds": 49,
     "week_start": 1781541193,
     "total_seconds": 49
+  },
+  "danielgall2010": {
+    "week_seconds": 0,
+    "week_start": 1781541304,
+    "total_seconds": 0
   }
 }
