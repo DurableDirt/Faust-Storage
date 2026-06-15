@@ -1655,9 +1655,9 @@
     "total_seconds": 2367
   },
   "voidvin": {
-    "week_seconds": 13162,
+    "week_seconds": 19117,
     "week_start": 1781509638,
-    "total_seconds": 13162
+    "total_seconds": 19117
   },
   "lordofthepig449": {
     "week_seconds": 2111,
@@ -2292,6 +2292,11 @@
   "smagz24": {
     "week_seconds": 0,
     "week_start": 1781530300,
+    "total_seconds": 0
+  },
+  "stun2845": {
+    "week_seconds": 0,
+    "week_start": 1781530817,
     "total_seconds": 0
   }
 }
