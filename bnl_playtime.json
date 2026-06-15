@@ -1755,9 +1755,9 @@
     "total_seconds": 11447
   },
   "facocero09": {
-    "week_seconds": 5484,
+    "week_seconds": 6593,
     "week_start": 1781514012,
-    "total_seconds": 5484
+    "total_seconds": 6593
   },
   "happyfeet4607": {
     "week_seconds": 708,
@@ -2015,9 +2015,9 @@
     "total_seconds": 1083
   },
   "xlamdg96_": {
-    "week_seconds": 2022,
+    "week_seconds": 2093,
     "week_start": 1781523379,
-    "total_seconds": 2022
+    "total_seconds": 2093
   },
   "luxleee_58": {
     "week_seconds": 2598,
@@ -2237,6 +2237,11 @@
   "viperth": {
     "week_seconds": 0,
     "week_start": 1781529096,
+    "total_seconds": 0
+  },
+  "zalvvv": {
+    "week_seconds": 0,
+    "week_start": 1781529159,
     "total_seconds": 0
   }
 }
