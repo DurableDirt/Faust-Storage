@@ -450,9 +450,9 @@
     "total_seconds": 24143
   },
   "mrtnt1925": {
-    "week_seconds": 11839,
+    "week_seconds": 12288,
     "week_start": 1781478966,
-    "total_seconds": 11839
+    "total_seconds": 12288
   },
   "axsld": {
     "week_seconds": 2782,
@@ -1690,9 +1690,9 @@
     "total_seconds": 20038
   },
   "solitaire7": {
-    "week_seconds": 14902,
+    "week_seconds": 17575,
     "week_start": 1781510605,
-    "total_seconds": 14902
+    "total_seconds": 17575
   },
   "masqo_": {
     "week_seconds": 13590,
@@ -2828,5 +2828,15 @@
     "week_seconds": 30,
     "week_start": 1781546497,
     "total_seconds": 30
+  },
+  "vasquinygamer": {
+    "week_seconds": 0,
+    "week_start": 1781546657,
+    "total_seconds": 0
+  },
+  "lilcyber": {
+    "week_seconds": 0,
+    "week_start": 1781546690,
+    "total_seconds": 0
   }
 }
