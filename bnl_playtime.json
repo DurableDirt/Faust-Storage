@@ -75,9 +75,9 @@
     "total_seconds": 16727
   },
   "40mm": {
-    "week_seconds": 626,
+    "week_seconds": 1055,
     "week_start": 1781475020,
-    "total_seconds": 626
+    "total_seconds": 1055
   },
   "lynx2007": {
     "week_seconds": 15071,
@@ -1762,6 +1762,11 @@
   "happyfeet4607": {
     "week_seconds": 0,
     "week_start": 1781514091,
+    "total_seconds": 0
+  },
+  "bravoocto15": {
+    "week_seconds": 0,
+    "week_start": 1781514162,
     "total_seconds": 0
   }
 }
