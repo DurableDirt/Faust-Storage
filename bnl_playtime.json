@@ -1725,9 +1725,9 @@
     "total_seconds": 8063
   },
   "itzrealvoided": {
-    "week_seconds": 3016,
+    "week_seconds": 3139,
     "week_start": 1781513129,
-    "total_seconds": 3016
+    "total_seconds": 3139
   },
   "tacofromii": {
     "week_seconds": 2154,
@@ -1980,9 +1980,9 @@
     "total_seconds": 2250
   },
   "monoilo": {
-    "week_seconds": 0,
+    "week_seconds": 2703,
     "week_start": 1781522307,
-    "total_seconds": 0
+    "total_seconds": 2703
   },
   "shockeddd": {
     "week_seconds": 823,
@@ -2050,9 +2050,9 @@
     "total_seconds": 0
   },
   "busy_donut": {
-    "week_seconds": 0,
+    "week_seconds": 695,
     "week_start": 1781524263,
-    "total_seconds": 0
+    "total_seconds": 695
   },
   "spearitz": {
     "week_seconds": 5,
@@ -2072,6 +2072,16 @@
   "leonardus07": {
     "week_seconds": 0,
     "week_start": 1781524847,
+    "total_seconds": 0
+  },
+  "thomasdetrein0_0": {
+    "week_seconds": 0,
+    "week_start": 1781525039,
+    "total_seconds": 0
+  },
+  "ice_cream_guy": {
+    "week_seconds": 0,
+    "week_start": 1781525044,
     "total_seconds": 0
   }
 }
