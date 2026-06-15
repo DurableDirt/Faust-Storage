@@ -1085,9 +1085,9 @@
     "total_seconds": 8230
   },
   "satava": {
-    "week_seconds": 5384,
+    "week_seconds": 7206,
     "week_start": 1781487788,
-    "total_seconds": 5384
+    "total_seconds": 7206
   },
   "majjcrunsgf": {
     "week_seconds": 709,
@@ -1502,6 +1502,16 @@
   "innatee": {
     "week_seconds": 0,
     "week_start": 1781500068,
+    "total_seconds": 0
+  },
+  "arbiteradvit": {
+    "week_seconds": 0,
+    "week_start": 1781500251,
+    "total_seconds": 0
+  },
+  "t0mcat1": {
+    "week_seconds": 0,
+    "week_start": 1781500259,
     "total_seconds": 0
   }
 }
