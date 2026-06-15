@@ -135,9 +135,9 @@
     "total_seconds": 15254
   },
   "donnelpyke2": {
-    "week_seconds": 7466,
+    "week_seconds": 7682,
     "week_start": 1781475849,
-    "total_seconds": 7466
+    "total_seconds": 7682
   },
   "ziqh333": {
     "week_seconds": 7,
@@ -805,9 +805,9 @@
     "total_seconds": 6557
   },
   "theunreales": {
-    "week_seconds": 12618,
+    "week_seconds": 14014,
     "week_start": 1781483636,
-    "total_seconds": 12618
+    "total_seconds": 14014
   },
   "timantha": {
     "week_seconds": 7552,
@@ -1452,6 +1452,11 @@
   "xenoum": {
     "week_seconds": 0,
     "week_start": 1781497822,
+    "total_seconds": 0
+  },
+  "earrthfall": {
+    "week_seconds": 0,
+    "week_start": 1781497939,
     "total_seconds": 0
   }
 }
