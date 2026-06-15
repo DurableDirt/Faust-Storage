@@ -1025,9 +1025,9 @@
     "total_seconds": 2204
   },
   "hikariidesu": {
-    "week_seconds": 20649,
+    "week_seconds": 23299,
     "week_start": 1781486601,
-    "total_seconds": 20649
+    "total_seconds": 23299
   },
   "jebate": {
     "week_seconds": 6,
@@ -1540,9 +1540,9 @@
     "total_seconds": 3409
   },
   "hab_pepper": {
-    "week_seconds": 2252,
+    "week_seconds": 3462,
     "week_start": 1781502956,
-    "total_seconds": 2252
+    "total_seconds": 3462
   },
   "haededsole": {
     "week_seconds": 11,
@@ -2947,6 +2947,11 @@
   "_excalibur": {
     "week_seconds": 0,
     "week_start": 1781549873,
+    "total_seconds": 0
+  },
+  "battlebots_boi": {
+    "week_seconds": 0,
+    "week_start": 1781549985,
     "total_seconds": 0
   }
 }
