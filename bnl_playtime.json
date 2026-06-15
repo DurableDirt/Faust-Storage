@@ -135,9 +135,9 @@
     "total_seconds": 15254
   },
   "donnelpyke2": {
-    "week_seconds": 8245,
+    "week_seconds": 8275,
     "week_start": 1781475849,
-    "total_seconds": 8245
+    "total_seconds": 8275
   },
   "ziqh333": {
     "week_seconds": 7,
@@ -1468,5 +1468,10 @@
     "week_seconds": 330,
     "week_start": 1781498015,
     "total_seconds": 330
+  },
+  "szepess": {
+    "week_seconds": 5,
+    "week_start": 1781498653,
+    "total_seconds": 5
   }
 }
