@@ -560,9 +560,9 @@
     "total_seconds": 58849
   },
   "dutchcringe": {
-    "week_seconds": 4895,
+    "week_seconds": 10748,
     "week_start": 1781480187,
-    "total_seconds": 4895
+    "total_seconds": 10748
   },
   "graydawn_": {
     "week_seconds": 12421,
@@ -2707,6 +2707,11 @@
   "alzucats": {
     "week_seconds": 0,
     "week_start": 1781542157,
+    "total_seconds": 0
+  },
+  "jushuhh": {
+    "week_seconds": 0,
+    "week_start": 1781542564,
     "total_seconds": 0
   }
 }
