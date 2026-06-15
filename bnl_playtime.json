@@ -1660,9 +1660,9 @@
     "total_seconds": 8370
   },
   "lordofthepig449": {
-    "week_seconds": 2085,
+    "week_seconds": 2111,
     "week_start": 1781509657,
-    "total_seconds": 2085
+    "total_seconds": 2111
   },
   "polysemic": {
     "week_seconds": 222,
@@ -1815,9 +1815,9 @@
     "total_seconds": 3912
   },
   "airdav": {
-    "week_seconds": 1453,
+    "week_seconds": 4420,
     "week_start": 1781516178,
-    "total_seconds": 1453
+    "total_seconds": 4420
   },
   "ch0rk": {
     "week_seconds": 767,
@@ -1972,6 +1972,11 @@
   "baslmao": {
     "week_seconds": 0,
     "week_start": 1781522236,
+    "total_seconds": 0
+  },
+  "capybaralove90": {
+    "week_seconds": 0,
+    "week_start": 1781522300,
     "total_seconds": 0
   }
 }
