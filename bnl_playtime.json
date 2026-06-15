@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 7235,
+    "week_seconds": 10030,
     "week_start": 1781513574,
-    "total_seconds": 7235
+    "total_seconds": 10030
   },
   "stavros_ell": {
     "week_seconds": 11447,
@@ -1870,9 +1870,9 @@
     "total_seconds": 0
   },
   "dudees": {
-    "week_seconds": 4113,
+    "week_seconds": 7613,
     "week_start": 1781518572,
-    "total_seconds": 4113
+    "total_seconds": 7613
   },
   "stratmatt57": {
     "week_seconds": 0,
@@ -2142,6 +2142,11 @@
   "sqopenspellbook": {
     "week_seconds": 0,
     "week_start": 1781526809,
+    "total_seconds": 0
+  },
+  "daimnasal": {
+    "week_seconds": 0,
+    "week_start": 1781527309,
     "total_seconds": 0
   }
 }
