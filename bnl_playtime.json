@@ -715,9 +715,9 @@
     "total_seconds": 10383
   },
   "limtingus1": {
-    "week_seconds": 1791,
+    "week_seconds": 6288,
     "week_start": 1781482426,
-    "total_seconds": 1791
+    "total_seconds": 6288
   },
   "the_montenegrin": {
     "week_seconds": 329,
@@ -870,9 +870,9 @@
     "total_seconds": 140
   },
   "deerifius": {
-    "week_seconds": 8805,
+    "week_seconds": 10564,
     "week_start": 1781484629,
-    "total_seconds": 8805
+    "total_seconds": 10564
   },
   "dreadyheadyyn": {
     "week_seconds": 5,
@@ -1435,8 +1435,8 @@
     "total_seconds": 253
   },
   "oceanstrider195": {
-    "week_seconds": 0,
+    "week_seconds": 74,
     "week_start": 1781497129,
-    "total_seconds": 0
+    "total_seconds": 74
   }
 }
