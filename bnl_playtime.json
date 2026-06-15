@@ -235,9 +235,9 @@
     "total_seconds": 23630
   },
   "hentlol": {
-    "week_seconds": 18596,
+    "week_seconds": 18983,
     "week_start": 1781476485,
-    "total_seconds": 18596
+    "total_seconds": 18983
   },
   "wasabiwhip": {
     "week_seconds": 4318,
@@ -3267,6 +3267,11 @@
   "sebsterim": {
     "week_seconds": 0,
     "week_start": 1781560751,
+    "total_seconds": 0
+  },
+  "venzpee": {
+    "week_seconds": 0,
+    "week_start": 1781560824,
     "total_seconds": 0
   }
 }
