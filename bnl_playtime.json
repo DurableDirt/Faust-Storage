@@ -2475,9 +2475,9 @@
     "total_seconds": 3653
   },
   "potatooverlord13": {
-    "week_seconds": 1317,
+    "week_seconds": 1845,
     "week_start": 1781535808,
-    "total_seconds": 1317
+    "total_seconds": 1845
   },
   "a_penguin_pal": {
     "week_seconds": 0,
@@ -2615,9 +2615,9 @@
     "total_seconds": 0
   },
   "catputer500": {
-    "week_seconds": 0,
+    "week_seconds": 267,
     "week_start": 1781540081,
-    "total_seconds": 0
+    "total_seconds": 267
   },
   "comstaat": {
     "week_seconds": 58,
@@ -2632,6 +2632,21 @@
   "joldidk": {
     "week_seconds": 0,
     "week_start": 1781540251,
+    "total_seconds": 0
+  },
+  "hegghogaming": {
+    "week_seconds": 0,
+    "week_start": 1781540272,
+    "total_seconds": 0
+  },
+  "arnacious": {
+    "week_seconds": 0,
+    "week_start": 1781540292,
+    "total_seconds": 0
+  },
+  "k1yuma": {
+    "week_seconds": 0,
+    "week_start": 1781540344,
     "total_seconds": 0
   }
 }
