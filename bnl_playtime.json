@@ -50,9 +50,9 @@
     "total_seconds": 0
   },
   "meenos": {
-    "week_seconds": 6564,
+    "week_seconds": 6593,
     "week_start": 1781474845,
-    "total_seconds": 6564
+    "total_seconds": 6593
   },
   "jadenjb": {
     "week_seconds": 1493,
@@ -702,6 +702,16 @@
   "baro_mortis": {
     "week_seconds": 0,
     "week_start": 1781482179,
+    "total_seconds": 0
+  },
+  "kard_bord": {
+    "week_seconds": 0,
+    "week_start": 1781482303,
+    "total_seconds": 0
+  },
+  "airheadsupreme": {
+    "week_seconds": 0,
+    "week_start": 1781482314,
     "total_seconds": 0
   }
 }
