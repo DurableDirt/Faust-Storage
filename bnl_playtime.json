@@ -2415,8 +2415,13 @@
     "total_seconds": 0
   },
   "sml128": {
-    "week_seconds": 0,
+    "week_seconds": 147,
     "week_start": 1781534411,
+    "total_seconds": 147
+  },
+  "malipan": {
+    "week_seconds": 0,
+    "week_start": 1781534544,
     "total_seconds": 0
   }
 }
