@@ -1795,9 +1795,9 @@
     "total_seconds": 1066
   },
   "lgamant": {
-    "week_seconds": 8733,
+    "week_seconds": 9552,
     "week_start": 1781515516,
-    "total_seconds": 8733
+    "total_seconds": 9552
   },
   "emilew": {
     "week_seconds": 11479,
@@ -2382,6 +2382,16 @@
   "proverbsmyboys": {
     "week_seconds": 0,
     "week_start": 1781533102,
+    "total_seconds": 0
+  },
+  "theonenamedbeezz": {
+    "week_seconds": 0,
+    "week_start": 1781533214,
+    "total_seconds": 0
+  },
+  "benjamin12chief": {
+    "week_seconds": 0,
+    "week_start": 1781533233,
     "total_seconds": 0
   }
 }
