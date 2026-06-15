@@ -1765,9 +1765,9 @@
     "total_seconds": 708
   },
   "bravoocto15": {
-    "week_seconds": 0,
+    "week_seconds": 1358,
     "week_start": 1781514162,
-    "total_seconds": 0
+    "total_seconds": 1358
   },
   "wandrumdum": {
     "week_seconds": 0,
@@ -1792,6 +1792,11 @@
   "battleofsky": {
     "week_seconds": 0,
     "week_start": 1781515496,
+    "total_seconds": 0
+  },
+  "lgamant": {
+    "week_seconds": 0,
+    "week_start": 1781515516,
     "total_seconds": 0
   }
 }
