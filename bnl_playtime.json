@@ -330,9 +330,9 @@
     "total_seconds": 1519
   },
   "demboiiiii": {
-    "week_seconds": 3440,
+    "week_seconds": 3584,
     "week_start": 1781477438,
-    "total_seconds": 3440
+    "total_seconds": 3584
   },
   "tomahawk_762": {
     "week_seconds": 502,
@@ -1013,5 +1013,20 @@
     "week_seconds": 12,
     "week_start": 1781486422,
     "total_seconds": 12
+  },
+  "p39airacobra": {
+    "week_seconds": 0,
+    "week_start": 1781486555,
+    "total_seconds": 0
+  },
+  "latignome77": {
+    "week_seconds": 0,
+    "week_start": 1781486558,
+    "total_seconds": 0
+  },
+  "hikariidesu": {
+    "week_seconds": 0,
+    "week_start": 1781486601,
+    "total_seconds": 0
   }
 }
