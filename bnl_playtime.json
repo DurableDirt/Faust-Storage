@@ -785,9 +785,9 @@
     "total_seconds": 4514
   },
   "lalibo": {
-    "week_seconds": 25901,
+    "week_seconds": 28921,
     "week_start": 1781483266,
-    "total_seconds": 25901
+    "total_seconds": 28921
   },
   "fazeleafblower": {
     "week_seconds": 5,
@@ -3330,9 +3330,9 @@
     "total_seconds": 596
   },
   "diegochotocho": {
-    "week_seconds": 0,
+    "week_seconds": 1152,
     "week_start": 1781562607,
-    "total_seconds": 0
+    "total_seconds": 1152
   },
   "project_baxti": {
     "week_seconds": 0,
@@ -3362,6 +3362,16 @@
   "dropcity": {
     "week_seconds": 0,
     "week_start": 1781563531,
+    "total_seconds": 0
+  },
+  "duskiee__": {
+    "week_seconds": 0,
+    "week_start": 1781563706,
+    "total_seconds": 0
+  },
+  "rulingneuroz": {
+    "week_seconds": 0,
+    "week_start": 1781563762,
     "total_seconds": 0
   }
 }
