@@ -970,9 +970,9 @@
     "total_seconds": 22982
   },
   "cynical_darling": {
-    "week_seconds": 8761,
+    "week_seconds": 12564,
     "week_start": 1781486072,
-    "total_seconds": 8761
+    "total_seconds": 12564
   },
   "mrmonkeyman7_7": {
     "week_seconds": 2906,
@@ -3132,6 +3132,11 @@
   "blankestatlas": {
     "week_seconds": 0,
     "week_start": 1781555374,
+    "total_seconds": 0
+  },
+  "stashman1780": {
+    "week_seconds": 0,
+    "week_start": 1781555462,
     "total_seconds": 0
   }
 }
