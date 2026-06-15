@@ -230,9 +230,9 @@
     "total_seconds": 43
   },
   "the_fella7441": {
-    "week_seconds": 5470,
+    "week_seconds": 6169,
     "week_start": 1781476454,
-    "total_seconds": 5470
+    "total_seconds": 6169
   },
   "hentlol": {
     "week_seconds": 9027,
@@ -600,9 +600,9 @@
     "total_seconds": 2481
   },
   "1stampy": {
-    "week_seconds": 0,
+    "week_seconds": 8397,
     "week_start": 1781481065,
-    "total_seconds": 0
+    "total_seconds": 8397
   },
   "hak0707": {
     "week_seconds": 459,
@@ -1160,8 +1160,13 @@
     "total_seconds": 0
   },
   "toonylinksr": {
-    "week_seconds": 0,
+    "week_seconds": 8,
     "week_start": 1781489447,
+    "total_seconds": 8
+  },
+  "nateoneandonly": {
+    "week_seconds": 0,
+    "week_start": 1781489459,
     "total_seconds": 0
   }
 }
