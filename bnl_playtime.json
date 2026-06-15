@@ -1340,9 +1340,9 @@
     "total_seconds": 6146
   },
   "misprint293": {
-    "week_seconds": 3200,
+    "week_seconds": 3259,
     "week_start": 1781493068,
-    "total_seconds": 3200
+    "total_seconds": 3259
   },
   "choripancaliente": {
     "week_seconds": 933,
@@ -1577,6 +1577,11 @@
   "_2k42_": {
     "week_seconds": 0,
     "week_start": 1781504570,
+    "total_seconds": 0
+  },
+  "gobblin": {
+    "week_seconds": 0,
+    "week_start": 1781505039,
     "total_seconds": 0
   }
 }
