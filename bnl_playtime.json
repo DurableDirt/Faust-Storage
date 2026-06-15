@@ -2660,9 +2660,9 @@
     "total_seconds": 1373
   },
   "binchymonkey": {
-    "week_seconds": 0,
+    "week_seconds": 9213,
     "week_start": 1781540594,
-    "total_seconds": 0
+    "total_seconds": 9213
   },
   "thehypercore": {
     "week_seconds": 2079,
@@ -2937,6 +2937,11 @@
   "catmit446": {
     "week_seconds": 0,
     "week_start": 1781549680,
+    "total_seconds": 0
+  },
+  "dr_bacon_hair": {
+    "week_seconds": 0,
+    "week_start": 1781549800,
     "total_seconds": 0
   }
 }
