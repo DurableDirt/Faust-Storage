@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 27808,
+    "week_seconds": 28083,
     "week_start": 1781479760,
-    "total_seconds": 27808
+    "total_seconds": 28083
   },
   "matilda4k9": {
     "week_seconds": 3147,
@@ -1530,9 +1530,9 @@
     "total_seconds": 1209
   },
   "xlader161": {
-    "week_seconds": 3560,
+    "week_seconds": 4881,
     "week_start": 1781502651,
-    "total_seconds": 3560
+    "total_seconds": 4881
   },
   "trinityx45": {
     "week_seconds": 3409,
@@ -1580,9 +1580,9 @@
     "total_seconds": 3019
   },
   "gobblin": {
-    "week_seconds": 0,
+    "week_seconds": 3406,
     "week_start": 1781505039,
-    "total_seconds": 0
+    "total_seconds": 3406
   },
   "vlinar": {
     "week_seconds": 1258,
@@ -1633,5 +1633,10 @@
     "week_seconds": 385,
     "week_start": 1781506970,
     "total_seconds": 385
+  },
+  "aesth1te": {
+    "week_seconds": 0,
+    "week_start": 1781508461,
+    "total_seconds": 0
   }
 }
