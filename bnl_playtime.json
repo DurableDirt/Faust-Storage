@@ -50,9 +50,9 @@
     "total_seconds": 10798
   },
   "meenos": {
-    "week_seconds": 7150,
+    "week_seconds": 7550,
     "week_start": 1781474845,
-    "total_seconds": 7150
+    "total_seconds": 7550
   },
   "jadenjb": {
     "week_seconds": 1493,
@@ -3040,8 +3040,8 @@
     "total_seconds": 0
   },
   "theocomboed": {
-    "week_seconds": 0,
+    "week_seconds": 32,
     "week_start": 1781553072,
-    "total_seconds": 0
+    "total_seconds": 32
   }
 }
