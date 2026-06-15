@@ -200,9 +200,9 @@
     "total_seconds": 9117
   },
   "jalhf": {
-    "week_seconds": 17017,
+    "week_seconds": 22114,
     "week_start": 1781476208,
-    "total_seconds": 17017
+    "total_seconds": 22114
   },
   "r3nocidz": {
     "week_seconds": 632,
@@ -3182,6 +3182,11 @@
   "1stev0": {
     "week_seconds": 0,
     "week_start": 1781557435,
+    "total_seconds": 0
+  },
+  "jonandr5735": {
+    "week_seconds": 0,
+    "week_start": 1781557522,
     "total_seconds": 0
   }
 }
