@@ -40,9 +40,9 @@
     "total_seconds": 0
   },
   "piotato": {
-    "week_seconds": 10714,
+    "week_seconds": 12616,
     "week_start": 1781474698,
-    "total_seconds": 10714
+    "total_seconds": 12616
   },
   "lucifer420xx": {
     "week_seconds": 10798,
@@ -2552,6 +2552,11 @@
   "wallbeck": {
     "week_seconds": 0,
     "week_start": 1781537379,
+    "total_seconds": 0
+  },
+  "yunfi": {
+    "week_seconds": 0,
+    "week_start": 1781537464,
     "total_seconds": 0
   }
 }
