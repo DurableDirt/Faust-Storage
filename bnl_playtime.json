@@ -710,9 +710,9 @@
     "total_seconds": 1086
   },
   "airheadsupreme": {
-    "week_seconds": 10147,
+    "week_seconds": 10383,
     "week_start": 1781482314,
-    "total_seconds": 10147
+    "total_seconds": 10383
   },
   "limtingus1": {
     "week_seconds": 1791,
@@ -1318,5 +1318,20 @@
     "week_seconds": 16,
     "week_start": 1781492785,
     "total_seconds": 16
+  },
+  "goku12323": {
+    "week_seconds": 0,
+    "week_start": 1781492889,
+    "total_seconds": 0
+  },
+  "virizion": {
+    "week_seconds": 0,
+    "week_start": 1781492912,
+    "total_seconds": 0
+  },
+  "elinut": {
+    "week_seconds": 0,
+    "week_start": 1781492916,
+    "total_seconds": 0
   }
 }
