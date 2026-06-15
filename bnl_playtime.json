@@ -50,9 +50,9 @@
     "total_seconds": 0
   },
   "meenos": {
-    "week_seconds": 6593,
+    "week_seconds": 6958,
     "week_start": 1781474845,
-    "total_seconds": 6593
+    "total_seconds": 6958
   },
   "jadenjb": {
     "week_seconds": 1493,
@@ -675,9 +675,9 @@
     "total_seconds": 0
   },
   "versedreset": {
-    "week_seconds": 18,
+    "week_seconds": 65,
     "week_start": 1781481940,
-    "total_seconds": 18
+    "total_seconds": 65
   },
   "varbo": {
     "week_seconds": 0,
@@ -715,9 +715,9 @@
     "total_seconds": 0
   },
   "limtingus1": {
-    "week_seconds": 0,
+    "week_seconds": 232,
     "week_start": 1781482426,
-    "total_seconds": 0
+    "total_seconds": 232
   },
   "the_montenegrin": {
     "week_seconds": 0,
@@ -742,6 +742,16 @@
   "grepsedawk": {
     "week_seconds": 0,
     "week_start": 1781482598,
+    "total_seconds": 0
+  },
+  "complexii": {
+    "week_seconds": 0,
+    "week_start": 1781482657,
+    "total_seconds": 0
+  },
+  "goosehoss": {
+    "week_seconds": 0,
+    "week_start": 1781482675,
     "total_seconds": 0
   }
 }
