@@ -25,9 +25,9 @@
     "total_seconds": 26
   },
   "holdenvcaulfield": {
-    "week_seconds": 0,
+    "week_seconds": 90,
     "week_start": 1781474534,
-    "total_seconds": 0
+    "total_seconds": 90
   },
   "harved": {
     "week_seconds": 0,
@@ -777,6 +777,11 @@
   "deskjockey": {
     "week_seconds": 0,
     "week_start": 1781483148,
+    "total_seconds": 0
+  },
+  "thefoxofnines": {
+    "week_seconds": 0,
+    "week_start": 1781483199,
     "total_seconds": 0
   }
 }
