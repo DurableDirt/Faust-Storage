@@ -2585,9 +2585,9 @@
     "total_seconds": 430
   },
   "cordius": {
-    "week_seconds": 72,
+    "week_seconds": 5193,
     "week_start": 1781539270,
-    "total_seconds": 72
+    "total_seconds": 5193
   },
   "dant481heman": {
     "week_seconds": 2366,
@@ -2737,6 +2737,11 @@
   "anttolisa": {
     "week_seconds": 0,
     "week_start": 1781543984,
+    "total_seconds": 0
+  },
+  "ivona_dies_alot": {
+    "week_seconds": 0,
+    "week_start": 1781544591,
     "total_seconds": 0
   }
 }
