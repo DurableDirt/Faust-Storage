@@ -1450,9 +1450,9 @@
     "total_seconds": 0
   },
   "xenoum": {
-    "week_seconds": 0,
+    "week_seconds": 1563,
     "week_start": 1781497822,
-    "total_seconds": 0
+    "total_seconds": 1563
   },
   "earrthfall": {
     "week_seconds": 138,
@@ -1487,6 +1487,11 @@
   "jpmiii": {
     "week_seconds": 0,
     "week_start": 1781499050,
+    "total_seconds": 0
+  },
+  "benpuma25": {
+    "week_seconds": 0,
+    "week_start": 1781499346,
     "total_seconds": 0
   }
 }
