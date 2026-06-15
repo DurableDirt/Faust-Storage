@@ -1540,9 +1540,9 @@
     "total_seconds": 3409
   },
   "hab_pepper": {
-    "week_seconds": 1404,
+    "week_seconds": 2252,
     "week_start": 1781502956,
-    "total_seconds": 1404
+    "total_seconds": 2252
   },
   "haededsole": {
     "week_seconds": 11,
@@ -2912,6 +2912,11 @@
   "jcool640": {
     "week_seconds": 0,
     "week_start": 1781548505,
+    "total_seconds": 0
+  },
+  "emilderking": {
+    "week_seconds": 0,
+    "week_start": 1781548787,
     "total_seconds": 0
   }
 }
