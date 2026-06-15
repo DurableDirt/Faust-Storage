@@ -1895,8 +1895,13 @@
     "total_seconds": 0
   },
   "ragthanatos1": {
-    "week_seconds": 0,
+    "week_seconds": 85,
     "week_start": 1781519051,
+    "total_seconds": 85
+  },
+  "evdan": {
+    "week_seconds": 0,
+    "week_start": 1781519118,
     "total_seconds": 0
   }
 }
