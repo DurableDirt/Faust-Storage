@@ -1165,9 +1165,9 @@
     "total_seconds": 307
   },
   "nateoneandonly": {
-    "week_seconds": 6632,
+    "week_seconds": 7127,
     "week_start": 1781489459,
-    "total_seconds": 6632
+    "total_seconds": 7127
   },
   "opozzumz": {
     "week_seconds": 0,
@@ -1428,5 +1428,10 @@
     "week_seconds": 5,
     "week_start": 1781496779,
     "total_seconds": 5
+  },
+  "juniortide": {
+    "week_seconds": 0,
+    "week_start": 1781496869,
+    "total_seconds": 0
   }
 }
