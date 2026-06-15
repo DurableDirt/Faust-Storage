@@ -725,9 +725,9 @@
     "total_seconds": 329
   },
   "zzcqmbozz": {
-    "week_seconds": 0,
+    "week_seconds": 800,
     "week_start": 1781482541,
-    "total_seconds": 0
+    "total_seconds": 800
   },
   "marc_1500": {
     "week_seconds": 342,
@@ -780,8 +780,13 @@
     "total_seconds": 0
   },
   "thefoxofnines": {
-    "week_seconds": 0,
+    "week_seconds": 150,
     "week_start": 1781483199,
+    "total_seconds": 150
+  },
+  "lalibo": {
+    "week_seconds": 0,
+    "week_start": 1781483266,
     "total_seconds": 0
   }
 }
