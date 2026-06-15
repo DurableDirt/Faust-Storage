@@ -60,9 +60,9 @@
     "total_seconds": 1493
   },
   "mitthraw91": {
-    "week_seconds": 5552,
+    "week_seconds": 5748,
     "week_start": 1781474873,
-    "total_seconds": 5552
+    "total_seconds": 5748
   },
   "rainsinger": {
     "week_seconds": 4231,
@@ -105,9 +105,9 @@
     "total_seconds": 3149
   },
   "slothinasuit": {
-    "week_seconds": 6126,
+    "week_seconds": 15874,
     "week_start": 1781475413,
-    "total_seconds": 6126
+    "total_seconds": 15874
   },
   "jck20h": {
     "week_seconds": 150,
@@ -1257,6 +1257,16 @@
   "blu9710": {
     "week_seconds": 0,
     "week_start": 1781491456,
+    "total_seconds": 0
+  },
+  "krabs123": {
+    "week_seconds": 0,
+    "week_start": 1781491552,
+    "total_seconds": 0
+  },
+  "soggybreadstick": {
+    "week_seconds": 0,
+    "week_start": 1781491569,
     "total_seconds": 0
   }
 }
