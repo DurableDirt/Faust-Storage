@@ -2050,9 +2050,9 @@
     "total_seconds": 5642
   },
   "busy_donut": {
-    "week_seconds": 695,
+    "week_seconds": 802,
     "week_start": 1781524263,
-    "total_seconds": 695
+    "total_seconds": 802
   },
   "spearitz": {
     "week_seconds": 5,
@@ -2545,9 +2545,9 @@
     "total_seconds": 5455
   },
   "milevsky": {
-    "week_seconds": 2076,
+    "week_seconds": 3662,
     "week_start": 1781537262,
-    "total_seconds": 2076
+    "total_seconds": 3662
   },
   "wallbeck": {
     "week_seconds": 1116,
@@ -2805,9 +2805,9 @@
     "total_seconds": 2949
   },
   "koklushz": {
-    "week_seconds": 0,
+    "week_seconds": 3099,
     "week_start": 1781546247,
-    "total_seconds": 0
+    "total_seconds": 3099
   },
   "nemesiscy": {
     "week_seconds": 33,
