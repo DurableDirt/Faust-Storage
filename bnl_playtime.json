@@ -295,9 +295,9 @@
     "total_seconds": 9250
   },
   "microwavedmango": {
-    "week_seconds": 3375,
+    "week_seconds": 3436,
     "week_start": 1781477131,
-    "total_seconds": 3375
+    "total_seconds": 3436
   },
   "tatsu007": {
     "week_seconds": 19438,
@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 53117,
+    "week_seconds": 53428,
     "week_start": 1781479760,
-    "total_seconds": 53117
+    "total_seconds": 53428
   },
   "matilda4k9": {
     "week_seconds": 3147,
@@ -3457,6 +3457,11 @@
   "turtleum": {
     "week_seconds": 0,
     "week_start": 1781566511,
+    "total_seconds": 0
+  },
+  "trextanner27": {
+    "week_seconds": 0,
+    "week_start": 1781566870,
     "total_seconds": 0
   }
 }
