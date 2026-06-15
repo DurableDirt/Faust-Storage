@@ -80,9 +80,9 @@
     "total_seconds": 6820
   },
   "lynx2007": {
-    "week_seconds": 15712,
+    "week_seconds": 15744,
     "week_start": 1781475059,
-    "total_seconds": 15712
+    "total_seconds": 15744
   },
   "cunningwind6139": {
     "week_seconds": 3737,
@@ -3247,6 +3247,11 @@
   "__blackhawk": {
     "week_seconds": 0,
     "week_start": 1781560100,
+    "total_seconds": 0
+  },
+  "vilyanz": {
+    "week_seconds": 0,
+    "week_start": 1781560262,
     "total_seconds": 0
   }
 }
