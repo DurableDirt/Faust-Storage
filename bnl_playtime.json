@@ -1350,9 +1350,9 @@
     "total_seconds": 933
   },
   "magicmars345": {
-    "week_seconds": 8666,
+    "week_seconds": 11567,
     "week_start": 1781494761,
-    "total_seconds": 8666
+    "total_seconds": 11567
   },
   "s_s_sobolev": {
     "week_seconds": 6010,
@@ -1800,9 +1800,9 @@
     "total_seconds": 3413
   },
   "emilew": {
-    "week_seconds": 3792,
+    "week_seconds": 5427,
     "week_start": 1781515555,
-    "total_seconds": 3792
+    "total_seconds": 5427
   },
   "creepi0n": {
     "week_seconds": 3937,
@@ -1992,6 +1992,11 @@
   "pl_y3r": {
     "week_seconds": 0,
     "week_start": 1781522770,
+    "total_seconds": 0
+  },
+  "bytetheiv": {
+    "week_seconds": 0,
+    "week_start": 1781522873,
     "total_seconds": 0
   }
 }
