@@ -245,9 +245,9 @@
     "total_seconds": 3703
   },
   "aluminum_foil_": {
-    "week_seconds": 19191,
+    "week_seconds": 19254,
     "week_start": 1781476568,
-    "total_seconds": 19191
+    "total_seconds": 19254
   },
   "mpusa": {
     "week_seconds": 17226,
@@ -3003,5 +3003,10 @@
     "week_seconds": 4,
     "week_start": 1781551667,
     "total_seconds": 4
+  },
+  "jaxon9013": {
+    "week_seconds": 0,
+    "week_start": 1781551808,
+    "total_seconds": 0
   }
 }
