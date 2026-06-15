@@ -10,9 +10,9 @@
     "total_seconds": 4
   },
   "logic_man": {
-    "week_seconds": 127,
+    "week_seconds": 10150,
     "week_start": 1781474483,
-    "total_seconds": 127
+    "total_seconds": 10150
   },
   "dragran": {
     "week_seconds": 32,
@@ -1800,8 +1800,18 @@
     "total_seconds": 0
   },
   "emilew": {
-    "week_seconds": 53,
+    "week_seconds": 275,
     "week_start": 1781515555,
-    "total_seconds": 53
+    "total_seconds": 275
+  },
+  "creepi0n": {
+    "week_seconds": 0,
+    "week_start": 1781515950,
+    "total_seconds": 0
+  },
+  "_monor": {
+    "week_seconds": 0,
+    "week_start": 1781516111,
+    "total_seconds": 0
   }
 }
