@@ -565,9 +565,9 @@
     "total_seconds": 27
   },
   "graydawn_": {
-    "week_seconds": 426,
+    "week_seconds": 4151,
     "week_start": 1781480271,
-    "total_seconds": 426
+    "total_seconds": 4151
   },
   "angie_dovie111": {
     "week_seconds": 2714,
@@ -847,6 +847,11 @@
   "desmonddotjpeg": {
     "week_seconds": 0,
     "week_start": 1781484202,
+    "total_seconds": 0
+  },
+  "tgkpur": {
+    "week_seconds": 0,
+    "week_start": 1781484453,
     "total_seconds": 0
   }
 }
