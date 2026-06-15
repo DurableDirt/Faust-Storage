@@ -1435,9 +1435,9 @@
     "total_seconds": 2668
   },
   "oceanstrider195": {
-    "week_seconds": 195,
+    "week_seconds": 222,
     "week_start": 1781497129,
-    "total_seconds": 195
+    "total_seconds": 222
   },
   "straightup_mc": {
     "week_seconds": 466,
@@ -1652,6 +1652,11 @@
   "virexil": {
     "week_seconds": 0,
     "week_start": 1781509271,
+    "total_seconds": 0
+  },
+  "voidvin": {
+    "week_seconds": 0,
+    "week_start": 1781509638,
     "total_seconds": 0
   }
 }
