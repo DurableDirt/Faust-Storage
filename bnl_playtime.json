@@ -2560,13 +2560,18 @@
     "total_seconds": 0
   },
   "myng11": {
-    "week_seconds": 0,
+    "week_seconds": 165,
     "week_start": 1781538162,
-    "total_seconds": 0
+    "total_seconds": 165
   },
   "dondindundan": {
     "week_seconds": 5,
     "week_start": 1781538199,
     "total_seconds": 5
+  },
+  "littletankerbug": {
+    "week_seconds": 0,
+    "week_start": 1781538323,
+    "total_seconds": 0
   }
 }
