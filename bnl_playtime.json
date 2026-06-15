@@ -320,9 +320,9 @@
     "total_seconds": 8587
   },
   "skormcel": {
-    "week_seconds": 8567,
+    "week_seconds": 8600,
     "week_start": 1781477339,
-    "total_seconds": 8567
+    "total_seconds": 8600
   },
   "catgifs": {
     "week_seconds": 1572,
@@ -2865,8 +2865,18 @@
     "total_seconds": 0
   },
   "torqale": {
-    "week_seconds": 117,
+    "week_seconds": 147,
     "week_start": 1781547203,
-    "total_seconds": 117
+    "total_seconds": 147
+  },
+  "szymonekk08": {
+    "week_seconds": 0,
+    "week_start": 1781547396,
+    "total_seconds": 0
+  },
+  "darthjelq": {
+    "week_seconds": 0,
+    "week_start": 1781547401,
+    "total_seconds": 0
   }
 }
