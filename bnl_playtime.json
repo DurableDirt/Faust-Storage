@@ -915,9 +915,9 @@
     "total_seconds": 2025
   },
   "myfatherisnotch": {
-    "week_seconds": 2040,
+    "week_seconds": 4295,
     "week_start": 1781485400,
-    "total_seconds": 2040
+    "total_seconds": 4295
   },
   "way2muchprada": {
     "week_seconds": 1349,
@@ -1192,6 +1192,11 @@
   "gubukiv": {
     "week_seconds": 0,
     "week_start": 1781489878,
+    "total_seconds": 0
+  },
+  "some545": {
+    "week_seconds": 0,
+    "week_start": 1781490149,
     "total_seconds": 0
   }
 }
