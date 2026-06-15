@@ -2695,9 +2695,9 @@
     "total_seconds": 1516
   },
   "nighthed": {
-    "week_seconds": 4873,
+    "week_seconds": 5743,
     "week_start": 1781541617,
-    "total_seconds": 4873
+    "total_seconds": 5743
   },
   "tuffboi674193": {
     "week_seconds": 3322,
@@ -2870,13 +2870,18 @@
     "total_seconds": 147
   },
   "szymonekk08": {
-    "week_seconds": 0,
+    "week_seconds": 29,
     "week_start": 1781547396,
-    "total_seconds": 0
+    "total_seconds": 29
   },
   "darthjelq": {
     "week_seconds": 0,
     "week_start": 1781547401,
     "total_seconds": 0
+  },
+  "weeblight": {
+    "week_seconds": 3,
+    "week_start": 1781547435,
+    "total_seconds": 3
   }
 }
