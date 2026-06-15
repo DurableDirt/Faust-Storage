@@ -135,9 +135,9 @@
     "total_seconds": 15254
   },
   "donnelpyke2": {
-    "week_seconds": 8305,
+    "week_seconds": 11156,
     "week_start": 1781475849,
-    "total_seconds": 8305
+    "total_seconds": 11156
   },
   "ziqh333": {
     "week_seconds": 7,
@@ -1513,5 +1513,10 @@
     "week_seconds": 110,
     "week_start": 1781500259,
     "total_seconds": 110
+  },
+  "fang_op": {
+    "week_seconds": 23,
+    "week_start": 1781501594,
+    "total_seconds": 23
   }
 }
