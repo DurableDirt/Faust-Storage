@@ -880,9 +880,9 @@
     "total_seconds": 5
   },
   "ajrose19": {
-    "week_seconds": 872,
+    "week_seconds": 904,
     "week_start": 1781484803,
-    "total_seconds": 872
+    "total_seconds": 904
   },
   "espec17": {
     "week_seconds": 2039,
@@ -1690,14 +1690,14 @@
     "total_seconds": 6734
   },
   "solitaire7": {
-    "week_seconds": 3016,
+    "week_seconds": 4308,
     "week_start": 1781510605,
-    "total_seconds": 3016
+    "total_seconds": 4308
   },
   "masqo_": {
-    "week_seconds": 3857,
+    "week_seconds": 7584,
     "week_start": 1781511452,
-    "total_seconds": 3857
+    "total_seconds": 7584
   },
   "eyestrainz": {
     "week_seconds": 5668,
@@ -1785,9 +1785,9 @@
     "total_seconds": 3631
   },
   "minecraftendston": {
-    "week_seconds": 2219,
+    "week_seconds": 4286,
     "week_start": 1781515490,
-    "total_seconds": 2219
+    "total_seconds": 4286
   },
   "battleofsky": {
     "week_seconds": 1066,
@@ -2037,6 +2037,11 @@
   "showerenjoyer7": {
     "week_seconds": 0,
     "week_start": 1781523915,
+    "total_seconds": 0
+  },
+  "el_shap0": {
+    "week_seconds": 0,
+    "week_start": 1781523974,
     "total_seconds": 0
   }
 }
