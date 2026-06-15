@@ -1570,9 +1570,9 @@
     "total_seconds": 983
   },
   "physicsgamer": {
-    "week_seconds": 735,
+    "week_seconds": 1492,
     "week_start": 1781504070,
-    "total_seconds": 735
+    "total_seconds": 1492
   },
   "_2k42_": {
     "week_seconds": 0,
@@ -1587,6 +1587,11 @@
   "vlinar": {
     "week_seconds": 0,
     "week_start": 1781505389,
+    "total_seconds": 0
+  },
+  "nevicilia": {
+    "week_seconds": 0,
+    "week_start": 1781505547,
     "total_seconds": 0
   }
 }
