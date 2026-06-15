@@ -40,9 +40,9 @@
     "total_seconds": 0
   },
   "piotato": {
-    "week_seconds": 0,
+    "week_seconds": 7809,
     "week_start": 1781474698,
-    "total_seconds": 0
+    "total_seconds": 7809
   },
   "lucifer420xx": {
     "week_seconds": 0,
@@ -880,9 +880,9 @@
     "total_seconds": 5
   },
   "ajrose19": {
-    "week_seconds": 0,
+    "week_seconds": 872,
     "week_start": 1781484803,
-    "total_seconds": 0
+    "total_seconds": 872
   },
   "espec17": {
     "week_seconds": 0,
@@ -932,6 +932,11 @@
   "diebb8": {
     "week_seconds": 0,
     "week_start": 1781485626,
+    "total_seconds": 0
+  },
+  "xelthoz": {
+    "week_seconds": 0,
+    "week_start": 1781485674,
     "total_seconds": 0
   }
 }
