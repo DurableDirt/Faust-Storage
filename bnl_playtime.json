@@ -1178,5 +1178,10 @@
     "week_seconds": 0,
     "week_start": 1781489556,
     "total_seconds": 0
+  },
+  "kingstell": {
+    "week_seconds": 50,
+    "week_start": 1781489596,
+    "total_seconds": 50
   }
 }
