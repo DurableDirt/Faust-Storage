@@ -3008,5 +3008,15 @@
     "week_seconds": 0,
     "week_start": 1781551808,
     "total_seconds": 0
+  },
+  "avale86x64": {
+    "week_seconds": 0,
+    "week_start": 1781551967,
+    "total_seconds": 0
+  },
+  "houdiniandseek": {
+    "week_seconds": 2,
+    "week_start": 1781552069,
+    "total_seconds": 2
   }
 }
