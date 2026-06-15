@@ -1850,9 +1850,9 @@
     "total_seconds": 10182
   },
   "basicallyagungan": {
-    "week_seconds": 13100,
+    "week_seconds": 13337,
     "week_start": 1781517220,
-    "total_seconds": 13100
+    "total_seconds": 13337
   },
   "archieisverydum": {
     "week_seconds": 17,
@@ -2787,6 +2787,11 @@
   "zzumzum": {
     "week_seconds": 0,
     "week_start": 1781545560,
+    "total_seconds": 0
+  },
+  "sirboss001": {
+    "week_seconds": 0,
+    "week_start": 1781545653,
     "total_seconds": 0
   }
 }
