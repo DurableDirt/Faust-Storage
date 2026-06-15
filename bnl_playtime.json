@@ -270,9 +270,9 @@
     "total_seconds": 8506
   },
   "dasonishere2": {
-    "week_seconds": 19065,
+    "week_seconds": 23634,
     "week_start": 1781476841,
-    "total_seconds": 19065
+    "total_seconds": 23634
   },
   "peyt1212": {
     "week_seconds": 2154,
@@ -2090,9 +2090,9 @@
     "total_seconds": 0
   },
   "m4xoff": {
-    "week_seconds": 4906,
+    "week_seconds": 5990,
     "week_start": 1781525517,
-    "total_seconds": 4906
+    "total_seconds": 5990
   },
   "thatguymisan": {
     "week_seconds": 4055,
@@ -2557,6 +2557,11 @@
   "yunfi": {
     "week_seconds": 0,
     "week_start": 1781537464,
+    "total_seconds": 0
+  },
+  "myng11": {
+    "week_seconds": 0,
+    "week_start": 1781538162,
     "total_seconds": 0
   }
 }
