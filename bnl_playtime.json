@@ -2070,9 +2070,9 @@
     "total_seconds": 7186
   },
   "leonardus07": {
-    "week_seconds": 10451,
+    "week_seconds": 11066,
     "week_start": 1781524847,
-    "total_seconds": 10451
+    "total_seconds": 11066
   },
   "thomasdetrein0_0": {
     "week_seconds": 10334,
@@ -2940,9 +2940,9 @@
     "total_seconds": 0
   },
   "dr_bacon_hair": {
-    "week_seconds": 0,
+    "week_seconds": 2876,
     "week_start": 1781549800,
-    "total_seconds": 0
+    "total_seconds": 2876
   },
   "_excalibur": {
     "week_seconds": 0,
@@ -3078,5 +3078,10 @@
     "week_seconds": 122,
     "week_start": 1781553886,
     "total_seconds": 122
+  },
+  "starryjeongyeon": {
+    "week_seconds": 0,
+    "week_start": 1781554088,
+    "total_seconds": 0
   }
 }
