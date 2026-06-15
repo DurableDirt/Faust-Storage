@@ -3135,9 +3135,9 @@
     "total_seconds": 1036
   },
   "stashman1780": {
-    "week_seconds": 0,
+    "week_seconds": 6270,
     "week_start": 1781555462,
-    "total_seconds": 0
+    "total_seconds": 6270
   },
   "cokebrothers12": {
     "week_seconds": 3470,
@@ -3302,6 +3302,11 @@
   "senkucola": {
     "week_seconds": 0,
     "week_start": 1781561460,
+    "total_seconds": 0
+  },
+  "neocel": {
+    "week_seconds": 0,
+    "week_start": 1781561733,
     "total_seconds": 0
   }
 }
