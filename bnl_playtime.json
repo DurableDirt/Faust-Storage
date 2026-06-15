@@ -1,8 +1,8 @@
 {
   "durabledirt": {
-    "week_seconds": 11781,
+    "week_seconds": 12079,
     "week_start": 1781474461,
-    "total_seconds": 11781
+    "total_seconds": 12079
   },
   "alphaaaaaaaaalph": {
     "week_seconds": 4,
@@ -3068,5 +3068,10 @@
     "week_seconds": 0,
     "week_start": 1781553800,
     "total_seconds": 0
+  },
+  "justyaboisoul": {
+    "week_seconds": 20,
+    "week_start": 1781553860,
+    "total_seconds": 20
   }
 }
