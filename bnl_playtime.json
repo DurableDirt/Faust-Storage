@@ -1730,9 +1730,9 @@
     "total_seconds": 3139
   },
   "tacofromii": {
-    "week_seconds": 2227,
+    "week_seconds": 4640,
     "week_start": 1781513316,
-    "total_seconds": 2227
+    "total_seconds": 4640
   },
   "mayaafox": {
     "week_seconds": 4225,
@@ -2415,9 +2415,9 @@
     "total_seconds": 4182
   },
   "sml128": {
-    "week_seconds": 4562,
+    "week_seconds": 4691,
     "week_start": 1781534411,
-    "total_seconds": 4562
+    "total_seconds": 4691
   },
   "malipan": {
     "week_seconds": 1894,
@@ -2857,6 +2857,16 @@
   "tinyelon": {
     "week_seconds": 0,
     "week_start": 1781547085,
+    "total_seconds": 0
+  },
+  "puremaster11": {
+    "week_seconds": 0,
+    "week_start": 1781547192,
+    "total_seconds": 0
+  },
+  "torqale": {
+    "week_seconds": 0,
+    "week_start": 1781547203,
     "total_seconds": 0
   }
 }
