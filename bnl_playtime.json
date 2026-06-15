@@ -970,9 +970,9 @@
     "total_seconds": 22982
   },
   "cynical_darling": {
-    "week_seconds": 2738,
+    "week_seconds": 8761,
     "week_start": 1781486072,
-    "total_seconds": 2738
+    "total_seconds": 8761
   },
   "mrmonkeyman7_7": {
     "week_seconds": 2906,
@@ -2270,9 +2270,9 @@
     "total_seconds": 5002
   },
   "wickedmartin": {
-    "week_seconds": 2316,
+    "week_seconds": 13366,
     "week_start": 1781530169,
-    "total_seconds": 2316
+    "total_seconds": 13366
   },
   "fighterferret": {
     "week_seconds": 72,
@@ -2852,6 +2852,11 @@
   "queenceliathe1st": {
     "week_seconds": 0,
     "week_start": 1781546737,
+    "total_seconds": 0
+  },
+  "tinyelon": {
+    "week_seconds": 0,
+    "week_start": 1781547085,
     "total_seconds": 0
   }
 }
