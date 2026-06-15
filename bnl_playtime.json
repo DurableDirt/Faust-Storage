@@ -1850,9 +1850,9 @@
     "total_seconds": 10182
   },
   "basicallyagungan": {
-    "week_seconds": 13337,
+    "week_seconds": 20010,
     "week_start": 1781517220,
-    "total_seconds": 13337
+    "total_seconds": 20010
   },
   "archieisverydum": {
     "week_seconds": 17,
@@ -2740,9 +2740,9 @@
     "total_seconds": 2616
   },
   "ivona_dies_alot": {
-    "week_seconds": 6965,
+    "week_seconds": 12592,
     "week_start": 1781544591,
-    "total_seconds": 6965
+    "total_seconds": 12592
   },
   "maarslange": {
     "week_seconds": 12,
@@ -3300,9 +3300,9 @@
     "total_seconds": 3698
   },
   "senkucola": {
-    "week_seconds": 3954,
+    "week_seconds": 4052,
     "week_start": 1781561460,
-    "total_seconds": 3954
+    "total_seconds": 4052
   },
   "neocel": {
     "week_seconds": 0,
@@ -3467,6 +3467,11 @@
   "ir0ncr0sslander": {
     "week_seconds": 0,
     "week_start": 1781566963,
+    "total_seconds": 0
+  },
+  "imrobinrobin": {
+    "week_seconds": 0,
+    "week_start": 1781567081,
     "total_seconds": 0
   }
 }
