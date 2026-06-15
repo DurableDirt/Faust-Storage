@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 18601,
+    "week_seconds": 19062,
     "week_start": 1781513574,
-    "total_seconds": 18601
+    "total_seconds": 19062
   },
   "stavros_ell": {
     "week_seconds": 11447,
@@ -2713,5 +2713,10 @@
     "week_seconds": 0,
     "week_start": 1781542564,
     "total_seconds": 0
+  },
+  "landopotato712": {
+    "week_seconds": 12,
+    "week_start": 1781542629,
+    "total_seconds": 12
   }
 }
