@@ -175,9 +175,9 @@
     "total_seconds": 2715
   },
   "therisewarrior16": {
-    "week_seconds": 137,
+    "week_seconds": 7530,
     "week_start": 1781476133,
-    "total_seconds": 137
+    "total_seconds": 7530
   },
   "pasteldepapa777": {
     "week_seconds": 8669,
@@ -1268,5 +1268,15 @@
     "week_seconds": 0,
     "week_start": 1781491569,
     "total_seconds": 0
+  },
+  "regencyshadow40": {
+    "week_seconds": 0,
+    "week_start": 1781491859,
+    "total_seconds": 0
+  },
+  "yatzplz": {
+    "week_seconds": 10,
+    "week_start": 1781491863,
+    "total_seconds": 10
   }
 }
