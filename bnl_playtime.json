@@ -685,9 +685,9 @@
     "total_seconds": 5272
   },
   "cheesenoodle24": {
-    "week_seconds": 0,
+    "week_seconds": 5559,
     "week_start": 1781482060,
-    "total_seconds": 0
+    "total_seconds": 5559
   },
   "supposed": {
     "week_seconds": 2466,
@@ -730,9 +730,9 @@
     "total_seconds": 2490
   },
   "marc_1500": {
-    "week_seconds": 342,
+    "week_seconds": 5023,
     "week_start": 1781482585,
-    "total_seconds": 342
+    "total_seconds": 5023
   },
   "zipjaw3979": {
     "week_seconds": 276,
@@ -1075,8 +1075,8 @@
     "total_seconds": 0
   },
   "ticklyrice": {
-    "week_seconds": 0,
+    "week_seconds": 214,
     "week_start": 1781487417,
-    "total_seconds": 0
+    "total_seconds": 214
   }
 }
