@@ -715,9 +715,9 @@
     "total_seconds": 10383
   },
   "limtingus1": {
-    "week_seconds": 15194,
+    "week_seconds": 16236,
     "week_start": 1781482426,
-    "total_seconds": 15194
+    "total_seconds": 16236
   },
   "the_montenegrin": {
     "week_seconds": 329,
@@ -3352,6 +3352,16 @@
   "sparkyjuice": {
     "week_seconds": 0,
     "week_start": 1781563281,
+    "total_seconds": 0
+  },
+  "trolstein_pt": {
+    "week_seconds": 0,
+    "week_start": 1781563515,
+    "total_seconds": 0
+  },
+  "dropcity": {
+    "week_seconds": 0,
+    "week_start": 1781563531,
     "total_seconds": 0
   }
 }
