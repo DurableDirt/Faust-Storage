@@ -50,9 +50,9 @@
     "total_seconds": 0
   },
   "meenos": {
-    "week_seconds": 7072,
+    "week_seconds": 7087,
     "week_start": 1781474845,
-    "total_seconds": 7072
+    "total_seconds": 7087
   },
   "jadenjb": {
     "week_seconds": 1493,
@@ -240,9 +240,9 @@
     "total_seconds": 0
   },
   "wasabiwhip": {
-    "week_seconds": 132,
+    "week_seconds": 184,
     "week_start": 1781476532,
-    "total_seconds": 132
+    "total_seconds": 184
   },
   "aluminum_foil_": {
     "week_seconds": 591,
@@ -735,9 +735,9 @@
     "total_seconds": 0
   },
   "zipjaw3979": {
-    "week_seconds": 0,
+    "week_seconds": 276,
     "week_start": 1781482591,
-    "total_seconds": 0
+    "total_seconds": 276
   },
   "grepsedawk": {
     "week_seconds": 0,
@@ -750,8 +750,13 @@
     "total_seconds": 0
   },
   "goosehoss": {
-    "week_seconds": 0,
+    "week_seconds": 184,
     "week_start": 1781482675,
+    "total_seconds": 184
+  },
+  "22o1anges": {
+    "week_seconds": 0,
+    "week_start": 1781482873,
     "total_seconds": 0
   }
 }
