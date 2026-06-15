@@ -630,9 +630,9 @@
     "total_seconds": 1410
   },
   "retrocitrus": {
-    "week_seconds": 9511,
+    "week_seconds": 14898,
     "week_start": 1781481396,
-    "total_seconds": 9511
+    "total_seconds": 14898
   },
   "thecrazygrape": {
     "week_seconds": 8260,
@@ -3300,9 +3300,9 @@
     "total_seconds": 3698
   },
   "senkucola": {
-    "week_seconds": 3444,
+    "week_seconds": 3954,
     "week_start": 1781561460,
-    "total_seconds": 3444
+    "total_seconds": 3954
   },
   "neocel": {
     "week_seconds": 0,
@@ -3413,5 +3413,10 @@
     "week_seconds": 157,
     "week_start": 1781564878,
     "total_seconds": 157
+  },
+  "alexhamilton0": {
+    "week_seconds": 5,
+    "week_start": 1781565478,
+    "total_seconds": 5
   }
 }
