@@ -755,9 +755,9 @@
     "total_seconds": 184
   },
   "22o1anges": {
-    "week_seconds": 0,
+    "week_seconds": 3008,
     "week_start": 1781482873,
-    "total_seconds": 0
+    "total_seconds": 3008
   },
   "zaytch_7": {
     "week_seconds": 0,
@@ -775,9 +775,9 @@
     "total_seconds": 64
   },
   "deskjockey": {
-    "week_seconds": 0,
+    "week_seconds": 2719,
     "week_start": 1781483148,
-    "total_seconds": 0
+    "total_seconds": 2719
   },
   "thefoxofnines": {
     "week_seconds": 150,
@@ -915,9 +915,9 @@
     "total_seconds": 79
   },
   "myfatherisnotch": {
-    "week_seconds": 0,
+    "week_seconds": 455,
     "week_start": 1781485400,
-    "total_seconds": 0
+    "total_seconds": 455
   },
   "way2muchprada": {
     "week_seconds": 0,
@@ -943,5 +943,10 @@
     "week_seconds": 66,
     "week_start": 1781485724,
     "total_seconds": 66
+  },
+  "xcios": {
+    "week_seconds": 0,
+    "week_start": 1781485868,
+    "total_seconds": 0
   }
 }
