@@ -1765,9 +1765,9 @@
     "total_seconds": 708
   },
   "bravoocto15": {
-    "week_seconds": 3856,
+    "week_seconds": 3887,
     "week_start": 1781514162,
-    "total_seconds": 3856
+    "total_seconds": 3887
   },
   "wandrumdum": {
     "week_seconds": 1992,
@@ -2793,5 +2793,10 @@
     "week_seconds": 0,
     "week_start": 1781545653,
     "total_seconds": 0
+  },
+  "vortexx_xq": {
+    "week_seconds": 12,
+    "week_start": 1781545865,
+    "total_seconds": 12
   }
 }
