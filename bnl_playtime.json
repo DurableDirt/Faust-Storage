@@ -235,9 +235,9 @@
     "total_seconds": 4978
   },
   "hentlol": {
-    "week_seconds": 0,
+    "week_seconds": 9027,
     "week_start": 1781476485,
-    "total_seconds": 0
+    "total_seconds": 9027
   },
   "wasabiwhip": {
     "week_seconds": 184,
@@ -917,6 +917,11 @@
   "myfatherisnotch": {
     "week_seconds": 0,
     "week_start": 1781485400,
+    "total_seconds": 0
+  },
+  "way2muchprada": {
+    "week_seconds": 0,
+    "week_start": 1781485533,
     "total_seconds": 0
   }
 }
