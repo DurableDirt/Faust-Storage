@@ -285,9 +285,9 @@
     "total_seconds": 6754
   },
   "mechanicalrift": {
-    "week_seconds": 31467,
+    "week_seconds": 36270,
     "week_start": 1781476919,
-    "total_seconds": 31467
+    "total_seconds": 36270
   },
   "aguscon": {
     "week_seconds": 7488,
@@ -2370,9 +2370,9 @@
     "total_seconds": 11685
   },
   "jaxkats": {
-    "week_seconds": 4148,
+    "week_seconds": 4821,
     "week_start": 1781532995,
-    "total_seconds": 4148
+    "total_seconds": 4821
   },
   "technogameryt": {
     "week_seconds": 30,
@@ -3250,9 +3250,9 @@
     "total_seconds": 0
   },
   "vilyanz": {
-    "week_seconds": 0,
+    "week_seconds": 964,
     "week_start": 1781560262,
-    "total_seconds": 0
+    "total_seconds": 964
   },
   "mickale": {
     "week_seconds": 248,
@@ -3293,5 +3293,10 @@
     "week_seconds": 4,
     "week_start": 1781561145,
     "total_seconds": 4
+  },
+  "twinkieexpresss": {
+    "week_seconds": 0,
+    "week_start": 1781561231,
+    "total_seconds": 0
   }
 }
