@@ -1375,9 +1375,9 @@
     "total_seconds": 1020
   },
   "furybyproxy": {
-    "week_seconds": 0,
+    "week_seconds": 1150,
     "week_start": 1781495627,
-    "total_seconds": 0
+    "total_seconds": 1150
   },
   "luin": {
     "week_seconds": 0,
@@ -1423,5 +1423,10 @@
     "week_seconds": 33,
     "week_start": 1781496687,
     "total_seconds": 33
+  },
+  "westley2099": {
+    "week_seconds": 5,
+    "week_start": 1781496779,
+    "total_seconds": 5
   }
 }
