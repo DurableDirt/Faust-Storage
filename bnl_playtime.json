@@ -260,9 +260,9 @@
     "total_seconds": 4970
   },
   "mrjeremyfisher": {
-    "week_seconds": 4178,
+    "week_seconds": 4188,
     "week_start": 1781476749,
-    "total_seconds": 4178
+    "total_seconds": 4188
   },
   "slushhi": {
     "week_seconds": 8506,
@@ -580,9 +580,9 @@
     "total_seconds": 2692
   },
   "ethn__": {
-    "week_seconds": 2561,
+    "week_seconds": 4700,
     "week_start": 1781480700,
-    "total_seconds": 2561
+    "total_seconds": 4700
   },
   "suderp": {
     "week_seconds": 3472,
@@ -1337,6 +1337,11 @@
   "cactusbecool": {
     "week_seconds": 0,
     "week_start": 1781492928,
+    "total_seconds": 0
+  },
+  "misprint293": {
+    "week_seconds": 0,
+    "week_start": 1781493068,
     "total_seconds": 0
   }
 }
