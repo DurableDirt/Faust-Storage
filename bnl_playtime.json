@@ -1530,9 +1530,9 @@
     "total_seconds": 1209
   },
   "xlader161": {
-    "week_seconds": 657,
+    "week_seconds": 838,
     "week_start": 1781502651,
-    "total_seconds": 657
+    "total_seconds": 838
   },
   "trinityx45": {
     "week_seconds": 24,
@@ -1557,6 +1557,21 @@
   "hakr_": {
     "week_seconds": 0,
     "week_start": 1781503652,
+    "total_seconds": 0
+  },
+  "nsiv28": {
+    "week_seconds": 0,
+    "week_start": 1781503923,
+    "total_seconds": 0
+  },
+  "osronyeah": {
+    "week_seconds": 0,
+    "week_start": 1781504037,
+    "total_seconds": 0
+  },
+  "physicsgamer": {
+    "week_seconds": 0,
+    "week_start": 1781504070,
     "total_seconds": 0
   }
 }
