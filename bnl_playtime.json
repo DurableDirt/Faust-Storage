@@ -235,9 +235,9 @@
     "total_seconds": 23630
   },
   "hentlol": {
-    "week_seconds": 18983,
+    "week_seconds": 19537,
     "week_start": 1781476485,
-    "total_seconds": 18983
+    "total_seconds": 19537
   },
   "wasabiwhip": {
     "week_seconds": 4512,
@@ -3370,8 +3370,13 @@
     "total_seconds": 0
   },
   "rulingneuroz": {
-    "week_seconds": 0,
+    "week_seconds": 248,
     "week_start": 1781563762,
+    "total_seconds": 248
+  },
+  "vesectomy": {
+    "week_seconds": 0,
+    "week_start": 1781564049,
     "total_seconds": 0
   }
 }
