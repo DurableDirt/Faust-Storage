@@ -740,9 +740,9 @@
     "total_seconds": 276
   },
   "grepsedawk": {
-    "week_seconds": 35027,
+    "week_seconds": 35050,
     "week_start": 1781482598,
-    "total_seconds": 35027
+    "total_seconds": 35050
   },
   "complexii": {
     "week_seconds": 3241,
@@ -1863,5 +1863,15 @@
     "week_seconds": 198,
     "week_start": 1781517378,
     "total_seconds": 198
+  },
+  "orinnari": {
+    "week_seconds": 0,
+    "week_start": 1781518565,
+    "total_seconds": 0
+  },
+  "dudees": {
+    "week_seconds": 0,
+    "week_start": 1781518572,
+    "total_seconds": 0
   }
 }
