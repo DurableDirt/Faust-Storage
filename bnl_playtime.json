@@ -80,9 +80,9 @@
     "total_seconds": 6820
   },
   "lynx2007": {
-    "week_seconds": 15808,
+    "week_seconds": 15840,
     "week_start": 1781475059,
-    "total_seconds": 15808
+    "total_seconds": 15840
   },
   "cunningwind6139": {
     "week_seconds": 3737,
@@ -3070,9 +3070,9 @@
     "total_seconds": 120
   },
   "justyaboisoul": {
-    "week_seconds": 2307,
+    "week_seconds": 3104,
     "week_start": 1781553860,
-    "total_seconds": 2307
+    "total_seconds": 3104
   },
   "alarmedbread540": {
     "week_seconds": 250,
@@ -3252,6 +3252,16 @@
   "vilyanz": {
     "week_seconds": 0,
     "week_start": 1781560262,
+    "total_seconds": 0
+  },
+  "mickale": {
+    "week_seconds": 0,
+    "week_start": 1781560558,
+    "total_seconds": 0
+  },
+  "primalrex_3": {
+    "week_seconds": 0,
+    "week_start": 1781560574,
     "total_seconds": 0
   }
 }
