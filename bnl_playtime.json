@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 22374,
+    "week_seconds": 22670,
     "week_start": 1781513574,
-    "total_seconds": 22374
+    "total_seconds": 22670
   },
   "stavros_ell": {
     "week_seconds": 11447,
@@ -3332,6 +3332,11 @@
   "diegochotocho": {
     "week_seconds": 0,
     "week_start": 1781562607,
+    "total_seconds": 0
+  },
+  "project_baxti": {
+    "week_seconds": 0,
+    "week_start": 1781562706,
     "total_seconds": 0
   }
 }
