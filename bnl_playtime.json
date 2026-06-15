@@ -245,9 +245,9 @@
     "total_seconds": 3703
   },
   "aluminum_foil_": {
-    "week_seconds": 19254,
+    "week_seconds": 19904,
     "week_start": 1781476568,
-    "total_seconds": 19254
+    "total_seconds": 19904
   },
   "mpusa": {
     "week_seconds": 17226,
@@ -405,9 +405,9 @@
     "total_seconds": 7289
   },
   "freshoxygenair": {
-    "week_seconds": 897,
+    "week_seconds": 1606,
     "week_start": 1781478147,
-    "total_seconds": 897
+    "total_seconds": 1606
   },
   "cz10_xp": {
     "week_seconds": 396,
@@ -665,9 +665,9 @@
     "total_seconds": 7458
   },
   "unique_nullptr": {
-    "week_seconds": 34475,
+    "week_seconds": 35003,
     "week_start": 1781481654,
-    "total_seconds": 34475
+    "total_seconds": 35003
   },
   "boatoverbogs": {
     "week_seconds": 8392,
@@ -3027,6 +3027,11 @@
   "jsdude437": {
     "week_seconds": 0,
     "week_start": 1781552386,
+    "total_seconds": 0
+  },
+  "capollie": {
+    "week_seconds": 0,
+    "week_start": 1781552442,
     "total_seconds": 0
   }
 }
