@@ -385,9 +385,9 @@
     "total_seconds": 18512
   },
   "opriva": {
-    "week_seconds": 6889,
+    "week_seconds": 10163,
     "week_start": 1781477978,
-    "total_seconds": 6889
+    "total_seconds": 10163
   },
   "kokomiology": {
     "week_seconds": 179,
@@ -930,9 +930,9 @@
     "total_seconds": 386
   },
   "diebb8": {
-    "week_seconds": 1347,
+    "week_seconds": 3451,
     "week_start": 1781485626,
-    "total_seconds": 1347
+    "total_seconds": 3451
   },
   "xelthoz": {
     "week_seconds": 15555,
@@ -1690,9 +1690,9 @@
     "total_seconds": 24555
   },
   "solitaire7": {
-    "week_seconds": 21180,
+    "week_seconds": 22369,
     "week_start": 1781510605,
-    "total_seconds": 21180
+    "total_seconds": 22369
   },
   "masqo_": {
     "week_seconds": 13663,
@@ -3387,6 +3387,11 @@
   "snekintophat": {
     "week_seconds": 0,
     "week_start": 1781564335,
+    "total_seconds": 0
+  },
+  "thebigapple67": {
+    "week_seconds": 0,
+    "week_start": 1781564627,
     "total_seconds": 0
   }
 }
