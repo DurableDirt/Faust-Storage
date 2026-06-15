@@ -470,9 +470,9 @@
     "total_seconds": 2541
   },
   "anotnot": {
-    "week_seconds": 4885,
+    "week_seconds": 5472,
     "week_start": 1781479365,
-    "total_seconds": 4885
+    "total_seconds": 5472
   },
   "tntfortress": {
     "week_seconds": 1909,
@@ -927,6 +927,11 @@
   "thugfork": {
     "week_seconds": 0,
     "week_start": 1781485549,
+    "total_seconds": 0
+  },
+  "diebb8": {
+    "week_seconds": 0,
+    "week_start": 1781485626,
     "total_seconds": 0
   }
 }
