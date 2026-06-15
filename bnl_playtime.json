@@ -2200,9 +2200,9 @@
     "total_seconds": 0
   },
   "pandyteddyyt": {
-    "week_seconds": 433,
+    "week_seconds": 635,
     "week_start": 1781528053,
-    "total_seconds": 433
+    "total_seconds": 635
   },
   "britzsin": {
     "week_seconds": 5,
@@ -2350,13 +2350,18 @@
     "total_seconds": 0
   },
   "asgeir9": {
-    "week_seconds": 0,
+    "week_seconds": 247,
     "week_start": 1781532087,
-    "total_seconds": 0
+    "total_seconds": 247
   },
   "enderjones529": {
     "week_seconds": 0,
     "week_start": 1781532119,
+    "total_seconds": 0
+  },
+  "creaptor1": {
+    "week_seconds": 0,
+    "week_start": 1781532322,
     "total_seconds": 0
   }
 }
