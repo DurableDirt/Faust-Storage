@@ -1905,9 +1905,9 @@
     "total_seconds": 2132
   },
   "hxrl": {
-    "week_seconds": 4155,
+    "week_seconds": 5999,
     "week_start": 1781519516,
-    "total_seconds": 4155
+    "total_seconds": 5999
   },
   "ech0o_o0": {
     "week_seconds": 2725,
@@ -2740,9 +2740,9 @@
     "total_seconds": 2616
   },
   "ivona_dies_alot": {
-    "week_seconds": 3110,
+    "week_seconds": 6965,
     "week_start": 1781544591,
-    "total_seconds": 3110
+    "total_seconds": 6965
   },
   "maarslange": {
     "week_seconds": 12,
@@ -3273,5 +3273,15 @@
     "week_seconds": 74,
     "week_start": 1781560824,
     "total_seconds": 74
+  },
+  "cavefire6675": {
+    "week_seconds": 0,
+    "week_start": 1781560987,
+    "total_seconds": 0
+  },
+  "artikul583": {
+    "week_seconds": 0,
+    "week_start": 1781561010,
+    "total_seconds": 0
   }
 }
