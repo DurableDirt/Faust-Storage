@@ -1805,9 +1805,9 @@
     "total_seconds": 11479
   },
   "creepi0n": {
-    "week_seconds": 6867,
+    "week_seconds": 13704,
     "week_start": 1781515950,
-    "total_seconds": 6867
+    "total_seconds": 13704
   },
   "_monor": {
     "week_seconds": 4975,
@@ -2313,5 +2313,10 @@
     "week_seconds": 5,
     "week_start": 1781531429,
     "total_seconds": 5
+  },
+  "v0idend": {
+    "week_seconds": 0,
+    "week_start": 1781531495,
+    "total_seconds": 0
   }
 }
