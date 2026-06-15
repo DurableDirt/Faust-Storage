@@ -1675,9 +1675,9 @@
     "total_seconds": 2621
   },
   "jaydon_": {
-    "week_seconds": 4186,
+    "week_seconds": 4678,
     "week_start": 1781510086,
-    "total_seconds": 4186
+    "total_seconds": 4678
   },
   "pina0210": {
     "week_seconds": 4,
@@ -1805,9 +1805,9 @@
     "total_seconds": 5427
   },
   "creepi0n": {
-    "week_seconds": 3937,
+    "week_seconds": 5538,
     "week_start": 1781515950,
-    "total_seconds": 3937
+    "total_seconds": 5538
   },
   "_monor": {
     "week_seconds": 4975,
@@ -2003,5 +2003,15 @@
     "week_seconds": 51,
     "week_start": 1781522965,
     "total_seconds": 51
+  },
+  "kelsokevin": {
+    "week_seconds": 0,
+    "week_start": 1781523034,
+    "total_seconds": 0
+  },
+  "olliebell": {
+    "week_seconds": 0,
+    "week_start": 1781523158,
+    "total_seconds": 0
   }
 }
