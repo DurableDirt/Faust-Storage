@@ -165,9 +165,9 @@
     "total_seconds": 9295
   },
   "nobodypanicc": {
-    "week_seconds": 2394,
+    "week_seconds": 10730,
     "week_start": 1781476038,
-    "total_seconds": 2394
+    "total_seconds": 10730
   },
   "snw": {
     "week_seconds": 2715,
@@ -1700,9 +1700,9 @@
     "total_seconds": 7584
   },
   "eyestrainz": {
-    "week_seconds": 9388,
+    "week_seconds": 14026,
     "week_start": 1781511497,
-    "total_seconds": 9388
+    "total_seconds": 14026
   },
   "snailytrail": {
     "week_seconds": 6,
@@ -2452,6 +2452,21 @@
   "nyghtshxde": {
     "week_seconds": 0,
     "week_start": 1781535046,
+    "total_seconds": 0
+  },
+  "plisplas23": {
+    "week_seconds": 0,
+    "week_start": 1781535288,
+    "total_seconds": 0
+  },
+  "robocookie3_0": {
+    "week_seconds": 0,
+    "week_start": 1781535501,
+    "total_seconds": 0
+  },
+  "naginata9": {
+    "week_seconds": 0,
+    "week_start": 1781535600,
     "total_seconds": 0
   }
 }
