@@ -475,9 +475,9 @@
     "total_seconds": 22814
   },
   "tntfortress": {
-    "week_seconds": 9265,
+    "week_seconds": 11507,
     "week_start": 1781479375,
-    "total_seconds": 9265
+    "total_seconds": 11507
   },
   "crafterkid50009": {
     "week_seconds": 5060,
@@ -1755,9 +1755,9 @@
     "total_seconds": 11447
   },
   "facocero09": {
-    "week_seconds": 6625,
+    "week_seconds": 6657,
     "week_start": 1781514012,
-    "total_seconds": 6625
+    "total_seconds": 6657
   },
   "happyfeet4607": {
     "week_seconds": 708,
@@ -2267,6 +2267,21 @@
   "pergyskeel": {
     "week_seconds": 0,
     "week_start": 1781530012,
+    "total_seconds": 0
+  },
+  "wickedmartin": {
+    "week_seconds": 0,
+    "week_start": 1781530169,
+    "total_seconds": 0
+  },
+  "fighterferret": {
+    "week_seconds": 0,
+    "week_start": 1781530175,
+    "total_seconds": 0
+  },
+  "beckerlet": {
+    "week_seconds": 0,
+    "week_start": 1781530178,
     "total_seconds": 0
   }
 }
