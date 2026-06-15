@@ -80,9 +80,9 @@
     "total_seconds": 4888
   },
   "lynx2007": {
-    "week_seconds": 15187,
+    "week_seconds": 15218,
     "week_start": 1781475059,
-    "total_seconds": 15187
+    "total_seconds": 15218
   },
   "cunningwind6139": {
     "week_seconds": 3737,
@@ -2960,9 +2960,9 @@
     "total_seconds": 0
   },
   "lucifer_sh": {
-    "week_seconds": 0,
+    "week_seconds": 1475,
     "week_start": 1781550837,
-    "total_seconds": 0
+    "total_seconds": 1475
   },
   "yuitzzy": {
     "week_seconds": 0,
@@ -3018,5 +3018,10 @@
     "week_seconds": 2,
     "week_start": 1781552069,
     "total_seconds": 2
+  },
+  "goog_industries": {
+    "week_seconds": 0,
+    "week_start": 1781552329,
+    "total_seconds": 0
   }
 }
