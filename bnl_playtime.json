@@ -75,9 +75,9 @@
     "total_seconds": 16727
   },
   "40mm": {
-    "week_seconds": 1055,
+    "week_seconds": 1099,
     "week_start": 1781475020,
-    "total_seconds": 1055
+    "total_seconds": 1099
   },
   "lynx2007": {
     "week_seconds": 15071,
@@ -1530,9 +1530,9 @@
     "total_seconds": 3493
   },
   "xlader161": {
-    "week_seconds": 7559,
+    "week_seconds": 11441,
     "week_start": 1781502651,
-    "total_seconds": 7559
+    "total_seconds": 11441
   },
   "trinityx45": {
     "week_seconds": 3409,
