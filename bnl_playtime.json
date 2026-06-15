@@ -280,9 +280,9 @@
     "total_seconds": 2154
   },
   "ansgardd": {
-    "week_seconds": 1325,
+    "week_seconds": 6590,
     "week_start": 1781476881,
-    "total_seconds": 1325
+    "total_seconds": 6590
   },
   "mechanicalrift": {
     "week_seconds": 31467,
@@ -3208,5 +3208,10 @@
     "week_seconds": 210,
     "week_start": 1781558133,
     "total_seconds": 210
+  },
+  "cifec": {
+    "week_seconds": 0,
+    "week_start": 1781558539,
+    "total_seconds": 0
   }
 }
