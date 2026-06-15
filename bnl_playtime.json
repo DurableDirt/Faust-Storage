@@ -1155,9 +1155,9 @@
     "total_seconds": 124
   },
   "fumpkle": {
-    "week_seconds": 0,
+    "week_seconds": 427,
     "week_start": 1781489443,
-    "total_seconds": 0
+    "total_seconds": 427
   },
   "toonylinksr": {
     "week_seconds": 8,
@@ -1187,6 +1187,11 @@
   "animeme_master": {
     "week_seconds": 0,
     "week_start": 1781489801,
+    "total_seconds": 0
+  },
+  "gubukiv": {
+    "week_seconds": 0,
+    "week_start": 1781489878,
     "total_seconds": 0
   }
 }
