@@ -1695,9 +1695,9 @@
     "total_seconds": 14902
   },
   "masqo_": {
-    "week_seconds": 10210,
+    "week_seconds": 13590,
     "week_start": 1781511452,
-    "total_seconds": 10210
+    "total_seconds": 13590
   },
   "eyestrainz": {
     "week_seconds": 14272,
@@ -2743,5 +2743,10 @@
     "week_seconds": 0,
     "week_start": 1781544591,
     "total_seconds": 0
+  },
+  "maarslange": {
+    "week_seconds": 12,
+    "week_start": 1781544668,
+    "total_seconds": 12
   }
 }
