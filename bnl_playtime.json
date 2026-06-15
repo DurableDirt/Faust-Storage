@@ -395,9 +395,9 @@
     "total_seconds": 179
   },
   "toasted745": {
-    "week_seconds": 1322,
+    "week_seconds": 2743,
     "week_start": 1781478042,
-    "total_seconds": 1322
+    "total_seconds": 2743
   },
   "uprisingmax": {
     "week_seconds": 7262,
@@ -1117,6 +1117,11 @@
   "boatcat": {
     "week_seconds": 0,
     "week_start": 1781488238,
+    "total_seconds": 0
+  },
+  "dbeatzxd": {
+    "week_seconds": 0,
+    "week_start": 1781488437,
     "total_seconds": 0
   }
 }
