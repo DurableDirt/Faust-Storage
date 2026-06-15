@@ -810,9 +810,9 @@
     "total_seconds": 15780
   },
   "timantha": {
-    "week_seconds": 24306,
+    "week_seconds": 24778,
     "week_start": 1781483687,
-    "total_seconds": 24306
+    "total_seconds": 24778
   },
   "gnathope": {
     "week_seconds": 20057,
@@ -2445,9 +2445,9 @@
     "total_seconds": 49
   },
   "soggywafle236": {
-    "week_seconds": 2312,
+    "week_seconds": 9051,
     "week_start": 1781534874,
-    "total_seconds": 2312
+    "total_seconds": 9051
   },
   "nyghtshxde": {
     "week_seconds": 9833,
@@ -2778,5 +2778,15 @@
     "week_seconds": 28,
     "week_start": 1781545324,
     "total_seconds": 28
+  },
+  "monny12345": {
+    "week_seconds": 0,
+    "week_start": 1781545483,
+    "total_seconds": 0
+  },
+  "zzumzum": {
+    "week_seconds": 0,
+    "week_start": 1781545560,
+    "total_seconds": 0
   }
 }
