@@ -75,9 +75,9 @@
     "total_seconds": 16727
   },
   "40mm": {
-    "week_seconds": 5009,
+    "week_seconds": 6505,
     "week_start": 1781475020,
-    "total_seconds": 5009
+    "total_seconds": 6505
   },
   "lynx2007": {
     "week_seconds": 15274,
@@ -330,9 +330,9 @@
     "total_seconds": 1572
   },
   "demboiiiii": {
-    "week_seconds": 9270,
+    "week_seconds": 9982,
     "week_start": 1781477438,
-    "total_seconds": 9270
+    "total_seconds": 9982
   },
   "tomahawk_762": {
     "week_seconds": 502,
@@ -840,9 +840,9 @@
     "total_seconds": 2971
   },
   "socialistspectre": {
-    "week_seconds": 20144,
+    "week_seconds": 22589,
     "week_start": 1781484121,
-    "total_seconds": 20144
+    "total_seconds": 22589
   },
   "desmonddotjpeg": {
     "week_seconds": 364,
@@ -3075,8 +3075,8 @@
     "total_seconds": 20
   },
   "alarmedbread540": {
-    "week_seconds": 0,
+    "week_seconds": 61,
     "week_start": 1781553886,
-    "total_seconds": 0
+    "total_seconds": 61
   }
 }
