@@ -65,9 +65,9 @@
     "total_seconds": 11662
   },
   "rainsinger": {
-    "week_seconds": 9337,
+    "week_seconds": 22222,
     "week_start": 1781474875,
-    "total_seconds": 9337
+    "total_seconds": 22222
   },
   "jindosh": {
     "week_seconds": 16727,
@@ -1800,8 +1800,8 @@
     "total_seconds": 0
   },
   "emilew": {
-    "week_seconds": 35,
+    "week_seconds": 53,
     "week_start": 1781515555,
-    "total_seconds": 35
+    "total_seconds": 53
   }
 }
