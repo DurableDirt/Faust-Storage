@@ -1615,9 +1615,9 @@
     "total_seconds": 11272
   },
   "cedarvaliant": {
-    "week_seconds": 5446,
+    "week_seconds": 6271,
     "week_start": 1781506488,
-    "total_seconds": 5446
+    "total_seconds": 6271
   },
   "jejames27": {
     "week_seconds": 5500,
@@ -1780,9 +1780,9 @@
     "total_seconds": 3597
   },
   "nanajshi": {
-    "week_seconds": 4839,
+    "week_seconds": 9769,
     "week_start": 1781514955,
-    "total_seconds": 4839
+    "total_seconds": 9769
   },
   "minecraftendston": {
     "week_seconds": 4286,
@@ -2575,9 +2575,9 @@
     "total_seconds": 6938
   },
   "snowpix_": {
-    "week_seconds": 199,
+    "week_seconds": 7070,
     "week_start": 1781538879,
-    "total_seconds": 199
+    "total_seconds": 7070
   },
   "7qou": {
     "week_seconds": 430,
@@ -2807,6 +2807,11 @@
   "koklushz": {
     "week_seconds": 0,
     "week_start": 1781546247,
+    "total_seconds": 0
+  },
+  "nemesiscy": {
+    "week_seconds": 0,
+    "week_start": 1781546410,
     "total_seconds": 0
   }
 }
