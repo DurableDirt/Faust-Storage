@@ -285,9 +285,9 @@
     "total_seconds": 1269
   },
   "mechanicalrift": {
-    "week_seconds": 12794,
+    "week_seconds": 31436,
     "week_start": 1781476919,
-    "total_seconds": 12794
+    "total_seconds": 31436
   },
   "aguscon": {
     "week_seconds": 7488,
@@ -1485,9 +1485,9 @@
     "total_seconds": 880
   },
   "jpmiii": {
-    "week_seconds": 0,
+    "week_seconds": 13704,
     "week_start": 1781499050,
-    "total_seconds": 0
+    "total_seconds": 13704
   },
   "benpuma25": {
     "week_seconds": 7423,
@@ -1615,9 +1615,9 @@
     "total_seconds": 43
   },
   "cedarvaliant": {
-    "week_seconds": 4598,
+    "week_seconds": 5256,
     "week_start": 1781506488,
-    "total_seconds": 4598
+    "total_seconds": 5256
   },
   "jejames27": {
     "week_seconds": 5500,
@@ -1718,5 +1718,10 @@
     "week_seconds": 32,
     "week_start": 1781512251,
     "total_seconds": 32
+  },
+  "flawlessfalkon": {
+    "week_seconds": 0,
+    "week_start": 1781512761,
+    "total_seconds": 0
   }
 }
