@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 28315,
+    "week_seconds": 29479,
     "week_start": 1781479760,
-    "total_seconds": 28315
+    "total_seconds": 29479
   },
   "matilda4k9": {
     "week_seconds": 3147,
@@ -1635,9 +1635,9 @@
     "total_seconds": 385
   },
   "aesth1te": {
-    "week_seconds": 0,
+    "week_seconds": 1385,
     "week_start": 1781508461,
-    "total_seconds": 0
+    "total_seconds": 1385
   },
   "dominius_x": {
     "week_seconds": 388,
@@ -1657,6 +1657,16 @@
   "voidvin": {
     "week_seconds": 0,
     "week_start": 1781509638,
+    "total_seconds": 0
+  },
+  "lordofthepig449": {
+    "week_seconds": 0,
+    "week_start": 1781509657,
+    "total_seconds": 0
+  },
+  "polysemic": {
+    "week_seconds": 0,
+    "week_start": 1781509665,
     "total_seconds": 0
   }
 }
