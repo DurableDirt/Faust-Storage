@@ -1225,8 +1225,8 @@
     "total_seconds": 0
   },
   "_oceanstar": {
-    "week_seconds": 0,
+    "week_seconds": 31,
     "week_start": 1781490835,
-    "total_seconds": 0
+    "total_seconds": 31
   }
 }
