@@ -2825,8 +2825,8 @@
     "total_seconds": 0
   },
   "sblack_ve": {
-    "week_seconds": 0,
+    "week_seconds": 30,
     "week_start": 1781546497,
-    "total_seconds": 0
+    "total_seconds": 30
   }
 }
