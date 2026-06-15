@@ -1500,9 +1500,9 @@
     "total_seconds": 3061
   },
   "innatee": {
-    "week_seconds": 14150,
+    "week_seconds": 25092,
     "week_start": 1781500068,
-    "total_seconds": 14150
+    "total_seconds": 25092
   },
   "arbiteradvit": {
     "week_seconds": 2680,
@@ -1800,9 +1800,9 @@
     "total_seconds": 3754
   },
   "emilew": {
-    "week_seconds": 11394,
+    "week_seconds": 11479,
     "week_start": 1781515555,
-    "total_seconds": 11394
+    "total_seconds": 11479
   },
   "creepi0n": {
     "week_seconds": 6867,
@@ -2257,6 +2257,11 @@
   "sajtos_puffancs": {
     "week_seconds": 0,
     "week_start": 1781529400,
+    "total_seconds": 0
+  },
+  "nekroz09": {
+    "week_seconds": 0,
+    "week_start": 1781529591,
     "total_seconds": 0
   }
 }
