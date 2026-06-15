@@ -1585,9 +1585,9 @@
     "total_seconds": 0
   },
   "vlinar": {
-    "week_seconds": 0,
+    "week_seconds": 1170,
     "week_start": 1781505389,
-    "total_seconds": 0
+    "total_seconds": 1170
   },
   "nevicilia": {
     "week_seconds": 0,
@@ -1613,5 +1613,15 @@
     "week_seconds": 43,
     "week_start": 1781506340,
     "total_seconds": 43
+  },
+  "cedarvaliant": {
+    "week_seconds": 0,
+    "week_start": 1781506488,
+    "total_seconds": 0
+  },
+  "jejames27": {
+    "week_seconds": 0,
+    "week_start": 1781506543,
+    "total_seconds": 0
   }
 }
