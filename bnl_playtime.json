@@ -190,9 +190,9 @@
     "total_seconds": 2419
   },
   "princess__bow": {
-    "week_seconds": 0,
+    "week_seconds": 9187,
     "week_start": 1781476187,
-    "total_seconds": 0
+    "total_seconds": 9187
   },
   "262i": {
     "week_seconds": 355,
@@ -400,9 +400,9 @@
     "total_seconds": 1322
   },
   "uprisingmax": {
-    "week_seconds": 0,
+    "week_seconds": 7262,
     "week_start": 1781478140,
-    "total_seconds": 0
+    "total_seconds": 7262
   },
   "freshoxygenair": {
     "week_seconds": 897,
@@ -765,9 +765,9 @@
     "total_seconds": 0
   },
   "studshottt": {
-    "week_seconds": 552,
+    "week_seconds": 2317,
     "week_start": 1781483000,
-    "total_seconds": 552
+    "total_seconds": 2317
   },
   "nextstian": {
     "week_seconds": 64,
@@ -907,6 +907,16 @@
   "ifriendiscool": {
     "week_seconds": 0,
     "week_start": 1781485183,
+    "total_seconds": 0
+  },
+  "ytrewq64": {
+    "week_seconds": 0,
+    "week_start": 1781485364,
+    "total_seconds": 0
+  },
+  "myfatherisnotch": {
+    "week_seconds": 0,
+    "week_start": 1781485400,
     "total_seconds": 0
   }
 }
