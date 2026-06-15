@@ -1055,9 +1055,9 @@
     "total_seconds": 963
   },
   "arkane9975": {
-    "week_seconds": 889,
+    "week_seconds": 8848,
     "week_start": 1781487185,
-    "total_seconds": 889
+    "total_seconds": 8848
   },
   "___theboss___": {
     "week_seconds": 245,
@@ -1400,18 +1400,23 @@
     "total_seconds": 32
   },
   "evfiyy": {
-    "week_seconds": 0,
+    "week_seconds": 147,
     "week_start": 1781496428,
-    "total_seconds": 0
+    "total_seconds": 147
   },
   "qzxrb": {
-    "week_seconds": 100,
+    "week_seconds": 115,
     "week_start": 1781496437,
-    "total_seconds": 100
+    "total_seconds": 115
   },
   "helloheavy": {
     "week_seconds": 0,
     "week_start": 1781496480,
+    "total_seconds": 0
+  },
+  "octo_kat": {
+    "week_seconds": 0,
+    "week_start": 1781496572,
     "total_seconds": 0
   }
 }
