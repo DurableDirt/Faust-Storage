@@ -1340,9 +1340,9 @@
     "total_seconds": 0
   },
   "misprint293": {
-    "week_seconds": 0,
+    "week_seconds": 2259,
     "week_start": 1781493068,
-    "total_seconds": 0
+    "total_seconds": 2259
   },
   "choripancaliente": {
     "week_seconds": 933,
@@ -1362,6 +1362,11 @@
   "c4rbonello": {
     "week_seconds": 0,
     "week_start": 1781494889,
+    "total_seconds": 0
+  },
+  "rammyls": {
+    "week_seconds": 0,
+    "week_start": 1781495283,
     "total_seconds": 0
   }
 }
