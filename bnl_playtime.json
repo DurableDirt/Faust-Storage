@@ -665,9 +665,9 @@
     "total_seconds": 3044
   },
   "unique_nullptr": {
-    "week_seconds": 0,
+    "week_seconds": 18154,
     "week_start": 1781481654,
-    "total_seconds": 0
+    "total_seconds": 18154
   },
   "boatoverbogs": {
     "week_seconds": 8392,
@@ -785,9 +785,9 @@
     "total_seconds": 4514
   },
   "lalibo": {
-    "week_seconds": 7520,
+    "week_seconds": 10378,
     "week_start": 1781483266,
-    "total_seconds": 7520
+    "total_seconds": 10378
   },
   "fazeleafblower": {
     "week_seconds": 5,
@@ -1385,9 +1385,9 @@
     "total_seconds": 1744
   },
   "sommdummy": {
-    "week_seconds": 873,
+    "week_seconds": 1811,
     "week_start": 1781495930,
-    "total_seconds": 873
+    "total_seconds": 1811
   },
   "alphg": {
     "week_seconds": 119,
@@ -1492,6 +1492,11 @@
   "benpuma25": {
     "week_seconds": 0,
     "week_start": 1781499346,
+    "total_seconds": 0
+  },
+  "naglafer": {
+    "week_seconds": 0,
+    "week_start": 1781499771,
     "total_seconds": 0
   }
 }
