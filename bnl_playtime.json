@@ -1835,13 +1835,23 @@
     "total_seconds": 0
   },
   "coockie70": {
-    "week_seconds": 0,
+    "week_seconds": 387,
     "week_start": 1781516833,
-    "total_seconds": 0
+    "total_seconds": 387
   },
   "sn1sr": {
     "week_seconds": 6,
     "week_start": 1781516860,
     "total_seconds": 6
+  },
+  "xfier": {
+    "week_seconds": 0,
+    "week_start": 1781517152,
+    "total_seconds": 0
+  },
+  "basicallyagungan": {
+    "week_seconds": 0,
+    "week_start": 1781517220,
+    "total_seconds": 0
   }
 }
