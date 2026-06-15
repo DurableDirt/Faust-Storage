@@ -3105,9 +3105,9 @@
     "total_seconds": 0
   },
   "crow9225": {
-    "week_seconds": 0,
+    "week_seconds": 852,
     "week_start": 1781554864,
-    "total_seconds": 0
+    "total_seconds": 852
   },
   "nhmillia": {
     "week_seconds": 4,
@@ -3137,6 +3137,11 @@
   "stashman1780": {
     "week_seconds": 0,
     "week_start": 1781555462,
+    "total_seconds": 0
+  },
+  "cokebrothers12": {
+    "week_seconds": 0,
+    "week_start": 1781555712,
     "total_seconds": 0
   }
 }
