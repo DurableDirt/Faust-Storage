@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 31389,
+    "week_seconds": 31654,
     "week_start": 1781479760,
-    "total_seconds": 31389
+    "total_seconds": 31654
   },
   "matilda4k9": {
     "week_seconds": 3147,
@@ -1620,9 +1620,9 @@
     "total_seconds": 4598
   },
   "jejames27": {
-    "week_seconds": 0,
+    "week_seconds": 5500,
     "week_start": 1781506543,
-    "total_seconds": 0
+    "total_seconds": 5500
   },
   "mryellowtail": {
     "week_seconds": 0,
@@ -1708,5 +1708,10 @@
     "week_seconds": 6,
     "week_start": 1781511587,
     "total_seconds": 6
+  },
+  "remax152": {
+    "week_seconds": 0,
+    "week_start": 1781511995,
+    "total_seconds": 0
   }
 }
