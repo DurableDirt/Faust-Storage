@@ -2605,9 +2605,9 @@
     "total_seconds": 2063
   },
   "luannn25": {
-    "week_seconds": 240,
+    "week_seconds": 251,
     "week_start": 1781539748,
-    "total_seconds": 240
+    "total_seconds": 251
   },
   "phytophthorato": {
     "week_seconds": 10103,
@@ -3082,6 +3082,11 @@
   "starryjeongyeon": {
     "week_seconds": 0,
     "week_start": 1781554088,
+    "total_seconds": 0
+  },
+  "refwoza": {
+    "week_seconds": 0,
+    "week_start": 1781554201,
     "total_seconds": 0
   }
 }
