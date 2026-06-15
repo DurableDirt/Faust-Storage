@@ -1070,9 +1070,9 @@
     "total_seconds": 4729
   },
   "francreeps": {
-    "week_seconds": 17185,
+    "week_seconds": 17327,
     "week_start": 1781487292,
-    "total_seconds": 17185
+    "total_seconds": 17327
   },
   "ticklyrice": {
     "week_seconds": 214,
@@ -1757,6 +1757,11 @@
   "facocero09": {
     "week_seconds": 0,
     "week_start": 1781514012,
+    "total_seconds": 0
+  },
+  "happyfeet4607": {
+    "week_seconds": 0,
+    "week_start": 1781514091,
     "total_seconds": 0
   }
 }
