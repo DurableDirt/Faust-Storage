@@ -768,5 +768,15 @@
     "week_seconds": 0,
     "week_start": 1781483000,
     "total_seconds": 0
+  },
+  "nextstian": {
+    "week_seconds": 64,
+    "week_start": 1781483120,
+    "total_seconds": 64
+  },
+  "deskjockey": {
+    "week_seconds": 0,
+    "week_start": 1781483148,
+    "total_seconds": 0
   }
 }
