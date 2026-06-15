@@ -755,9 +755,9 @@
     "total_seconds": 420
   },
   "22o1anges": {
-    "week_seconds": 6589,
+    "week_seconds": 15175,
     "week_start": 1781482873,
-    "total_seconds": 6589
+    "total_seconds": 15175
   },
   "zaytch_7": {
     "week_seconds": 4961,
@@ -1552,6 +1552,11 @@
   "layyodious": {
     "week_seconds": 0,
     "week_start": 1781503498,
+    "total_seconds": 0
+  },
+  "hakr_": {
+    "week_seconds": 0,
+    "week_start": 1781503652,
     "total_seconds": 0
   }
 }
