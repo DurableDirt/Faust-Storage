@@ -1405,8 +1405,13 @@
     "total_seconds": 0
   },
   "qzxrb": {
-    "week_seconds": 9,
+    "week_seconds": 53,
     "week_start": 1781496437,
-    "total_seconds": 9
+    "total_seconds": 53
+  },
+  "helloheavy": {
+    "week_seconds": 0,
+    "week_start": 1781496480,
+    "total_seconds": 0
   }
 }
