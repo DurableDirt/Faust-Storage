@@ -1800,9 +1800,9 @@
     "total_seconds": 10362
   },
   "emilew": {
-    "week_seconds": 12338,
+    "week_seconds": 12370,
     "week_start": 1781515555,
-    "total_seconds": 12338
+    "total_seconds": 12370
   },
   "creepi0n": {
     "week_seconds": 21585,
@@ -2922,6 +2922,11 @@
   "sishi0417": {
     "week_seconds": 0,
     "week_start": 1781548862,
+    "total_seconds": 0
+  },
+  "seiseitan": {
+    "week_seconds": 0,
+    "week_start": 1781549108,
     "total_seconds": 0
   }
 }
