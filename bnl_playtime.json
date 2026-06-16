@@ -235,9 +235,9 @@
     "total_seconds": 26959
   },
   "hentlol": {
-    "week_seconds": 30310,
+    "week_seconds": 31126,
     "week_start": 1781476485,
-    "total_seconds": 30310
+    "total_seconds": 31126
   },
   "wasabiwhip": {
     "week_seconds": 5594,
@@ -3703,5 +3703,10 @@
     "week_seconds": 146,
     "week_start": 1781579862,
     "total_seconds": 146
+  },
+  "killtheinternet": {
+    "week_seconds": 223,
+    "week_start": 1781580193,
+    "total_seconds": 223
   }
 }
