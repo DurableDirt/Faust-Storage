@@ -1695,9 +1695,9 @@
     "total_seconds": 31267
   },
   "masqo_": {
-    "week_seconds": 16322,
+    "week_seconds": 17100,
     "week_start": 1781511452,
-    "total_seconds": 16322
+    "total_seconds": 17100
   },
   "eyestrainz": {
     "week_seconds": 31709,
@@ -3960,9 +3960,9 @@
     "total_seconds": 4215
   },
   "therewalker": {
-    "week_seconds": 25253,
+    "week_seconds": 26941,
     "week_start": 1781611918,
-    "total_seconds": 25253
+    "total_seconds": 26941
   },
   "elpaconcio": {
     "week_seconds": 1657,
@@ -4537,6 +4537,11 @@
   "ddaywalker182": {
     "week_seconds": 0,
     "week_start": 1781644301,
+    "total_seconds": 0
+  },
+  "chaneggchan": {
+    "week_seconds": 0,
+    "week_start": 1781644552,
     "total_seconds": 0
   }
 }
