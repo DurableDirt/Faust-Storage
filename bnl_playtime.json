@@ -1645,9 +1645,9 @@
     "total_seconds": 388
   },
   "xenos": {
-    "week_seconds": 37409,
+    "week_seconds": 43009,
     "week_start": 1781509100,
-    "total_seconds": 37409
+    "total_seconds": 43009
   },
   "virexil": {
     "week_seconds": 7280,
@@ -4067,6 +4067,11 @@
   "creepymc5898": {
     "week_seconds": 0,
     "week_start": 1781619664,
+    "total_seconds": 0
+  },
+  "aziumthal1": {
+    "week_seconds": 0,
+    "week_start": 1781619812,
     "total_seconds": 0
   }
 }
