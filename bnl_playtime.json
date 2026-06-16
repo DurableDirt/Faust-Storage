@@ -1485,9 +1485,9 @@
     "total_seconds": 880
   },
   "jpmiii": {
-    "week_seconds": 17016,
+    "week_seconds": 17087,
     "week_start": 1781499050,
-    "total_seconds": 17016
+    "total_seconds": 17087
   },
   "benpuma25": {
     "week_seconds": 7423,
@@ -3823,5 +3823,10 @@
     "week_seconds": 63,
     "week_start": 1781594791,
     "total_seconds": 63
+  },
+  "catgirlpoacher06": {
+    "week_seconds": 0,
+    "week_start": 1781595089,
+    "total_seconds": 0
   }
 }
