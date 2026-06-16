@@ -2520,9 +2520,9 @@
     "total_seconds": 19230
   },
   "thomas2point0": {
-    "week_seconds": 78,
+    "week_seconds": 136,
     "week_start": 1781536414,
-    "total_seconds": 78
+    "total_seconds": 136
   },
   "szymon1999": {
     "week_seconds": 1398,
@@ -4387,6 +4387,11 @@
   "exodusrxv": {
     "week_seconds": 0,
     "week_start": 1781635810,
+    "total_seconds": 0
+  },
+  "thebiodino": {
+    "week_seconds": 0,
+    "week_start": 1781636020,
     "total_seconds": 0
   }
 }
