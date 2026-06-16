@@ -1655,9 +1655,9 @@
     "total_seconds": 7280
   },
   "voidvin": {
-    "week_seconds": 30264,
+    "week_seconds": 32581,
     "week_start": 1781509638,
-    "total_seconds": 30264
+    "total_seconds": 32581
   },
   "lordofthepig449": {
     "week_seconds": 2111,
@@ -4012,6 +4012,11 @@
   "slobiii": {
     "week_seconds": 0,
     "week_start": 1781615455,
+    "total_seconds": 0
+  },
+  "freagarthach_": {
+    "week_seconds": 0,
+    "week_start": 1781615564,
     "total_seconds": 0
   }
 }
