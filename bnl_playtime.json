@@ -85,9 +85,9 @@
     "total_seconds": 21341
   },
   "cunningwind6139": {
-    "week_seconds": 3737,
+    "week_seconds": 12143,
     "week_start": 1781475069,
-    "total_seconds": 3737
+    "total_seconds": 12143
   },
   "chips_and_salsa_": {
     "week_seconds": 11524,
@@ -500,9 +500,9 @@
     "total_seconds": 17135
   },
   "call_me_m1ke": {
-    "week_seconds": 33204,
+    "week_seconds": 35149,
     "week_start": 1781479656,
-    "total_seconds": 33204
+    "total_seconds": 35149
   },
   "josiekat": {
     "week_seconds": 60,
@@ -3532,6 +3532,11 @@
   "_banana_blu_": {
     "week_seconds": 0,
     "week_start": 1781570022,
+    "total_seconds": 0
+  },
+  "theboatsmith": {
+    "week_seconds": 0,
+    "week_start": 1781570299,
     "total_seconds": 0
   }
 }
