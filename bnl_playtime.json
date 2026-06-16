@@ -1230,9 +1230,9 @@
     "total_seconds": 10235
   },
   "kahina": {
-    "week_seconds": 9281,
+    "week_seconds": 10035,
     "week_start": 1781491056,
-    "total_seconds": 9281
+    "total_seconds": 10035
   },
   "grantwellson": {
     "week_seconds": 14697,
@@ -2510,9 +2510,9 @@
     "total_seconds": 179
   },
   "leontheprofess": {
-    "week_seconds": 10691,
+    "week_seconds": 15618,
     "week_start": 1781536375,
-    "total_seconds": 10691
+    "total_seconds": 15618
   },
   "disdage": {
     "week_seconds": 17370,
@@ -3680,9 +3680,9 @@
     "total_seconds": 2514
   },
   "2lynx2": {
-    "week_seconds": 9288,
+    "week_seconds": 10421,
     "week_start": 1781577764,
-    "total_seconds": 9288
+    "total_seconds": 10421
   },
   "dredgarzomboss": {
     "week_seconds": 896,
@@ -4283,5 +4283,10 @@
     "week_seconds": 131,
     "week_start": 1781631824,
     "total_seconds": 131
+  },
+  "tuba_master_": {
+    "week_seconds": 6,
+    "week_start": 1781632118,
+    "total_seconds": 6
   }
 }
