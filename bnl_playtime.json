@@ -4600,8 +4600,8 @@
     "total_seconds": 26
   },
   "forged_tk": {
-    "week_seconds": 0,
+    "week_seconds": 50,
     "week_start": 1781650884,
-    "total_seconds": 0
+    "total_seconds": 50
   }
 }
