@@ -100,9 +100,9 @@
     "total_seconds": 2523
   },
   "fishsticks47": {
-    "week_seconds": 34221,
+    "week_seconds": 35664,
     "week_start": 1781475372,
-    "total_seconds": 34221
+    "total_seconds": 35664
   },
   "slothinasuit": {
     "week_seconds": 67450,
@@ -4168,5 +4168,10 @@
     "week_seconds": 5,
     "week_start": 1781627847,
     "total_seconds": 5
+  },
+  "dilo88": {
+    "week_seconds": 0,
+    "week_start": 1781627897,
+    "total_seconds": 0
   }
 }
