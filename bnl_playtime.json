@@ -1170,9 +1170,9 @@
     "total_seconds": 24248
   },
   "opozzumz": {
-    "week_seconds": 25855,
+    "week_seconds": 26033,
     "week_start": 1781489545,
-    "total_seconds": 25855
+    "total_seconds": 26033
   },
   "astralchroma": {
     "week_seconds": 11502,
@@ -3567,6 +3567,11 @@
   "tdistroyer": {
     "week_seconds": 0,
     "week_start": 1781571775,
+    "total_seconds": 0
+  },
+  "auramix": {
+    "week_seconds": 0,
+    "week_start": 1781572936,
     "total_seconds": 0
   }
 }
