@@ -130,9 +130,9 @@
     "total_seconds": 5044
   },
   "threeapplestall": {
-    "week_seconds": 60494,
+    "week_seconds": 60506,
     "week_start": 1781475744,
-    "total_seconds": 60494
+    "total_seconds": 60506
   },
   "donnelpyke2": {
     "week_seconds": 26937,
@@ -1700,9 +1700,9 @@
     "total_seconds": 13663
   },
   "eyestrainz": {
-    "week_seconds": 30023,
+    "week_seconds": 31197,
     "week_start": 1781511497,
-    "total_seconds": 30023
+    "total_seconds": 31197
   },
   "snailytrail": {
     "week_seconds": 6,
@@ -4072,6 +4072,11 @@
   "aziumthal1": {
     "week_seconds": 0,
     "week_start": 1781619812,
+    "total_seconds": 0
+  },
+  "evil_david": {
+    "week_seconds": 0,
+    "week_start": 1781620313,
     "total_seconds": 0
   }
 }
