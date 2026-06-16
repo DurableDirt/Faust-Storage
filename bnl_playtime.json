@@ -1885,9 +1885,9 @@
     "total_seconds": 30
   },
   "gidein": {
-    "week_seconds": 29788,
+    "week_seconds": 30947,
     "week_start": 1781518844,
-    "total_seconds": 29788
+    "total_seconds": 30947
   },
   "londara": {
     "week_seconds": 1120,
@@ -1915,9 +1915,9 @@
     "total_seconds": 6501
   },
   "luckluc4243": {
-    "week_seconds": 133,
+    "week_seconds": 148,
     "week_start": 1781520064,
-    "total_seconds": 133
+    "total_seconds": 148
   },
   "choochtrooper": {
     "week_seconds": 3,
@@ -2190,9 +2190,9 @@
     "total_seconds": 92
   },
   "tohmatbc": {
-    "week_seconds": 18075,
+    "week_seconds": 23873,
     "week_start": 1781528032,
-    "total_seconds": 18075
+    "total_seconds": 23873
   },
   "cheetahboi2": {
     "week_seconds": 6496,
@@ -4197,6 +4197,11 @@
   "junerjun": {
     "week_seconds": 0,
     "week_start": 1781628892,
+    "total_seconds": 0
+  },
+  "cissonius": {
+    "week_seconds": 0,
+    "week_start": 1781629225,
     "total_seconds": 0
   }
 }
