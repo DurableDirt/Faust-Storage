@@ -2555,9 +2555,9 @@
     "total_seconds": 1116
   },
   "yunfi": {
-    "week_seconds": 19803,
+    "week_seconds": 20999,
     "week_start": 1781537464,
-    "total_seconds": 19803
+    "total_seconds": 20999
   },
   "myng11": {
     "week_seconds": 807,
@@ -4427,6 +4427,11 @@
   "spacepaww": {
     "week_seconds": 0,
     "week_start": 1781637440,
+    "total_seconds": 0
+  },
+  "shrimpwashere_": {
+    "week_seconds": 0,
+    "week_start": 1781637591,
     "total_seconds": 0
   }
 }
