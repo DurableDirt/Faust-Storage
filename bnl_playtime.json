@@ -3985,9 +3985,9 @@
     "total_seconds": 0
   },
   "cloudpug": {
-    "week_seconds": 0,
+    "week_seconds": 409,
     "week_start": 1781615095,
-    "total_seconds": 0
+    "total_seconds": 409
   },
   "frosterjr5": {
     "week_seconds": 0,
@@ -4007,6 +4007,11 @@
   "jjalaska": {
     "week_seconds": 0,
     "week_start": 1781615392,
+    "total_seconds": 0
+  },
+  "slobiii": {
+    "week_seconds": 0,
+    "week_start": 1781615455,
     "total_seconds": 0
   }
 }
