@@ -2510,9 +2510,9 @@
     "total_seconds": 179
   },
   "leontheprofess": {
-    "week_seconds": 6042,
+    "week_seconds": 7509,
     "week_start": 1781536375,
-    "total_seconds": 6042
+    "total_seconds": 7509
   },
   "disdage": {
     "week_seconds": 14814,
@@ -3853,5 +3853,10 @@
     "week_seconds": 20,
     "week_start": 1781595724,
     "total_seconds": 20
+  },
+  "td4n1elmyst1c": {
+    "week_seconds": 0,
+    "week_start": 1781596600,
+    "total_seconds": 0
   }
 }
