@@ -3960,9 +3960,9 @@
     "total_seconds": 4215
   },
   "therewalker": {
-    "week_seconds": 29427,
+    "week_seconds": 33381,
     "week_start": 1781611918,
-    "total_seconds": 29427
+    "total_seconds": 33381
   },
   "elpaconcio": {
     "week_seconds": 1657,
@@ -4565,9 +4565,9 @@
     "total_seconds": 0
   },
   "anyone000000001": {
-    "week_seconds": 0,
+    "week_seconds": 5188,
     "week_start": 1781646724,
-    "total_seconds": 0
+    "total_seconds": 5188
   },
   "soulsyvi": {
     "week_seconds": 82,
@@ -4613,5 +4613,15 @@
     "week_seconds": 40,
     "week_start": 1781651004,
     "total_seconds": 40
+  },
+  "bazzys_catnip": {
+    "week_seconds": 0,
+    "week_start": 1781651872,
+    "total_seconds": 0
+  },
+  "moomoofrogguy": {
+    "week_seconds": 0,
+    "week_start": 1781651911,
+    "total_seconds": 0
   }
 }
