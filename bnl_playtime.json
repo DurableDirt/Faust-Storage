@@ -725,9 +725,9 @@
     "total_seconds": 329
   },
   "zzcqmbozz": {
-    "week_seconds": 6210,
+    "week_seconds": 15185,
     "week_start": 1781482541,
-    "total_seconds": 6210
+    "total_seconds": 15185
   },
   "marc_1500": {
     "week_seconds": 23108,
@@ -1885,9 +1885,9 @@
     "total_seconds": 30
   },
   "gidein": {
-    "week_seconds": 37004,
+    "week_seconds": 37009,
     "week_start": 1781518844,
-    "total_seconds": 37004
+    "total_seconds": 37009
   },
   "londara": {
     "week_seconds": 1120,
@@ -3325,9 +3325,9 @@
     "total_seconds": 436
   },
   "noneavailable": {
-    "week_seconds": 21864,
+    "week_seconds": 21977,
     "week_start": 1781562445,
-    "total_seconds": 21864
+    "total_seconds": 21977
   },
   "diegochotocho": {
     "week_seconds": 1152,
@@ -3625,9 +3625,9 @@
     "total_seconds": 11243
   },
   "madrafe1": {
-    "week_seconds": 15897,
+    "week_seconds": 16777,
     "week_start": 1781575509,
-    "total_seconds": 15897
+    "total_seconds": 16777
   },
   "realmichael": {
     "week_seconds": 988,
@@ -4492,6 +4492,11 @@
   "fervescent": {
     "week_seconds": 0,
     "week_start": 1781640618,
+    "total_seconds": 0
+  },
+  "nulldorito": {
+    "week_seconds": 0,
+    "week_start": 1781641618,
     "total_seconds": 0
   }
 }
