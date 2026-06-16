@@ -55,9 +55,9 @@
     "total_seconds": 34933
   },
   "jadenjb": {
-    "week_seconds": 13076,
+    "week_seconds": 13109,
     "week_start": 1781474857,
-    "total_seconds": 13076
+    "total_seconds": 13109
   },
   "mitthraw91": {
     "week_seconds": 108928,
@@ -2925,9 +2925,9 @@
     "total_seconds": 10557
   },
   "seiseitan": {
-    "week_seconds": 14678,
+    "week_seconds": 14901,
     "week_start": 1781549108,
-    "total_seconds": 14678
+    "total_seconds": 14901
   },
   "lolle0": {
     "week_seconds": 0,
@@ -4532,6 +4532,11 @@
   "diorsuit": {
     "week_seconds": 0,
     "week_start": 1781644020,
+    "total_seconds": 0
+  },
+  "ddaywalker182": {
+    "week_seconds": 0,
+    "week_start": 1781644301,
     "total_seconds": 0
   }
 }
