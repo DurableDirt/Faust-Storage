@@ -1345,9 +1345,9 @@
     "total_seconds": 4823
   },
   "choripancaliente": {
-    "week_seconds": 11816,
+    "week_seconds": 12219,
     "week_start": 1781493956,
-    "total_seconds": 11816
+    "total_seconds": 12219
   },
   "magicmars345": {
     "week_seconds": 22538,
@@ -3583,5 +3583,10 @@
     "week_seconds": 40,
     "week_start": 1781573103,
     "total_seconds": 40
+  },
+  "jgirls": {
+    "week_seconds": 0,
+    "week_start": 1781573486,
+    "total_seconds": 0
   }
 }
