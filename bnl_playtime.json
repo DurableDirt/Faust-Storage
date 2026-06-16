@@ -1665,9 +1665,9 @@
     "total_seconds": 3277
   },
   "polysemic": {
-    "week_seconds": 8111,
+    "week_seconds": 13139,
     "week_start": 1781509665,
-    "total_seconds": 8111
+    "total_seconds": 13139
   },
   "wuli": {
     "week_seconds": 8618,
@@ -4457,6 +4457,11 @@
   "stevethehouse122": {
     "week_seconds": 0,
     "week_start": 1781639309,
+    "total_seconds": 0
+  },
+  "warbsthesquirrel": {
+    "week_seconds": 0,
+    "week_start": 1781639603,
     "total_seconds": 0
   }
 }
