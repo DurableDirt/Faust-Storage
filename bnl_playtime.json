@@ -2360,9 +2360,9 @@
     "total_seconds": 8652
   },
   "creaptor1": {
-    "week_seconds": 22270,
+    "week_seconds": 22532,
     "week_start": 1781532322,
-    "total_seconds": 22270
+    "total_seconds": 22532
   },
   "thisismynameatm": {
     "week_seconds": 20350,
@@ -4545,8 +4545,8 @@
     "total_seconds": 395
   },
   "bluecheetah55": {
-    "week_seconds": 0,
+    "week_seconds": 75,
     "week_start": 1781644990,
-    "total_seconds": 0
+    "total_seconds": 75
   }
 }
