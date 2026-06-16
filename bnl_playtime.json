@@ -130,9 +130,9 @@
     "total_seconds": 5044
   },
   "threeapplestall": {
-    "week_seconds": 61370,
+    "week_seconds": 61380,
     "week_start": 1781475744,
-    "total_seconds": 61370
+    "total_seconds": 61380
   },
   "donnelpyke2": {
     "week_seconds": 26937,
@@ -1365,9 +1365,9 @@
     "total_seconds": 1112
   },
   "rammyls": {
-    "week_seconds": 24645,
+    "week_seconds": 30136,
     "week_start": 1781495283,
-    "total_seconds": 24645
+    "total_seconds": 30136
   },
   "adelover01": {
     "week_seconds": 11010,
@@ -2790,9 +2790,9 @@
     "total_seconds": 5387
   },
   "sirboss001": {
-    "week_seconds": 27585,
+    "week_seconds": 31486,
     "week_start": 1781545653,
-    "total_seconds": 27585
+    "total_seconds": 31486
   },
   "vortexx_xq": {
     "week_seconds": 12,
@@ -4528,5 +4528,10 @@
     "week_seconds": 85,
     "week_start": 1781643829,
     "total_seconds": 85
+  },
+  "diorsuit": {
+    "week_seconds": 0,
+    "week_start": 1781644020,
+    "total_seconds": 0
   }
 }
