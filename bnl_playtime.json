@@ -1850,9 +1850,9 @@
     "total_seconds": 10182
   },
   "basicallyagungan": {
-    "week_seconds": 26900,
+    "week_seconds": 29456,
     "week_start": 1781517220,
-    "total_seconds": 26900
+    "total_seconds": 29456
   },
   "archieisverydum": {
     "week_seconds": 17,
@@ -4037,6 +4037,11 @@
   "pandong360": {
     "week_seconds": 0,
     "week_start": 1781617217,
+    "total_seconds": 0
+  },
+  "notnico2": {
+    "week_seconds": 0,
+    "week_start": 1781618103,
     "total_seconds": 0
   }
 }
