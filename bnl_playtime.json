@@ -1515,9 +1515,9 @@
     "total_seconds": 110
   },
   "fang_op": {
-    "week_seconds": 12871,
+    "week_seconds": 12904,
     "week_start": 1781501594,
-    "total_seconds": 12871
+    "total_seconds": 12904
   },
   "_jaek": {
     "week_seconds": 47037,
@@ -2980,9 +2980,9 @@
     "total_seconds": 16833
   },
   "dester32": {
-    "week_seconds": 14044,
+    "week_seconds": 18968,
     "week_start": 1781551199,
-    "total_seconds": 14044
+    "total_seconds": 18968
   },
   "nostalgie_": {
     "week_seconds": 1929,
@@ -4182,6 +4182,11 @@
   "novalis76": {
     "week_seconds": 0,
     "week_start": 1781628482,
+    "total_seconds": 0
+  },
+  "kynthea": {
+    "week_seconds": 0,
+    "week_start": 1781628624,
     "total_seconds": 0
   }
 }
