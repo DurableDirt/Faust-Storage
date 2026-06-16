@@ -1720,9 +1720,9 @@
     "total_seconds": 32
   },
   "flawlessfalkon": {
-    "week_seconds": 10143,
+    "week_seconds": 10178,
     "week_start": 1781512761,
-    "total_seconds": 10143
+    "total_seconds": 10178
   },
   "itzrealvoided": {
     "week_seconds": 3139,
@@ -4407,6 +4407,11 @@
   "korb3bbad": {
     "week_seconds": 0,
     "week_start": 1781636672,
+    "total_seconds": 0
+  },
+  "benasherd": {
+    "week_seconds": 0,
+    "week_start": 1781636731,
     "total_seconds": 0
   }
 }
