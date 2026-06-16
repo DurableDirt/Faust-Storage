@@ -545,9 +545,9 @@
     "total_seconds": 23117
   },
   "shoomsi": {
-    "week_seconds": 14284,
+    "week_seconds": 21700,
     "week_start": 1781480138,
-    "total_seconds": 14284
+    "total_seconds": 21700
   },
   "snivelbaby": {
     "week_seconds": 158,
@@ -2040,9 +2040,9 @@
     "total_seconds": 3633
   },
   "el_shap0": {
-    "week_seconds": 3664,
+    "week_seconds": 4032,
     "week_start": 1781523974,
-    "total_seconds": 3664
+    "total_seconds": 4032
   },
   "nareik01": {
     "week_seconds": 5642,
@@ -3923,5 +3923,10 @@
     "week_seconds": 287,
     "week_start": 1781602124,
     "total_seconds": 287
+  },
+  "soul9594": {
+    "week_seconds": 0,
+    "week_start": 1781603032,
+    "total_seconds": 0
   }
 }
