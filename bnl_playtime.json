@@ -2555,9 +2555,9 @@
     "total_seconds": 1116
   },
   "yunfi": {
-    "week_seconds": 7447,
+    "week_seconds": 15647,
     "week_start": 1781537464,
-    "total_seconds": 7447
+    "total_seconds": 15647
   },
   "myng11": {
     "week_seconds": 606,
@@ -4077,6 +4077,11 @@
   "evil_david": {
     "week_seconds": 0,
     "week_start": 1781620313,
+    "total_seconds": 0
+  },
+  "kazzuyaa": {
+    "week_seconds": 0,
+    "week_start": 1781620614,
     "total_seconds": 0
   }
 }
