@@ -750,9 +750,9 @@
     "total_seconds": 3241
   },
   "goosehoss": {
-    "week_seconds": 7115,
+    "week_seconds": 7199,
     "week_start": 1781482675,
-    "total_seconds": 7115
+    "total_seconds": 7199
   },
   "22o1anges": {
     "week_seconds": 15619,
@@ -3672,6 +3672,11 @@
   "christmasboy2": {
     "week_seconds": 0,
     "week_start": 1781577561,
+    "total_seconds": 0
+  },
+  "swampbog": {
+    "week_seconds": 0,
+    "week_start": 1781577612,
     "total_seconds": 0
   }
 }
