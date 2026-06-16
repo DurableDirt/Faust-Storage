@@ -1265,9 +1265,9 @@
     "total_seconds": 126
   },
   "soggybreadstick": {
-    "week_seconds": 13793,
+    "week_seconds": 18259,
     "week_start": 1781491569,
-    "total_seconds": 13793
+    "total_seconds": 18259
   },
   "regencyshadow40": {
     "week_seconds": 5000,
@@ -1790,9 +1790,9 @@
     "total_seconds": 4286
   },
   "battleofsky": {
-    "week_seconds": 1066,
+    "week_seconds": 1077,
     "week_start": 1781515496,
-    "total_seconds": 1066
+    "total_seconds": 1077
   },
   "lgamant": {
     "week_seconds": 17986,
@@ -2510,9 +2510,9 @@
     "total_seconds": 179
   },
   "leontheprofess": {
-    "week_seconds": 25582,
+    "week_seconds": 25586,
     "week_start": 1781536375,
-    "total_seconds": 25582
+    "total_seconds": 25586
   },
   "disdage": {
     "week_seconds": 22592,
@@ -4540,8 +4540,8 @@
     "total_seconds": 0
   },
   "chaneggchan": {
-    "week_seconds": 0,
+    "week_seconds": 395,
     "week_start": 1781644552,
-    "total_seconds": 0
+    "total_seconds": 395
   }
 }
