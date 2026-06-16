@@ -1615,9 +1615,9 @@
     "total_seconds": 63082
   },
   "cedarvaliant": {
-    "week_seconds": 17239,
+    "week_seconds": 17401,
     "week_start": 1781506488,
-    "total_seconds": 17239
+    "total_seconds": 17401
   },
   "jejames27": {
     "week_seconds": 5500,
@@ -2630,9 +2630,9 @@
     "total_seconds": 14608
   },
   "joldidk": {
-    "week_seconds": 11163,
+    "week_seconds": 13558,
     "week_start": 1781540251,
-    "total_seconds": 11163
+    "total_seconds": 13558
   },
   "hegghogaming": {
     "week_seconds": 1930,
@@ -4253,5 +4253,10 @@
     "week_seconds": 0,
     "week_start": 1781631225,
     "total_seconds": 0
+  },
+  "joelthatroll": {
+    "week_seconds": 29,
+    "week_start": 1781631297,
+    "total_seconds": 29
   }
 }
