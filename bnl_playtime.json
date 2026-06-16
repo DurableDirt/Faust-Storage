@@ -195,9 +195,9 @@
     "total_seconds": 20733
   },
   "262i": {
-    "week_seconds": 22018,
+    "week_seconds": 23255,
     "week_start": 1781476204,
-    "total_seconds": 22018
+    "total_seconds": 23255
   },
   "jalhf": {
     "week_seconds": 47301,
@@ -750,9 +750,9 @@
     "total_seconds": 3241
   },
   "goosehoss": {
-    "week_seconds": 7716,
+    "week_seconds": 9577,
     "week_start": 1781482675,
-    "total_seconds": 7716
+    "total_seconds": 9577
   },
   "22o1anges": {
     "week_seconds": 29971,
@@ -1790,9 +1790,9 @@
     "total_seconds": 4286
   },
   "battleofsky": {
-    "week_seconds": 4667,
+    "week_seconds": 5405,
     "week_start": 1781515496,
-    "total_seconds": 4667
+    "total_seconds": 5405
   },
   "lgamant": {
     "week_seconds": 17986,
@@ -4582,6 +4582,11 @@
   "senseisilvo": {
     "week_seconds": 0,
     "week_start": 1781650106,
+    "total_seconds": 0
+  },
+  "k1ngf15": {
+    "week_seconds": 0,
+    "week_start": 1781650151,
     "total_seconds": 0
   }
 }
