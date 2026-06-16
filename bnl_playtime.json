@@ -1045,9 +1045,9 @@
     "total_seconds": 91
   },
   "endville360": {
-    "week_seconds": 12873,
+    "week_seconds": 13197,
     "week_start": 1781486895,
-    "total_seconds": 12873
+    "total_seconds": 13197
   },
   "rodragonlux": {
     "week_seconds": 2520,
@@ -3677,6 +3677,11 @@
   "swampbog": {
     "week_seconds": 0,
     "week_start": 1781577612,
+    "total_seconds": 0
+  },
+  "2lynx2": {
+    "week_seconds": 0,
+    "week_start": 1781577764,
     "total_seconds": 0
   }
 }
