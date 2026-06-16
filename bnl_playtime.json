@@ -1000,9 +1000,9 @@
     "total_seconds": 16722
   },
   "thedragstermc": {
-    "week_seconds": 335,
+    "week_seconds": 369,
     "week_start": 1781486293,
-    "total_seconds": 335
+    "total_seconds": 369
   },
   "marada_sword": {
     "week_seconds": 17557,
@@ -3485,9 +3485,9 @@
     "total_seconds": 25
   },
   "jackforpres": {
-    "week_seconds": 0,
+    "week_seconds": 1037,
     "week_start": 1781567763,
-    "total_seconds": 0
+    "total_seconds": 1037
   },
   "lanerobbedyou_": {
     "week_seconds": 6,
@@ -3497,6 +3497,11 @@
   "leafchalice": {
     "week_seconds": 0,
     "week_start": 1781568645,
+    "total_seconds": 0
+  },
+  "h3dge5": {
+    "week_seconds": 0,
+    "week_start": 1781568793,
     "total_seconds": 0
   }
 }
