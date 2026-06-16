@@ -80,9 +80,9 @@
     "total_seconds": 11040
   },
   "lynx2007": {
-    "week_seconds": 26521,
+    "week_seconds": 26552,
     "week_start": 1781475059,
-    "total_seconds": 26521
+    "total_seconds": 26552
   },
   "cunningwind6139": {
     "week_seconds": 13759,
@@ -200,9 +200,9 @@
     "total_seconds": 17506
   },
   "jalhf": {
-    "week_seconds": 44339,
+    "week_seconds": 47301,
     "week_start": 1781476208,
-    "total_seconds": 44339
+    "total_seconds": 47301
   },
   "r3nocidz": {
     "week_seconds": 632,
@@ -840,9 +840,9 @@
     "total_seconds": 2971
   },
   "socialistspectre": {
-    "week_seconds": 36577,
+    "week_seconds": 38272,
     "week_start": 1781484121,
-    "total_seconds": 36577
+    "total_seconds": 38272
   },
   "desmonddotjpeg": {
     "week_seconds": 364,
@@ -4450,9 +4450,9 @@
     "total_seconds": 581
   },
   "xbitzl": {
-    "week_seconds": 0,
+    "week_seconds": 700,
     "week_start": 1781639280,
-    "total_seconds": 0
+    "total_seconds": 700
   },
   "stevethehouse122": {
     "week_seconds": 568,
@@ -4472,6 +4472,11 @@
   "jasupci": {
     "week_seconds": 0,
     "week_start": 1781639962,
+    "total_seconds": 0
+  },
+  "raeders": {
+    "week_seconds": 0,
+    "week_start": 1781639974,
     "total_seconds": 0
   }
 }
