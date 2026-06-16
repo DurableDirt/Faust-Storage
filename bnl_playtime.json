@@ -80,9 +80,9 @@
     "total_seconds": 10881
   },
   "lynx2007": {
-    "week_seconds": 26304,
+    "week_seconds": 26335,
     "week_start": 1781475059,
-    "total_seconds": 26304
+    "total_seconds": 26335
   },
   "cunningwind6139": {
     "week_seconds": 13759,
@@ -4125,9 +4125,9 @@
     "total_seconds": 5112
   },
   "speedyjustice": {
-    "week_seconds": 161,
+    "week_seconds": 7918,
     "week_start": 1781623474,
-    "total_seconds": 161
+    "total_seconds": 7918
   },
   "annatos": {
     "week_seconds": 280,
@@ -4452,6 +4452,11 @@
   "xbitzl": {
     "week_seconds": 0,
     "week_start": 1781639280,
+    "total_seconds": 0
+  },
+  "stevethehouse122": {
+    "week_seconds": 0,
+    "week_start": 1781639309,
     "total_seconds": 0
   }
 }
