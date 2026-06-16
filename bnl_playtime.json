@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 90820,
+    "week_seconds": 92838,
     "week_start": 1781479760,
-    "total_seconds": 90820
+    "total_seconds": 92838
   },
   "matilda4k9": {
     "week_seconds": 15832,
@@ -1940,9 +1940,9 @@
     "total_seconds": 326
   },
   "worthlessbean": {
-    "week_seconds": 17795,
+    "week_seconds": 25757,
     "week_start": 1781521151,
-    "total_seconds": 17795
+    "total_seconds": 25757
   },
   "lolmi202": {
     "week_seconds": 5211,
@@ -2365,9 +2365,9 @@
     "total_seconds": 24657
   },
   "thisismynameatm": {
-    "week_seconds": 20350,
+    "week_seconds": 22000,
     "week_start": 1781532456,
-    "total_seconds": 20350
+    "total_seconds": 22000
   },
   "jaxkats": {
     "week_seconds": 36432,
@@ -4588,5 +4588,10 @@
     "week_seconds": 0,
     "week_start": 1781650151,
     "total_seconds": 0
+  },
+  "payingformcagain": {
+    "week_seconds": 11,
+    "week_start": 1781650288,
+    "total_seconds": 11
   }
 }
