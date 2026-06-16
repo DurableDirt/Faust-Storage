@@ -65,9 +65,9 @@
     "total_seconds": 89718
   },
   "rainsinger": {
-    "week_seconds": 47591,
+    "week_seconds": 47922,
     "week_start": 1781474875,
-    "total_seconds": 47591
+    "total_seconds": 47922
   },
   "jindosh": {
     "week_seconds": 20748,
@@ -4018,5 +4018,10 @@
     "week_seconds": 516,
     "week_start": 1781615564,
     "total_seconds": 516
+  },
+  "lucylunae": {
+    "week_seconds": 0,
+    "week_start": 1781616746,
+    "total_seconds": 0
   }
 }
