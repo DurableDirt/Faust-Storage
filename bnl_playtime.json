@@ -80,9 +80,9 @@
     "total_seconds": 16550
   },
   "lynx2007": {
-    "week_seconds": 32948,
+    "week_seconds": 33046,
     "week_start": 1781475059,
-    "total_seconds": 32948
+    "total_seconds": 33046
   },
   "cunningwind6139": {
     "week_seconds": 16469,
@@ -4577,6 +4577,11 @@
   "paahtoleip4": {
     "week_seconds": 0,
     "week_start": 1781648121,
+    "total_seconds": 0
+  },
+  "senseisilvo": {
+    "week_seconds": 0,
+    "week_start": 1781650106,
     "total_seconds": 0
   }
 }
