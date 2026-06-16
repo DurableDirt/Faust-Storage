@@ -3325,9 +3325,9 @@
     "total_seconds": 436
   },
   "noneavailable": {
-    "week_seconds": 20260,
+    "week_seconds": 20308,
     "week_start": 1781562445,
-    "total_seconds": 20260
+    "total_seconds": 20308
   },
   "diegochotocho": {
     "week_seconds": 1152,
@@ -3405,9 +3405,9 @@
     "total_seconds": 147
   },
   "ripuhh": {
-    "week_seconds": 1337,
+    "week_seconds": 4416,
     "week_start": 1781564798,
-    "total_seconds": 1337
+    "total_seconds": 4416
   },
   "hedrone": {
     "week_seconds": 157,
@@ -4468,5 +4468,10 @@
     "week_seconds": 57,
     "week_start": 1781639827,
     "total_seconds": 57
+  },
+  "jasupci": {
+    "week_seconds": 0,
+    "week_start": 1781639962,
+    "total_seconds": 0
   }
 }
