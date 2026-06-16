@@ -570,9 +570,9 @@
     "total_seconds": 47794
   },
   "angie_dovie111": {
-    "week_seconds": 14176,
+    "week_seconds": 24557,
     "week_start": 1781480311,
-    "total_seconds": 14176
+    "total_seconds": 24557
   },
   "balderbert": {
     "week_seconds": 12171,
@@ -3812,6 +3812,11 @@
   "paddington_bear": {
     "week_seconds": 0,
     "week_start": 1781593429,
+    "total_seconds": 0
+  },
+  "refe1k": {
+    "week_seconds": 0,
+    "week_start": 1781593864,
     "total_seconds": 0
   }
 }
