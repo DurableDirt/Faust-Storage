@@ -955,9 +955,9 @@
     "total_seconds": 31691
   },
   "pointy_hii": {
-    "week_seconds": 41517,
+    "week_seconds": 44653,
     "week_start": 1781486038,
-    "total_seconds": 41517
+    "total_seconds": 44653
   },
   "blewo": {
     "week_seconds": 123,
@@ -3955,9 +3955,9 @@
     "total_seconds": 255
   },
   "azuremc": {
-    "week_seconds": 3938,
+    "week_seconds": 4215,
     "week_start": 1781611008,
-    "total_seconds": 3938
+    "total_seconds": 4215
   },
   "therewalker": {
     "week_seconds": 0,
@@ -3982,6 +3982,21 @@
   "uami2013": {
     "week_seconds": 0,
     "week_start": 1781614614,
+    "total_seconds": 0
+  },
+  "cloudpug": {
+    "week_seconds": 0,
+    "week_start": 1781615095,
+    "total_seconds": 0
+  },
+  "frosterjr5": {
+    "week_seconds": 0,
+    "week_start": 1781615102,
+    "total_seconds": 0
+  },
+  "kookoobirdie235": {
+    "week_seconds": 0,
+    "week_start": 1781615136,
     "total_seconds": 0
   }
 }
