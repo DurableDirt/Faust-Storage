@@ -2925,9 +2925,9 @@
     "total_seconds": 9833
   },
   "seiseitan": {
-    "week_seconds": 10348,
+    "week_seconds": 11335,
     "week_start": 1781549108,
-    "total_seconds": 10348
+    "total_seconds": 11335
   },
   "lolle0": {
     "week_seconds": 0,
@@ -4422,6 +4422,11 @@
   "formidable01": {
     "week_seconds": 0,
     "week_start": 1781637068,
+    "total_seconds": 0
+  },
+  "spacepaww": {
+    "week_seconds": 0,
+    "week_start": 1781637440,
     "total_seconds": 0
   }
 }
