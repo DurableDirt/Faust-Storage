@@ -3325,9 +3325,9 @@
     "total_seconds": 436
   },
   "noneavailable": {
-    "week_seconds": 2279,
+    "week_seconds": 2511,
     "week_start": 1781562445,
-    "total_seconds": 2279
+    "total_seconds": 2511
   },
   "diegochotocho": {
     "week_seconds": 1152,
@@ -3692,6 +3692,11 @@
   "nalimtuh": {
     "week_seconds": 0,
     "week_start": 1781578419,
+    "total_seconds": 0
+  },
+  "seamonkey1981": {
+    "week_seconds": 0,
+    "week_start": 1781579473,
     "total_seconds": 0
   }
 }
