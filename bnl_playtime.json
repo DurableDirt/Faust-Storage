@@ -125,9 +125,9 @@
     "total_seconds": 1010
   },
   "nahsaimonnumber2": {
-    "week_seconds": 2799,
+    "week_seconds": 5044,
     "week_start": 1781475711,
-    "total_seconds": 2799
+    "total_seconds": 5044
   },
   "threeapplestall": {
     "week_seconds": 58358,
@@ -360,9 +360,9 @@
     "total_seconds": 201
   },
   "astrosandwich": {
-    "week_seconds": 18438,
+    "week_seconds": 22749,
     "week_start": 1781477694,
-    "total_seconds": 18438
+    "total_seconds": 22749
   },
   "wheaties24": {
     "week_seconds": 7089,
@@ -565,9 +565,9 @@
     "total_seconds": 14924
   },
   "graydawn_": {
-    "week_seconds": 45294,
+    "week_seconds": 47794,
     "week_start": 1781480271,
-    "total_seconds": 45294
+    "total_seconds": 47794
   },
   "angie_dovie111": {
     "week_seconds": 14176,
@@ -3758,5 +3758,10 @@
     "week_seconds": 629,
     "week_start": 1781583242,
     "total_seconds": 629
+  },
+  "arbidos": {
+    "week_seconds": 0,
+    "week_start": 1781584037,
+    "total_seconds": 0
   }
 }
