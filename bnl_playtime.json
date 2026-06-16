@@ -4205,9 +4205,9 @@
     "total_seconds": 0
   },
   "britishwanderer": {
-    "week_seconds": 0,
+    "week_seconds": 3064,
     "week_start": 1781629405,
-    "total_seconds": 0
+    "total_seconds": 3064
   },
   "cheesyspaceguy": {
     "week_seconds": 76,
@@ -4292,6 +4292,11 @@
   "kriztmc": {
     "week_seconds": 0,
     "week_start": 1781632441,
+    "total_seconds": 0
+  },
+  "asherboy": {
+    "week_seconds": 0,
+    "week_start": 1781632460,
     "total_seconds": 0
   }
 }
