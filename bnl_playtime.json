@@ -740,9 +740,9 @@
     "total_seconds": 276
   },
   "grepsedawk": {
-    "week_seconds": 69873,
+    "week_seconds": 69985,
     "week_start": 1781482598,
-    "total_seconds": 69873
+    "total_seconds": 69985
   },
   "complexii": {
     "week_seconds": 3241,
@@ -3792,6 +3792,11 @@
   "c4thy_0": {
     "week_seconds": 0,
     "week_start": 1781588480,
+    "total_seconds": 0
+  },
+  "royalwager": {
+    "week_seconds": 0,
+    "week_start": 1781589973,
     "total_seconds": 0
   }
 }
