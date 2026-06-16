@@ -470,9 +470,9 @@
     "total_seconds": 13084
   },
   "anotnot": {
-    "week_seconds": 43413,
+    "week_seconds": 43521,
     "week_start": 1781479365,
-    "total_seconds": 43413
+    "total_seconds": 43521
   },
   "tntfortress": {
     "week_seconds": 33006,
@@ -2415,9 +2415,9 @@
     "total_seconds": 4182
   },
   "sml128": {
-    "week_seconds": 8085,
+    "week_seconds": 8685,
     "week_start": 1781534411,
-    "total_seconds": 8085
+    "total_seconds": 8685
   },
   "malipan": {
     "week_seconds": 1894,
@@ -4170,8 +4170,8 @@
     "total_seconds": 5
   },
   "dilo88": {
-    "week_seconds": 0,
+    "week_seconds": 97,
     "week_start": 1781627897,
-    "total_seconds": 0
+    "total_seconds": 97
   }
 }
