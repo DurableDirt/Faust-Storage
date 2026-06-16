@@ -110,9 +110,9 @@
     "total_seconds": 42199
   },
   "jck20h": {
-    "week_seconds": 5204,
+    "week_seconds": 6308,
     "week_start": 1781475457,
-    "total_seconds": 5204
+    "total_seconds": 6308
   },
   "xjetistuff": {
     "week_seconds": 8090,
@@ -255,9 +255,9 @@
     "total_seconds": 17226
   },
   "madmachinist25": {
-    "week_seconds": 21898,
+    "week_seconds": 26833,
     "week_start": 1781476666,
-    "total_seconds": 21898
+    "total_seconds": 26833
   },
   "mrjeremyfisher": {
     "week_seconds": 4438,
@@ -815,9 +815,9 @@
     "total_seconds": 40338
   },
   "gnathope": {
-    "week_seconds": 22187,
+    "week_seconds": 24503,
     "week_start": 1781483765,
-    "total_seconds": 22187
+    "total_seconds": 24503
   },
   "freeblade999": {
     "week_seconds": 10252,
@@ -2545,9 +2545,9 @@
     "total_seconds": 5455
   },
   "milevsky": {
-    "week_seconds": 5798,
+    "week_seconds": 10050,
     "week_start": 1781537262,
-    "total_seconds": 5798
+    "total_seconds": 10050
   },
   "wallbeck": {
     "week_seconds": 1116,
@@ -2810,9 +2810,9 @@
     "total_seconds": 3099
   },
   "nemesiscy": {
-    "week_seconds": 3251,
+    "week_seconds": 3256,
     "week_start": 1781546410,
-    "total_seconds": 3251
+    "total_seconds": 3256
   },
   "quazaa32": {
     "week_seconds": 287,
@@ -3508,5 +3508,10 @@
     "week_seconds": 5,
     "week_start": 1781568984,
     "total_seconds": 5
+  },
+  "thenebster123": {
+    "week_seconds": 0,
+    "week_start": 1781569115,
+    "total_seconds": 0
   }
 }
