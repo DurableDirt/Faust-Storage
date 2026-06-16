@@ -3540,9 +3540,9 @@
     "total_seconds": 0
   },
   "vonfarkle": {
-    "week_seconds": 0,
+    "week_seconds": 2707,
     "week_start": 1781570400,
-    "total_seconds": 0
+    "total_seconds": 2707
   },
   "dark_knights22": {
     "week_seconds": 1385,
@@ -3570,8 +3570,18 @@
     "total_seconds": 0
   },
   "auramix": {
-    "week_seconds": 0,
+    "week_seconds": 196,
     "week_start": 1781572936,
+    "total_seconds": 196
+  },
+  "griffsupershot": {
+    "week_seconds": 0,
+    "week_start": 1781573101,
     "total_seconds": 0
+  },
+  "frozenfrosty30": {
+    "week_seconds": 40,
+    "week_start": 1781573103,
+    "total_seconds": 40
   }
 }
