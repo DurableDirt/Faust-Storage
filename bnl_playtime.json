@@ -2360,9 +2360,9 @@
     "total_seconds": 8652
   },
   "creaptor1": {
-    "week_seconds": 22532,
+    "week_seconds": 24657,
     "week_start": 1781532322,
-    "total_seconds": 22532
+    "total_seconds": 24657
   },
   "thisismynameatm": {
     "week_seconds": 20350,
@@ -2515,9 +2515,9 @@
     "total_seconds": 25614
   },
   "disdage": {
-    "week_seconds": 22592,
+    "week_seconds": 23523,
     "week_start": 1781536383,
-    "total_seconds": 22592
+    "total_seconds": 23523
   },
   "thomas2point0": {
     "week_seconds": 136,
@@ -3325,9 +3325,9 @@
     "total_seconds": 436
   },
   "noneavailable": {
-    "week_seconds": 27274,
+    "week_seconds": 27470,
     "week_start": 1781562445,
-    "total_seconds": 27274
+    "total_seconds": 27470
   },
   "diegochotocho": {
     "week_seconds": 1152,
@@ -4567,6 +4567,11 @@
   "anyone000000001": {
     "week_seconds": 0,
     "week_start": 1781646724,
+    "total_seconds": 0
+  },
+  "soulsyvi": {
+    "week_seconds": 0,
+    "week_start": 1781647220,
     "total_seconds": 0
   }
 }
