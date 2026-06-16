@@ -240,9 +240,9 @@
     "total_seconds": 32185
   },
   "wasabiwhip": {
-    "week_seconds": 5594,
+    "week_seconds": 5943,
     "week_start": 1781476532,
-    "total_seconds": 5594
+    "total_seconds": 5943
   },
   "aluminum_foil_": {
     "week_seconds": 50291,
@@ -1610,9 +1610,9 @@
     "total_seconds": 766
   },
   "adeadhead": {
-    "week_seconds": 45601,
+    "week_seconds": 47459,
     "week_start": 1781506340,
-    "total_seconds": 45601
+    "total_seconds": 47459
   },
   "cedarvaliant": {
     "week_seconds": 16874,
@@ -2145,9 +2145,9 @@
     "total_seconds": 35750
   },
   "daimnasal": {
-    "week_seconds": 2038,
+    "week_seconds": 2042,
     "week_start": 1781527309,
-    "total_seconds": 2038
+    "total_seconds": 2042
   },
   "azurisdev": {
     "week_seconds": 133,
@@ -3962,6 +3962,11 @@
   "therewalker": {
     "week_seconds": 0,
     "week_start": 1781611918,
+    "total_seconds": 0
+  },
+  "elpaconcio": {
+    "week_seconds": 0,
+    "week_start": 1781612117,
     "total_seconds": 0
   }
 }
