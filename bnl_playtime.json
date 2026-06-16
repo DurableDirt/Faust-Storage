@@ -75,9 +75,9 @@
     "total_seconds": 20748
   },
   "40mm": {
-    "week_seconds": 6820,
+    "week_seconds": 7216,
     "week_start": 1781475020,
-    "total_seconds": 6820
+    "total_seconds": 7216
   },
   "lynx2007": {
     "week_seconds": 26304,
@@ -1730,9 +1730,9 @@
     "total_seconds": 3139
   },
   "tacofromii": {
-    "week_seconds": 18732,
+    "week_seconds": 19397,
     "week_start": 1781513316,
-    "total_seconds": 18732
+    "total_seconds": 19397
   },
   "mayaafox": {
     "week_seconds": 20045,
@@ -2085,9 +2085,9 @@
     "total_seconds": 1760
   },
   "strocraft": {
-    "week_seconds": 27680,
+    "week_seconds": 31473,
     "week_start": 1781525482,
-    "total_seconds": 27680
+    "total_seconds": 31473
   },
   "m4xoff": {
     "week_seconds": 13860,
@@ -4118,5 +4118,10 @@
     "week_seconds": 18,
     "week_start": 1781623073,
     "total_seconds": 18
+  },
+  "nino_lestr": {
+    "week_seconds": 0,
+    "week_start": 1781623213,
+    "total_seconds": 0
   }
 }
