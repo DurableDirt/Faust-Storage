@@ -4080,9 +4080,9 @@
     "total_seconds": 3368
   },
   "kazzuyaa": {
-    "week_seconds": 0,
+    "week_seconds": 5850,
     "week_start": 1781620614,
-    "total_seconds": 0
+    "total_seconds": 5850
   },
   "patar15": {
     "week_seconds": 144,
@@ -4138,5 +4138,10 @@
     "week_seconds": 263,
     "week_start": 1781625250,
     "total_seconds": 263
+  },
+  "olas101": {
+    "week_seconds": 0,
+    "week_start": 1781626426,
+    "total_seconds": 0
   }
 }
