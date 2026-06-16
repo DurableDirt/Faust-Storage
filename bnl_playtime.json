@@ -1520,9 +1520,9 @@
     "total_seconds": 12236
   },
   "_jaek": {
-    "week_seconds": 44296,
+    "week_seconds": 47037,
     "week_start": 1781501895,
-    "total_seconds": 44296
+    "total_seconds": 47037
   },
   "deuteriumoxide1": {
     "week_seconds": 19587,
@@ -3938,5 +3938,10 @@
     "week_seconds": 45,
     "week_start": 1781606096,
     "total_seconds": 45
+  },
+  "edvinsvanis": {
+    "week_seconds": 0,
+    "week_start": 1781607909,
+    "total_seconds": 0
   }
 }
