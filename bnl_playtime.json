@@ -65,9 +65,9 @@
     "total_seconds": 75790
   },
   "rainsinger": {
-    "week_seconds": 43854,
+    "week_seconds": 43959,
     "week_start": 1781474875,
-    "total_seconds": 43854
+    "total_seconds": 43959
   },
   "jindosh": {
     "week_seconds": 19814,
@@ -3888,5 +3888,10 @@
     "week_seconds": 67,
     "week_start": 1781599596,
     "total_seconds": 67
+  },
+  "rngtk": {
+    "week_seconds": 0,
+    "week_start": 1781600120,
+    "total_seconds": 0
   }
 }
