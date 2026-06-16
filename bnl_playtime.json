@@ -715,9 +715,9 @@
     "total_seconds": 10710
   },
   "limtingus1": {
-    "week_seconds": 48816,
+    "week_seconds": 48893,
     "week_start": 1781482426,
-    "total_seconds": 48816
+    "total_seconds": 48893
   },
   "the_montenegrin": {
     "week_seconds": 329,
@@ -1155,9 +1155,9 @@
     "total_seconds": 124
   },
   "fumpkle": {
-    "week_seconds": 5528,
+    "week_seconds": 6193,
     "week_start": 1781489443,
-    "total_seconds": 5528
+    "total_seconds": 6193
   },
   "toonylinksr": {
     "week_seconds": 5277,
@@ -4522,6 +4522,11 @@
   "karmacraft21": {
     "week_seconds": 0,
     "week_start": 1781643707,
+    "total_seconds": 0
+  },
+  "herecomesriley": {
+    "week_seconds": 0,
+    "week_start": 1781643829,
     "total_seconds": 0
   }
 }
