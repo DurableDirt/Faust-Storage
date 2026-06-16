@@ -3335,9 +3335,9 @@
     "total_seconds": 1152
   },
   "project_baxti": {
-    "week_seconds": 11327,
+    "week_seconds": 11365,
     "week_start": 1781562706,
-    "total_seconds": 11327
+    "total_seconds": 11365
   },
   "tintin360": {
     "week_seconds": 226,
@@ -4607,6 +4607,11 @@
   "ben_builds": {
     "week_seconds": 0,
     "week_start": 1781650969,
+    "total_seconds": 0
+  },
+  "misomisa": {
+    "week_seconds": 0,
+    "week_start": 1781651004,
     "total_seconds": 0
   }
 }
