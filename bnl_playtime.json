@@ -580,9 +580,9 @@
     "total_seconds": 12171
   },
   "ethn__": {
-    "week_seconds": 26997,
+    "week_seconds": 27210,
     "week_start": 1781480700,
-    "total_seconds": 26997
+    "total_seconds": 27210
   },
   "suderp": {
     "week_seconds": 3472,
@@ -4173,5 +4173,10 @@
     "week_seconds": 97,
     "week_start": 1781627897,
     "total_seconds": 97
+  },
+  "boxiercaribou87": {
+    "week_seconds": 0,
+    "week_start": 1781628366,
+    "total_seconds": 0
   }
 }
