@@ -1350,9 +1350,9 @@
     "total_seconds": 17098
   },
   "magicmars345": {
-    "week_seconds": 27822,
+    "week_seconds": 32551,
     "week_start": 1781494761,
-    "total_seconds": 27822
+    "total_seconds": 32551
   },
   "s_s_sobolev": {
     "week_seconds": 15406,
@@ -1500,9 +1500,9 @@
     "total_seconds": 3061
   },
   "innatee": {
-    "week_seconds": 32229,
+    "week_seconds": 32687,
     "week_start": 1781500068,
-    "total_seconds": 32229
+    "total_seconds": 32687
   },
   "arbiteradvit": {
     "week_seconds": 10871,
@@ -3315,9 +3315,9 @@
     "total_seconds": 3220
   },
   "praoubl": {
-    "week_seconds": 4005,
+    "week_seconds": 7674,
     "week_start": 1781562177,
-    "total_seconds": 4005
+    "total_seconds": 7674
   },
   "tehe0_0": {
     "week_seconds": 436,
@@ -3787,6 +3787,11 @@
   "kelly2506": {
     "week_seconds": 0,
     "week_start": 1781588290,
+    "total_seconds": 0
+  },
+  "c4thy_0": {
+    "week_seconds": 0,
+    "week_start": 1781588480,
     "total_seconds": 0
   }
 }
