@@ -580,9 +580,9 @@
     "total_seconds": 12171
   },
   "ethn__": {
-    "week_seconds": 19876,
+    "week_seconds": 23199,
     "week_start": 1781480700,
-    "total_seconds": 19876
+    "total_seconds": 23199
   },
   "suderp": {
     "week_seconds": 3472,
@@ -955,9 +955,9 @@
     "total_seconds": 31691
   },
   "pointy_hii": {
-    "week_seconds": 26105,
+    "week_seconds": 29547,
     "week_start": 1781486038,
-    "total_seconds": 26105
+    "total_seconds": 29547
   },
   "blewo": {
     "week_seconds": 123,
@@ -3623,5 +3623,15 @@
     "week_seconds": 0,
     "week_start": 1781575223,
     "total_seconds": 0
+  },
+  "madrafe1": {
+    "week_seconds": 0,
+    "week_start": 1781575509,
+    "total_seconds": 0
+  },
+  "realmichael": {
+    "week_seconds": 12,
+    "week_start": 1781575537,
+    "total_seconds": 12
   }
 }
