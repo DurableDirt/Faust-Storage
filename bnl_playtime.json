@@ -650,9 +650,9 @@
     "total_seconds": 10876
   },
   "malafly": {
-    "week_seconds": 18408,
+    "week_seconds": 18661,
     "week_start": 1781481518,
-    "total_seconds": 18408
+    "total_seconds": 18661
   },
   "velares": {
     "week_seconds": 9446,
@@ -1555,9 +1555,9 @@
     "total_seconds": 3120
   },
   "hakr_": {
-    "week_seconds": 14481,
+    "week_seconds": 15173,
     "week_start": 1781503652,
-    "total_seconds": 14481
+    "total_seconds": 15173
   },
   "nsiv28": {
     "week_seconds": 11072,
@@ -3780,8 +3780,8 @@
     "total_seconds": 0
   },
   "nukinmouse01": {
-    "week_seconds": 0,
+    "week_seconds": 79,
     "week_start": 1781586528,
-    "total_seconds": 0
+    "total_seconds": 79
   }
 }
