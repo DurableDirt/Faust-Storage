@@ -1650,9 +1650,9 @@
     "total_seconds": 29347
   },
   "virexil": {
-    "week_seconds": 7124,
+    "week_seconds": 7236,
     "week_start": 1781509271,
-    "total_seconds": 7124
+    "total_seconds": 7236
   },
   "voidvin": {
     "week_seconds": 29547,
@@ -3953,5 +3953,10 @@
     "week_seconds": 249,
     "week_start": 1781610641,
     "total_seconds": 249
+  },
+  "azuremc": {
+    "week_seconds": 0,
+    "week_start": 1781611008,
+    "total_seconds": 0
   }
 }
