@@ -1025,9 +1025,9 @@
     "total_seconds": 22442
   },
   "hikariidesu": {
-    "week_seconds": 29541,
+    "week_seconds": 29561,
     "week_start": 1781486601,
-    "total_seconds": 29541
+    "total_seconds": 29561
   },
   "jebate": {
     "week_seconds": 6,
@@ -1775,9 +1775,9 @@
     "total_seconds": 1992
   },
   "badwaffles_": {
-    "week_seconds": 3597,
+    "week_seconds": 3765,
     "week_start": 1781514752,
-    "total_seconds": 3597
+    "total_seconds": 3765
   },
   "nanajshi": {
     "week_seconds": 9769,
@@ -3762,6 +3762,11 @@
   "arbidos": {
     "week_seconds": 0,
     "week_start": 1781584037,
+    "total_seconds": 0
+  },
+  "fallen_screw": {
+    "week_seconds": 0,
+    "week_start": 1781585595,
     "total_seconds": 0
   }
 }
