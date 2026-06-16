@@ -3325,9 +3325,9 @@
     "total_seconds": 436
   },
   "noneavailable": {
-    "week_seconds": 20308,
+    "week_seconds": 20466,
     "week_start": 1781562445,
-    "total_seconds": 20308
+    "total_seconds": 20466
   },
   "diegochotocho": {
     "week_seconds": 1152,
@@ -4480,8 +4480,8 @@
     "total_seconds": 0
   },
   "alphatrom3041": {
-    "week_seconds": 0,
+    "week_seconds": 79,
     "week_start": 1781640063,
-    "total_seconds": 0
+    "total_seconds": 79
   }
 }
