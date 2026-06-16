@@ -465,9 +465,9 @@
     "total_seconds": 12932
   },
   "kaelon_othfryeli": {
-    "week_seconds": 13084,
+    "week_seconds": 17003,
     "week_start": 1781479264,
-    "total_seconds": 13084
+    "total_seconds": 17003
   },
   "anotnot": {
     "week_seconds": 47767,
@@ -785,9 +785,9 @@
     "total_seconds": 7395
   },
   "lalibo": {
-    "week_seconds": 34593,
+    "week_seconds": 35040,
     "week_start": 1781483266,
-    "total_seconds": 34593
+    "total_seconds": 35040
   },
   "fazeleafblower": {
     "week_seconds": 34628,
@@ -1450,9 +1450,9 @@
     "total_seconds": 11341
   },
   "xenoum": {
-    "week_seconds": 12539,
+    "week_seconds": 21321,
     "week_start": 1781497822,
-    "total_seconds": 12539
+    "total_seconds": 21321
   },
   "earrthfall": {
     "week_seconds": 138,
@@ -1770,9 +1770,9 @@
     "total_seconds": 11822
   },
   "wandrumdum": {
-    "week_seconds": 9560,
+    "week_seconds": 9591,
     "week_start": 1781514455,
-    "total_seconds": 9560
+    "total_seconds": 9591
   },
   "badwaffles_": {
     "week_seconds": 3765,
@@ -4318,5 +4318,10 @@
     "week_seconds": 50,
     "week_start": 1781633555,
     "total_seconds": 50
+  },
+  "fizzcatyt": {
+    "week_seconds": 0,
+    "week_start": 1781633858,
+    "total_seconds": 0
   }
 }
