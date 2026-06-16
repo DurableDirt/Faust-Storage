@@ -2555,9 +2555,9 @@
     "total_seconds": 1116
   },
   "yunfi": {
-    "week_seconds": 19775,
+    "week_seconds": 19803,
     "week_start": 1781537464,
-    "total_seconds": 19775
+    "total_seconds": 19803
   },
   "myng11": {
     "week_seconds": 807,
@@ -2925,9 +2925,9 @@
     "total_seconds": 9833
   },
   "seiseitan": {
-    "week_seconds": 8030,
+    "week_seconds": 10348,
     "week_start": 1781549108,
-    "total_seconds": 8030
+    "total_seconds": 10348
   },
   "lolle0": {
     "week_seconds": 0,
@@ -4400,8 +4400,8 @@
     "total_seconds": 0
   },
   "threeboar": {
-    "week_seconds": 0,
+    "week_seconds": 31,
     "week_start": 1781636400,
-    "total_seconds": 0
+    "total_seconds": 31
   }
 }
