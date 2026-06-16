@@ -25,9 +25,9 @@
     "total_seconds": 26
   },
   "holdenvcaulfield": {
-    "week_seconds": 4845,
+    "week_seconds": 7865,
     "week_start": 1781474534,
-    "total_seconds": 4845
+    "total_seconds": 7865
   },
   "harved": {
     "week_seconds": 6382,
@@ -245,9 +245,9 @@
     "total_seconds": 5594
   },
   "aluminum_foil_": {
-    "week_seconds": 31522,
+    "week_seconds": 35818,
     "week_start": 1781476568,
-    "total_seconds": 31522
+    "total_seconds": 35818
   },
   "mpusa": {
     "week_seconds": 17226,
@@ -800,9 +800,9 @@
     "total_seconds": 10521
   },
   "zanzirbibley": {
-    "week_seconds": 6557,
+    "week_seconds": 17366,
     "week_start": 1781483617,
-    "total_seconds": 6557
+    "total_seconds": 17366
   },
   "theunreales": {
     "week_seconds": 23062,
@@ -2370,9 +2370,9 @@
     "total_seconds": 18864
   },
   "jaxkats": {
-    "week_seconds": 18491,
+    "week_seconds": 19982,
     "week_start": 1781532995,
-    "total_seconds": 18491
+    "total_seconds": 19982
   },
   "technogameryt": {
     "week_seconds": 30,
@@ -3667,6 +3667,11 @@
   "sharpbag9376805": {
     "week_seconds": 0,
     "week_start": 1781577305,
+    "total_seconds": 0
+  },
+  "christmasboy2": {
+    "week_seconds": 0,
+    "week_start": 1781577561,
     "total_seconds": 0
   }
 }
