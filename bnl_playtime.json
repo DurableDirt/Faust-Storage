@@ -3570,9 +3570,9 @@
     "total_seconds": 0
   },
   "auramix": {
-    "week_seconds": 430,
+    "week_seconds": 437,
     "week_start": 1781572936,
-    "total_seconds": 430
+    "total_seconds": 437
   },
   "griffsupershot": {
     "week_seconds": 0,
@@ -3597,6 +3597,11 @@
   "shadowvdark": {
     "week_seconds": 0,
     "week_start": 1781573758,
+    "total_seconds": 0
+  },
+  "sdgviking": {
+    "week_seconds": 0,
+    "week_start": 1781573787,
     "total_seconds": 0
   }
 }
