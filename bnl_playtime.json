@@ -1340,9 +1340,9 @@
     "total_seconds": 19723
   },
   "misprint293": {
-    "week_seconds": 9672,
+    "week_seconds": 11297,
     "week_start": 1781493068,
-    "total_seconds": 9672
+    "total_seconds": 11297
   },
   "choripancaliente": {
     "week_seconds": 17098,
@@ -3883,5 +3883,10 @@
     "week_seconds": 75,
     "week_start": 1781597327,
     "total_seconds": 75
+  },
+  "zashabisnes": {
+    "week_seconds": 0,
+    "week_start": 1781599596,
+    "total_seconds": 0
   }
 }
