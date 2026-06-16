@@ -750,9 +750,9 @@
     "total_seconds": 3241
   },
   "goosehoss": {
-    "week_seconds": 2395,
+    "week_seconds": 2765,
     "week_start": 1781482675,
-    "total_seconds": 2395
+    "total_seconds": 2765
   },
   "22o1anges": {
     "week_seconds": 15175,
@@ -3528,5 +3528,10 @@
     "week_seconds": 71,
     "week_start": 1781569771,
     "total_seconds": 71
+  },
+  "_banana_blu_": {
+    "week_seconds": 0,
+    "week_start": 1781570022,
+    "total_seconds": 0
   }
 }
