@@ -3325,9 +3325,9 @@
     "total_seconds": 436
   },
   "noneavailable": {
-    "week_seconds": 26942,
+    "week_seconds": 26966,
     "week_start": 1781562445,
-    "total_seconds": 26942
+    "total_seconds": 26966
   },
   "diegochotocho": {
     "week_seconds": 1152,
@@ -4562,6 +4562,11 @@
   "blaxivox": {
     "week_seconds": 0,
     "week_start": 1781646700,
+    "total_seconds": 0
+  },
+  "anyone000000001": {
+    "week_seconds": 0,
+    "week_start": 1781646724,
     "total_seconds": 0
   }
 }
