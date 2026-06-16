@@ -615,9 +615,9 @@
     "total_seconds": 4669
   },
   "yodabird19": {
-    "week_seconds": 34105,
+    "week_seconds": 36853,
     "week_start": 1781481165,
-    "total_seconds": 34105
+    "total_seconds": 36853
   },
   "justmicwa": {
     "week_seconds": 10379,
@@ -3857,6 +3857,11 @@
   "td4n1elmyst1c": {
     "week_seconds": 0,
     "week_start": 1781596600,
+    "total_seconds": 0
+  },
+  "imperrc": {
+    "week_seconds": 0,
+    "week_start": 1781596722,
     "total_seconds": 0
   }
 }
