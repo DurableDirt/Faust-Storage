@@ -105,9 +105,9 @@
     "total_seconds": 23259
   },
   "slothinasuit": {
-    "week_seconds": 54450,
+    "week_seconds": 55392,
     "week_start": 1781475413,
-    "total_seconds": 54450
+    "total_seconds": 55392
   },
   "jck20h": {
     "week_seconds": 6308,
@@ -3602,6 +3602,16 @@
   "sdgviking": {
     "week_seconds": 0,
     "week_start": 1781573787,
+    "total_seconds": 0
+  },
+  "squidhasthebad": {
+    "week_seconds": 0,
+    "week_start": 1781574226,
+    "total_seconds": 0
+  },
+  "nicholas171717": {
+    "week_seconds": 0,
+    "week_start": 1781574269,
     "total_seconds": 0
   }
 }
