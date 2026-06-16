@@ -160,9 +160,9 @@
     "total_seconds": 23119
   },
   "aaroni_macaroni": {
-    "week_seconds": 9295,
+    "week_seconds": 10569,
     "week_start": 1781476020,
-    "total_seconds": 9295
+    "total_seconds": 10569
   },
   "nobodypanicc": {
     "week_seconds": 19251,
@@ -3325,9 +3325,9 @@
     "total_seconds": 436
   },
   "noneavailable": {
-    "week_seconds": 6762,
+    "week_seconds": 6929,
     "week_start": 1781562445,
-    "total_seconds": 6762
+    "total_seconds": 6929
   },
   "diegochotocho": {
     "week_seconds": 1152,
@@ -3777,6 +3777,11 @@
   "walleyefish": {
     "week_seconds": 0,
     "week_start": 1781586370,
+    "total_seconds": 0
+  },
+  "nukinmouse01": {
+    "week_seconds": 0,
+    "week_start": 1781586528,
     "total_seconds": 0
   }
 }
