@@ -1610,9 +1610,9 @@
     "total_seconds": 766
   },
   "adeadhead": {
-    "week_seconds": 54203,
+    "week_seconds": 54228,
     "week_start": 1781506340,
-    "total_seconds": 54203
+    "total_seconds": 54228
   },
   "cedarvaliant": {
     "week_seconds": 16874,
@@ -3475,9 +3475,9 @@
     "total_seconds": 6079
   },
   "bloxtlemc": {
-    "week_seconds": 1038,
+    "week_seconds": 1718,
     "week_start": 1781567213,
-    "total_seconds": 1038
+    "total_seconds": 1718
   },
   "mdlp_red15": {
     "week_seconds": 25,
@@ -4050,8 +4050,13 @@
     "total_seconds": 12
   },
   "kittymeowyey": {
-    "week_seconds": 0,
+    "week_seconds": 271,
     "week_start": 1781618768,
+    "total_seconds": 271
+  },
+  "awaknedchopchop": {
+    "week_seconds": 0,
+    "week_start": 1781619015,
     "total_seconds": 0
   }
 }
