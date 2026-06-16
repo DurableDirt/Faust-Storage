@@ -810,9 +810,9 @@
     "total_seconds": 34007
   },
   "timantha": {
-    "week_seconds": 58113,
+    "week_seconds": 61295,
     "week_start": 1781483687,
-    "total_seconds": 58113
+    "total_seconds": 61295
   },
   "gnathope": {
     "week_seconds": 35116,
@@ -4160,9 +4160,9 @@
     "total_seconds": 2721
   },
   "gunslingerzach": {
-    "week_seconds": 1740,
+    "week_seconds": 1759,
     "week_start": 1781627757,
-    "total_seconds": 1740
+    "total_seconds": 1759
   },
   "marrog20": {
     "week_seconds": 24,
@@ -4243,5 +4243,15 @@
     "week_seconds": 87,
     "week_start": 1781630828,
     "total_seconds": 87
+  },
+  "berniemaccaronie": {
+    "week_seconds": 0,
+    "week_start": 1781631151,
+    "total_seconds": 0
+  },
+  "bartefi": {
+    "week_seconds": 0,
+    "week_start": 1781631225,
+    "total_seconds": 0
   }
 }
