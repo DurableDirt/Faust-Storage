@@ -525,9 +525,9 @@
     "total_seconds": 7709
   },
   "shadno": {
-    "week_seconds": 44438,
+    "week_seconds": 44612,
     "week_start": 1781479968,
-    "total_seconds": 44438
+    "total_seconds": 44612
   },
   "hexayn": {
     "week_seconds": 974,
@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 17563,
+    "week_seconds": 17600,
     "week_start": 1781519118,
-    "total_seconds": 17563
+    "total_seconds": 17600
   },
   "hxrl": {
     "week_seconds": 17727,
@@ -4620,8 +4620,8 @@
     "total_seconds": 147
   },
   "moomoofrogguy": {
-    "week_seconds": 0,
+    "week_seconds": 749,
     "week_start": 1781651911,
-    "total_seconds": 0
+    "total_seconds": 749
   }
 }
