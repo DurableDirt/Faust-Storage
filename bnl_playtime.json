@@ -695,9 +695,9 @@
     "total_seconds": 6053
   },
   "mr_kalboy": {
-    "week_seconds": 1348,
+    "week_seconds": 2119,
     "week_start": 1781482170,
-    "total_seconds": 1348
+    "total_seconds": 2119
   },
   "baro_mortis": {
     "week_seconds": 9586,
@@ -3537,6 +3537,11 @@
   "theboatsmith": {
     "week_seconds": 0,
     "week_start": 1781570299,
+    "total_seconds": 0
+  },
+  "vonfarkle": {
+    "week_seconds": 0,
+    "week_start": 1781570400,
     "total_seconds": 0
   }
 }
