@@ -290,9 +290,9 @@
     "total_seconds": 63592
   },
   "aguscon": {
-    "week_seconds": 9250,
+    "week_seconds": 9957,
     "week_start": 1781477034,
-    "total_seconds": 9250
+    "total_seconds": 9957
   },
   "microwavedmango": {
     "week_seconds": 3535,
@@ -4643,5 +4643,10 @@
     "week_seconds": 200,
     "week_start": 1781653709,
     "total_seconds": 200
+  },
+  "itsalreadygold": {
+    "week_seconds": 0,
+    "week_start": 1781654329,
+    "total_seconds": 0
   }
 }
