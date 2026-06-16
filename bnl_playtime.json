@@ -240,9 +240,9 @@
     "total_seconds": 32185
   },
   "wasabiwhip": {
-    "week_seconds": 7570,
+    "week_seconds": 7898,
     "week_start": 1781476532,
-    "total_seconds": 7570
+    "total_seconds": 7898
   },
   "aluminum_foil_": {
     "week_seconds": 50291,
@@ -4107,6 +4107,11 @@
   "rcgetteau": {
     "week_seconds": 0,
     "week_start": 1781622546,
+    "total_seconds": 0
+  },
+  "hplaptop": {
+    "week_seconds": 0,
+    "week_start": 1781622848,
     "total_seconds": 0
   }
 }
