@@ -555,9 +555,9 @@
     "total_seconds": 158
   },
   "zolo17": {
-    "week_seconds": 126063,
+    "week_seconds": 136407,
     "week_start": 1781480177,
-    "total_seconds": 126063
+    "total_seconds": 136407
   },
   "dutchcringe": {
     "week_seconds": 25400,
@@ -2385,9 +2385,9 @@
     "total_seconds": 734
   },
   "theonenamedbeezz": {
-    "week_seconds": 7246,
+    "week_seconds": 7282,
     "week_start": 1781533214,
-    "total_seconds": 7246
+    "total_seconds": 7282
   },
   "benjamin12chief": {
     "week_seconds": 14,
@@ -4130,9 +4130,9 @@
     "total_seconds": 161
   },
   "annatos": {
-    "week_seconds": 243,
+    "week_seconds": 280,
     "week_start": 1781623508,
-    "total_seconds": 243
+    "total_seconds": 280
   },
   "testedyapper": {
     "week_seconds": 263,
@@ -4347,6 +4347,11 @@
   "koentinius": {
     "week_seconds": 0,
     "week_start": 1781634890,
+    "total_seconds": 0
+  },
+  "hoax_mncrft": {
+    "week_seconds": 0,
+    "week_start": 1781635227,
     "total_seconds": 0
   }
 }
