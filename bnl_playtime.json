@@ -75,14 +75,14 @@
     "total_seconds": 20748
   },
   "40mm": {
-    "week_seconds": 10881,
+    "week_seconds": 11040,
     "week_start": 1781475020,
-    "total_seconds": 10881
+    "total_seconds": 11040
   },
   "lynx2007": {
-    "week_seconds": 26367,
+    "week_seconds": 26398,
     "week_start": 1781475059,
-    "total_seconds": 26367
+    "total_seconds": 26398
   },
   "cunningwind6139": {
     "week_seconds": 13759,
@@ -195,9 +195,9 @@
     "total_seconds": 20733
   },
   "262i": {
-    "week_seconds": 15204,
+    "week_seconds": 17506,
     "week_start": 1781476204,
-    "total_seconds": 15204
+    "total_seconds": 17506
   },
   "jalhf": {
     "week_seconds": 44339,
