@@ -1665,9 +1665,9 @@
     "total_seconds": 2111
   },
   "polysemic": {
-    "week_seconds": 7742,
+    "week_seconds": 8111,
     "week_start": 1781509665,
-    "total_seconds": 7742
+    "total_seconds": 8111
   },
   "wuli": {
     "week_seconds": 8618,
@@ -4130,8 +4130,8 @@
     "total_seconds": 161
   },
   "annatos": {
-    "week_seconds": 210,
+    "week_seconds": 243,
     "week_start": 1781623508,
-    "total_seconds": 210
+    "total_seconds": 243
   }
 }
