@@ -1885,9 +1885,9 @@
     "total_seconds": 30
   },
   "gidein": {
-    "week_seconds": 34512,
+    "week_seconds": 34740,
     "week_start": 1781518844,
-    "total_seconds": 34512
+    "total_seconds": 34740
   },
   "londara": {
     "week_seconds": 1120,
@@ -4327,6 +4327,11 @@
   "twoloosescrews": {
     "week_seconds": 0,
     "week_start": 1781633976,
+    "total_seconds": 0
+  },
+  "robottaco4182": {
+    "week_seconds": 0,
+    "week_start": 1781634263,
     "total_seconds": 0
   }
 }
