@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 59181,
+    "week_seconds": 64999,
     "week_start": 1781479760,
-    "total_seconds": 59181
+    "total_seconds": 64999
   },
   "matilda4k9": {
     "week_seconds": 15832,
@@ -3325,9 +3325,9 @@
     "total_seconds": 436
   },
   "noneavailable": {
-    "week_seconds": 2020,
+    "week_seconds": 2224,
     "week_start": 1781562445,
-    "total_seconds": 2020
+    "total_seconds": 2224
   },
   "diegochotocho": {
     "week_seconds": 1152,
