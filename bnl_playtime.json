@@ -675,9 +675,9 @@
     "total_seconds": 15400
   },
   "versedreset": {
-    "week_seconds": 148,
+    "week_seconds": 2497,
     "week_start": 1781481940,
-    "total_seconds": 148
+    "total_seconds": 2497
   },
   "varbo": {
     "week_seconds": 11433,
@@ -1230,9 +1230,9 @@
     "total_seconds": 10235
   },
   "kahina": {
-    "week_seconds": 14461,
+    "week_seconds": 16319,
     "week_start": 1781491056,
-    "total_seconds": 14461
+    "total_seconds": 16319
   },
   "grantwellson": {
     "week_seconds": 14697,
@@ -2135,9 +2135,9 @@
     "total_seconds": 208
   },
   "captainaxes": {
-    "week_seconds": 11405,
+    "week_seconds": 20883,
     "week_start": 1781526698,
-    "total_seconds": 11405
+    "total_seconds": 20883
   },
   "sqopenspellbook": {
     "week_seconds": 36682,
@@ -3325,9 +3325,9 @@
     "total_seconds": 436
   },
   "noneavailable": {
-    "week_seconds": 22824,
+    "week_seconds": 22909,
     "week_start": 1781562445,
-    "total_seconds": 22824
+    "total_seconds": 22909
   },
   "diegochotocho": {
     "week_seconds": 1152,
@@ -4470,9 +4470,9 @@
     "total_seconds": 57
   },
   "jasupci": {
-    "week_seconds": 0,
+    "week_seconds": 2693,
     "week_start": 1781639962,
-    "total_seconds": 0
+    "total_seconds": 2693
   },
   "raeders": {
     "week_seconds": 2002,
@@ -4497,6 +4497,11 @@
   "nulldorito": {
     "week_seconds": 0,
     "week_start": 1781641618,
+    "total_seconds": 0
+  },
+  "moirai_3242": {
+    "week_seconds": 0,
+    "week_start": 1781642653,
     "total_seconds": 0
   }
 }
