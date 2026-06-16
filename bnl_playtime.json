@@ -155,9 +155,9 @@
     "total_seconds": 11984
   },
   "lightningboi4": {
-    "week_seconds": 22919,
+    "week_seconds": 22980,
     "week_start": 1781476003,
-    "total_seconds": 22919
+    "total_seconds": 22980
   },
   "aaroni_macaroni": {
     "week_seconds": 9295,
@@ -3325,9 +3325,9 @@
     "total_seconds": 436
   },
   "noneavailable": {
-    "week_seconds": 6422,
+    "week_seconds": 6633,
     "week_start": 1781562445,
-    "total_seconds": 6422
+    "total_seconds": 6633
   },
   "diegochotocho": {
     "week_seconds": 1152,
@@ -3767,6 +3767,11 @@
   "fallen_screw": {
     "week_seconds": 0,
     "week_start": 1781585595,
+    "total_seconds": 0
+  },
+  "porterpore9": {
+    "week_seconds": 0,
+    "week_start": 1781586211,
     "total_seconds": 0
   }
 }
