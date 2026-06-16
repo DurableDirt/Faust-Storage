@@ -1690,9 +1690,9 @@
     "total_seconds": 30263
   },
   "solitaire7": {
-    "week_seconds": 31176,
+    "week_seconds": 31204,
     "week_start": 1781510605,
-    "total_seconds": 31176
+    "total_seconds": 31204
   },
   "masqo_": {
     "week_seconds": 15898,
@@ -3530,9 +3530,9 @@
     "total_seconds": 71
   },
   "_banana_blu_": {
-    "week_seconds": 13018,
+    "week_seconds": 13113,
     "week_start": 1781570022,
-    "total_seconds": 13018
+    "total_seconds": 13113
   },
   "theboatsmith": {
     "week_seconds": 8026,
@@ -4443,5 +4443,10 @@
     "week_seconds": 20,
     "week_start": 1781638356,
     "total_seconds": 20
+  },
+  "blackoutknight": {
+    "week_seconds": 0,
+    "week_start": 1781638415,
+    "total_seconds": 0
   }
 }
