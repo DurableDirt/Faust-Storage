@@ -560,9 +560,9 @@
     "total_seconds": 136407
   },
   "dutchcringe": {
-    "week_seconds": 25400,
+    "week_seconds": 25753,
     "week_start": 1781480187,
-    "total_seconds": 25400
+    "total_seconds": 25753
   },
   "graydawn_": {
     "week_seconds": 66231,
@@ -4350,9 +4350,9 @@
     "total_seconds": 0
   },
   "hoax_mncrft": {
-    "week_seconds": 0,
+    "week_seconds": 425,
     "week_start": 1781635227,
-    "total_seconds": 0
+    "total_seconds": 425
   },
   "isqmmy": {
     "week_seconds": 40,
@@ -4372,6 +4372,11 @@
   "rug_puller": {
     "week_seconds": 0,
     "week_start": 1781635642,
+    "total_seconds": 0
+  },
+  "nethermanic69": {
+    "week_seconds": 0,
+    "week_start": 1781635680,
     "total_seconds": 0
   }
 }
