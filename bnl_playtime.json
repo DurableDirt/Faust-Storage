@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 49210,
+    "week_seconds": 50012,
     "week_start": 1781513574,
-    "total_seconds": 49210
+    "total_seconds": 50012
   },
   "stavros_ell": {
     "week_seconds": 11447,
@@ -1885,9 +1885,9 @@
     "total_seconds": 30
   },
   "gidein": {
-    "week_seconds": 35279,
+    "week_seconds": 35670,
     "week_start": 1781518844,
-    "total_seconds": 35279
+    "total_seconds": 35670
   },
   "londara": {
     "week_seconds": 1120,
@@ -3145,9 +3145,9 @@
     "total_seconds": 3498
   },
   "8donis": {
-    "week_seconds": 21,
+    "week_seconds": 24,
     "week_start": 1781555877,
-    "total_seconds": 21
+    "total_seconds": 24
   },
   "thaddemus": {
     "week_seconds": 3138,
@@ -4413,5 +4413,10 @@
     "week_seconds": 131,
     "week_start": 1781636731,
     "total_seconds": 131
+  },
+  "zeroql": {
+    "week_seconds": 0,
+    "week_start": 1781636949,
+    "total_seconds": 0
   }
 }
