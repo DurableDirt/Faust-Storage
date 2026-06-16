@@ -3818,5 +3818,10 @@
     "week_seconds": 0,
     "week_start": 1781593864,
     "total_seconds": 0
+  },
+  "toasterbreaker": {
+    "week_seconds": 29,
+    "week_start": 1781594791,
+    "total_seconds": 29
   }
 }
