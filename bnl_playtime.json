@@ -750,9 +750,9 @@
     "total_seconds": 3241
   },
   "goosehoss": {
-    "week_seconds": 7199,
+    "week_seconds": 7716,
     "week_start": 1781482675,
-    "total_seconds": 7199
+    "total_seconds": 7716
   },
   "22o1anges": {
     "week_seconds": 15619,
@@ -2545,9 +2545,9 @@
     "total_seconds": 5455
   },
   "milevsky": {
-    "week_seconds": 11715,
+    "week_seconds": 15746,
     "week_start": 1781537262,
-    "total_seconds": 11715
+    "total_seconds": 15746
   },
   "wallbeck": {
     "week_seconds": 1116,
@@ -3708,5 +3708,10 @@
     "week_seconds": 223,
     "week_start": 1781580193,
     "total_seconds": 223
+  },
+  "comq1": {
+    "week_seconds": 0,
+    "week_start": 1781580700,
+    "total_seconds": 0
   }
 }
