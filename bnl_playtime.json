@@ -525,9 +525,9 @@
     "total_seconds": 7709
   },
   "shadno": {
-    "week_seconds": 4394,
+    "week_seconds": 21727,
     "week_start": 1781479968,
-    "total_seconds": 4394
+    "total_seconds": 21727
   },
   "hexayn": {
     "week_seconds": 974,
@@ -1515,9 +1515,9 @@
     "total_seconds": 110
   },
   "fang_op": {
-    "week_seconds": 13271,
+    "week_seconds": 13957,
     "week_start": 1781501594,
-    "total_seconds": 13271
+    "total_seconds": 13957
   },
   "_jaek": {
     "week_seconds": 47037,
@@ -4215,8 +4215,8 @@
     "total_seconds": 76
   },
   "miko_shigiri": {
-    "week_seconds": 0,
+    "week_seconds": 73,
     "week_start": 1781629527,
-    "total_seconds": 0
+    "total_seconds": 73
   }
 }
