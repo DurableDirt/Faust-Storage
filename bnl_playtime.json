@@ -1805,9 +1805,9 @@
     "total_seconds": 12390
   },
   "creepi0n": {
-    "week_seconds": 28330,
+    "week_seconds": 29085,
     "week_start": 1781515950,
-    "total_seconds": 28330
+    "total_seconds": 29085
   },
   "_monor": {
     "week_seconds": 4975,
@@ -3893,5 +3893,15 @@
     "week_seconds": 0,
     "week_start": 1781600120,
     "total_seconds": 0
+  },
+  "zidanefrag2": {
+    "week_seconds": 0,
+    "week_start": 1781600508,
+    "total_seconds": 0
+  },
+  "_quincy__": {
+    "week_seconds": 5,
+    "week_start": 1781600510,
+    "total_seconds": 5
   }
 }
