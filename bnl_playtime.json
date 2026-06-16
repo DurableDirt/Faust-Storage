@@ -400,9 +400,9 @@
     "total_seconds": 6615
   },
   "uprisingmax": {
-    "week_seconds": 11248,
+    "week_seconds": 15330,
     "week_start": 1781478140,
-    "total_seconds": 11248
+    "total_seconds": 15330
   },
   "freshoxygenair": {
     "week_seconds": 4547,
@@ -3325,9 +3325,9 @@
     "total_seconds": 436
   },
   "noneavailable": {
-    "week_seconds": 3527,
+    "week_seconds": 3714,
     "week_start": 1781562445,
-    "total_seconds": 3527
+    "total_seconds": 3714
   },
   "diegochotocho": {
     "week_seconds": 1152,
@@ -3752,6 +3752,11 @@
   "lorddankdank": {
     "week_seconds": 0,
     "week_start": 1781583101,
+    "total_seconds": 0
+  },
+  "aussiedaboss": {
+    "week_seconds": 0,
+    "week_start": 1781583242,
     "total_seconds": 0
   }
 }
