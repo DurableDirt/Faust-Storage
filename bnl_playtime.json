@@ -385,9 +385,9 @@
     "total_seconds": 18512
   },
   "opriva": {
-    "week_seconds": 13886,
+    "week_seconds": 17487,
     "week_start": 1781477978,
-    "total_seconds": 13886
+    "total_seconds": 17487
   },
   "kokomiology": {
     "week_seconds": 179,
@@ -3700,8 +3700,8 @@
     "total_seconds": 53
   },
   "icb_72": {
-    "week_seconds": 0,
+    "week_seconds": 146,
     "week_start": 1781579862,
-    "total_seconds": 0
+    "total_seconds": 146
   }
 }
