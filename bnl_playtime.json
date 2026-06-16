@@ -130,9 +130,9 @@
     "total_seconds": 5044
   },
   "threeapplestall": {
-    "week_seconds": 60565,
+    "week_seconds": 60576,
     "week_start": 1781475744,
-    "total_seconds": 60565
+    "total_seconds": 60576
   },
   "donnelpyke2": {
     "week_seconds": 26937,
@@ -2630,9 +2630,9 @@
     "total_seconds": 14485
   },
   "joldidk": {
-    "week_seconds": 6251,
+    "week_seconds": 6923,
     "week_start": 1781540251,
-    "total_seconds": 6251
+    "total_seconds": 6923
   },
   "hegghogaming": {
     "week_seconds": 1930,
@@ -4093,5 +4093,10 @@
     "week_seconds": 4,
     "week_start": 1781620765,
     "total_seconds": 4
+  },
+  "boiled_lobster": {
+    "week_seconds": 0,
+    "week_start": 1781621955,
+    "total_seconds": 0
   }
 }
