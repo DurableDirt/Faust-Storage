@@ -1210,9 +1210,9 @@
     "total_seconds": 17850
   },
   "ephlibian": {
-    "week_seconds": 88484,
+    "week_seconds": 88802,
     "week_start": 1781490475,
-    "total_seconds": 88484
+    "total_seconds": 88802
   },
   "dabinky01": {
     "week_seconds": 40,
@@ -3680,9 +3680,9 @@
     "total_seconds": 2514
   },
   "2lynx2": {
-    "week_seconds": 19267,
+    "week_seconds": 25555,
     "week_start": 1781577764,
-    "total_seconds": 19267
+    "total_seconds": 25555
   },
   "dredgarzomboss": {
     "week_seconds": 896,
@@ -4573,5 +4573,10 @@
     "week_seconds": 82,
     "week_start": 1781647220,
     "total_seconds": 82
+  },
+  "paahtoleip4": {
+    "week_seconds": 0,
+    "week_start": 1781648121,
+    "total_seconds": 0
   }
 }
