@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 18394,
+    "week_seconds": 18437,
     "week_start": 1781519118,
-    "total_seconds": 18394
+    "total_seconds": 18437
   },
   "hxrl": {
     "week_seconds": 17727,
@@ -4635,8 +4635,8 @@
     "total_seconds": 0
   },
   "yourlocalangela": {
-    "week_seconds": 0,
+    "week_seconds": 46,
     "week_start": 1781653530,
-    "total_seconds": 0
+    "total_seconds": 46
   }
 }
