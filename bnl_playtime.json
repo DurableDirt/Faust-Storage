@@ -1665,9 +1665,9 @@
     "total_seconds": 2111
   },
   "polysemic": {
-    "week_seconds": 3506,
+    "week_seconds": 3962,
     "week_start": 1781509665,
-    "total_seconds": 3506
+    "total_seconds": 3962
   },
   "wuli": {
     "week_seconds": 8618,
@@ -4048,5 +4048,10 @@
     "week_seconds": 12,
     "week_start": 1781618557,
     "total_seconds": 12
+  },
+  "kittymeowyey": {
+    "week_seconds": 0,
+    "week_start": 1781618768,
+    "total_seconds": 0
   }
 }
