@@ -285,9 +285,9 @@
     "total_seconds": 12012
   },
   "mechanicalrift": {
-    "week_seconds": 39474,
+    "week_seconds": 43277,
     "week_start": 1781476919,
-    "total_seconds": 39474
+    "total_seconds": 43277
   },
   "aguscon": {
     "week_seconds": 9250,
@@ -3030,9 +3030,9 @@
     "total_seconds": 2483
   },
   "capollie": {
-    "week_seconds": 10962,
+    "week_seconds": 14193,
     "week_start": 1781552442,
-    "total_seconds": 10962
+    "total_seconds": 14193
   },
   "thyme13": {
     "week_seconds": 4493,
@@ -3615,9 +3615,9 @@
     "total_seconds": 1155
   },
   "luminous15": {
-    "week_seconds": 0,
+    "week_seconds": 1870,
     "week_start": 1781574656,
-    "total_seconds": 0
+    "total_seconds": 1870
   },
   "frostythorgrim": {
     "week_seconds": 0,
@@ -3652,6 +3652,11 @@
   "your_averageuser": {
     "week_seconds": 0,
     "week_start": 1781576487,
+    "total_seconds": 0
+  },
+  "witherbro737": {
+    "week_seconds": 0,
+    "week_start": 1781576520,
     "total_seconds": 0
   }
 }
