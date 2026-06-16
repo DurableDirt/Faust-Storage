@@ -895,9 +895,9 @@
     "total_seconds": 2731
   },
   "bigg2010": {
-    "week_seconds": 3555,
+    "week_seconds": 14639,
     "week_start": 1781484989,
-    "total_seconds": 3555
+    "total_seconds": 14639
   },
   "gman5420": {
     "week_seconds": 3951,
@@ -3662,6 +3662,11 @@
   "mirkenmidnight": {
     "week_seconds": 0,
     "week_start": 1781576827,
+    "total_seconds": 0
+  },
+  "sharpbag9376805": {
+    "week_seconds": 0,
+    "week_start": 1781577305,
     "total_seconds": 0
   }
 }
