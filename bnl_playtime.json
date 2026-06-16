@@ -3325,9 +3325,9 @@
     "total_seconds": 436
   },
   "noneavailable": {
-    "week_seconds": 2984,
+    "week_seconds": 3527,
     "week_start": 1781562445,
-    "total_seconds": 2984
+    "total_seconds": 3527
   },
   "diegochotocho": {
     "week_seconds": 1152,
@@ -3748,5 +3748,10 @@
     "week_seconds": 199,
     "week_start": 1781582869,
     "total_seconds": 199
+  },
+  "lorddankdank": {
+    "week_seconds": 0,
+    "week_start": 1781583101,
+    "total_seconds": 0
   }
 }
