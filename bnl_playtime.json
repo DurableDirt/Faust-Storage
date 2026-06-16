@@ -1085,9 +1085,9 @@
     "total_seconds": 23420
   },
   "satava": {
-    "week_seconds": 34062,
+    "week_seconds": 34595,
     "week_start": 1781487788,
-    "total_seconds": 34062
+    "total_seconds": 34595
   },
   "majjcrunsgf": {
     "week_seconds": 1087,
@@ -3717,6 +3717,11 @@
   "rheedzs": {
     "week_seconds": 0,
     "week_start": 1781581465,
+    "total_seconds": 0
+  },
+  "r0mulus1534": {
+    "week_seconds": 0,
+    "week_start": 1781581500,
     "total_seconds": 0
   }
 }
