@@ -4310,9 +4310,9 @@
     "total_seconds": 1888
   },
   "toastisnear": {
-    "week_seconds": 0,
+    "week_seconds": 1923,
     "week_start": 1781633539,
-    "total_seconds": 0
+    "total_seconds": 1923
   },
   "shadowsniper5": {
     "week_seconds": 50,
@@ -4353,5 +4353,10 @@
     "week_seconds": 0,
     "week_start": 1781635227,
     "total_seconds": 0
+  },
+  "isqmmy": {
+    "week_seconds": 40,
+    "week_start": 1781635408,
+    "total_seconds": 40
   }
 }
