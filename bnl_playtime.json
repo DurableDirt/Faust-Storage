@@ -165,9 +165,9 @@
     "total_seconds": 31461
   },
   "nobodypanicc": {
-    "week_seconds": 23224,
+    "week_seconds": 23957,
     "week_start": 1781476038,
-    "total_seconds": 23224
+    "total_seconds": 23957
   },
   "snw": {
     "week_seconds": 3795,
@@ -4033,5 +4033,10 @@
     "week_seconds": 5,
     "week_start": 1781616844,
     "total_seconds": 5
+  },
+  "pandong360": {
+    "week_seconds": 0,
+    "week_start": 1781617217,
+    "total_seconds": 0
   }
 }
