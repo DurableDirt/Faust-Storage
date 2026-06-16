@@ -1465,9 +1465,9 @@
     "total_seconds": 608
   },
   "cdragonmaster48": {
-    "week_seconds": 6102,
+    "week_seconds": 6851,
     "week_start": 1781498015,
-    "total_seconds": 6102
+    "total_seconds": 6851
   },
   "szepess": {
     "week_seconds": 5,
@@ -3808,5 +3808,10 @@
     "week_seconds": 20,
     "week_start": 1781590335,
     "total_seconds": 20
+  },
+  "paddington_bear": {
+    "week_seconds": 0,
+    "week_start": 1781593429,
+    "total_seconds": 0
   }
 }
