@@ -1145,9 +1145,9 @@
     "total_seconds": 360
   },
   "hitmehn": {
-    "week_seconds": 58911,
+    "week_seconds": 68162,
     "week_start": 1781489056,
-    "total_seconds": 58911
+    "total_seconds": 68162
   },
   "moahbalin": {
     "week_seconds": 124,
@@ -3657,6 +3657,11 @@
   "witherbro737": {
     "week_seconds": 0,
     "week_start": 1781576520,
+    "total_seconds": 0
+  },
+  "mirkenmidnight": {
+    "week_seconds": 0,
+    "week_start": 1781576827,
     "total_seconds": 0
   }
 }
