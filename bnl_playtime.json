@@ -50,9 +50,9 @@
     "total_seconds": 22723
   },
   "meenos": {
-    "week_seconds": 31725,
+    "week_seconds": 31751,
     "week_start": 1781474845,
-    "total_seconds": 31725
+    "total_seconds": 31751
   },
   "jadenjb": {
     "week_seconds": 13076,
@@ -2925,9 +2925,9 @@
     "total_seconds": 9833
   },
   "seiseitan": {
-    "week_seconds": 162,
+    "week_seconds": 5617,
     "week_start": 1781549108,
-    "total_seconds": 162
+    "total_seconds": 5617
   },
   "lolle0": {
     "week_seconds": 0,
@@ -4262,6 +4262,11 @@
   "harvey2005x": {
     "week_seconds": 0,
     "week_start": 1781631632,
+    "total_seconds": 0
+  },
+  "tallestthetall": {
+    "week_seconds": 0,
+    "week_start": 1781631686,
     "total_seconds": 0
   }
 }
