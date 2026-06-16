@@ -1175,9 +1175,9 @@
     "total_seconds": 30486
   },
   "astralchroma": {
-    "week_seconds": 11502,
+    "week_seconds": 24750,
     "week_start": 1781489556,
-    "total_seconds": 11502
+    "total_seconds": 24750
   },
   "kingstell": {
     "week_seconds": 50,
@@ -4445,8 +4445,8 @@
     "total_seconds": 20
   },
   "blackoutknight": {
-    "week_seconds": 0,
+    "week_seconds": 581,
     "week_start": 1781638415,
-    "total_seconds": 0
+    "total_seconds": 581
   }
 }
