@@ -1025,9 +1025,9 @@
     "total_seconds": 22442
   },
   "hikariidesu": {
-    "week_seconds": 32169,
+    "week_seconds": 32225,
     "week_start": 1781486601,
-    "total_seconds": 32169
+    "total_seconds": 32225
   },
   "jebate": {
     "week_seconds": 6,
@@ -3803,5 +3803,10 @@
     "week_seconds": 45,
     "week_start": 1781590098,
     "total_seconds": 45
+  },
+  "dieselv8": {
+    "week_seconds": 20,
+    "week_start": 1781590335,
+    "total_seconds": 20
   }
 }
