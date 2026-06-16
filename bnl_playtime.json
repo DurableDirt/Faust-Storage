@@ -620,9 +620,9 @@
     "total_seconds": 36853
   },
   "justmicwa": {
-    "week_seconds": 16312,
+    "week_seconds": 19200,
     "week_start": 1781481295,
-    "total_seconds": 16312
+    "total_seconds": 19200
   },
   "ceceliarabbit": {
     "week_seconds": 8956,
@@ -1885,9 +1885,9 @@
     "total_seconds": 30
   },
   "gidein": {
-    "week_seconds": 30947,
+    "week_seconds": 34512,
     "week_start": 1781518844,
-    "total_seconds": 30947
+    "total_seconds": 34512
   },
   "londara": {
     "week_seconds": 1120,
@@ -4307,6 +4307,16 @@
   "l1zz3": {
     "week_seconds": 0,
     "week_start": 1781633041,
+    "total_seconds": 0
+  },
+  "toastisnear": {
+    "week_seconds": 0,
+    "week_start": 1781633539,
+    "total_seconds": 0
+  },
+  "shadowsniper5": {
+    "week_seconds": 0,
+    "week_start": 1781633555,
     "total_seconds": 0
   }
 }
