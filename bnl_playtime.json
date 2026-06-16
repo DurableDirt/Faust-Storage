@@ -3725,13 +3725,18 @@
     "total_seconds": 624
   },
   "perpltxed": {
-    "week_seconds": 0,
+    "week_seconds": 240,
     "week_start": 1781581931,
-    "total_seconds": 0
+    "total_seconds": 240
   },
   "salizandar2": {
     "week_seconds": 0,
     "week_start": 1781582088,
     "total_seconds": 0
+  },
+  "milkyoreo": {
+    "week_seconds": 32,
+    "week_start": 1781582150,
+    "total_seconds": 32
   }
 }
