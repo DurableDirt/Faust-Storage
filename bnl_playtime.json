@@ -620,9 +620,9 @@
     "total_seconds": 36853
   },
   "justmicwa": {
-    "week_seconds": 12687,
+    "week_seconds": 16284,
     "week_start": 1781481295,
-    "total_seconds": 12687
+    "total_seconds": 16284
   },
   "ceceliarabbit": {
     "week_seconds": 8956,
@@ -3978,5 +3978,10 @@
     "week_seconds": 5,
     "week_start": 1781613849,
     "total_seconds": 5
+  },
+  "uami2013": {
+    "week_seconds": 0,
+    "week_start": 1781614614,
+    "total_seconds": 0
   }
 }
