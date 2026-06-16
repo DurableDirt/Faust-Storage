@@ -1190,9 +1190,9 @@
     "total_seconds": 16632
   },
   "gubukiv": {
-    "week_seconds": 19854,
+    "week_seconds": 23832,
     "week_start": 1781489878,
-    "total_seconds": 19854
+    "total_seconds": 23832
   },
   "some545": {
     "week_seconds": 35,
@@ -3558,5 +3558,10 @@
     "week_seconds": 0,
     "week_start": 1781570781,
     "total_seconds": 0
+  },
+  "cinturoncadena": {
+    "week_seconds": 71,
+    "week_start": 1781571616,
+    "total_seconds": 71
   }
 }
