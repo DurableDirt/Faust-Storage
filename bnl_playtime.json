@@ -455,9 +455,9 @@
     "total_seconds": 44620
   },
   "axsld": {
-    "week_seconds": 10110,
+    "week_seconds": 11232,
     "week_start": 1781479011,
-    "total_seconds": 10110
+    "total_seconds": 11232
   },
   "thespecialplum": {
     "week_seconds": 12932,
@@ -2990,9 +2990,9 @@
     "total_seconds": 1929
   },
   "martini8": {
-    "week_seconds": 24388,
+    "week_seconds": 26492,
     "week_start": 1781551290,
-    "total_seconds": 24388
+    "total_seconds": 26492
   },
   "theoneofthevoid": {
     "week_seconds": 12955,
@@ -3325,9 +3325,9 @@
     "total_seconds": 436
   },
   "noneavailable": {
-    "week_seconds": 26836,
+    "week_seconds": 26942,
     "week_start": 1781562445,
-    "total_seconds": 26836
+    "total_seconds": 26942
   },
   "diegochotocho": {
     "week_seconds": 1152,
@@ -3530,9 +3530,9 @@
     "total_seconds": 71
   },
   "_banana_blu_": {
-    "week_seconds": 13113,
+    "week_seconds": 17450,
     "week_start": 1781570022,
-    "total_seconds": 13113
+    "total_seconds": 17450
   },
   "theboatsmith": {
     "week_seconds": 8026,
@@ -4558,5 +4558,10 @@
     "week_seconds": 24,
     "week_start": 1781645829,
     "total_seconds": 24
+  },
+  "blaxivox": {
+    "week_seconds": 0,
+    "week_start": 1781646700,
+    "total_seconds": 0
   }
 }
