@@ -3190,9 +3190,9 @@
     "total_seconds": 322
   },
   "leadattic_": {
-    "week_seconds": 19637,
+    "week_seconds": 23159,
     "week_start": 1781557797,
-    "total_seconds": 19637
+    "total_seconds": 23159
   },
   "black__wolf_": {
     "week_seconds": 6048,
@@ -4110,9 +4110,9 @@
     "total_seconds": 4234
   },
   "hplaptop": {
-    "week_seconds": 0,
+    "week_seconds": 13550,
     "week_start": 1781622848,
-    "total_seconds": 0
+    "total_seconds": 13550
   },
   "kablevz": {
     "week_seconds": 18,
@@ -4397,6 +4397,11 @@
   "plrog": {
     "week_seconds": 0,
     "week_start": 1781636221,
+    "total_seconds": 0
+  },
+  "threeboar": {
+    "week_seconds": 0,
+    "week_start": 1781636400,
     "total_seconds": 0
   }
 }
