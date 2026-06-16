@@ -2190,9 +2190,9 @@
     "total_seconds": 92
   },
   "tohmatbc": {
-    "week_seconds": 14890,
+    "week_seconds": 18075,
     "week_start": 1781528032,
-    "total_seconds": 14890
+    "total_seconds": 18075
   },
   "cheetahboi2": {
     "week_seconds": 6496,
@@ -4120,8 +4120,8 @@
     "total_seconds": 18
   },
   "nino_lestr": {
-    "week_seconds": 0,
+    "week_seconds": 82,
     "week_start": 1781623213,
-    "total_seconds": 0
+    "total_seconds": 82
   }
 }
