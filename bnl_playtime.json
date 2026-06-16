@@ -15,9 +15,9 @@
     "total_seconds": 12088
   },
   "dragran": {
-    "week_seconds": 49930,
+    "week_seconds": 76361,
     "week_start": 1781474495,
-    "total_seconds": 49930
+    "total_seconds": 76361
   },
   "turkishflavour": {
     "week_seconds": 26,
@@ -4610,8 +4610,8 @@
     "total_seconds": 0
   },
   "misomisa": {
-    "week_seconds": 0,
+    "week_seconds": 40,
     "week_start": 1781651004,
-    "total_seconds": 0
+    "total_seconds": 40
   }
 }
