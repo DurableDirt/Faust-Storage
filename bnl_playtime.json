@@ -80,9 +80,9 @@
     "total_seconds": 6820
   },
   "lynx2007": {
-    "week_seconds": 15934,
+    "week_seconds": 21341,
     "week_start": 1781475059,
-    "total_seconds": 15934
+    "total_seconds": 21341
   },
   "cunningwind6139": {
     "week_seconds": 3737,
@@ -1000,9 +1000,9 @@
     "total_seconds": 16722
   },
   "thedragstermc": {
-    "week_seconds": 238,
+    "week_seconds": 273,
     "week_start": 1781486293,
-    "total_seconds": 238
+    "total_seconds": 273
   },
   "marada_sword": {
     "week_seconds": 17557,
@@ -3493,5 +3493,10 @@
     "week_seconds": 6,
     "week_start": 1781568122,
     "total_seconds": 6
+  },
+  "leafchalice": {
+    "week_seconds": 0,
+    "week_start": 1781568645,
+    "total_seconds": 0
   }
 }
