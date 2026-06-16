@@ -1670,9 +1670,9 @@
     "total_seconds": 2652
   },
   "wuli": {
-    "week_seconds": 5619,
+    "week_seconds": 8618,
     "week_start": 1781509985,
-    "total_seconds": 5619
+    "total_seconds": 8618
   },
   "jaydon_": {
     "week_seconds": 27781,
@@ -3840,9 +3840,9 @@
     "total_seconds": 1070
   },
   "gracefulmomo_": {
-    "week_seconds": 1827,
+    "week_seconds": 1891,
     "week_start": 1781595258,
-    "total_seconds": 1827
+    "total_seconds": 1891
   },
   "noctillary": {
     "week_seconds": 1842,
@@ -3872,6 +3872,11 @@
   "volutionfs": {
     "week_seconds": 0,
     "week_start": 1781596869,
+    "total_seconds": 0
+  },
+  "alexakhramovich": {
+    "week_seconds": 0,
+    "week_start": 1781597249,
     "total_seconds": 0
   }
 }
