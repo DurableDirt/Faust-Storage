@@ -1500,9 +1500,9 @@
     "total_seconds": 3061
   },
   "innatee": {
-    "week_seconds": 45321,
+    "week_seconds": 51640,
     "week_start": 1781500068,
-    "total_seconds": 45321
+    "total_seconds": 51640
   },
   "arbiteradvit": {
     "week_seconds": 12656,
@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 31441,
+    "week_seconds": 32883,
     "week_start": 1781513574,
-    "total_seconds": 31441
+    "total_seconds": 32883
   },
   "stavros_ell": {
     "week_seconds": 11447,
@@ -3957,6 +3957,11 @@
   "azuremc": {
     "week_seconds": 0,
     "week_start": 1781611008,
+    "total_seconds": 0
+  },
+  "therewalker": {
+    "week_seconds": 0,
+    "week_start": 1781611918,
     "total_seconds": 0
   }
 }
