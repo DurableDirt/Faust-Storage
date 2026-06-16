@@ -4043,5 +4043,10 @@
     "week_seconds": 0,
     "week_start": 1781618103,
     "total_seconds": 0
+  },
+  "t_t_law": {
+    "week_seconds": 12,
+    "week_start": 1781618557,
+    "total_seconds": 12
   }
 }
