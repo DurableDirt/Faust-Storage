@@ -620,9 +620,9 @@
     "total_seconds": 36853
   },
   "justmicwa": {
-    "week_seconds": 12113,
+    "week_seconds": 12528,
     "week_start": 1781481295,
-    "total_seconds": 12113
+    "total_seconds": 12528
   },
   "ceceliarabbit": {
     "week_seconds": 8956,
@@ -2145,9 +2145,9 @@
     "total_seconds": 35750
   },
   "daimnasal": {
-    "week_seconds": 2004,
+    "week_seconds": 2038,
     "week_start": 1781527309,
-    "total_seconds": 2004
+    "total_seconds": 2038
   },
   "azurisdev": {
     "week_seconds": 133,
@@ -3950,8 +3950,8 @@
     "total_seconds": 61
   },
   "fealsom_": {
-    "week_seconds": 104,
+    "week_seconds": 154,
     "week_start": 1781610641,
-    "total_seconds": 104
+    "total_seconds": 154
   }
 }
