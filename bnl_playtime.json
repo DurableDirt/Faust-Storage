@@ -1435,9 +1435,9 @@
     "total_seconds": 2668
   },
   "oceanstrider195": {
-    "week_seconds": 839,
+    "week_seconds": 871,
     "week_start": 1781497129,
-    "total_seconds": 839
+    "total_seconds": 871
   },
   "straightup_mc": {
     "week_seconds": 466,
@@ -3682,6 +3682,11 @@
   "2lynx2": {
     "week_seconds": 0,
     "week_start": 1781577764,
+    "total_seconds": 0
+  },
+  "dredgarzomboss": {
+    "week_seconds": 0,
+    "week_start": 1781578119,
     "total_seconds": 0
   }
 }
