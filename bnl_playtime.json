@@ -80,9 +80,9 @@
     "total_seconds": 11040
   },
   "lynx2007": {
-    "week_seconds": 26461,
+    "week_seconds": 26492,
     "week_start": 1781475059,
-    "total_seconds": 26461
+    "total_seconds": 26492
   },
   "cunningwind6139": {
     "week_seconds": 13759,
@@ -4460,8 +4460,13 @@
     "total_seconds": 0
   },
   "warbsthesquirrel": {
-    "week_seconds": 0,
+    "week_seconds": 213,
     "week_start": 1781639603,
+    "total_seconds": 213
+  },
+  "serenity1331": {
+    "week_seconds": 0,
+    "week_start": 1781639827,
     "total_seconds": 0
   }
 }
