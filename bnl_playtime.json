@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 17725,
+    "week_seconds": 17752,
     "week_start": 1781519118,
-    "total_seconds": 17725
+    "total_seconds": 17752
   },
   "hxrl": {
     "week_seconds": 17727,
@@ -4420,9 +4420,9 @@
     "total_seconds": 2834
   },
   "formidable01": {
-    "week_seconds": 1477,
+    "week_seconds": 1709,
     "week_start": 1781637068,
-    "total_seconds": 1477
+    "total_seconds": 1709
   },
   "spacepaww": {
     "week_seconds": 14435,
@@ -4623,5 +4623,10 @@
     "week_seconds": 749,
     "week_start": 1781651911,
     "total_seconds": 749
+  },
+  "risk99": {
+    "week_seconds": 8,
+    "week_start": 1781652843,
+    "total_seconds": 8
   }
 }
