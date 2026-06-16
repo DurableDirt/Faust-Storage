@@ -160,9 +160,9 @@
     "total_seconds": 24051
   },
   "aaroni_macaroni": {
-    "week_seconds": 29550,
+    "week_seconds": 31461,
     "week_start": 1781476020,
-    "total_seconds": 29550
+    "total_seconds": 31461
   },
   "nobodypanicc": {
     "week_seconds": 23224,
@@ -545,9 +545,9 @@
     "total_seconds": 23117
   },
   "shoomsi": {
-    "week_seconds": 26717,
+    "week_seconds": 28632,
     "week_start": 1781480138,
-    "total_seconds": 26717
+    "total_seconds": 28632
   },
   "snivelbaby": {
     "week_seconds": 158,
@@ -4022,6 +4022,11 @@
   "lucylunae": {
     "week_seconds": 0,
     "week_start": 1781616746,
+    "total_seconds": 0
+  },
+  "tactihawk": {
+    "week_seconds": 0,
+    "week_start": 1781616775,
     "total_seconds": 0
   }
 }
