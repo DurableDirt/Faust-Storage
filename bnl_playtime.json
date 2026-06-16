@@ -50,9 +50,9 @@
     "total_seconds": 22723
   },
   "meenos": {
-    "week_seconds": 31751,
+    "week_seconds": 32604,
     "week_start": 1781474845,
-    "total_seconds": 31751
+    "total_seconds": 32604
   },
   "jadenjb": {
     "week_seconds": 13076,
@@ -640,9 +640,9 @@
     "total_seconds": 25615
   },
   "beepcar": {
-    "week_seconds": 68521,
+    "week_seconds": 71668,
     "week_start": 1781481425,
-    "total_seconds": 68521
+    "total_seconds": 71668
   },
   "moopie50": {
     "week_seconds": 10876,
@@ -4297,6 +4297,11 @@
   "asherboy": {
     "week_seconds": 0,
     "week_start": 1781632460,
+    "total_seconds": 0
+  },
+  "gry_sn": {
+    "week_seconds": 0,
+    "week_start": 1781632538,
     "total_seconds": 0
   }
 }
