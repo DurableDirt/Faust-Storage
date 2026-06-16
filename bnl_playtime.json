@@ -1070,9 +1070,9 @@
     "total_seconds": 4729
   },
   "francreeps": {
-    "week_seconds": 22767,
+    "week_seconds": 22828,
     "week_start": 1781487292,
-    "total_seconds": 22767
+    "total_seconds": 22828
   },
   "ticklyrice": {
     "week_seconds": 214,
@@ -1465,9 +1465,9 @@
     "total_seconds": 608
   },
   "cdragonmaster48": {
-    "week_seconds": 6851,
+    "week_seconds": 6905,
     "week_start": 1781498015,
-    "total_seconds": 6851
+    "total_seconds": 6905
   },
   "szepess": {
     "week_seconds": 5,
@@ -3837,6 +3837,16 @@
   "kashev": {
     "week_seconds": 0,
     "week_start": 1781595224,
+    "total_seconds": 0
+  },
+  "gracefulmomo_": {
+    "week_seconds": 0,
+    "week_start": 1781595258,
+    "total_seconds": 0
+  },
+  "noctillary": {
+    "week_seconds": 0,
+    "week_start": 1781595268,
     "total_seconds": 0
   }
 }
