@@ -870,9 +870,9 @@
     "total_seconds": 140
   },
   "deerifius": {
-    "week_seconds": 36675,
+    "week_seconds": 36867,
     "week_start": 1781484629,
-    "total_seconds": 36675
+    "total_seconds": 36867
   },
   "dreadyheadyyn": {
     "week_seconds": 5,
@@ -1805,9 +1805,9 @@
     "total_seconds": 20441
   },
   "creepi0n": {
-    "week_seconds": 45682,
+    "week_seconds": 45705,
     "week_start": 1781515950,
-    "total_seconds": 45682
+    "total_seconds": 45705
   },
   "_monor": {
     "week_seconds": 4975,
@@ -4237,6 +4237,11 @@
   "pineappleman541": {
     "week_seconds": 0,
     "week_start": 1781630307,
+    "total_seconds": 0
+  },
+  "gabrox5": {
+    "week_seconds": 0,
+    "week_start": 1781630828,
     "total_seconds": 0
   }
 }
