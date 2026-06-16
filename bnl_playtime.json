@@ -1610,9 +1610,9 @@
     "total_seconds": 766
   },
   "adeadhead": {
-    "week_seconds": 80426,
+    "week_seconds": 80706,
     "week_start": 1781506340,
-    "total_seconds": 80426
+    "total_seconds": 80706
   },
   "cedarvaliant": {
     "week_seconds": 19784,
@@ -4550,8 +4550,8 @@
     "total_seconds": 75
   },
   "starbuck834": {
-    "week_seconds": 265,
+    "week_seconds": 442,
     "week_start": 1781645316,
-    "total_seconds": 265
+    "total_seconds": 442
   }
 }
