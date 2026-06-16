@@ -25,9 +25,9 @@
     "total_seconds": 26
   },
   "holdenvcaulfield": {
-    "week_seconds": 90,
+    "week_seconds": 3853,
     "week_start": 1781474534,
-    "total_seconds": 90
+    "total_seconds": 3853
   },
   "harved": {
     "week_seconds": 6382,
@@ -1000,9 +1000,9 @@
     "total_seconds": 16722
   },
   "thedragstermc": {
-    "week_seconds": 2216,
+    "week_seconds": 2244,
     "week_start": 1781486293,
-    "total_seconds": 2216
+    "total_seconds": 2244
   },
   "marada_sword": {
     "week_seconds": 17557,
@@ -2545,9 +2545,9 @@
     "total_seconds": 5455
   },
   "milevsky": {
-    "week_seconds": 10050,
+    "week_seconds": 11715,
     "week_start": 1781537262,
-    "total_seconds": 10050
+    "total_seconds": 11715
   },
   "wallbeck": {
     "week_seconds": 1116,
@@ -3552,6 +3552,11 @@
   "destinypurpley": {
     "week_seconds": 0,
     "week_start": 1781570756,
+    "total_seconds": 0
+  },
+  "peregri": {
+    "week_seconds": 0,
+    "week_start": 1781570781,
     "total_seconds": 0
   }
 }
