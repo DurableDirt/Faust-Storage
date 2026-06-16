@@ -50,9 +50,9 @@
     "total_seconds": 22723
   },
   "meenos": {
-    "week_seconds": 29532,
+    "week_seconds": 31725,
     "week_start": 1781474845,
-    "total_seconds": 29532
+    "total_seconds": 31725
   },
   "jadenjb": {
     "week_seconds": 13076,
@@ -2245,9 +2245,9 @@
     "total_seconds": 336
   },
   "ambersolberg205": {
-    "week_seconds": 8928,
+    "week_seconds": 8961,
     "week_start": 1781529273,
-    "total_seconds": 8928
+    "total_seconds": 8961
   },
   "scottytohoty420": {
     "week_seconds": 15742,
@@ -4225,9 +4225,9 @@
     "total_seconds": 93
   },
   "o_angelbitez": {
-    "week_seconds": 33,
+    "week_seconds": 1603,
     "week_start": 1781630022,
-    "total_seconds": 33
+    "total_seconds": 1603
   },
   "power_utter": {
     "week_seconds": 0,
@@ -4258,5 +4258,10 @@
     "week_seconds": 29,
     "week_start": 1781631297,
     "total_seconds": 29
+  },
+  "harvey2005x": {
+    "week_seconds": 0,
+    "week_start": 1781631632,
+    "total_seconds": 0
   }
 }
