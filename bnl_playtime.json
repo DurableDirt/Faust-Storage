@@ -60,9 +60,9 @@
     "total_seconds": 10283
   },
   "mitthraw91": {
-    "week_seconds": 75588,
+    "week_seconds": 75790,
     "week_start": 1781474873,
-    "total_seconds": 75588
+    "total_seconds": 75790
   },
   "rainsinger": {
     "week_seconds": 25480,
@@ -740,9 +740,9 @@
     "total_seconds": 276
   },
   "grepsedawk": {
-    "week_seconds": 69985,
+    "week_seconds": 70029,
     "week_start": 1781482598,
-    "total_seconds": 69985
+    "total_seconds": 70029
   },
   "complexii": {
     "week_seconds": 3241,
@@ -3797,6 +3797,11 @@
   "royalwager": {
     "week_seconds": 0,
     "week_start": 1781589973,
+    "total_seconds": 0
+  },
+  "darkarcherjj": {
+    "week_seconds": 0,
+    "week_start": 1781590098,
     "total_seconds": 0
   }
 }
