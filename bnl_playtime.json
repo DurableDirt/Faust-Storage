@@ -805,9 +805,9 @@
     "total_seconds": 6557
   },
   "theunreales": {
-    "week_seconds": 22446,
+    "week_seconds": 23062,
     "week_start": 1781483636,
-    "total_seconds": 22446
+    "total_seconds": 23062
   },
   "timantha": {
     "week_seconds": 40507,
@@ -1070,9 +1070,9 @@
     "total_seconds": 4729
   },
   "francreeps": {
-    "week_seconds": 17327,
+    "week_seconds": 17329,
     "week_start": 1781487292,
-    "total_seconds": 17327
+    "total_seconds": 17329
   },
   "ticklyrice": {
     "week_seconds": 214,
@@ -3580,9 +3580,9 @@
     "total_seconds": 0
   },
   "frozenfrosty30": {
-    "week_seconds": 40,
+    "week_seconds": 47,
     "week_start": 1781573103,
-    "total_seconds": 40
+    "total_seconds": 47
   },
   "jgirls": {
     "week_seconds": 2236,
@@ -3633,5 +3633,25 @@
     "week_seconds": 12,
     "week_start": 1781575537,
     "total_seconds": 12
+  },
+  "dj121739": {
+    "week_seconds": 0,
+    "week_start": 1781576437,
+    "total_seconds": 0
+  },
+  "gaming_alex7": {
+    "week_seconds": 34,
+    "week_start": 1781576462,
+    "total_seconds": 34
+  },
+  "konaieevee": {
+    "week_seconds": 0,
+    "week_start": 1781576472,
+    "total_seconds": 0
+  },
+  "your_averageuser": {
+    "week_seconds": 0,
+    "week_start": 1781576487,
+    "total_seconds": 0
   }
 }
