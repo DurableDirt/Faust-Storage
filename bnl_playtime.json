@@ -580,9 +580,9 @@
     "total_seconds": 12171
   },
   "ethn__": {
-    "week_seconds": 27210,
+    "week_seconds": 27428,
     "week_start": 1781480700,
-    "total_seconds": 27210
+    "total_seconds": 27428
   },
   "suderp": {
     "week_seconds": 3472,
@@ -2805,9 +2805,9 @@
     "total_seconds": 2949
   },
   "koklushz": {
-    "week_seconds": 4059,
+    "week_seconds": 4240,
     "week_start": 1781546247,
-    "total_seconds": 4059
+    "total_seconds": 4240
   },
   "nemesiscy": {
     "week_seconds": 4756,
@@ -4187,6 +4187,16 @@
   "kynthea": {
     "week_seconds": 0,
     "week_start": 1781628624,
+    "total_seconds": 0
+  },
+  "dervogel67": {
+    "week_seconds": 0,
+    "week_start": 1781628879,
+    "total_seconds": 0
+  },
+  "junerjun": {
+    "week_seconds": 0,
+    "week_start": 1781628892,
     "total_seconds": 0
   }
 }
