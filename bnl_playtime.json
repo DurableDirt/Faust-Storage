@@ -2200,9 +2200,9 @@
     "total_seconds": 6496
   },
   "pandyteddyyt": {
-    "week_seconds": 7873,
+    "week_seconds": 11324,
     "week_start": 1781528053,
-    "total_seconds": 7873
+    "total_seconds": 11324
   },
   "britzsin": {
     "week_seconds": 5,
@@ -4060,8 +4060,13 @@
     "total_seconds": 32
   },
   "kuskoo": {
-    "week_seconds": 0,
+    "week_seconds": 161,
     "week_start": 1781619507,
+    "total_seconds": 161
+  },
+  "creepymc5898": {
+    "week_seconds": 0,
+    "week_start": 1781619664,
     "total_seconds": 0
   }
 }
