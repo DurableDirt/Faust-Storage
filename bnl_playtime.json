@@ -785,9 +785,9 @@
     "total_seconds": 7395
   },
   "lalibo": {
-    "week_seconds": 31001,
+    "week_seconds": 32373,
     "week_start": 1781483266,
-    "total_seconds": 31001
+    "total_seconds": 32373
   },
   "fazeleafblower": {
     "week_seconds": 21188,
@@ -3810,14 +3810,14 @@
     "total_seconds": 20
   },
   "paddington_bear": {
-    "week_seconds": 2766,
+    "week_seconds": 4944,
     "week_start": 1781593429,
-    "total_seconds": 2766
+    "total_seconds": 4944
   },
   "refe1k": {
-    "week_seconds": 0,
+    "week_seconds": 4605,
     "week_start": 1781593864,
-    "total_seconds": 0
+    "total_seconds": 4605
   },
   "toasterbreaker": {
     "week_seconds": 63,
