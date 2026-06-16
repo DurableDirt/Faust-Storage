@@ -2140,9 +2140,9 @@
     "total_seconds": 8470
   },
   "sqopenspellbook": {
-    "week_seconds": 20824,
+    "week_seconds": 20940,
     "week_start": 1781526809,
-    "total_seconds": 20824
+    "total_seconds": 20940
   },
   "daimnasal": {
     "week_seconds": 1418,
@@ -3720,13 +3720,18 @@
     "total_seconds": 0
   },
   "r0mulus1534": {
-    "week_seconds": 0,
+    "week_seconds": 624,
     "week_start": 1781581500,
-    "total_seconds": 0
+    "total_seconds": 624
   },
   "perpltxed": {
     "week_seconds": 0,
     "week_start": 1781581931,
+    "total_seconds": 0
+  },
+  "salizandar2": {
+    "week_seconds": 0,
+    "week_start": 1781582088,
     "total_seconds": 0
   }
 }
