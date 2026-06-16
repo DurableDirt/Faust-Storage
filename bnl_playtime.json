@@ -4113,5 +4113,10 @@
     "week_seconds": 0,
     "week_start": 1781622848,
     "total_seconds": 0
+  },
+  "kablevz": {
+    "week_seconds": 18,
+    "week_start": 1781623073,
+    "total_seconds": 18
   }
 }
