@@ -2775,9 +2775,9 @@
     "total_seconds": 7519
   },
   "duskadmiral": {
-    "week_seconds": 3952,
+    "week_seconds": 5960,
     "week_start": 1781545324,
-    "total_seconds": 3952
+    "total_seconds": 5960
   },
   "monny12345": {
     "week_seconds": 23546,
@@ -3760,9 +3760,9 @@
     "total_seconds": 629
   },
   "arbidos": {
-    "week_seconds": 10971,
+    "week_seconds": 14408,
     "week_start": 1781584037,
-    "total_seconds": 10971
+    "total_seconds": 14408
   },
   "fallen_screw": {
     "week_seconds": 24022,
@@ -5397,6 +5397,16 @@
   "eggentron": {
     "week_seconds": 0,
     "week_start": 1781723924,
+    "total_seconds": 0
+  },
+  "the_banana_man": {
+    "week_seconds": 0,
+    "week_start": 1781724123,
+    "total_seconds": 0
+  },
+  "deadzen": {
+    "week_seconds": 0,
+    "week_start": 1781724195,
     "total_seconds": 0
   }
 }
