@@ -1,8 +1,8 @@
 {
   "durabledirt": {
-    "week_seconds": 16260,
+    "week_seconds": 16552,
     "week_start": 1781474461,
-    "total_seconds": 16260
+    "total_seconds": 16552
   },
   "alphaaaaaaaaalph": {
     "week_seconds": 4,
@@ -1925,9 +1925,9 @@
     "total_seconds": 3
   },
   "fl1xnl": {
-    "week_seconds": 50013,
+    "week_seconds": 52937,
     "week_start": 1781520360,
-    "total_seconds": 50013
+    "total_seconds": 52937
   },
   "impadme5996": {
     "week_seconds": 9228,
@@ -4105,9 +4105,9 @@
     "total_seconds": 176
   },
   "rcgetteau": {
-    "week_seconds": 6480,
+    "week_seconds": 10121,
     "week_start": 1781622546,
-    "total_seconds": 6480
+    "total_seconds": 10121
   },
   "hplaptop": {
     "week_seconds": 34256,
@@ -5277,6 +5277,11 @@
   "abdulloh22600": {
     "week_seconds": 0,
     "week_start": 1781714693,
+    "total_seconds": 0
+  },
+  "hsmnewfriend": {
+    "week_seconds": 0,
+    "week_start": 1781715082,
     "total_seconds": 0
   }
 }
