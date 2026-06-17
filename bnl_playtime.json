@@ -2415,9 +2415,9 @@
     "total_seconds": 4182
   },
   "sml128": {
-    "week_seconds": 18460,
+    "week_seconds": 18496,
     "week_start": 1781534411,
-    "total_seconds": 18460
+    "total_seconds": 18496
   },
   "malipan": {
     "week_seconds": 1894,
@@ -5133,5 +5133,10 @@
     "week_seconds": 154,
     "week_start": 1781704350,
     "total_seconds": 154
+  },
+  "dejnonik": {
+    "week_seconds": 0,
+    "week_start": 1781706002,
+    "total_seconds": 0
   }
 }
