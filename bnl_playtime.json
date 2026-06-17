@@ -1090,9 +1090,9 @@
     "total_seconds": 44418
   },
   "majjcrunsgf": {
-    "week_seconds": 3126,
+    "week_seconds": 3298,
     "week_start": 1781487828,
-    "total_seconds": 3126
+    "total_seconds": 3298
   },
   "magickponch": {
     "week_seconds": 29598,
@@ -4898,5 +4898,10 @@
     "week_seconds": 77,
     "week_start": 1781671842,
     "total_seconds": 77
+  },
+  "ryanlao51": {
+    "week_seconds": 0,
+    "week_start": 1781672188,
+    "total_seconds": 0
   }
 }
