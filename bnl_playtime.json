@@ -1550,9 +1550,9 @@
     "total_seconds": 11
   },
   "layyodious": {
-    "week_seconds": 3120,
+    "week_seconds": 3540,
     "week_start": 1781503498,
-    "total_seconds": 3120
+    "total_seconds": 3540
   },
   "hakr_": {
     "week_seconds": 30544,
@@ -4845,9 +4845,9 @@
     "total_seconds": 192
   },
   "jerninja": {
-    "week_seconds": 3440,
+    "week_seconds": 7130,
     "week_start": 1781667856,
-    "total_seconds": 3440
+    "total_seconds": 7130
   },
   "jaybirdino": {
     "week_seconds": 513,
@@ -4917,6 +4917,11 @@
   "gr31ch3n": {
     "week_seconds": 0,
     "week_start": 1781674567,
+    "total_seconds": 0
+  },
+  "imaginationmc": {
+    "week_seconds": 0,
+    "week_start": 1781676118,
     "total_seconds": 0
   }
 }
