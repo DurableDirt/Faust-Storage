@@ -1930,9 +1930,9 @@
     "total_seconds": 56341
   },
   "impadme5996": {
-    "week_seconds": 9228,
+    "week_seconds": 9365,
     "week_start": 1781520572,
-    "total_seconds": 9228
+    "total_seconds": 9365
   },
   "walkers": {
     "week_seconds": 14173,
@@ -5430,9 +5430,9 @@
     "total_seconds": 2160
   },
   "_avro_": {
-    "week_seconds": 2010,
+    "week_seconds": 2041,
     "week_start": 1781724715,
-    "total_seconds": 2010
+    "total_seconds": 2041
   },
   "doero": {
     "week_seconds": 25,
