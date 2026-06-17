@@ -100,9 +100,9 @@
     "total_seconds": 2523
   },
   "fishsticks47": {
-    "week_seconds": 53224,
+    "week_seconds": 54457,
     "week_start": 1781475372,
-    "total_seconds": 53224
+    "total_seconds": 54457
   },
   "slothinasuit": {
     "week_seconds": 96300,
@@ -5202,6 +5202,11 @@
   "rayunlucke": {
     "week_seconds": 0,
     "week_start": 1781708258,
+    "total_seconds": 0
+  },
+  "setablase": {
+    "week_seconds": 0,
+    "week_start": 1781708830,
     "total_seconds": 0
   }
 }
