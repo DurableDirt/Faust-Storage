@@ -1035,9 +1035,9 @@
     "total_seconds": 6
   },
   "aserdabeast": {
-    "week_seconds": 2096,
+    "week_seconds": 2436,
     "week_start": 1781486788,
-    "total_seconds": 2096
+    "total_seconds": 2436
   },
   "pharomachrus2": {
     "week_seconds": 91,
@@ -4907,6 +4907,11 @@
   "roguex7": {
     "week_seconds": 0,
     "week_start": 1781672358,
+    "total_seconds": 0
+  },
+  "raccon_leader": {
+    "week_seconds": 0,
+    "week_start": 1781673389,
     "total_seconds": 0
   }
 }
