@@ -4615,9 +4615,9 @@
     "total_seconds": 40
   },
   "bazzys_catnip": {
-    "week_seconds": 437,
+    "week_seconds": 582,
     "week_start": 1781651872,
-    "total_seconds": 437
+    "total_seconds": 582
   },
   "moomoofrogguy": {
     "week_seconds": 3093,
@@ -4882,6 +4882,11 @@
   "brettorium": {
     "week_seconds": 0,
     "week_start": 1781671208,
+    "total_seconds": 0
+  },
+  "themervlin": {
+    "week_seconds": 0,
+    "week_start": 1781671618,
     "total_seconds": 0
   }
 }
