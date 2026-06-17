@@ -2220,9 +2220,9 @@
     "total_seconds": 75
   },
   "falphaeus": {
-    "week_seconds": 33435,
+    "week_seconds": 33586,
     "week_start": 1781528404,
-    "total_seconds": 33435
+    "total_seconds": 33586
   },
   "dorthit_0194a8au": {
     "week_seconds": 3029,
@@ -3875,9 +3875,9 @@
     "total_seconds": 1835
   },
   "alexakhramovich": {
-    "week_seconds": 1191,
+    "week_seconds": 1195,
     "week_start": 1781597249,
-    "total_seconds": 1191
+    "total_seconds": 1195
   },
   "mrfreaky6767": {
     "week_seconds": 75,
@@ -5098,5 +5098,10 @@
     "week_seconds": 4,
     "week_start": 1781700790,
     "total_seconds": 4
+  },
+  "justzenon": {
+    "week_seconds": 0,
+    "week_start": 1781700877,
+    "total_seconds": 0
   }
 }
