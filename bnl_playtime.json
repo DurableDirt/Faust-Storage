@@ -450,9 +450,9 @@
     "total_seconds": 43881
   },
   "mrtnt1925": {
-    "week_seconds": 54720,
+    "week_seconds": 54752,
     "week_start": 1781478966,
-    "total_seconds": 54720
+    "total_seconds": 54752
   },
   "axsld": {
     "week_seconds": 11232,
@@ -2515,9 +2515,9 @@
     "total_seconds": 25614
   },
   "disdage": {
-    "week_seconds": 24426,
+    "week_seconds": 24989,
     "week_start": 1781536383,
-    "total_seconds": 24426
+    "total_seconds": 24989
   },
   "thomas2point0": {
     "week_seconds": 136,
@@ -4743,5 +4743,10 @@
     "week_seconds": 5,
     "week_start": 1781659541,
     "total_seconds": 5
+  },
+  "palcifer": {
+    "week_seconds": 0,
+    "week_start": 1781659794,
+    "total_seconds": 0
   }
 }
