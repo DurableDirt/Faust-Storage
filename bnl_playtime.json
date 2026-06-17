@@ -5210,9 +5210,9 @@
     "total_seconds": 0
   },
   "holographic_": {
-    "week_seconds": 1250,
+    "week_seconds": 1650,
     "week_start": 1781708981,
-    "total_seconds": 1250
+    "total_seconds": 1650
   },
   "fualtedwings941": {
     "week_seconds": 153,
@@ -5233,5 +5233,10 @@
     "week_seconds": 470,
     "week_start": 1781710071,
     "total_seconds": 470
+  },
+  "murrvas": {
+    "week_seconds": 26,
+    "week_start": 1781710631,
+    "total_seconds": 26
   }
 }
