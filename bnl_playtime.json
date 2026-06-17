@@ -485,9 +485,9 @@
     "total_seconds": 5060
   },
   "lemonrelic": {
-    "week_seconds": 6072,
+    "week_seconds": 6116,
     "week_start": 1781479480,
-    "total_seconds": 6072
+    "total_seconds": 6116
   },
   "lord_allaire": {
     "week_seconds": 137,
@@ -2710,9 +2710,9 @@
     "total_seconds": 88945
   },
   "jushuhh": {
-    "week_seconds": 15714,
+    "week_seconds": 20099,
     "week_start": 1781542564,
-    "total_seconds": 15714
+    "total_seconds": 20099
   },
   "landopotato712": {
     "week_seconds": 14530,
@@ -5522,6 +5522,16 @@
   "ascant": {
     "week_seconds": 0,
     "week_start": 1781734019,
+    "total_seconds": 0
+  },
+  "ikea_fridge": {
+    "week_seconds": 0,
+    "week_start": 1781734021,
+    "total_seconds": 0
+  },
+  "booltonian": {
+    "week_seconds": 0,
+    "week_start": 1781734053,
     "total_seconds": 0
   }
 }
