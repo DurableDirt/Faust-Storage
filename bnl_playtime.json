@@ -620,9 +620,9 @@
     "total_seconds": 67492
   },
   "justmicwa": {
-    "week_seconds": 20244,
+    "week_seconds": 27295,
     "week_start": 1781481295,
-    "total_seconds": 20244
+    "total_seconds": 27295
   },
   "ceceliarabbit": {
     "week_seconds": 12375,
@@ -1500,9 +1500,9 @@
     "total_seconds": 3061
   },
   "innatee": {
-    "week_seconds": 66783,
+    "week_seconds": 67051,
     "week_start": 1781500068,
-    "total_seconds": 66783
+    "total_seconds": 67051
   },
   "arbiteradvit": {
     "week_seconds": 12656,
@@ -4825,8 +4825,13 @@
     "total_seconds": 608
   },
   "blueyeddemon": {
-    "week_seconds": 0,
+    "week_seconds": 55,
     "week_start": 1781665962,
+    "total_seconds": 55
+  },
+  "azerothsss": {
+    "week_seconds": 0,
+    "week_start": 1781666002,
     "total_seconds": 0
   }
 }
