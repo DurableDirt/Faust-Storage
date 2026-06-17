@@ -420,9 +420,9 @@
     "total_seconds": 6326
   },
   "hg__80": {
-    "week_seconds": 55971,
+    "week_seconds": 128782,
     "week_start": 1781478206,
-    "total_seconds": 55971
+    "total_seconds": 128782
   },
   "hekghlkegh": {
     "week_seconds": 326,
@@ -715,9 +715,9 @@
     "total_seconds": 21037
   },
   "limtingus1": {
-    "week_seconds": 75087,
+    "week_seconds": 80409,
     "week_start": 1781482426,
-    "total_seconds": 75087
+    "total_seconds": 80409
   },
   "the_montenegrin": {
     "week_seconds": 329,
@@ -4973,5 +4973,10 @@
     "week_seconds": 785,
     "week_start": 1781681025,
     "total_seconds": 785
+  },
+  "shadowplayz2017": {
+    "week_seconds": 0,
+    "week_start": 1781681970,
+    "total_seconds": 0
   }
 }
