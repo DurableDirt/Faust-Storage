@@ -570,9 +570,9 @@
     "total_seconds": 88323
   },
   "angie_dovie111": {
-    "week_seconds": 44765,
+    "week_seconds": 53621,
     "week_start": 1781480311,
-    "total_seconds": 44765
+    "total_seconds": 53621
   },
   "balderbert": {
     "week_seconds": 20601,
@@ -1160,9 +1160,9 @@
     "total_seconds": 6193
   },
   "toonylinksr": {
-    "week_seconds": 11032,
+    "week_seconds": 11326,
     "week_start": 1781489447,
-    "total_seconds": 11032
+    "total_seconds": 11326
   },
   "nateoneandonly": {
     "week_seconds": 30742,
@@ -5107,6 +5107,11 @@
   "finneyy_": {
     "week_seconds": 0,
     "week_start": 1781702441,
+    "total_seconds": 0
+  },
+  "boogie1007": {
+    "week_seconds": 0,
+    "week_start": 1781702772,
     "total_seconds": 0
   }
 }
