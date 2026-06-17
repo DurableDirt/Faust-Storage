@@ -525,9 +525,9 @@
     "total_seconds": 7709
   },
   "shadno": {
-    "week_seconds": 109400,
+    "week_seconds": 109568,
     "week_start": 1781479968,
-    "total_seconds": 109400
+    "total_seconds": 109568
   },
   "hexayn": {
     "week_seconds": 974,
@@ -1095,9 +1095,9 @@
     "total_seconds": 3927
   },
   "magickponch": {
-    "week_seconds": 29883,
+    "week_seconds": 30380,
     "week_start": 1781487886,
-    "total_seconds": 29883
+    "total_seconds": 30380
   },
   "nevergrimm": {
     "week_seconds": 24959,
@@ -5633,5 +5633,10 @@
     "week_seconds": 663,
     "week_start": 1781739819,
     "total_seconds": 663
+  },
+  "abejaterrenal": {
+    "week_seconds": 0,
+    "week_start": 1781740751,
+    "total_seconds": 0
   }
 }
