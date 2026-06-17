@@ -90,9 +90,9 @@
     "total_seconds": 16469
   },
   "chips_and_salsa_": {
-    "week_seconds": 20610,
+    "week_seconds": 21475,
     "week_start": 1781475120,
-    "total_seconds": 20610
+    "total_seconds": 21475
   },
   "booger_godslayer": {
     "week_seconds": 2523,
@@ -485,9 +485,9 @@
     "total_seconds": 5060
   },
   "lemonrelic": {
-    "week_seconds": 5634,
+    "week_seconds": 5708,
     "week_start": 1781479480,
-    "total_seconds": 5634
+    "total_seconds": 5708
   },
   "lord_allaire": {
     "week_seconds": 137,
@@ -4688,5 +4688,10 @@
     "week_seconds": 274,
     "week_start": 1781657179,
     "total_seconds": 274
+  },
+  "mavorz911": {
+    "week_seconds": 0,
+    "week_start": 1781657613,
+    "total_seconds": 0
   }
 }
