@@ -840,9 +840,9 @@
     "total_seconds": 19555
   },
   "socialistspectre": {
-    "week_seconds": 40115,
+    "week_seconds": 40894,
     "week_start": 1781484121,
-    "total_seconds": 40115
+    "total_seconds": 40894
   },
   "desmonddotjpeg": {
     "week_seconds": 364,
@@ -4905,9 +4905,9 @@
     "total_seconds": 165
   },
   "roguex7": {
-    "week_seconds": 0,
+    "week_seconds": 4154,
     "week_start": 1781672358,
-    "total_seconds": 0
+    "total_seconds": 4154
   },
   "raccon_leader": {
     "week_seconds": 277,
@@ -4925,8 +4925,8 @@
     "total_seconds": 0
   },
   "geometricsquare": {
-    "week_seconds": 0,
+    "week_seconds": 51,
     "week_start": 1781676503,
-    "total_seconds": 0
+    "total_seconds": 51
   }
 }
