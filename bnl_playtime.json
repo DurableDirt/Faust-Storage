@@ -285,9 +285,9 @@
     "total_seconds": 33397
   },
   "mechanicalrift": {
-    "week_seconds": 98630,
+    "week_seconds": 98664,
     "week_start": 1781476919,
-    "total_seconds": 98630
+    "total_seconds": 98664
   },
   "aguscon": {
     "week_seconds": 9957,
@@ -445,9 +445,9 @@
     "total_seconds": 47280
   },
   "iron600": {
-    "week_seconds": 66796,
+    "week_seconds": 71784,
     "week_start": 1781478931,
-    "total_seconds": 66796
+    "total_seconds": 71784
   },
   "mrtnt1925": {
     "week_seconds": 57468,
@@ -5300,8 +5300,8 @@
     "total_seconds": 241
   },
   "pixel5legend": {
-    "week_seconds": 0,
+    "week_seconds": 112,
     "week_start": 1781716803,
-    "total_seconds": 0
+    "total_seconds": 112
   }
 }
