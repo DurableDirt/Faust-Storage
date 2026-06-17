@@ -4240,9 +4240,9 @@
     "total_seconds": 623
   },
   "gabrox5": {
-    "week_seconds": 87,
+    "week_seconds": 694,
     "week_start": 1781630828,
-    "total_seconds": 87
+    "total_seconds": 694
   },
   "berniemaccaronie": {
     "week_seconds": 7196,
@@ -5247,6 +5247,11 @@
   "yannoks": {
     "week_seconds": 0,
     "week_start": 1781711449,
+    "total_seconds": 0
+  },
+  "meanswarrior13": {
+    "week_seconds": 0,
+    "week_start": 1781711485,
     "total_seconds": 0
   }
 }
