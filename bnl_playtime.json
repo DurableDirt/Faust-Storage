@@ -470,9 +470,9 @@
     "total_seconds": 17003
   },
   "anotnot": {
-    "week_seconds": 97460,
+    "week_seconds": 97707,
     "week_start": 1781479365,
-    "total_seconds": 97460
+    "total_seconds": 97707
   },
   "tntfortress": {
     "week_seconds": 56197,
@@ -5345,8 +5345,13 @@
     "total_seconds": 141
   },
   "proboyplays2": {
-    "week_seconds": 4,
+    "week_seconds": 69,
     "week_start": 1781721417,
-    "total_seconds": 4
+    "total_seconds": 69
+  },
+  "bisbepita123": {
+    "week_seconds": 0,
+    "week_start": 1781721613,
+    "total_seconds": 0
   }
 }
