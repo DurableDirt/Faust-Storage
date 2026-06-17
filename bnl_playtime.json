@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 104719,
+    "week_seconds": 104999,
     "week_start": 1781479760,
-    "total_seconds": 104719
+    "total_seconds": 104999
   },
   "matilda4k9": {
     "week_seconds": 15832,
@@ -1575,9 +1575,9 @@
     "total_seconds": 51760
   },
   "_2k42_": {
-    "week_seconds": 36455,
+    "week_seconds": 38140,
     "week_start": 1781504570,
-    "total_seconds": 36455
+    "total_seconds": 38140
   },
   "gobblin": {
     "week_seconds": 17234,
@@ -4952,6 +4952,11 @@
   "karso8": {
     "week_seconds": 0,
     "week_start": 1781679017,
+    "total_seconds": 0
+  },
+  "dero_zero": {
+    "week_seconds": 0,
+    "week_start": 1781679122,
     "total_seconds": 0
   }
 }
