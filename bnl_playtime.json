@@ -50,9 +50,9 @@
     "total_seconds": 23861
   },
   "meenos": {
-    "week_seconds": 53265,
+    "week_seconds": 56062,
     "week_start": 1781474845,
-    "total_seconds": 53265
+    "total_seconds": 56062
   },
   "jadenjb": {
     "week_seconds": 15195,
@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 95374,
+    "week_seconds": 95750,
     "week_start": 1781479760,
-    "total_seconds": 95374
+    "total_seconds": 95750
   },
   "matilda4k9": {
     "week_seconds": 15832,
@@ -4850,13 +4850,18 @@
     "total_seconds": 0
   },
   "jaybirdino": {
-    "week_seconds": 0,
+    "week_seconds": 513,
     "week_start": 1781669043,
-    "total_seconds": 0
+    "total_seconds": 513
   },
   "ev1lduck95": {
     "week_seconds": 38,
     "week_start": 1781669250,
     "total_seconds": 38
+  },
+  "altegron": {
+    "week_seconds": 0,
+    "week_start": 1781669544,
+    "total_seconds": 0
   }
 }
