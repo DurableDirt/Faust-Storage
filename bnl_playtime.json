@@ -5275,9 +5275,9 @@
     "total_seconds": 1750
   },
   "abdulloh22600": {
-    "week_seconds": 1119,
+    "week_seconds": 1344,
     "week_start": 1781714693,
-    "total_seconds": 1119
+    "total_seconds": 1344
   },
   "hsmnewfriend": {
     "week_seconds": 0,
@@ -5293,5 +5293,10 @@
     "week_seconds": 306,
     "week_start": 1781715975,
     "total_seconds": 306
+  },
+  "matanic1107": {
+    "week_seconds": 0,
+    "week_start": 1781716509,
+    "total_seconds": 0
   }
 }
