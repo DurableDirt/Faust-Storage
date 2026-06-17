@@ -3505,9 +3505,9 @@
     "total_seconds": 712
   },
   "not90": {
-    "week_seconds": 5,
+    "week_seconds": 66,
     "week_start": 1781568984,
-    "total_seconds": 5
+    "total_seconds": 66
   },
   "thenebster123": {
     "week_seconds": 6652,
@@ -4740,8 +4740,8 @@
     "total_seconds": 0
   },
   "lov9r": {
-    "week_seconds": 0,
+    "week_seconds": 5,
     "week_start": 1781659541,
-    "total_seconds": 0
+    "total_seconds": 5
   }
 }
