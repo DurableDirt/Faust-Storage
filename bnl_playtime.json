@@ -1025,9 +1025,9 @@
     "total_seconds": 41603
   },
   "hikariidesu": {
-    "week_seconds": 36971,
+    "week_seconds": 38763,
     "week_start": 1781486601,
-    "total_seconds": 36971
+    "total_seconds": 38763
   },
   "jebate": {
     "week_seconds": 6,
@@ -3530,9 +3530,9 @@
     "total_seconds": 71
   },
   "_banana_blu_": {
-    "week_seconds": 23634,
+    "week_seconds": 23766,
     "week_start": 1781570022,
-    "total_seconds": 23634
+    "total_seconds": 23766
   },
   "theboatsmith": {
     "week_seconds": 8026,
@@ -4668,5 +4668,10 @@
     "week_seconds": 362,
     "week_start": 1781655010,
     "total_seconds": 362
+  },
+  "zerocool828": {
+    "week_seconds": 0,
+    "week_start": 1781655850,
+    "total_seconds": 0
   }
 }
