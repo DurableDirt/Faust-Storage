@@ -1675,9 +1675,9 @@
     "total_seconds": 94513
   },
   "jaydon_": {
-    "week_seconds": 71024,
+    "week_seconds": 71035,
     "week_start": 1781510086,
-    "total_seconds": 71024
+    "total_seconds": 71035
   },
   "pina0210": {
     "week_seconds": 4,
@@ -2090,9 +2090,9 @@
     "total_seconds": 45492
   },
   "m4xoff": {
-    "week_seconds": 22485,
+    "week_seconds": 23248,
     "week_start": 1781525517,
-    "total_seconds": 22485
+    "total_seconds": 23248
   },
   "thatguymisan": {
     "week_seconds": 4055,
@@ -5487,6 +5487,11 @@
   "lycoros": {
     "week_seconds": 0,
     "week_start": 1781728490,
+    "total_seconds": 0
+  },
+  "sobn": {
+    "week_seconds": 0,
+    "week_start": 1781729981,
     "total_seconds": 0
   }
 }
