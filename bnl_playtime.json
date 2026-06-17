@@ -130,9 +130,9 @@
     "total_seconds": 5044
   },
   "threeapplestall": {
-    "week_seconds": 72952,
+    "week_seconds": 72969,
     "week_start": 1781475744,
-    "total_seconds": 72952
+    "total_seconds": 72969
   },
   "donnelpyke2": {
     "week_seconds": 26937,
@@ -440,9 +440,9 @@
     "total_seconds": 5853
   },
   "screamteam2005": {
-    "week_seconds": 32222,
+    "week_seconds": 45382,
     "week_start": 1781478592,
-    "total_seconds": 32222
+    "total_seconds": 45382
   },
   "iron600": {
     "week_seconds": 43881,
@@ -4768,5 +4768,15 @@
     "week_seconds": 164,
     "week_start": 1781660590,
     "total_seconds": 164
+  },
+  "2highinthesky": {
+    "week_seconds": 0,
+    "week_start": 1781661045,
+    "total_seconds": 0
+  },
+  "beefclapper420": {
+    "week_seconds": 0,
+    "week_start": 1781661107,
+    "total_seconds": 0
   }
 }
