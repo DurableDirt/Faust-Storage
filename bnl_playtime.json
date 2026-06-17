@@ -2635,9 +2635,9 @@
     "total_seconds": 25859
   },
   "hegghogaming": {
-    "week_seconds": 6300,
+    "week_seconds": 8313,
     "week_start": 1781540272,
-    "total_seconds": 6300
+    "total_seconds": 8313
   },
   "arnacious": {
     "week_seconds": 3596,
@@ -5317,6 +5317,11 @@
   "coconutty55": {
     "week_seconds": 0,
     "week_start": 1781717232,
+    "total_seconds": 0
+  },
+  "goneguy5": {
+    "week_seconds": 0,
+    "week_start": 1781718241,
     "total_seconds": 0
   }
 }
