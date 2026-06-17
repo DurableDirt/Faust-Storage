@@ -3810,9 +3810,9 @@
     "total_seconds": 20
   },
   "paddington_bear": {
-    "week_seconds": 9804,
+    "week_seconds": 10865,
     "week_start": 1781593429,
-    "total_seconds": 9804
+    "total_seconds": 10865
   },
   "refe1k": {
     "week_seconds": 6673,
@@ -4983,5 +4983,10 @@
     "week_seconds": 132,
     "week_start": 1781682972,
     "total_seconds": 132
+  },
+  "kiwibork": {
+    "week_seconds": 0,
+    "week_start": 1781683206,
+    "total_seconds": 0
   }
 }
