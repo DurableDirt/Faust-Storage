@@ -5320,9 +5320,9 @@
     "total_seconds": 1176
   },
   "goneguy5": {
-    "week_seconds": 0,
+    "week_seconds": 5458,
     "week_start": 1781718241,
-    "total_seconds": 0
+    "total_seconds": 5458
   },
   "supermollyworld": {
     "week_seconds": 96,
@@ -5387,6 +5387,11 @@
   "korbyr": {
     "week_seconds": 0,
     "week_start": 1781723494,
+    "total_seconds": 0
+  },
+  "macnothehazmart": {
+    "week_seconds": 0,
+    "week_start": 1781723705,
     "total_seconds": 0
   }
 }
