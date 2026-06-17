@@ -630,9 +630,9 @@
     "total_seconds": 10810
   },
   "retrocitrus": {
-    "week_seconds": 18525,
+    "week_seconds": 67214,
     "week_start": 1781481396,
-    "total_seconds": 18525
+    "total_seconds": 67214
   },
   "thecrazygrape": {
     "week_seconds": 25615,
@@ -4650,8 +4650,13 @@
     "total_seconds": 153
   },
   "glinnor": {
-    "week_seconds": 0,
+    "week_seconds": 54,
     "week_start": 1781654568,
+    "total_seconds": 54
+  },
+  "gracearoni42": {
+    "week_seconds": 0,
+    "week_start": 1781654618,
     "total_seconds": 0
   }
 }
