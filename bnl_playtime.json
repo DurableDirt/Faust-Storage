@@ -4950,9 +4950,9 @@
     "total_seconds": 1817
   },
   "karso8": {
-    "week_seconds": 4010,
+    "week_seconds": 4015,
     "week_start": 1781679017,
-    "total_seconds": 4010
+    "total_seconds": 4015
   },
   "dero_zero": {
     "week_seconds": 1844,
@@ -5240,8 +5240,8 @@
     "total_seconds": 26
   },
   "mx_premo": {
-    "week_seconds": 0,
+    "week_seconds": 73,
     "week_start": 1781711119,
-    "total_seconds": 0
+    "total_seconds": 73
   }
 }
