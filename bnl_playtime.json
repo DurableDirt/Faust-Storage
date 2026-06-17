@@ -245,9 +245,9 @@
     "total_seconds": 14262
   },
   "aluminum_foil_": {
-    "week_seconds": 58428,
+    "week_seconds": 58993,
     "week_start": 1781476568,
-    "total_seconds": 58428
+    "total_seconds": 58993
   },
   "mpusa": {
     "week_seconds": 18271,
@@ -1570,9 +1570,9 @@
     "total_seconds": 14042
   },
   "physicsgamer": {
-    "week_seconds": 77161,
+    "week_seconds": 77183,
     "week_start": 1781504070,
-    "total_seconds": 77161
+    "total_seconds": 77183
   },
   "_2k42_": {
     "week_seconds": 44671,
@@ -5562,6 +5562,11 @@
   "defunctsnail187": {
     "week_seconds": 0,
     "week_start": 1781735281,
+    "total_seconds": 0
+  },
+  "kralkuzeyb": {
+    "week_seconds": 0,
+    "week_start": 1781735472,
     "total_seconds": 0
   }
 }
