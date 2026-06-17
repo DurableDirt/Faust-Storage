@@ -460,9 +460,9 @@
     "total_seconds": 12654
   },
   "thespecialplum": {
-    "week_seconds": 12932,
+    "week_seconds": 12996,
     "week_start": 1781479236,
-    "total_seconds": 12932
+    "total_seconds": 12996
   },
   "kaelon_othfryeli": {
     "week_seconds": 17003,
@@ -5613,5 +5613,10 @@
     "week_seconds": 4,
     "week_start": 1781738249,
     "total_seconds": 4
+  },
+  "mangomums": {
+    "week_seconds": 0,
+    "week_start": 1781738386,
+    "total_seconds": 0
   }
 }
