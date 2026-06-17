@@ -2145,9 +2145,9 @@
     "total_seconds": 36682
   },
   "daimnasal": {
-    "week_seconds": 5713,
+    "week_seconds": 5951,
     "week_start": 1781527309,
-    "total_seconds": 5713
+    "total_seconds": 5951
   },
   "azurisdev": {
     "week_seconds": 133,
@@ -2625,9 +2625,9 @@
     "total_seconds": 6526
   },
   "syvslime": {
-    "week_seconds": 21134,
+    "week_seconds": 26739,
     "week_start": 1781540180,
-    "total_seconds": 21134
+    "total_seconds": 26739
   },
   "joldidk": {
     "week_seconds": 20051,
@@ -4755,13 +4755,18 @@
     "total_seconds": 289
   },
   "randomguys0101": {
-    "week_seconds": 0,
+    "week_seconds": 178,
     "week_start": 1781660409,
-    "total_seconds": 0
+    "total_seconds": 178
   },
   "winterblade14": {
     "week_seconds": 0,
     "week_start": 1781660562,
+    "total_seconds": 0
+  },
+  "reaperrose25": {
+    "week_seconds": 0,
+    "week_start": 1781660590,
     "total_seconds": 0
   }
 }
