@@ -470,9 +470,9 @@
     "total_seconds": 17003
   },
   "anotnot": {
-    "week_seconds": 73620,
+    "week_seconds": 83789,
     "week_start": 1781479365,
-    "total_seconds": 73620
+    "total_seconds": 83789
   },
   "tntfortress": {
     "week_seconds": 45349,
@@ -1460,9 +1460,9 @@
     "total_seconds": 138
   },
   "baes200": {
-    "week_seconds": 3781,
+    "week_seconds": 3827,
     "week_start": 1781497990,
-    "total_seconds": 3781
+    "total_seconds": 3827
   },
   "cdragonmaster48": {
     "week_seconds": 11823,
@@ -4887,6 +4887,11 @@
   "themervlin": {
     "week_seconds": 0,
     "week_start": 1781671618,
+    "total_seconds": 0
+  },
+  "westerian": {
+    "week_seconds": 0,
+    "week_start": 1781671722,
     "total_seconds": 0
   }
 }
