@@ -130,9 +130,9 @@
     "total_seconds": 5044
   },
   "threeapplestall": {
-    "week_seconds": 76298,
+    "week_seconds": 76367,
     "week_start": 1781475744,
-    "total_seconds": 76298
+    "total_seconds": 76367
   },
   "donnelpyke2": {
     "week_seconds": 26937,
@@ -4913,5 +4913,10 @@
     "week_seconds": 277,
     "week_start": 1781673389,
     "total_seconds": 277
+  },
+  "gr31ch3n": {
+    "week_seconds": 0,
+    "week_start": 1781674567,
+    "total_seconds": 0
   }
 }
