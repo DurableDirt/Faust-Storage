@@ -3475,9 +3475,9 @@
     "total_seconds": 6079
   },
   "bloxtlemc": {
-    "week_seconds": 6521,
+    "week_seconds": 13411,
     "week_start": 1781567213,
-    "total_seconds": 6521
+    "total_seconds": 13411
   },
   "mdlp_red15": {
     "week_seconds": 25,
@@ -5082,6 +5082,11 @@
   "sleepycomrade": {
     "week_seconds": 0,
     "week_start": 1781699478,
+    "total_seconds": 0
+  },
+  "entitilo_hyiir": {
+    "week_seconds": 0,
+    "week_start": 1781700203,
     "total_seconds": 0
   }
 }
