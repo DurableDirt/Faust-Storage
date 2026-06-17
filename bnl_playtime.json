@@ -2960,9 +2960,9 @@
     "total_seconds": 17995
   },
   "lucifer_sh": {
-    "week_seconds": 26838,
+    "week_seconds": 27013,
     "week_start": 1781550837,
-    "total_seconds": 26838
+    "total_seconds": 27013
   },
   "yuitzzy": {
     "week_seconds": 2391,
@@ -5542,6 +5542,11 @@
   "snedddy": {
     "week_seconds": 0,
     "week_start": 1781734138,
+    "total_seconds": 0
+  },
+  "vsraptor": {
+    "week_seconds": 0,
+    "week_start": 1781734300,
     "total_seconds": 0
   }
 }
