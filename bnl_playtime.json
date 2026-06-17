@@ -5000,9 +5000,9 @@
     "total_seconds": 2706
   },
   "dwarfrogue654": {
-    "week_seconds": 7902,
+    "week_seconds": 8804,
     "week_start": 1781686516,
-    "total_seconds": 7902
+    "total_seconds": 8804
   },
   "josse_124": {
     "week_seconds": 4243,
@@ -5060,8 +5060,13 @@
     "total_seconds": 0
   },
   "coolcake112": {
-    "week_seconds": 0,
+    "week_seconds": 200,
     "week_start": 1781696384,
+    "total_seconds": 200
+  },
+  "kawaii_kultist": {
+    "week_seconds": 0,
+    "week_start": 1781696537,
     "total_seconds": 0
   }
 }
