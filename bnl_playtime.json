@@ -1225,9 +1225,9 @@
     "total_seconds": 1364
   },
   "_oceanstar": {
-    "week_seconds": 42109,
+    "week_seconds": 44966,
     "week_start": 1781490835,
-    "total_seconds": 42109
+    "total_seconds": 44966
   },
   "kahina": {
     "week_seconds": 17482,
@@ -1700,9 +1700,9 @@
     "total_seconds": 20533
   },
   "eyestrainz": {
-    "week_seconds": 34865,
+    "week_seconds": 35390,
     "week_start": 1781511497,
-    "total_seconds": 34865
+    "total_seconds": 35390
   },
   "snailytrail": {
     "week_seconds": 6,
@@ -3965,9 +3965,9 @@
     "total_seconds": 37372
   },
   "elpaconcio": {
-    "week_seconds": 3868,
+    "week_seconds": 4662,
     "week_start": 1781612117,
-    "total_seconds": 3868
+    "total_seconds": 4662
   },
   "mclist": {
     "week_seconds": 119,
@@ -5338,5 +5338,10 @@
     "week_seconds": 287,
     "week_start": 1781719400,
     "total_seconds": 287
+  },
+  "danthemanb777": {
+    "week_seconds": 0,
+    "week_start": 1781719884,
+    "total_seconds": 0
   }
 }
