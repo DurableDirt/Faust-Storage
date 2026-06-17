@@ -195,9 +195,9 @@
     "total_seconds": 34521
   },
   "262i": {
-    "week_seconds": 26398,
+    "week_seconds": 32395,
     "week_start": 1781476204,
-    "total_seconds": 26398
+    "total_seconds": 32395
   },
   "jalhf": {
     "week_seconds": 47301,
@@ -1870,9 +1870,9 @@
     "total_seconds": 85406
   },
   "dudees": {
-    "week_seconds": 7613,
+    "week_seconds": 11120,
     "week_start": 1781518572,
-    "total_seconds": 7613
+    "total_seconds": 11120
   },
   "stratmatt57": {
     "week_seconds": 136264,
@@ -2190,9 +2190,9 @@
     "total_seconds": 92
   },
   "tohmatbc": {
-    "week_seconds": 39568,
+    "week_seconds": 48902,
     "week_start": 1781528032,
-    "total_seconds": 39568
+    "total_seconds": 48902
   },
   "cheetahboi2": {
     "week_seconds": 8314,
@@ -5207,6 +5207,16 @@
   "setablase": {
     "week_seconds": 0,
     "week_start": 1781708830,
+    "total_seconds": 0
+  },
+  "holographic_": {
+    "week_seconds": 0,
+    "week_start": 1781708981,
+    "total_seconds": 0
+  },
+  "fualtedwings941": {
+    "week_seconds": 0,
+    "week_start": 1781709018,
     "total_seconds": 0
   }
 }
