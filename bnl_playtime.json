@@ -3920,9 +3920,9 @@
     "total_seconds": 14920
   },
   "plumily": {
-    "week_seconds": 287,
+    "week_seconds": 757,
     "week_start": 1781602124,
-    "total_seconds": 287
+    "total_seconds": 757
   },
   "soul9594": {
     "week_seconds": 541,
@@ -4425,9 +4425,9 @@
     "total_seconds": 2124
   },
   "spacepaww": {
-    "week_seconds": 18414,
+    "week_seconds": 20501,
     "week_start": 1781637440,
-    "total_seconds": 18414
+    "total_seconds": 20501
   },
   "shrimpwashere_": {
     "week_seconds": 43,
@@ -4823,5 +4823,10 @@
     "week_seconds": 608,
     "week_start": 1781665255,
     "total_seconds": 608
+  },
+  "blueyeddemon": {
+    "week_seconds": 0,
+    "week_start": 1781665962,
+    "total_seconds": 0
   }
 }
