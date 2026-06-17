@@ -275,9 +275,9 @@
     "total_seconds": 59644
   },
   "peyt1212": {
-    "week_seconds": 4484,
+    "week_seconds": 4645,
     "week_start": 1781476845,
-    "total_seconds": 4484
+    "total_seconds": 4645
   },
   "ansgardd": {
     "week_seconds": 33397,
@@ -2340,9 +2340,9 @@
     "total_seconds": 4938
   },
   "shyguy_wph": {
-    "week_seconds": 19435,
+    "week_seconds": 31036,
     "week_start": 1781531847,
-    "total_seconds": 19435
+    "total_seconds": 31036
   },
   "crimsonfang3139": {
     "week_seconds": 29299,
@@ -3965,9 +3965,9 @@
     "total_seconds": 42372
   },
   "elpaconcio": {
-    "week_seconds": 4662,
+    "week_seconds": 7557,
     "week_start": 1781612117,
-    "total_seconds": 4662
+    "total_seconds": 7557
   },
   "mclist": {
     "week_seconds": 119,
@@ -5540,14 +5540,14 @@
     "total_seconds": 665
   },
   "snedddy": {
-    "week_seconds": 585,
+    "week_seconds": 4077,
     "week_start": 1781734138,
-    "total_seconds": 585
+    "total_seconds": 4077
   },
   "vsraptor": {
-    "week_seconds": 1505,
+    "week_seconds": 3898,
     "week_start": 1781734300,
-    "total_seconds": 1505
+    "total_seconds": 3898
   },
   "siralador": {
     "week_seconds": 207,
@@ -5608,5 +5608,10 @@
     "week_seconds": 4,
     "week_start": 1781737902,
     "total_seconds": 4
+  },
+  "erokex": {
+    "week_seconds": 0,
+    "week_start": 1781738249,
+    "total_seconds": 0
   }
 }
