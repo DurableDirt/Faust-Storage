@@ -380,9 +380,9 @@
     "total_seconds": 32067
   },
   "noctash": {
-    "week_seconds": 18559,
+    "week_seconds": 18592,
     "week_start": 1781477945,
-    "total_seconds": 18559
+    "total_seconds": 18592
   },
   "opriva": {
     "week_seconds": 41498,
@@ -3530,9 +3530,9 @@
     "total_seconds": 71
   },
   "_banana_blu_": {
-    "week_seconds": 32497,
+    "week_seconds": 34835,
     "week_start": 1781570022,
-    "total_seconds": 32497
+    "total_seconds": 34835
   },
   "theboatsmith": {
     "week_seconds": 8026,
@@ -5193,5 +5193,10 @@
     "week_seconds": 2,
     "week_start": 1781707844,
     "total_seconds": 2
+  },
+  "itzhoover": {
+    "week_seconds": 0,
+    "week_start": 1781708110,
+    "total_seconds": 0
   }
 }
