@@ -235,9 +235,9 @@
     "total_seconds": 30148
   },
   "hentlol": {
-    "week_seconds": 59028,
+    "week_seconds": 59141,
     "week_start": 1781476485,
-    "total_seconds": 59028
+    "total_seconds": 59141
   },
   "wasabiwhip": {
     "week_seconds": 10911,
@@ -1690,9 +1690,9 @@
     "total_seconds": 33798
   },
   "solitaire7": {
-    "week_seconds": 37171,
+    "week_seconds": 41884,
     "week_start": 1781510605,
-    "total_seconds": 37171
+    "total_seconds": 41884
   },
   "masqo_": {
     "week_seconds": 17100,
@@ -5078,5 +5078,10 @@
     "week_seconds": 61,
     "week_start": 1781698114,
     "total_seconds": 61
+  },
+  "sleepycomrade": {
+    "week_seconds": 0,
+    "week_start": 1781699478,
+    "total_seconds": 0
   }
 }
