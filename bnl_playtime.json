@@ -1730,9 +1730,9 @@
     "total_seconds": 3139
   },
   "tacofromii": {
-    "week_seconds": 37864,
+    "week_seconds": 40134,
     "week_start": 1781513316,
-    "total_seconds": 37864
+    "total_seconds": 40134
   },
   "mayaafox": {
     "week_seconds": 20045,
@@ -5103,5 +5103,10 @@
     "week_seconds": 303,
     "week_start": 1781700877,
     "total_seconds": 303
+  },
+  "finneyy_": {
+    "week_seconds": 0,
+    "week_start": 1781702441,
+    "total_seconds": 0
   }
 }
