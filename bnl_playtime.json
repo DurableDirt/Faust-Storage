@@ -955,9 +955,9 @@
     "total_seconds": 31691
   },
   "pointy_hii": {
-    "week_seconds": 51953,
+    "week_seconds": 52169,
     "week_start": 1781486038,
-    "total_seconds": 51953
+    "total_seconds": 52169
   },
   "blewo": {
     "week_seconds": 123,
@@ -1210,9 +1210,9 @@
     "total_seconds": 17850
   },
   "ephlibian": {
-    "week_seconds": 90246,
+    "week_seconds": 96943,
     "week_start": 1781490475,
-    "total_seconds": 90246
+    "total_seconds": 96943
   },
   "dabinky01": {
     "week_seconds": 40,
@@ -4757,6 +4757,11 @@
   "randomguys0101": {
     "week_seconds": 0,
     "week_start": 1781660409,
+    "total_seconds": 0
+  },
+  "winterblade14": {
+    "week_seconds": 0,
+    "week_start": 1781660562,
     "total_seconds": 0
   }
 }
