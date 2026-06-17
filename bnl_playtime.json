@@ -3965,9 +3965,9 @@
     "total_seconds": 37372
   },
   "elpaconcio": {
-    "week_seconds": 3166,
+    "week_seconds": 3187,
     "week_start": 1781612117,
-    "total_seconds": 3166
+    "total_seconds": 3187
   },
   "mclist": {
     "week_seconds": 119,
@@ -5112,6 +5112,11 @@
   "boogie1007": {
     "week_seconds": 0,
     "week_start": 1781702772,
+    "total_seconds": 0
+  },
+  "ripoffpingu": {
+    "week_seconds": 0,
+    "week_start": 1781703204,
     "total_seconds": 0
   }
 }
