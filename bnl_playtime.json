@@ -835,9 +835,9 @@
     "total_seconds": 98952
   },
   "rydestar": {
-    "week_seconds": 19675,
+    "week_seconds": 20241,
     "week_start": 1781484093,
-    "total_seconds": 19675
+    "total_seconds": 20241
   },
   "socialistspectre": {
     "week_seconds": 47891,
@@ -2050,9 +2050,9 @@
     "total_seconds": 5642
   },
   "busy_donut": {
-    "week_seconds": 2119,
+    "week_seconds": 2282,
     "week_start": 1781524263,
-    "total_seconds": 2119
+    "total_seconds": 2282
   },
   "spearitz": {
     "week_seconds": 5,
@@ -5243,5 +5243,10 @@
     "week_seconds": 128,
     "week_start": 1781711119,
     "total_seconds": 128
+  },
+  "yannoks": {
+    "week_seconds": 0,
+    "week_start": 1781711449,
+    "total_seconds": 0
   }
 }
