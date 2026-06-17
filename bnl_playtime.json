@@ -155,9 +155,9 @@
     "total_seconds": 12119
   },
   "lightningboi4": {
-    "week_seconds": 49729,
+    "week_seconds": 50385,
     "week_start": 1781476003,
-    "total_seconds": 49729
+    "total_seconds": 50385
   },
   "aaroni_macaroni": {
     "week_seconds": 34621,
@@ -2575,9 +2575,9 @@
     "total_seconds": 17508
   },
   "snowpix_": {
-    "week_seconds": 12493,
+    "week_seconds": 12524,
     "week_start": 1781538879,
-    "total_seconds": 12493
+    "total_seconds": 12524
   },
   "7qou": {
     "week_seconds": 1157,
@@ -4655,9 +4655,9 @@
     "total_seconds": 54
   },
   "gracearoni42": {
-    "week_seconds": 263,
+    "week_seconds": 290,
     "week_start": 1781654618,
-    "total_seconds": 263
+    "total_seconds": 290
   },
   "ptown_xx123": {
     "week_seconds": 411,
@@ -4672,6 +4672,11 @@
   "zerocool828": {
     "week_seconds": 0,
     "week_start": 1781655850,
+    "total_seconds": 0
+  },
+  "gabbaking24": {
+    "week_seconds": 0,
+    "week_start": 1781656063,
     "total_seconds": 0
   }
 }
