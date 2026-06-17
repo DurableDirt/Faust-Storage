@@ -450,9 +450,9 @@
     "total_seconds": 66796
   },
   "mrtnt1925": {
-    "week_seconds": 57099,
+    "week_seconds": 57166,
     "week_start": 1781478966,
-    "total_seconds": 57099
+    "total_seconds": 57166
   },
   "axsld": {
     "week_seconds": 11232,
@@ -5267,6 +5267,11 @@
   "bevinator2": {
     "week_seconds": 0,
     "week_start": 1781713828,
+    "total_seconds": 0
+  },
+  "vjdfbkgudfsjh": {
+    "week_seconds": 0,
+    "week_start": 1781714026,
     "total_seconds": 0
   }
 }
