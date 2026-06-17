@@ -75,9 +75,9 @@
     "total_seconds": 29875
   },
   "40mm": {
-    "week_seconds": 23258,
+    "week_seconds": 24729,
     "week_start": 1781475020,
-    "total_seconds": 23258
+    "total_seconds": 24729
   },
   "lynx2007": {
     "week_seconds": 41303,
@@ -5430,9 +5430,9 @@
     "total_seconds": 2070
   },
   "_avro_": {
-    "week_seconds": 1978,
+    "week_seconds": 2010,
     "week_start": 1781724715,
-    "total_seconds": 1978
+    "total_seconds": 2010
   },
   "doero": {
     "week_seconds": 25,
