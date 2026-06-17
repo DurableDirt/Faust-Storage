@@ -615,9 +615,9 @@
     "total_seconds": 4669
   },
   "yodabird19": {
-    "week_seconds": 103575,
+    "week_seconds": 105599,
     "week_start": 1781481165,
-    "total_seconds": 103575
+    "total_seconds": 105599
   },
   "justmicwa": {
     "week_seconds": 43370,
@@ -5610,8 +5610,8 @@
     "total_seconds": 4
   },
   "erokex": {
-    "week_seconds": 0,
+    "week_seconds": 4,
     "week_start": 1781738249,
-    "total_seconds": 0
+    "total_seconds": 4
   }
 }
