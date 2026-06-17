@@ -2040,9 +2040,9 @@
     "total_seconds": 4554
   },
   "el_shap0": {
-    "week_seconds": 21295,
+    "week_seconds": 47174,
     "week_start": 1781523974,
-    "total_seconds": 21295
+    "total_seconds": 47174
   },
   "nareik01": {
     "week_seconds": 5642,
@@ -5475,8 +5475,8 @@
     "total_seconds": 0
   },
   "bestfiretop": {
-    "week_seconds": 219,
+    "week_seconds": 302,
     "week_start": 1781727793,
-    "total_seconds": 219
+    "total_seconds": 302
   }
 }
