@@ -375,9 +375,9 @@
     "total_seconds": 8052
   },
   "jamesthegmiguel": {
-    "week_seconds": 30558,
+    "week_seconds": 30856,
     "week_start": 1781477892,
-    "total_seconds": 30558
+    "total_seconds": 30856
   },
   "noctash": {
     "week_seconds": 18559,
@@ -805,9 +805,9 @@
     "total_seconds": 17366
   },
   "theunreales": {
-    "week_seconds": 49775,
+    "week_seconds": 50063,
     "week_start": 1781483636,
-    "total_seconds": 49775
+    "total_seconds": 50063
   },
   "timantha": {
     "week_seconds": 61595,
@@ -2735,9 +2735,9 @@
     "total_seconds": 44
   },
   "anttolisa": {
-    "week_seconds": 34324,
+    "week_seconds": 34770,
     "week_start": 1781543984,
-    "total_seconds": 34324
+    "total_seconds": 34770
   },
   "ivona_dies_alot": {
     "week_seconds": 20299,
@@ -4877,6 +4877,11 @@
   "arandom_p1ayer": {
     "week_seconds": 0,
     "week_start": 1781670828,
+    "total_seconds": 0
+  },
+  "brettorium": {
+    "week_seconds": 0,
+    "week_start": 1781671208,
     "total_seconds": 0
   }
 }
