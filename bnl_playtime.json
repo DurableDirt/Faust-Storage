@@ -995,9 +995,9 @@
     "total_seconds": 4919
   },
   "dud4vier": {
-    "week_seconds": 30642,
+    "week_seconds": 31132,
     "week_start": 1781486280,
-    "total_seconds": 30642
+    "total_seconds": 31132
   },
   "thedragstermc": {
     "week_seconds": 13177,
@@ -4160,9 +4160,9 @@
     "total_seconds": 8197
   },
   "gunslingerzach": {
-    "week_seconds": 8219,
+    "week_seconds": 8743,
     "week_start": 1781627757,
-    "total_seconds": 8219
+    "total_seconds": 8743
   },
   "marrog20": {
     "week_seconds": 24,
@@ -5333,5 +5333,10 @@
     "week_seconds": 52,
     "week_start": 1781719184,
     "total_seconds": 52
+  },
+  "kota_mnecrft": {
+    "week_seconds": 0,
+    "week_start": 1781719400,
+    "total_seconds": 0
   }
 }
