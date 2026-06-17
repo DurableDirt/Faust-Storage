@@ -2735,9 +2735,9 @@
     "total_seconds": 44
   },
   "anttolisa": {
-    "week_seconds": 36425,
+    "week_seconds": 36471,
     "week_start": 1781543984,
-    "total_seconds": 36425
+    "total_seconds": 36471
   },
   "ivona_dies_alot": {
     "week_seconds": 20299,
@@ -4160,9 +4160,9 @@
     "total_seconds": 2721
   },
   "gunslingerzach": {
-    "week_seconds": 3870,
+    "week_seconds": 3879,
     "week_start": 1781627757,
-    "total_seconds": 3870
+    "total_seconds": 3879
   },
   "marrog20": {
     "week_seconds": 24,
@@ -4910,8 +4910,8 @@
     "total_seconds": 0
   },
   "raccon_leader": {
-    "week_seconds": 0,
+    "week_seconds": 277,
     "week_start": 1781673389,
-    "total_seconds": 0
+    "total_seconds": 277
   }
 }
