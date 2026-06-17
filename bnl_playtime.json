@@ -1420,9 +1420,9 @@
     "total_seconds": 2467
   },
   "vibeturtle": {
-    "week_seconds": 13379,
+    "week_seconds": 13396,
     "week_start": 1781496687,
-    "total_seconds": 13379
+    "total_seconds": 13396
   },
   "westley2099": {
     "week_seconds": 5,
@@ -5618,5 +5618,10 @@
     "week_seconds": 0,
     "week_start": 1781738386,
     "total_seconds": 0
+  },
+  "furiousminer": {
+    "week_seconds": 3,
+    "week_start": 1781738902,
+    "total_seconds": 3
   }
 }
