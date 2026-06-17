@@ -4630,9 +4630,9 @@
     "total_seconds": 8
   },
   "requalre": {
-    "week_seconds": 0,
+    "week_seconds": 5104,
     "week_start": 1781653004,
-    "total_seconds": 0
+    "total_seconds": 5104
   },
   "yourlocalangela": {
     "week_seconds": 66,
@@ -4645,9 +4645,9 @@
     "total_seconds": 200
   },
   "itsalreadygold": {
-    "week_seconds": 252,
+    "week_seconds": 417,
     "week_start": 1781654329,
-    "total_seconds": 252
+    "total_seconds": 417
   },
   "glinnor": {
     "week_seconds": 54,
@@ -4697,6 +4697,11 @@
   "bp_formle": {
     "week_seconds": 0,
     "week_start": 1781657694,
+    "total_seconds": 0
+  },
+  "okie15": {
+    "week_seconds": 0,
+    "week_start": 1781658127,
     "total_seconds": 0
   }
 }
