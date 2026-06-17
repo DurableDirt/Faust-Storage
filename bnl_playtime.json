@@ -1450,9 +1450,9 @@
     "total_seconds": 11341
   },
   "xenoum": {
-    "week_seconds": 27638,
+    "week_seconds": 28678,
     "week_start": 1781497822,
-    "total_seconds": 27638
+    "total_seconds": 28678
   },
   "earrthfall": {
     "week_seconds": 138,
@@ -5053,5 +5053,10 @@
     "week_seconds": 132,
     "week_start": 1781695933,
     "total_seconds": 132
+  },
+  "princelynx": {
+    "week_seconds": 0,
+    "week_start": 1781696091,
+    "total_seconds": 0
   }
 }
