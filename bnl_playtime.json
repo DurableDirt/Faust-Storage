@@ -65,9 +65,9 @@
     "total_seconds": 142916
   },
   "rainsinger": {
-    "week_seconds": 52358,
+    "week_seconds": 52753,
     "week_start": 1781474875,
-    "total_seconds": 52358
+    "total_seconds": 52753
   },
   "jindosh": {
     "week_seconds": 29875,
@@ -5375,9 +5375,9 @@
     "total_seconds": 400
   },
   "bonzathon": {
-    "week_seconds": 0,
+    "week_seconds": 1418,
     "week_start": 1781723112,
-    "total_seconds": 0
+    "total_seconds": 1418
   },
   "sainttn": {
     "week_seconds": 92,
@@ -5413,5 +5413,15 @@
     "week_seconds": 29,
     "week_start": 1781724301,
     "total_seconds": 29
+  },
+  "rosepoop": {
+    "week_seconds": 0,
+    "week_start": 1781724549,
+    "total_seconds": 0
+  },
+  "riftonhc": {
+    "week_seconds": 0,
+    "week_start": 1781724551,
+    "total_seconds": 0
   }
 }
