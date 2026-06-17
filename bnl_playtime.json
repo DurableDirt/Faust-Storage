@@ -3295,9 +3295,9 @@
     "total_seconds": 4
   },
   "twinkieexpresss": {
-    "week_seconds": 28341,
+    "week_seconds": 28591,
     "week_start": 1781561231,
-    "total_seconds": 28341
+    "total_seconds": 28591
   },
   "senkucola": {
     "week_seconds": 11807,
@@ -5468,5 +5468,15 @@
     "week_seconds": 5,
     "week_start": 1781725608,
     "total_seconds": 5
+  },
+  "quinnyvt2": {
+    "week_seconds": 0,
+    "week_start": 1781727757,
+    "total_seconds": 0
+  },
+  "bestfiretop": {
+    "week_seconds": 0,
+    "week_start": 1781727793,
+    "total_seconds": 0
   }
 }
