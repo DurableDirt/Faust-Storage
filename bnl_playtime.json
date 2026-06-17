@@ -1120,9 +1120,9 @@
     "total_seconds": 76164
   },
   "dbeatzxd": {
-    "week_seconds": 37162,
+    "week_seconds": 39889,
     "week_start": 1781488437,
-    "total_seconds": 37162
+    "total_seconds": 39889
   },
   "t00tsmag00ts": {
     "week_seconds": 405,
@@ -2145,9 +2145,9 @@
     "total_seconds": 36682
   },
   "daimnasal": {
-    "week_seconds": 8651,
+    "week_seconds": 8656,
     "week_start": 1781527309,
-    "total_seconds": 8651
+    "total_seconds": 8656
   },
   "azurisdev": {
     "week_seconds": 133,
@@ -4847,6 +4847,11 @@
   "jerninja": {
     "week_seconds": 0,
     "week_start": 1781667856,
+    "total_seconds": 0
+  },
+  "jaybirdino": {
+    "week_seconds": 0,
+    "week_start": 1781669043,
     "total_seconds": 0
   }
 }
