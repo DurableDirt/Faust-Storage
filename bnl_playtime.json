@@ -190,9 +190,9 @@
     "total_seconds": 39981
   },
   "princess__bow": {
-    "week_seconds": 48104,
+    "week_seconds": 52091,
     "week_start": 1781476187,
-    "total_seconds": 48104
+    "total_seconds": 52091
   },
   "262i": {
     "week_seconds": 42367,
@@ -400,9 +400,9 @@
     "total_seconds": 6615
   },
   "uprisingmax": {
-    "week_seconds": 35733,
+    "week_seconds": 40103,
     "week_start": 1781478140,
-    "total_seconds": 35733
+    "total_seconds": 40103
   },
   "freshoxygenair": {
     "week_seconds": 5905,
@@ -4885,9 +4885,9 @@
     "total_seconds": 6191
   },
   "themervlin": {
-    "week_seconds": 6922,
+    "week_seconds": 10830,
     "week_start": 1781671618,
-    "total_seconds": 6922
+    "total_seconds": 10830
   },
   "westerian": {
     "week_seconds": 981,
@@ -5582,6 +5582,11 @@
   "natesupermon": {
     "week_seconds": 0,
     "week_start": 1781736238,
+    "total_seconds": 0
+  },
+  "framedastro": {
+    "week_seconds": 0,
+    "week_start": 1781736929,
     "total_seconds": 0
   }
 }
