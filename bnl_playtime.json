@@ -100,9 +100,9 @@
     "total_seconds": 2523
   },
   "fishsticks47": {
-    "week_seconds": 64509,
+    "week_seconds": 68226,
     "week_start": 1781475372,
-    "total_seconds": 64509
+    "total_seconds": 68226
   },
   "slothinasuit": {
     "week_seconds": 113697,
@@ -5360,9 +5360,9 @@
     "total_seconds": 5
   },
   "xxzee": {
-    "week_seconds": 0,
+    "week_seconds": 9591,
     "week_start": 1781721835,
-    "total_seconds": 0
+    "total_seconds": 9591
   },
   "aether_playz": {
     "week_seconds": 506,
@@ -5375,9 +5375,9 @@
     "total_seconds": 1615
   },
   "bonzathon": {
-    "week_seconds": 1418,
+    "week_seconds": 8305,
     "week_start": 1781723112,
-    "total_seconds": 1418
+    "total_seconds": 8305
   },
   "sainttn": {
     "week_seconds": 92,
@@ -5492,6 +5492,11 @@
   "sobn": {
     "week_seconds": 0,
     "week_start": 1781729981,
+    "total_seconds": 0
+  },
+  "dragonxgold": {
+    "week_seconds": 0,
+    "week_start": 1781731387,
     "total_seconds": 0
   }
 }
