@@ -105,9 +105,9 @@
     "total_seconds": 45774
   },
   "slothinasuit": {
-    "week_seconds": 94883,
+    "week_seconds": 96300,
     "week_start": 1781475413,
-    "total_seconds": 94883
+    "total_seconds": 96300
   },
   "jck20h": {
     "week_seconds": 6308,
@@ -4655,8 +4655,8 @@
     "total_seconds": 54
   },
   "gracearoni42": {
-    "week_seconds": 0,
+    "week_seconds": 34,
     "week_start": 1781654618,
-    "total_seconds": 0
+    "total_seconds": 34
   }
 }
