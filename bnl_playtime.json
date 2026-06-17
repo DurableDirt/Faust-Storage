@@ -400,9 +400,9 @@
     "total_seconds": 6615
   },
   "uprisingmax": {
-    "week_seconds": 35709,
+    "week_seconds": 35733,
     "week_start": 1781478140,
-    "total_seconds": 35709
+    "total_seconds": 35733
   },
   "freshoxygenair": {
     "week_seconds": 5003,
@@ -865,9 +865,9 @@
     "total_seconds": 23
   },
   "anvil": {
-    "week_seconds": 752,
+    "week_seconds": 931,
     "week_start": 1781484585,
-    "total_seconds": 752
+    "total_seconds": 931
   },
   "deerifius": {
     "week_seconds": 48799,
@@ -3315,9 +3315,9 @@
     "total_seconds": 5163
   },
   "praoubl": {
-    "week_seconds": 25766,
+    "week_seconds": 25893,
     "week_start": 1781562177,
-    "total_seconds": 25766
+    "total_seconds": 25893
   },
   "tehe0_0": {
     "week_seconds": 436,
@@ -4868,5 +4868,10 @@
     "week_seconds": 18,
     "week_start": 1781669743,
     "total_seconds": 18
+  },
+  "_lunebleue": {
+    "week_seconds": 0,
+    "week_start": 1781669885,
+    "total_seconds": 0
   }
 }
