@@ -3785,9 +3785,9 @@
     "total_seconds": 79
   },
   "kelly2506": {
-    "week_seconds": 5538,
+    "week_seconds": 5542,
     "week_start": 1781588290,
-    "total_seconds": 5538
+    "total_seconds": 5542
   },
   "c4thy_0": {
     "week_seconds": 4038,
@@ -5353,5 +5353,10 @@
     "week_seconds": 0,
     "week_start": 1781721613,
     "total_seconds": 0
+  },
+  "jude2050": {
+    "week_seconds": 5,
+    "week_start": 1781721741,
+    "total_seconds": 5
   }
 }
