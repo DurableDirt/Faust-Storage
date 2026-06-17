@@ -965,9 +965,9 @@
     "total_seconds": 123
   },
   "sdorr": {
-    "week_seconds": 28734,
+    "week_seconds": 29244,
     "week_start": 1781486048,
-    "total_seconds": 28734
+    "total_seconds": 29244
   },
   "cynical_darling": {
     "week_seconds": 56935,
@@ -1025,9 +1025,9 @@
     "total_seconds": 41603
   },
   "hikariidesu": {
-    "week_seconds": 39554,
+    "week_seconds": 40073,
     "week_start": 1781486601,
-    "total_seconds": 39554
+    "total_seconds": 40073
   },
   "jebate": {
     "week_seconds": 6,
@@ -1145,9 +1145,9 @@
     "total_seconds": 1821
   },
   "hitmehn": {
-    "week_seconds": 105396,
+    "week_seconds": 114863,
     "week_start": 1781489056,
-    "total_seconds": 105396
+    "total_seconds": 114863
   },
   "moahbalin": {
     "week_seconds": 124,
@@ -4615,9 +4615,9 @@
     "total_seconds": 40
   },
   "bazzys_catnip": {
-    "week_seconds": 147,
+    "week_seconds": 437,
     "week_start": 1781651872,
-    "total_seconds": 147
+    "total_seconds": 437
   },
   "moomoofrogguy": {
     "week_seconds": 3093,
@@ -4873,5 +4873,10 @@
     "week_seconds": 266,
     "week_start": 1781669885,
     "total_seconds": 266
+  },
+  "arandom_p1ayer": {
+    "week_seconds": 0,
+    "week_start": 1781670828,
+    "total_seconds": 0
   }
 }
