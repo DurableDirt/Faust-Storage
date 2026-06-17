@@ -1085,9 +1085,9 @@
     "total_seconds": 68068
   },
   "satava": {
-    "week_seconds": 48186,
+    "week_seconds": 50944,
     "week_start": 1781487788,
-    "total_seconds": 48186
+    "total_seconds": 50944
   },
   "majjcrunsgf": {
     "week_seconds": 3927,
@@ -5010,13 +5010,13 @@
     "total_seconds": 0
   },
   "somerandomkenzol": {
-    "week_seconds": 960,
+    "week_seconds": 991,
     "week_start": 1781687953,
-    "total_seconds": 960
+    "total_seconds": 991
   },
   "piopiosettepio": {
-    "week_seconds": 0,
+    "week_seconds": 12,
     "week_start": 1781689330,
-    "total_seconds": 0
+    "total_seconds": 12
   }
 }
