@@ -470,9 +470,9 @@
     "total_seconds": 39197
   },
   "anotnot": {
-    "week_seconds": 113818,
+    "week_seconds": 116573,
     "week_start": 1781479365,
-    "total_seconds": 113818
+    "total_seconds": 116573
   },
   "tntfortress": {
     "week_seconds": 61011,
@@ -5630,8 +5630,8 @@
     "total_seconds": 0
   },
   "enforcer15": {
-    "week_seconds": 0,
+    "week_seconds": 663,
     "week_start": 1781739819,
-    "total_seconds": 0
+    "total_seconds": 663
   }
 }
