@@ -1885,9 +1885,9 @@
     "total_seconds": 30
   },
   "gidein": {
-    "week_seconds": 41348,
+    "week_seconds": 42460,
     "week_start": 1781518844,
-    "total_seconds": 41348
+    "total_seconds": 42460
   },
   "londara": {
     "week_seconds": 1120,
@@ -5002,6 +5002,11 @@
   "dwarfrogue654": {
     "week_seconds": 0,
     "week_start": 1781686516,
+    "total_seconds": 0
+  },
+  "josse_124": {
+    "week_seconds": 0,
+    "week_start": 1781687694,
     "total_seconds": 0
   }
 }
