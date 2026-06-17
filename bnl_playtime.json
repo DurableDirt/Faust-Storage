@@ -525,9 +525,9 @@
     "total_seconds": 7709
   },
   "shadno": {
-    "week_seconds": 100986,
+    "week_seconds": 101049,
     "week_start": 1781479968,
-    "total_seconds": 100986
+    "total_seconds": 101049
   },
   "hexayn": {
     "week_seconds": 974,
@@ -715,9 +715,9 @@
     "total_seconds": 21037
   },
   "limtingus1": {
-    "week_seconds": 99176,
+    "week_seconds": 99785,
     "week_start": 1781482426,
-    "total_seconds": 99176
+    "total_seconds": 99785
   },
   "the_montenegrin": {
     "week_seconds": 329,
@@ -1665,9 +1665,9 @@
     "total_seconds": 8517
   },
   "polysemic": {
-    "week_seconds": 20581,
+    "week_seconds": 28368,
     "week_start": 1781509665,
-    "total_seconds": 20581
+    "total_seconds": 28368
   },
   "wuli": {
     "week_seconds": 94513,
@@ -2070,9 +2070,9 @@
     "total_seconds": 7186
   },
   "leonardus07": {
-    "week_seconds": 44454,
+    "week_seconds": 49145,
     "week_start": 1781524847,
-    "total_seconds": 44454
+    "total_seconds": 49145
   },
   "thomasdetrein0_0": {
     "week_seconds": 31295,
@@ -5452,6 +5452,11 @@
   "mrcoco_cola": {
     "week_seconds": 0,
     "week_start": 1781725353,
+    "total_seconds": 0
+  },
+  "odagroda": {
+    "week_seconds": 0,
+    "week_start": 1781725386,
     "total_seconds": 0
   }
 }
