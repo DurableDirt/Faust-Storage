@@ -1615,9 +1615,9 @@
     "total_seconds": 125306
   },
   "cedarvaliant": {
-    "week_seconds": 24319,
+    "week_seconds": 24696,
     "week_start": 1781506488,
-    "total_seconds": 24319
+    "total_seconds": 24696
   },
   "jejames27": {
     "week_seconds": 5500,
@@ -3615,9 +3615,9 @@
     "total_seconds": 1155
   },
   "luminous15": {
-    "week_seconds": 16775,
+    "week_seconds": 20715,
     "week_start": 1781574656,
-    "total_seconds": 16775
+    "total_seconds": 20715
   },
   "frostythorgrim": {
     "week_seconds": 11243,
@@ -5377,6 +5377,11 @@
   "bonzathon": {
     "week_seconds": 0,
     "week_start": 1781723112,
+    "total_seconds": 0
+  },
+  "sainttn": {
+    "week_seconds": 0,
+    "week_start": 1781723434,
     "total_seconds": 0
   }
 }
