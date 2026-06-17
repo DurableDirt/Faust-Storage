@@ -175,9 +175,9 @@
     "total_seconds": 7579
   },
   "therisewarrior16": {
-    "week_seconds": 30537,
+    "week_seconds": 38125,
     "week_start": 1781476133,
-    "total_seconds": 30537
+    "total_seconds": 38125
   },
   "pasteldepapa777": {
     "week_seconds": 23081,
@@ -450,9 +450,9 @@
     "total_seconds": 66796
   },
   "mrtnt1925": {
-    "week_seconds": 56677,
+    "week_seconds": 56763,
     "week_start": 1781478966,
-    "total_seconds": 56677
+    "total_seconds": 56763
   },
   "axsld": {
     "week_seconds": 11232,
@@ -1885,9 +1885,9 @@
     "total_seconds": 30
   },
   "gidein": {
-    "week_seconds": 56333,
+    "week_seconds": 57175,
     "week_start": 1781518844,
-    "total_seconds": 56333
+    "total_seconds": 57175
   },
   "londara": {
     "week_seconds": 1120,
@@ -2135,9 +2135,9 @@
     "total_seconds": 208
   },
   "captainaxes": {
-    "week_seconds": 22293,
+    "week_seconds": 28249,
     "week_start": 1781526698,
-    "total_seconds": 22293
+    "total_seconds": 28249
   },
   "sqopenspellbook": {
     "week_seconds": 110843,
@@ -5258,5 +5258,10 @@
     "week_seconds": 478,
     "week_start": 1781712641,
     "total_seconds": 478
+  },
+  "worldbound64": {
+    "week_seconds": 0,
+    "week_start": 1781713505,
+    "total_seconds": 0
   }
 }
