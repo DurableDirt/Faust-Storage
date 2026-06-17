@@ -420,9 +420,9 @@
     "total_seconds": 6326
   },
   "hg__80": {
-    "week_seconds": 128782,
+    "week_seconds": 128943,
     "week_start": 1781478206,
-    "total_seconds": 128782
+    "total_seconds": 128943
   },
   "hekghlkegh": {
     "week_seconds": 326,
@@ -5028,5 +5028,15 @@
     "week_seconds": 372,
     "week_start": 1781691903,
     "total_seconds": 372
+  },
+  "senscreed": {
+    "week_seconds": 0,
+    "week_start": 1781695134,
+    "total_seconds": 0
+  },
+  "bloodscw": {
+    "week_seconds": 0,
+    "week_start": 1781695184,
+    "total_seconds": 0
   }
 }
