@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 105277,
+    "week_seconds": 105516,
     "week_start": 1781479760,
-    "total_seconds": 105277
+    "total_seconds": 105516
   },
   "matilda4k9": {
     "week_seconds": 15832,
@@ -1950,9 +1950,9 @@
     "total_seconds": 5211
   },
   "teato": {
-    "week_seconds": 35161,
+    "week_seconds": 35836,
     "week_start": 1781521729,
-    "total_seconds": 35161
+    "total_seconds": 35836
   },
   "thebigbeast2711": {
     "week_seconds": 238,
@@ -4957,6 +4957,11 @@
   "dero_zero": {
     "week_seconds": 0,
     "week_start": 1781679122,
+    "total_seconds": 0
+  },
+  "xlaser2014": {
+    "week_seconds": 0,
+    "week_start": 1781679634,
     "total_seconds": 0
   }
 }
