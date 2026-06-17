@@ -2265,9 +2265,9 @@
     "total_seconds": 7489
   },
   "pergyskeel": {
-    "week_seconds": 32872,
+    "week_seconds": 44722,
     "week_start": 1781530012,
-    "total_seconds": 32872
+    "total_seconds": 44722
   },
   "wickedmartin": {
     "week_seconds": 15206,
@@ -4565,9 +4565,9 @@
     "total_seconds": 6521
   },
   "anyone000000001": {
-    "week_seconds": 5188,
+    "week_seconds": 8549,
     "week_start": 1781646724,
-    "total_seconds": 5188
+    "total_seconds": 8549
   },
   "soulsyvi": {
     "week_seconds": 82,
@@ -4692,6 +4692,11 @@
   "mavorz911": {
     "week_seconds": 0,
     "week_start": 1781657613,
+    "total_seconds": 0
+  },
+  "bp_formle": {
+    "week_seconds": 0,
+    "week_start": 1781657694,
     "total_seconds": 0
   }
 }
