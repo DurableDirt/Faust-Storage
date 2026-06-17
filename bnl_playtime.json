@@ -320,9 +320,9 @@
     "total_seconds": 28659
   },
   "skormcel": {
-    "week_seconds": 58795,
+    "week_seconds": 60480,
     "week_start": 1781477339,
-    "total_seconds": 58795
+    "total_seconds": 60480
   },
   "catgifs": {
     "week_seconds": 2084,
@@ -3835,9 +3835,9 @@
     "total_seconds": 66665
   },
   "kashev": {
-    "week_seconds": 8073,
+    "week_seconds": 8723,
     "week_start": 1781595224,
-    "total_seconds": 8073
+    "total_seconds": 8723
   },
   "gracefulmomo_": {
     "week_seconds": 6777,
@@ -4988,5 +4988,10 @@
     "week_seconds": 480,
     "week_start": 1781683206,
     "total_seconds": 480
+  },
+  "cabolito5": {
+    "week_seconds": 0,
+    "week_start": 1781685067,
+    "total_seconds": 0
   }
 }
