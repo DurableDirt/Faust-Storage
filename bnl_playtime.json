@@ -715,9 +715,9 @@
     "total_seconds": 21037
   },
   "limtingus1": {
-    "week_seconds": 98970,
+    "week_seconds": 99065,
     "week_start": 1781482426,
-    "total_seconds": 98970
+    "total_seconds": 99065
   },
   "the_montenegrin": {
     "week_seconds": 329,
@@ -2445,9 +2445,9 @@
     "total_seconds": 49
   },
   "soggywafle236": {
-    "week_seconds": 14069,
+    "week_seconds": 16021,
     "week_start": 1781534874,
-    "total_seconds": 14069
+    "total_seconds": 16021
   },
   "nyghtshxde": {
     "week_seconds": 27687,
@@ -5303,5 +5303,10 @@
     "week_seconds": 112,
     "week_start": 1781716803,
     "total_seconds": 112
+  },
+  "doge_105": {
+    "week_seconds": 0,
+    "week_start": 1781716996,
+    "total_seconds": 0
   }
 }
