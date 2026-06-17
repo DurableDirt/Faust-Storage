@@ -1090,9 +1090,9 @@
     "total_seconds": 44418
   },
   "majjcrunsgf": {
-    "week_seconds": 2784,
+    "week_seconds": 3074,
     "week_start": 1781487828,
-    "total_seconds": 2784
+    "total_seconds": 3074
   },
   "magickponch": {
     "week_seconds": 29598,
@@ -4892,6 +4892,11 @@
   "westerian": {
     "week_seconds": 0,
     "week_start": 1781671722,
+    "total_seconds": 0
+  },
+  "true_cubic": {
+    "week_seconds": 0,
+    "week_start": 1781671842,
     "total_seconds": 0
   }
 }
