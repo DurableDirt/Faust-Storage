@@ -985,9 +985,9 @@
     "total_seconds": 18791
   },
   "ms_enchanted": {
-    "week_seconds": 41734,
+    "week_seconds": 48484,
     "week_start": 1781486152,
-    "total_seconds": 41734
+    "total_seconds": 48484
   },
   "jettkid17": {
     "week_seconds": 4919,
@@ -5142,6 +5142,11 @@
   "masterrxr": {
     "week_seconds": 0,
     "week_start": 1781706375,
+    "total_seconds": 0
+  },
+  "atn64": {
+    "week_seconds": 0,
+    "week_start": 1781706447,
     "total_seconds": 0
   }
 }
