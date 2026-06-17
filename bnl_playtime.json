@@ -3240,9 +3240,9 @@
     "total_seconds": 630
   },
   "whenurcrazy": {
-    "week_seconds": 3500,
+    "week_seconds": 3549,
     "week_start": 1781560006,
-    "total_seconds": 3500
+    "total_seconds": 3549
   },
   "__blackhawk": {
     "week_seconds": 11169,
@@ -3650,9 +3650,9 @@
     "total_seconds": 2245
   },
   "your_averageuser": {
-    "week_seconds": 1450,
+    "week_seconds": 1473,
     "week_start": 1781576487,
-    "total_seconds": 1450
+    "total_seconds": 1473
   },
   "witherbro737": {
     "week_seconds": 986,
@@ -4837,6 +4837,11 @@
   "fishguy12345_": {
     "week_seconds": 0,
     "week_start": 1781666726,
+    "total_seconds": 0
+  },
+  "baliwako_": {
+    "week_seconds": 0,
+    "week_start": 1781666810,
     "total_seconds": 0
   }
 }
