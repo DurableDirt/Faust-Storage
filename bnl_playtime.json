@@ -365,9 +365,9 @@
     "total_seconds": 31337
   },
   "wheaties24": {
-    "week_seconds": 11795,
+    "week_seconds": 12675,
     "week_start": 1781477776,
-    "total_seconds": 11795
+    "total_seconds": 12675
   },
   "spicon17": {
     "week_seconds": 8052,
@@ -525,9 +525,9 @@
     "total_seconds": 7709
   },
   "shadno": {
-    "week_seconds": 99545,
+    "week_seconds": 100986,
     "week_start": 1781479968,
-    "total_seconds": 99545
+    "total_seconds": 100986
   },
   "hexayn": {
     "week_seconds": 974,
@@ -815,9 +815,9 @@
     "total_seconds": 61886
   },
   "gnathope": {
-    "week_seconds": 45448,
+    "week_seconds": 46640,
     "week_start": 1781483765,
-    "total_seconds": 45448
+    "total_seconds": 46640
   },
   "freeblade999": {
     "week_seconds": 29944,
@@ -3835,9 +3835,9 @@
     "total_seconds": 66709
   },
   "kashev": {
-    "week_seconds": 13193,
+    "week_seconds": 18644,
     "week_start": 1781595224,
-    "total_seconds": 13193
+    "total_seconds": 18644
   },
   "gracefulmomo_": {
     "week_seconds": 6777,
@@ -5448,5 +5448,10 @@
     "week_seconds": 10,
     "week_start": 1781725305,
     "total_seconds": 10
+  },
+  "mrcoco_cola": {
+    "week_seconds": 0,
+    "week_start": 1781725353,
+    "total_seconds": 0
   }
 }
