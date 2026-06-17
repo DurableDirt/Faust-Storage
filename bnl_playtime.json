@@ -2545,9 +2545,9 @@
     "total_seconds": 5578
   },
   "milevsky": {
-    "week_seconds": 58092,
+    "week_seconds": 66567,
     "week_start": 1781537262,
-    "total_seconds": 58092
+    "total_seconds": 66567
   },
   "wallbeck": {
     "week_seconds": 1116,
@@ -2555,9 +2555,9 @@
     "total_seconds": 1116
   },
   "yunfi": {
-    "week_seconds": 42528,
+    "week_seconds": 49731,
     "week_start": 1781537464,
-    "total_seconds": 42528
+    "total_seconds": 49731
   },
   "myng11": {
     "week_seconds": 4983,
@@ -5587,6 +5587,11 @@
   "framedastro": {
     "week_seconds": 0,
     "week_start": 1781736929,
+    "total_seconds": 0
+  },
+  "comradenick": {
+    "week_seconds": 0,
+    "week_start": 1781737207,
     "total_seconds": 0
   }
 }
