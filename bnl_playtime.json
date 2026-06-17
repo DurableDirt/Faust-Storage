@@ -5178,5 +5178,10 @@
     "week_seconds": 0,
     "week_start": 1781707530,
     "total_seconds": 0
+  },
+  "cosfest": {
+    "week_seconds": 118,
+    "week_start": 1781707581,
+    "total_seconds": 118
   }
 }
