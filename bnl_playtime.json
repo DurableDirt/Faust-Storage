@@ -315,9 +315,9 @@
     "total_seconds": 9828
   },
   "ian21652": {
-    "week_seconds": 31059,
+    "week_seconds": 33115,
     "week_start": 1781477313,
-    "total_seconds": 31059
+    "total_seconds": 33115
   },
   "skormcel": {
     "week_seconds": 60480,
@@ -580,9 +580,9 @@
     "total_seconds": 20601
   },
   "ethn__": {
-    "week_seconds": 50516,
+    "week_seconds": 58040,
     "week_start": 1781480700,
-    "total_seconds": 50516
+    "total_seconds": 58040
   },
   "suderp": {
     "week_seconds": 3472,
@@ -5370,9 +5370,9 @@
     "total_seconds": 506
   },
   "_tectonic": {
-    "week_seconds": 400,
+    "week_seconds": 1615,
     "week_start": 1781722997,
-    "total_seconds": 400
+    "total_seconds": 1615
   },
   "bonzathon": {
     "week_seconds": 1418,
@@ -5427,6 +5427,11 @@
   "happynowuwu": {
     "week_seconds": 0,
     "week_start": 1781724602,
+    "total_seconds": 0
+  },
+  "_avro_": {
+    "week_seconds": 0,
+    "week_start": 1781724715,
     "total_seconds": 0
   }
 }
