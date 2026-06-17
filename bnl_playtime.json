@@ -405,9 +405,9 @@
     "total_seconds": 35733
   },
   "freshoxygenair": {
-    "week_seconds": 5268,
+    "week_seconds": 5873,
     "week_start": 1781478147,
-    "total_seconds": 5268
+    "total_seconds": 5873
   },
   "cz10_xp": {
     "week_seconds": 396,
@@ -1885,9 +1885,9 @@
     "total_seconds": 30
   },
   "gidein": {
-    "week_seconds": 64709,
+    "week_seconds": 66234,
     "week_start": 1781518844,
-    "total_seconds": 64709
+    "total_seconds": 66234
   },
   "londara": {
     "week_seconds": 1120,
@@ -5443,5 +5443,10 @@
     "week_seconds": 0,
     "week_start": 1781725093,
     "total_seconds": 0
+  },
+  "squidhasthebbc": {
+    "week_seconds": 10,
+    "week_start": 1781725305,
+    "total_seconds": 10
   }
 }
