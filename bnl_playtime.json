@@ -1720,9 +1720,9 @@
     "total_seconds": 32
   },
   "flawlessfalkon": {
-    "week_seconds": 16132,
+    "week_seconds": 16282,
     "week_start": 1781512761,
-    "total_seconds": 16132
+    "total_seconds": 16282
   },
   "itzrealvoided": {
     "week_seconds": 3139,
@@ -5020,8 +5020,8 @@
     "total_seconds": 12
   },
   "zrenila": {
-    "week_seconds": 0,
+    "week_seconds": 55,
     "week_start": 1781689509,
-    "total_seconds": 0
+    "total_seconds": 55
   }
 }
