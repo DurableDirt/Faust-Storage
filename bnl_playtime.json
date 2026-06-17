@@ -555,9 +555,9 @@
     "total_seconds": 158
   },
   "zolo17": {
-    "week_seconds": 146391,
+    "week_seconds": 190453,
     "week_start": 1781480177,
-    "total_seconds": 146391
+    "total_seconds": 190453
   },
   "dutchcringe": {
     "week_seconds": 29471,
@@ -5010,8 +5010,13 @@
     "total_seconds": 0
   },
   "somerandomkenzol": {
-    "week_seconds": 937,
+    "week_seconds": 960,
     "week_start": 1781687953,
-    "total_seconds": 937
+    "total_seconds": 960
+  },
+  "piopiosettepio": {
+    "week_seconds": 0,
+    "week_start": 1781689330,
+    "total_seconds": 0
   }
 }
