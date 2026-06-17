@@ -5110,9 +5110,9 @@
     "total_seconds": 420
   },
   "boogie1007": {
-    "week_seconds": 0,
+    "week_seconds": 1425,
     "week_start": 1781702772,
-    "total_seconds": 0
+    "total_seconds": 1425
   },
   "ripoffpingu": {
     "week_seconds": 692,
@@ -5123,5 +5123,10 @@
     "week_seconds": 375,
     "week_start": 1781703787,
     "total_seconds": 375
+  },
+  "ttympc": {
+    "week_seconds": 0,
+    "week_start": 1781704209,
+    "total_seconds": 0
   }
 }
