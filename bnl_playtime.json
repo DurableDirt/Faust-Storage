@@ -865,9 +865,9 @@
     "total_seconds": 23
   },
   "anvil": {
-    "week_seconds": 140,
+    "week_seconds": 752,
     "week_start": 1781484585,
-    "total_seconds": 140
+    "total_seconds": 752
   },
   "deerifius": {
     "week_seconds": 48272,
@@ -1410,14 +1410,14 @@
     "total_seconds": 115
   },
   "helloheavy": {
-    "week_seconds": 1668,
+    "week_seconds": 2678,
     "week_start": 1781496480,
-    "total_seconds": 1668
+    "total_seconds": 2678
   },
   "octo_kat": {
-    "week_seconds": 1482,
+    "week_seconds": 2467,
     "week_start": 1781496572,
-    "total_seconds": 1482
+    "total_seconds": 2467
   },
   "vibeturtle": {
     "week_seconds": 8689,
@@ -4862,6 +4862,11 @@
   "altegron": {
     "week_seconds": 0,
     "week_start": 1781669544,
+    "total_seconds": 0
+  },
+  "flecky47": {
+    "week_seconds": 0,
+    "week_start": 1781669743,
     "total_seconds": 0
   }
 }
