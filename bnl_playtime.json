@@ -2370,9 +2370,9 @@
     "total_seconds": 23200
   },
   "jaxkats": {
-    "week_seconds": 62321,
+    "week_seconds": 67156,
     "week_start": 1781532995,
-    "total_seconds": 62321
+    "total_seconds": 67156
   },
   "technogameryt": {
     "week_seconds": 30,
@@ -5600,8 +5600,13 @@
     "total_seconds": 393
   },
   "tgttag": {
-    "week_seconds": 150,
+    "week_seconds": 171,
     "week_start": 1781737710,
-    "total_seconds": 150
+    "total_seconds": 171
+  },
+  "fungalrain2384": {
+    "week_seconds": 4,
+    "week_start": 1781737902,
+    "total_seconds": 4
   }
 }
