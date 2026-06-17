@@ -80,9 +80,9 @@
     "total_seconds": 16550
   },
   "lynx2007": {
-    "week_seconds": 35861,
+    "week_seconds": 38236,
     "week_start": 1781475059,
-    "total_seconds": 35861
+    "total_seconds": 38236
   },
   "cunningwind6139": {
     "week_seconds": 16469,
@@ -470,9 +470,9 @@
     "total_seconds": 17003
   },
   "anotnot": {
-    "week_seconds": 71174,
+    "week_seconds": 71941,
     "week_start": 1781479365,
-    "total_seconds": 71174
+    "total_seconds": 71941
   },
   "tntfortress": {
     "week_seconds": 42605,
@@ -1175,9 +1175,9 @@
     "total_seconds": 39628
   },
   "astralchroma": {
-    "week_seconds": 34950,
+    "week_seconds": 38408,
     "week_start": 1781489556,
-    "total_seconds": 34950
+    "total_seconds": 38408
   },
   "kingstell": {
     "week_seconds": 50,
@@ -4747,6 +4747,11 @@
   "palcifer": {
     "week_seconds": 0,
     "week_start": 1781659794,
+    "total_seconds": 0
+  },
+  "tommigunnn": {
+    "week_seconds": 0,
+    "week_start": 1781659931,
     "total_seconds": 0
   }
 }
