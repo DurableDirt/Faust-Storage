@@ -4155,9 +4155,9 @@
     "total_seconds": 15486
   },
   "dashingyang": {
-    "week_seconds": 6601,
+    "week_seconds": 8197,
     "week_start": 1781627526,
-    "total_seconds": 6601
+    "total_seconds": 8197
   },
   "gunslingerzach": {
     "week_seconds": 7201,
@@ -5307,6 +5307,11 @@
   "doge_105": {
     "week_seconds": 0,
     "week_start": 1781716996,
+    "total_seconds": 0
+  },
+  "ali_pero": {
+    "week_seconds": 0,
+    "week_start": 1781717059,
     "total_seconds": 0
   }
 }
