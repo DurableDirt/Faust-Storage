@@ -1655,9 +1655,9 @@
     "total_seconds": 13423
   },
   "voidvin": {
-    "week_seconds": 46170,
+    "week_seconds": 46738,
     "week_start": 1781509638,
-    "total_seconds": 46170
+    "total_seconds": 46738
   },
   "lordofthepig449": {
     "week_seconds": 7542,
@@ -5093,5 +5093,10 @@
     "week_seconds": 0,
     "week_start": 1781700240,
     "total_seconds": 0
+  },
+  "kallupeteka": {
+    "week_seconds": 4,
+    "week_start": 1781700790,
+    "total_seconds": 4
   }
 }
