@@ -1805,9 +1805,9 @@
     "total_seconds": 20441
   },
   "creepi0n": {
-    "week_seconds": 68418,
+    "week_seconds": 70082,
     "week_start": 1781515950,
-    "total_seconds": 68418
+    "total_seconds": 70082
   },
   "_monor": {
     "week_seconds": 4975,
@@ -3325,9 +3325,9 @@
     "total_seconds": 436
   },
   "noneavailable": {
-    "week_seconds": 30181,
+    "week_seconds": 30250,
     "week_start": 1781562445,
-    "total_seconds": 30181
+    "total_seconds": 30250
   },
   "diegochotocho": {
     "week_seconds": 1152,
@@ -5183,5 +5183,15 @@
     "week_seconds": 118,
     "week_start": 1781707581,
     "total_seconds": 118
+  },
+  "shafiahaz2478": {
+    "week_seconds": 0,
+    "week_start": 1781707838,
+    "total_seconds": 0
+  },
+  "ahmad_elayyen": {
+    "week_seconds": 2,
+    "week_start": 1781707844,
+    "total_seconds": 2
   }
 }
