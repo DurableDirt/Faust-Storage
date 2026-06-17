@@ -3625,9 +3625,9 @@
     "total_seconds": 11243
   },
   "madrafe1": {
-    "week_seconds": 23643,
+    "week_seconds": 23868,
     "week_start": 1781575509,
-    "total_seconds": 23643
+    "total_seconds": 23868
   },
   "realmichael": {
     "week_seconds": 988,
@@ -5073,5 +5073,10 @@
     "week_seconds": 5,
     "week_start": 1781696907,
     "total_seconds": 5
+  },
+  "bubbynugget": {
+    "week_seconds": 0,
+    "week_start": 1781698114,
+    "total_seconds": 0
   }
 }
