@@ -935,9 +935,9 @@
     "total_seconds": 3451
   },
   "xelthoz": {
-    "week_seconds": 49943,
+    "week_seconds": 61694,
     "week_start": 1781485674,
-    "total_seconds": 49943
+    "total_seconds": 61694
   },
   "x1025": {
     "week_seconds": 109362,
@@ -4967,6 +4967,11 @@
   "plutouz": {
     "week_seconds": 0,
     "week_start": 1781680090,
+    "total_seconds": 0
+  },
+  "swordshore": {
+    "week_seconds": 0,
+    "week_start": 1781681025,
     "total_seconds": 0
   }
 }
