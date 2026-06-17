@@ -60,9 +60,9 @@
     "total_seconds": 15195
   },
   "mitthraw91": {
-    "week_seconds": 120607,
+    "week_seconds": 121419,
     "week_start": 1781474873,
-    "total_seconds": 120607
+    "total_seconds": 121419
   },
   "rainsinger": {
     "week_seconds": 52358,
@@ -4928,5 +4928,10 @@
     "week_seconds": 51,
     "week_start": 1781676503,
     "total_seconds": 51
+  },
+  "lasady": {
+    "week_seconds": 0,
+    "week_start": 1781677070,
+    "total_seconds": 0
   }
 }
