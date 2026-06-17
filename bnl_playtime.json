@@ -935,9 +935,9 @@
     "total_seconds": 3451
   },
   "xelthoz": {
-    "week_seconds": 47015,
+    "week_seconds": 48790,
     "week_start": 1781485674,
-    "total_seconds": 47015
+    "total_seconds": 48790
   },
   "x1025": {
     "week_seconds": 90361,
@@ -4680,8 +4680,8 @@
     "total_seconds": 22
   },
   "glog_frogmen": {
-    "week_seconds": 35,
+    "week_seconds": 58,
     "week_start": 1781656168,
-    "total_seconds": 35
+    "total_seconds": 58
   }
 }
