@@ -1525,9 +1525,9 @@
     "total_seconds": 64523
   },
   "deuteriumoxide1": {
-    "week_seconds": 22466,
+    "week_seconds": 26444,
     "week_start": 1781502340,
-    "total_seconds": 22466
+    "total_seconds": 26444
   },
   "xlader161": {
     "week_seconds": 58364,
@@ -5048,5 +5048,10 @@
     "week_seconds": 3,
     "week_start": 1781695853,
     "total_seconds": 3
+  },
+  "chezzzi222": {
+    "week_seconds": 0,
+    "week_start": 1781695933,
+    "total_seconds": 0
   }
 }
