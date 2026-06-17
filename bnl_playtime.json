@@ -5038,5 +5038,10 @@
     "week_seconds": 0,
     "week_start": 1781695184,
     "total_seconds": 0
+  },
+  "spondle": {
+    "week_seconds": 35,
+    "week_start": 1781695291,
+    "total_seconds": 35
   }
 }
