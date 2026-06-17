@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 116705,
+    "week_seconds": 117622,
     "week_start": 1781479760,
-    "total_seconds": 116705
+    "total_seconds": 117622
   },
   "matilda4k9": {
     "week_seconds": 15832,
@@ -2495,9 +2495,9 @@
     "total_seconds": 64366
   },
   "blazelogic": {
-    "week_seconds": 15626,
+    "week_seconds": 15632,
     "week_start": 1781535865,
-    "total_seconds": 15626
+    "total_seconds": 15632
   },
   "mariora": {
     "week_seconds": 867,
@@ -5272,6 +5272,11 @@
   "vjdfbkgudfsjh": {
     "week_seconds": 0,
     "week_start": 1781714026,
+    "total_seconds": 0
+  },
+  "abdulloh22600": {
+    "week_seconds": 0,
+    "week_start": 1781714693,
     "total_seconds": 0
   }
 }
