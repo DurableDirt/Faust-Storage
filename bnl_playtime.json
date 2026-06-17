@@ -870,9 +870,9 @@
     "total_seconds": 21163
   },
   "deerifius": {
-    "week_seconds": 59996,
+    "week_seconds": 60373,
     "week_start": 1781484629,
-    "total_seconds": 59996
+    "total_seconds": 60373
   },
   "dreadyheadyyn": {
     "week_seconds": 5,
@@ -2785,9 +2785,9 @@
     "total_seconds": 23546
   },
   "zzumzum": {
-    "week_seconds": 11733,
+    "week_seconds": 13260,
     "week_start": 1781545560,
-    "total_seconds": 11733
+    "total_seconds": 13260
   },
   "sirboss001": {
     "week_seconds": 42239,
@@ -5368,5 +5368,10 @@
     "week_seconds": 484,
     "week_start": 1781722073,
     "total_seconds": 484
+  },
+  "_tectonic": {
+    "week_seconds": 0,
+    "week_start": 1781722997,
+    "total_seconds": 0
   }
 }
