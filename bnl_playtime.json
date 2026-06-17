@@ -2555,9 +2555,9 @@
     "total_seconds": 1116
   },
   "yunfi": {
-    "week_seconds": 31422,
+    "week_seconds": 31470,
     "week_start": 1781537464,
-    "total_seconds": 31422
+    "total_seconds": 31470
   },
   "myng11": {
     "week_seconds": 807,
@@ -5152,6 +5152,31 @@
   "lasse_sol": {
     "week_seconds": 0,
     "week_start": 1781707197,
+    "total_seconds": 0
+  },
+  "cubinegaming": {
+    "week_seconds": 0,
+    "week_start": 1781707469,
+    "total_seconds": 0
+  },
+  "csibesz89": {
+    "week_seconds": 0,
+    "week_start": 1781707477,
+    "total_seconds": 0
+  },
+  "wailifly": {
+    "week_seconds": 0,
+    "week_start": 1781707493,
+    "total_seconds": 0
+  },
+  "lenerin": {
+    "week_seconds": 0,
+    "week_start": 1781707517,
+    "total_seconds": 0
+  },
+  "juniperrrberry": {
+    "week_seconds": 0,
+    "week_start": 1781707530,
     "total_seconds": 0
   }
 }
