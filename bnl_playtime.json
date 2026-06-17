@@ -75,9 +75,9 @@
     "total_seconds": 29875
   },
   "40mm": {
-    "week_seconds": 16703,
+    "week_seconds": 17819,
     "week_start": 1781475020,
-    "total_seconds": 16703
+    "total_seconds": 17819
   },
   "lynx2007": {
     "week_seconds": 38236,
@@ -5230,8 +5230,8 @@
     "total_seconds": 268
   },
   "baumknappe": {
-    "week_seconds": 0,
+    "week_seconds": 470,
     "week_start": 1781710071,
-    "total_seconds": 0
+    "total_seconds": 470
   }
 }
