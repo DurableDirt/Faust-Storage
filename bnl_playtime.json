@@ -80,9 +80,9 @@
     "total_seconds": 20092
   },
   "lynx2007": {
-    "week_seconds": 38417,
+    "week_seconds": 38682,
     "week_start": 1781475059,
-    "total_seconds": 38417
+    "total_seconds": 38682
   },
   "cunningwind6139": {
     "week_seconds": 19145,
@@ -620,9 +620,9 @@
     "total_seconds": 88057
   },
   "justmicwa": {
-    "week_seconds": 32861,
+    "week_seconds": 36789,
     "week_start": 1781481295,
-    "total_seconds": 32861
+    "total_seconds": 36789
   },
   "ceceliarabbit": {
     "week_seconds": 25274,
@@ -5358,5 +5358,10 @@
     "week_seconds": 5,
     "week_start": 1781721741,
     "total_seconds": 5
+  },
+  "xxzee": {
+    "week_seconds": 0,
+    "week_start": 1781721835,
+    "total_seconds": 0
   }
 }
