@@ -1050,9 +1050,9 @@
     "total_seconds": 14221
   },
   "rodragonlux": {
-    "week_seconds": 4197,
+    "week_seconds": 6663,
     "week_start": 1781487016,
-    "total_seconds": 4197
+    "total_seconds": 6663
   },
   "arkane9975": {
     "week_seconds": 10353,
@@ -4655,13 +4655,18 @@
     "total_seconds": 54
   },
   "gracearoni42": {
-    "week_seconds": 137,
+    "week_seconds": 171,
     "week_start": 1781654618,
-    "total_seconds": 137
+    "total_seconds": 171
   },
   "ptown_xx123": {
     "week_seconds": 0,
     "week_start": 1781654893,
+    "total_seconds": 0
+  },
+  "zylo1666": {
+    "week_seconds": 0,
+    "week_start": 1781655010,
     "total_seconds": 0
   }
 }
