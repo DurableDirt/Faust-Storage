@@ -600,9 +600,9 @@
     "total_seconds": 10976
   },
   "1stampy": {
-    "week_seconds": 25049,
+    "week_seconds": 26542,
     "week_start": 1781481065,
-    "total_seconds": 25049
+    "total_seconds": 26542
   },
   "hak0707": {
     "week_seconds": 459,
@@ -620,9 +620,9 @@
     "total_seconds": 58734
   },
   "justmicwa": {
-    "week_seconds": 20230,
+    "week_seconds": 20244,
     "week_start": 1781481295,
-    "total_seconds": 20230
+    "total_seconds": 20244
   },
   "ceceliarabbit": {
     "week_seconds": 12375,
@@ -4717,6 +4717,16 @@
   "tubbzie": {
     "week_seconds": 0,
     "week_start": 1781658601,
+    "total_seconds": 0
+  },
+  "fakersfemboy": {
+    "week_seconds": 0,
+    "week_start": 1781658995,
+    "total_seconds": 0
+  },
+  "arkenx": {
+    "week_seconds": 0,
+    "week_start": 1781658998,
     "total_seconds": 0
   }
 }
