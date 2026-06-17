@@ -2800,9 +2800,9 @@
     "total_seconds": 12
   },
   "sneedchungus": {
-    "week_seconds": 5522,
+    "week_seconds": 9176,
     "week_start": 1781546071,
-    "total_seconds": 5522
+    "total_seconds": 9176
   },
   "koklushz": {
     "week_seconds": 8753,
@@ -5422,6 +5422,11 @@
   "riftonhc": {
     "week_seconds": 0,
     "week_start": 1781724551,
+    "total_seconds": 0
+  },
+  "happynowuwu": {
+    "week_seconds": 0,
+    "week_start": 1781724602,
     "total_seconds": 0
   }
 }
