@@ -2925,9 +2925,9 @@
     "total_seconds": 13963
   },
   "seiseitan": {
-    "week_seconds": 14901,
+    "week_seconds": 17025,
     "week_start": 1781549108,
-    "total_seconds": 14901
+    "total_seconds": 17025
   },
   "lolle0": {
     "week_seconds": 0,
@@ -5007,6 +5007,11 @@
   "josse_124": {
     "week_seconds": 0,
     "week_start": 1781687694,
+    "total_seconds": 0
+  },
+  "somerandomkenzol": {
+    "week_seconds": 0,
+    "week_start": 1781687953,
     "total_seconds": 0
   }
 }
