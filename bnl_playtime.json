@@ -4310,9 +4310,9 @@
     "total_seconds": 6591
   },
   "toastisnear": {
-    "week_seconds": 5566,
+    "week_seconds": 6138,
     "week_start": 1781633539,
-    "total_seconds": 5566
+    "total_seconds": 6138
   },
   "shadowsniper5": {
     "week_seconds": 58,
@@ -4777,6 +4777,11 @@
   "beefclapper420": {
     "week_seconds": 0,
     "week_start": 1781661107,
+    "total_seconds": 0
+  },
+  "holisticjalapeno": {
+    "week_seconds": 0,
+    "week_start": 1781661292,
     "total_seconds": 0
   }
 }
