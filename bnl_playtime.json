@@ -525,9 +525,9 @@
     "total_seconds": 7709
   },
   "shadno": {
-    "week_seconds": 99511,
+    "week_seconds": 99545,
     "week_start": 1781479968,
-    "total_seconds": 99511
+    "total_seconds": 99545
   },
   "hexayn": {
     "week_seconds": 974,
@@ -5265,9 +5265,9 @@
     "total_seconds": 4025
   },
   "bevinator2": {
-    "week_seconds": 1612,
+    "week_seconds": 9639,
     "week_start": 1781713828,
-    "total_seconds": 1612
+    "total_seconds": 9639
   },
   "vjdfbkgudfsjh": {
     "week_seconds": 1750,
@@ -5365,9 +5365,9 @@
     "total_seconds": 0
   },
   "aether_playz": {
-    "week_seconds": 484,
+    "week_seconds": 506,
     "week_start": 1781722073,
-    "total_seconds": 484
+    "total_seconds": 506
   },
   "_tectonic": {
     "week_seconds": 400,
@@ -5392,6 +5392,11 @@
   "macnothehazmart": {
     "week_seconds": 0,
     "week_start": 1781723705,
+    "total_seconds": 0
+  },
+  "eggentron": {
+    "week_seconds": 0,
+    "week_start": 1781723924,
     "total_seconds": 0
   }
 }
