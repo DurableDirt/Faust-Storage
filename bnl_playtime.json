@@ -680,9 +680,9 @@
     "total_seconds": 2655
   },
   "varbo": {
-    "week_seconds": 11850,
+    "week_seconds": 14705,
     "week_start": 1781481943,
-    "total_seconds": 11850
+    "total_seconds": 14705
   },
   "cheesenoodle24": {
     "week_seconds": 9716,
@@ -1005,9 +1005,9 @@
     "total_seconds": 13177
   },
   "marada_sword": {
-    "week_seconds": 24357,
+    "week_seconds": 28254,
     "week_start": 1781486330,
-    "total_seconds": 24357
+    "total_seconds": 28254
   },
   "mightyjulian661": {
     "week_seconds": 12,
@@ -1165,9 +1165,9 @@
     "total_seconds": 11032
   },
   "nateoneandonly": {
-    "week_seconds": 26573,
+    "week_seconds": 30742,
     "week_start": 1781489459,
-    "total_seconds": 26573
+    "total_seconds": 30742
   },
   "opozzumz": {
     "week_seconds": 41702,
@@ -1340,9 +1340,9 @@
     "total_seconds": 21834
   },
   "misprint293": {
-    "week_seconds": 29377,
+    "week_seconds": 31618,
     "week_start": 1781493068,
-    "total_seconds": 29377
+    "total_seconds": 31618
   },
   "choripancaliente": {
     "week_seconds": 17098,
@@ -4770,9 +4770,9 @@
     "total_seconds": 164
   },
   "2highinthesky": {
-    "week_seconds": 0,
+    "week_seconds": 874,
     "week_start": 1781661045,
-    "total_seconds": 0
+    "total_seconds": 874
   },
   "beefclapper420": {
     "week_seconds": 0,
@@ -4780,13 +4780,23 @@
     "total_seconds": 0
   },
   "holisticjalapeno": {
-    "week_seconds": 292,
+    "week_seconds": 301,
     "week_start": 1781661292,
-    "total_seconds": 292
+    "total_seconds": 301
   },
   "unreadi": {
     "week_seconds": 159,
     "week_start": 1781661338,
     "total_seconds": 159
+  },
+  "tolypevelleda": {
+    "week_seconds": 0,
+    "week_start": 1781661893,
+    "total_seconds": 0
+  },
+  "vexinity_": {
+    "week_seconds": 0,
+    "week_start": 1781661910,
+    "total_seconds": 0
   }
 }
