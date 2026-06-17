@@ -1570,9 +1570,9 @@
     "total_seconds": 14042
   },
   "physicsgamer": {
-    "week_seconds": 67991,
+    "week_seconds": 70052,
     "week_start": 1781504070,
-    "total_seconds": 67991
+    "total_seconds": 70052
   },
   "_2k42_": {
     "week_seconds": 38140,
@@ -5223,5 +5223,10 @@
     "week_seconds": 280,
     "week_start": 1781709470,
     "total_seconds": 280
+  },
+  "tombo908": {
+    "week_seconds": 0,
+    "week_start": 1781709905,
+    "total_seconds": 0
   }
 }
