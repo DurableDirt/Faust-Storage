@@ -50,9 +50,9 @@
     "total_seconds": 22723
   },
   "meenos": {
-    "week_seconds": 45370,
+    "week_seconds": 45889,
     "week_start": 1781474845,
-    "total_seconds": 45370
+    "total_seconds": 45889
   },
   "jadenjb": {
     "week_seconds": 13109,
@@ -1185,9 +1185,9 @@
     "total_seconds": 50
   },
   "animeme_master": {
-    "week_seconds": 17186,
+    "week_seconds": 19424,
     "week_start": 1781489801,
-    "total_seconds": 17186
+    "total_seconds": 19424
   },
   "gubukiv": {
     "week_seconds": 52750,
@@ -1340,9 +1340,9 @@
     "total_seconds": 19723
   },
   "misprint293": {
-    "week_seconds": 28279,
+    "week_seconds": 29377,
     "week_start": 1781493068,
-    "total_seconds": 28279
+    "total_seconds": 29377
   },
   "choripancaliente": {
     "week_seconds": 17098,
@@ -4727,6 +4727,11 @@
   "arkenx": {
     "week_seconds": 0,
     "week_start": 1781658998,
+    "total_seconds": 0
+  },
+  "enjoyer4": {
+    "week_seconds": 0,
+    "week_start": 1781659018,
     "total_seconds": 0
   }
 }
