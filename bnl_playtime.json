@@ -2060,9 +2060,9 @@
     "total_seconds": 5
   },
   "robomagical732": {
-    "week_seconds": 12911,
+    "week_seconds": 12993,
     "week_start": 1781524434,
-    "total_seconds": 12911
+    "total_seconds": 12993
   },
   "whisky_1": {
     "week_seconds": 7186,
@@ -2415,9 +2415,9 @@
     "total_seconds": 4182
   },
   "sml128": {
-    "week_seconds": 18560,
+    "week_seconds": 18591,
     "week_start": 1781534411,
-    "total_seconds": 18560
+    "total_seconds": 18591
   },
   "malipan": {
     "week_seconds": 1894,
@@ -5138,5 +5138,10 @@
     "week_seconds": 121,
     "week_start": 1781706002,
     "total_seconds": 121
+  },
+  "masterrxr": {
+    "week_seconds": 0,
+    "week_start": 1781706375,
+    "total_seconds": 0
   }
 }
