@@ -1850,9 +1850,9 @@
     "total_seconds": 70218
   },
   "basicallyagungan": {
-    "week_seconds": 29711,
+    "week_seconds": 29862,
     "week_start": 1781517220,
-    "total_seconds": 29711
+    "total_seconds": 29862
   },
   "archieisverydum": {
     "week_seconds": 17,
@@ -3625,9 +3625,9 @@
     "total_seconds": 11243
   },
   "madrafe1": {
-    "week_seconds": 23359,
+    "week_seconds": 23375,
     "week_start": 1781575509,
-    "total_seconds": 23359
+    "total_seconds": 23375
   },
   "realmichael": {
     "week_seconds": 988,
@@ -5023,5 +5023,10 @@
     "week_seconds": 55,
     "week_start": 1781689509,
     "total_seconds": 55
+  },
+  "mrdreamsy": {
+    "week_seconds": 0,
+    "week_start": 1781691903,
+    "total_seconds": 0
   }
 }
