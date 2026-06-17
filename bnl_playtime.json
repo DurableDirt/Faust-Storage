@@ -450,9 +450,9 @@
     "total_seconds": 66796
   },
   "mrtnt1925": {
-    "week_seconds": 56365,
+    "week_seconds": 56383,
     "week_start": 1781478966,
-    "total_seconds": 56365
+    "total_seconds": 56383
   },
   "axsld": {
     "week_seconds": 11232,
@@ -5255,8 +5255,8 @@
     "total_seconds": 478
   },
   "benzynas95": {
-    "week_seconds": 0,
+    "week_seconds": 478,
     "week_start": 1781712641,
-    "total_seconds": 0
+    "total_seconds": 478
   }
 }
