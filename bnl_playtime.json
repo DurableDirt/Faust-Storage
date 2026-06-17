@@ -1240,9 +1240,9 @@
     "total_seconds": 14697
   },
   "mtfuji": {
-    "week_seconds": 127884,
+    "week_seconds": 140286,
     "week_start": 1781491151,
-    "total_seconds": 127884
+    "total_seconds": 140286
   },
   "intelligences": {
     "week_seconds": 11574,
@@ -2080,9 +2080,9 @@
     "total_seconds": 31295
   },
   "ice_cream_guy": {
-    "week_seconds": 7109,
+    "week_seconds": 13610,
     "week_start": 1781525044,
-    "total_seconds": 7109
+    "total_seconds": 13610
   },
   "strocraft": {
     "week_seconds": 45492,
@@ -3530,9 +3530,9 @@
     "total_seconds": 71
   },
   "_banana_blu_": {
-    "week_seconds": 30397,
+    "week_seconds": 30568,
     "week_start": 1781570022,
-    "total_seconds": 30397
+    "total_seconds": 30568
   },
   "theboatsmith": {
     "week_seconds": 8026,
@@ -5117,6 +5117,11 @@
   "ripoffpingu": {
     "week_seconds": 0,
     "week_start": 1781703204,
+    "total_seconds": 0
+  },
+  "roachkingsupreme": {
+    "week_seconds": 0,
+    "week_start": 1781703787,
     "total_seconds": 0
   }
 }
