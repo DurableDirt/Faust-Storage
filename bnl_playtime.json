@@ -1600,9 +1600,9 @@
     "total_seconds": 5
   },
   "guvn0r_uk": {
-    "week_seconds": 24598,
+    "week_seconds": 24634,
     "week_start": 1781506051,
-    "total_seconds": 24598
+    "total_seconds": 24634
   },
   "scavedr": {
     "week_seconds": 766,
@@ -1835,9 +1835,9 @@
     "total_seconds": 37891
   },
   "coockie70": {
-    "week_seconds": 9275,
+    "week_seconds": 9827,
     "week_start": 1781516833,
-    "total_seconds": 9275
+    "total_seconds": 9827
   },
   "sn1sr": {
     "week_seconds": 6,
@@ -5238,5 +5238,10 @@
     "week_seconds": 26,
     "week_start": 1781710631,
     "total_seconds": 26
+  },
+  "mx_premo": {
+    "week_seconds": 0,
+    "week_start": 1781711119,
+    "total_seconds": 0
   }
 }
