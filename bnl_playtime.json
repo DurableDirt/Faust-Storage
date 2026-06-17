@@ -950,9 +950,9 @@
     "total_seconds": 1282
   },
   "bylethseisner": {
-    "week_seconds": 36200,
+    "week_seconds": 75307,
     "week_start": 1781485916,
-    "total_seconds": 36200
+    "total_seconds": 75307
   },
   "pointy_hii": {
     "week_seconds": 60443,
@@ -1695,9 +1695,9 @@
     "total_seconds": 45139
   },
   "masqo_": {
-    "week_seconds": 29114,
+    "week_seconds": 31056,
     "week_start": 1781511452,
-    "total_seconds": 29114
+    "total_seconds": 31056
   },
   "eyestrainz": {
     "week_seconds": 36259,
@@ -5513,5 +5513,10 @@
     "week_seconds": 20,
     "week_start": 1781733522,
     "total_seconds": 20
+  },
+  "n00biei": {
+    "week_seconds": 0,
+    "week_start": 1781733844,
+    "total_seconds": 0
   }
 }
