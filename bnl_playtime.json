@@ -1580,9 +1580,9 @@
     "total_seconds": 36455
   },
   "gobblin": {
-    "week_seconds": 15331,
+    "week_seconds": 16360,
     "week_start": 1781505039,
-    "total_seconds": 15331
+    "total_seconds": 16360
   },
   "vlinar": {
     "week_seconds": 29240,
@@ -4937,6 +4937,11 @@
   "silenthunterx": {
     "week_seconds": 0,
     "week_start": 1781677571,
+    "total_seconds": 0
+  },
+  "the_player_101": {
+    "week_seconds": 0,
+    "week_start": 1781677646,
     "total_seconds": 0
   }
 }
