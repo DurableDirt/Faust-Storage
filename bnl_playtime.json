@@ -5160,9 +5160,9 @@
     "total_seconds": 2747
   },
   "csibesz89": {
-    "week_seconds": 864,
+    "week_seconds": 8327,
     "week_start": 1781707477,
-    "total_seconds": 864
+    "total_seconds": 8327
   },
   "wailifly": {
     "week_seconds": 1912,
@@ -5288,5 +5288,10 @@
     "week_seconds": 27,
     "week_start": 1781715605,
     "total_seconds": 27
+  },
+  "gus9499": {
+    "week_seconds": 0,
+    "week_start": 1781715975,
+    "total_seconds": 0
   }
 }
