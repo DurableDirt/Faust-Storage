@@ -65,9 +65,9 @@
     "total_seconds": 120607
   },
   "rainsinger": {
-    "week_seconds": 52350,
+    "week_seconds": 52358,
     "week_start": 1781474875,
-    "total_seconds": 52350
+    "total_seconds": 52358
   },
   "jindosh": {
     "week_seconds": 29875,
@@ -4790,9 +4790,9 @@
     "total_seconds": 159
   },
   "tolypevelleda": {
-    "week_seconds": 0,
+    "week_seconds": 15155,
     "week_start": 1781661893,
-    "total_seconds": 0
+    "total_seconds": 15155
   },
   "vexinity_": {
     "week_seconds": 25,
