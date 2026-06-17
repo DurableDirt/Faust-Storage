@@ -100,9 +100,9 @@
     "total_seconds": 2523
   },
   "fishsticks47": {
-    "week_seconds": 59259,
+    "week_seconds": 61285,
     "week_start": 1781475372,
-    "total_seconds": 59259
+    "total_seconds": 61285
   },
   "slothinasuit": {
     "week_seconds": 98246,
@@ -2905,9 +2905,9 @@
     "total_seconds": 3188
   },
   "emarile": {
-    "week_seconds": 1035,
+    "week_seconds": 1293,
     "week_start": 1781548436,
-    "total_seconds": 1035
+    "total_seconds": 1293
   },
   "jcool640": {
     "week_seconds": 3378,
@@ -5328,5 +5328,10 @@
     "week_seconds": 96,
     "week_start": 1781718558,
     "total_seconds": 96
+  },
+  "bubcahd": {
+    "week_seconds": 0,
+    "week_start": 1781719184,
+    "total_seconds": 0
   }
 }
