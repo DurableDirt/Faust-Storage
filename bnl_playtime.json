@@ -650,9 +650,9 @@
     "total_seconds": 11835
   },
   "malafly": {
-    "week_seconds": 42747,
+    "week_seconds": 48890,
     "week_start": 1781481518,
-    "total_seconds": 42747
+    "total_seconds": 48890
   },
   "velares": {
     "week_seconds": 13445,
@@ -2090,9 +2090,9 @@
     "total_seconds": 45492
   },
   "m4xoff": {
-    "week_seconds": 20067,
+    "week_seconds": 22485,
     "week_start": 1781525517,
-    "total_seconds": 20067
+    "total_seconds": 22485
   },
   "thatguymisan": {
     "week_seconds": 4055,
@@ -5475,13 +5475,18 @@
     "total_seconds": 0
   },
   "bestfiretop": {
-    "week_seconds": 302,
+    "week_seconds": 599,
     "week_start": 1781727793,
-    "total_seconds": 302
+    "total_seconds": 599
   },
   "flameoguide": {
     "week_seconds": 8,
     "week_start": 1781728268,
     "total_seconds": 8
+  },
+  "lycoros": {
+    "week_seconds": 0,
+    "week_start": 1781728490,
+    "total_seconds": 0
   }
 }
