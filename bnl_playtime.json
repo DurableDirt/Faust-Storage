@@ -680,9 +680,9 @@
     "total_seconds": 2655
   },
   "varbo": {
-    "week_seconds": 17875,
+    "week_seconds": 19097,
     "week_start": 1781481943,
-    "total_seconds": 17875
+    "total_seconds": 19097
   },
   "cheesenoodle24": {
     "week_seconds": 9716,
@@ -5090,9 +5090,9 @@
     "total_seconds": 858
   },
   "dolphingod27": {
-    "week_seconds": 0,
+    "week_seconds": 963,
     "week_start": 1781700240,
-    "total_seconds": 0
+    "total_seconds": 963
   },
   "kallupeteka": {
     "week_seconds": 4,
@@ -5100,8 +5100,8 @@
     "total_seconds": 4
   },
   "justzenon": {
-    "week_seconds": 0,
+    "week_seconds": 303,
     "week_start": 1781700877,
-    "total_seconds": 0
+    "total_seconds": 303
   }
 }
