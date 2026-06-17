@@ -75,9 +75,9 @@
     "total_seconds": 29875
   },
   "40mm": {
-    "week_seconds": 17819,
+    "week_seconds": 17885,
     "week_start": 1781475020,
-    "total_seconds": 17819
+    "total_seconds": 17885
   },
   "lynx2007": {
     "week_seconds": 38236,
@@ -1575,9 +1575,9 @@
     "total_seconds": 70052
   },
   "_2k42_": {
-    "week_seconds": 38140,
+    "week_seconds": 40552,
     "week_start": 1781504570,
-    "total_seconds": 38140
+    "total_seconds": 40552
   },
   "gobblin": {
     "week_seconds": 28452,
