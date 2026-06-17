@@ -1450,9 +1450,9 @@
     "total_seconds": 11341
   },
   "xenoum": {
-    "week_seconds": 22884,
+    "week_seconds": 25710,
     "week_start": 1781497822,
-    "total_seconds": 22884
+    "total_seconds": 25710
   },
   "earrthfall": {
     "week_seconds": 138,
@@ -1700,9 +1700,9 @@
     "total_seconds": 17100
   },
   "eyestrainz": {
-    "week_seconds": 32281,
+    "week_seconds": 32332,
     "week_start": 1781511497,
-    "total_seconds": 32281
+    "total_seconds": 32332
   },
   "snailytrail": {
     "week_seconds": 6,
@@ -1710,9 +1710,9 @@
     "total_seconds": 6
   },
   "remax152": {
-    "week_seconds": 8917,
+    "week_seconds": 10619,
     "week_start": 1781511995,
-    "total_seconds": 8917
+    "total_seconds": 10619
   },
   "hugolegend2014": {
     "week_seconds": 32,
@@ -4933,5 +4933,10 @@
     "week_seconds": 239,
     "week_start": 1781677070,
     "total_seconds": 239
+  },
+  "silenthunterx": {
+    "week_seconds": 0,
+    "week_start": 1781677571,
+    "total_seconds": 0
   }
 }
