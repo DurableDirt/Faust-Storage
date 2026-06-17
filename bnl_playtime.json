@@ -75,9 +75,9 @@
     "total_seconds": 29875
   },
   "40mm": {
-    "week_seconds": 24729,
+    "week_seconds": 34840,
     "week_start": 1781475020,
-    "total_seconds": 24729
+    "total_seconds": 34840
   },
   "lynx2007": {
     "week_seconds": 43611,
@@ -710,9 +710,9 @@
     "total_seconds": 28234
   },
   "airheadsupreme": {
-    "week_seconds": 21037,
+    "week_seconds": 24277,
     "week_start": 1781482314,
-    "total_seconds": 21037
+    "total_seconds": 24277
   },
   "limtingus1": {
     "week_seconds": 100570,
@@ -830,9 +830,9 @@
     "total_seconds": 6
   },
   "samtheblow": {
-    "week_seconds": 131930,
+    "week_seconds": 136640,
     "week_start": 1781483985,
-    "total_seconds": 131930
+    "total_seconds": 136640
   },
   "rydestar": {
     "week_seconds": 20241,
@@ -1570,9 +1570,9 @@
     "total_seconds": 14042
   },
   "physicsgamer": {
-    "week_seconds": 77837,
+    "week_seconds": 77880,
     "week_start": 1781504070,
-    "total_seconds": 77837
+    "total_seconds": 77880
   },
   "_2k42_": {
     "week_seconds": 44671,
@@ -3530,9 +3530,9 @@
     "total_seconds": 71
   },
   "_banana_blu_": {
-    "week_seconds": 58943,
+    "week_seconds": 59469,
     "week_start": 1781570022,
-    "total_seconds": 58943
+    "total_seconds": 59469
   },
   "theboatsmith": {
     "week_seconds": 11816,
@@ -5505,9 +5505,9 @@
     "total_seconds": 650
   },
   "vvolfiee": {
-    "week_seconds": 3129,
+    "week_seconds": 3812,
     "week_start": 1781733466,
-    "total_seconds": 3129
+    "total_seconds": 3812
   },
   "trxyyayy": {
     "week_seconds": 20,
@@ -5570,9 +5570,9 @@
     "total_seconds": 627
   },
   "jessiejinx": {
-    "week_seconds": 0,
+    "week_seconds": 1695,
     "week_start": 1781735648,
-    "total_seconds": 0
+    "total_seconds": 1695
   },
   "desadier": {
     "week_seconds": 0,
@@ -5592,6 +5592,11 @@
   "comradenick": {
     "week_seconds": 0,
     "week_start": 1781737207,
+    "total_seconds": 0
+  },
+  "totunapiano": {
+    "week_seconds": 0,
+    "week_start": 1781737331,
     "total_seconds": 0
   }
 }
