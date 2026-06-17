@@ -5145,9 +5145,9 @@
     "total_seconds": 223
   },
   "atn64": {
-    "week_seconds": 0,
+    "week_seconds": 3296,
     "week_start": 1781706447,
-    "total_seconds": 0
+    "total_seconds": 3296
   },
   "lasse_sol": {
     "week_seconds": 1749,
@@ -5190,9 +5190,9 @@
     "total_seconds": 1560
   },
   "ahmad_elayyen": {
-    "week_seconds": 1633,
+    "week_seconds": 1837,
     "week_start": 1781707844,
-    "total_seconds": 1633
+    "total_seconds": 1837
   },
   "itzhoover": {
     "week_seconds": 0,
@@ -5220,8 +5220,8 @@
     "total_seconds": 153
   },
   "jeem_jr": {
-    "week_seconds": 0,
+    "week_seconds": 280,
     "week_start": 1781709470,
-    "total_seconds": 0
+    "total_seconds": 280
   }
 }
