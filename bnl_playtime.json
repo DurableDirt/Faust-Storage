@@ -1580,9 +1580,9 @@
     "total_seconds": 38140
   },
   "gobblin": {
-    "week_seconds": 25219,
+    "week_seconds": 28452,
     "week_start": 1781505039,
-    "total_seconds": 25219
+    "total_seconds": 28452
   },
   "vlinar": {
     "week_seconds": 35020,
@@ -3965,9 +3965,9 @@
     "total_seconds": 37372
   },
   "elpaconcio": {
-    "week_seconds": 3047,
+    "week_seconds": 3121,
     "week_start": 1781612117,
-    "total_seconds": 3047
+    "total_seconds": 3121
   },
   "mclist": {
     "week_seconds": 119,
