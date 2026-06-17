@@ -3530,9 +3530,9 @@
     "total_seconds": 71
   },
   "_banana_blu_": {
-    "week_seconds": 25302,
+    "week_seconds": 26464,
     "week_start": 1781570022,
-    "total_seconds": 25302
+    "total_seconds": 26464
   },
   "theboatsmith": {
     "week_seconds": 8026,
@@ -4832,6 +4832,11 @@
   "azerothsss": {
     "week_seconds": 0,
     "week_start": 1781666002,
+    "total_seconds": 0
+  },
+  "fishguy12345_": {
+    "week_seconds": 0,
+    "week_start": 1781666726,
     "total_seconds": 0
   }
 }
