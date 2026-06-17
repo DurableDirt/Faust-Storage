@@ -485,9 +485,9 @@
     "total_seconds": 5060
   },
   "lemonrelic": {
-    "week_seconds": 6116,
+    "week_seconds": 6204,
     "week_start": 1781479480,
-    "total_seconds": 6116
+    "total_seconds": 6204
   },
   "lord_allaire": {
     "week_seconds": 137,
@@ -4800,9 +4800,9 @@
     "total_seconds": 25
   },
   "vadimblin": {
-    "week_seconds": 2070,
+    "week_seconds": 2123,
     "week_start": 1781663064,
-    "total_seconds": 2070
+    "total_seconds": 2123
   },
   "yummyspacebar": {
     "week_seconds": 17623,
@@ -5200,9 +5200,9 @@
     "total_seconds": 11239
   },
   "rayunlucke": {
-    "week_seconds": 0,
+    "week_seconds": 25853,
     "week_start": 1781708258,
-    "total_seconds": 0
+    "total_seconds": 25853
   },
   "setablase": {
     "week_seconds": 4189,
@@ -5532,6 +5532,16 @@
   "booltonian": {
     "week_seconds": 0,
     "week_start": 1781734053,
+    "total_seconds": 0
+  },
+  "lounytv": {
+    "week_seconds": 0,
+    "week_start": 1781734134,
+    "total_seconds": 0
+  },
+  "snedddy": {
+    "week_seconds": 0,
+    "week_start": 1781734138,
     "total_seconds": 0
   }
 }
