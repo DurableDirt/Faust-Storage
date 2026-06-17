@@ -485,9 +485,9 @@
     "total_seconds": 5060
   },
   "lemonrelic": {
-    "week_seconds": 4688,
+    "week_seconds": 5068,
     "week_start": 1781479480,
-    "total_seconds": 4688
+    "total_seconds": 5068
   },
   "lord_allaire": {
     "week_seconds": 137,
@@ -1225,9 +1225,9 @@
     "total_seconds": 1364
   },
   "_oceanstar": {
-    "week_seconds": 10235,
+    "week_seconds": 24277,
     "week_start": 1781490835,
-    "total_seconds": 10235
+    "total_seconds": 24277
   },
   "kahina": {
     "week_seconds": 16319,
@@ -1375,9 +1375,9 @@
     "total_seconds": 11010
   },
   "furybyproxy": {
-    "week_seconds": 49589,
+    "week_seconds": 49622,
     "week_start": 1781495627,
-    "total_seconds": 49589
+    "total_seconds": 49622
   },
   "luin": {
     "week_seconds": 1744,
