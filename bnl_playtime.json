@@ -450,9 +450,9 @@
     "total_seconds": 71784
   },
   "mrtnt1925": {
-    "week_seconds": 60179,
+    "week_seconds": 60910,
     "week_start": 1781478966,
-    "total_seconds": 60179
+    "total_seconds": 60910
   },
   "axsld": {
     "week_seconds": 12654,
@@ -470,9 +470,9 @@
     "total_seconds": 17003
   },
   "anotnot": {
-    "week_seconds": 102127,
+    "week_seconds": 113818,
     "week_start": 1781479365,
-    "total_seconds": 102127
+    "total_seconds": 113818
   },
   "tntfortress": {
     "week_seconds": 59581,
@@ -865,9 +865,9 @@
     "total_seconds": 23
   },
   "anvil": {
-    "week_seconds": 21163,
+    "week_seconds": 22245,
     "week_start": 1781484585,
-    "total_seconds": 21163
+    "total_seconds": 22245
   },
   "deerifius": {
     "week_seconds": 69971,
@@ -1145,9 +1145,9 @@
     "total_seconds": 1821
   },
   "hitmehn": {
-    "week_seconds": 134426,
+    "week_seconds": 180481,
     "week_start": 1781489056,
-    "total_seconds": 134426
+    "total_seconds": 180481
   },
   "moahbalin": {
     "week_seconds": 124,
@@ -5595,8 +5595,13 @@
     "total_seconds": 0
   },
   "totunapiano": {
-    "week_seconds": 0,
+    "week_seconds": 393,
     "week_start": 1781737331,
+    "total_seconds": 393
+  },
+  "tgttag": {
+    "week_seconds": 0,
+    "week_start": 1781737710,
     "total_seconds": 0
   }
 }
