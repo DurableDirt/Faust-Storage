@@ -1485,14 +1485,14 @@
     "total_seconds": 880
   },
   "jpmiii": {
-    "week_seconds": 29730,
+    "week_seconds": 30108,
     "week_start": 1781499050,
-    "total_seconds": 29730
+    "total_seconds": 30108
   },
   "benpuma25": {
-    "week_seconds": 13813,
+    "week_seconds": 18577,
     "week_start": 1781499346,
-    "total_seconds": 13813
+    "total_seconds": 18577
   },
   "naglafer": {
     "week_seconds": 3061,
@@ -1675,9 +1675,9 @@
     "total_seconds": 8618
   },
   "jaydon_": {
-    "week_seconds": 51021,
+    "week_seconds": 55261,
     "week_start": 1781510086,
-    "total_seconds": 51021
+    "total_seconds": 55261
   },
   "pina0210": {
     "week_seconds": 4,
@@ -4985,8 +4985,8 @@
     "total_seconds": 132
   },
   "kiwibork": {
-    "week_seconds": 13,
+    "week_seconds": 15,
     "week_start": 1781683206,
-    "total_seconds": 13
+    "total_seconds": 15
   }
 }
