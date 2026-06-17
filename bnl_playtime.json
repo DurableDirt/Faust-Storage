@@ -1710,9 +1710,9 @@
     "total_seconds": 6
   },
   "remax152": {
-    "week_seconds": 13085,
+    "week_seconds": 14052,
     "week_start": 1781511995,
-    "total_seconds": 13085
+    "total_seconds": 14052
   },
   "hugolegend2014": {
     "week_seconds": 32,
@@ -1950,9 +1950,9 @@
     "total_seconds": 5211
   },
   "teato": {
-    "week_seconds": 37026,
+    "week_seconds": 41955,
     "week_start": 1781521729,
-    "total_seconds": 37026
+    "total_seconds": 41955
   },
   "thebigbeast2711": {
     "week_seconds": 238,
@@ -2160,9 +2160,9 @@
     "total_seconds": 16
   },
   "voidhecker": {
-    "week_seconds": 98,
+    "week_seconds": 3213,
     "week_start": 1781527533,
-    "total_seconds": 98
+    "total_seconds": 3213
   },
   "hemsku": {
     "week_seconds": 104,
@@ -5372,6 +5372,11 @@
   "_tectonic": {
     "week_seconds": 0,
     "week_start": 1781722997,
+    "total_seconds": 0
+  },
+  "bonzathon": {
+    "week_seconds": 0,
+    "week_start": 1781723112,
     "total_seconds": 0
   }
 }
