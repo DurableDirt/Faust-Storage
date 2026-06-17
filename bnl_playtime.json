@@ -4665,9 +4665,9 @@
     "total_seconds": 411
   },
   "zylo1666": {
-    "week_seconds": 1808,
+    "week_seconds": 1824,
     "week_start": 1781655010,
-    "total_seconds": 1808
+    "total_seconds": 1824
   },
   "zerocool828": {
     "week_seconds": 5700,
@@ -5463,5 +5463,10 @@
     "week_seconds": 0,
     "week_start": 1781725500,
     "total_seconds": 0
+  },
+  "bluben12": {
+    "week_seconds": 5,
+    "week_start": 1781725608,
+    "total_seconds": 5
   }
 }
