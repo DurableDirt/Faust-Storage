@@ -1085,9 +1085,9 @@
     "total_seconds": 68068
   },
   "satava": {
-    "week_seconds": 47991,
+    "week_seconds": 48154,
     "week_start": 1781487788,
-    "total_seconds": 47991
+    "total_seconds": 48154
   },
   "majjcrunsgf": {
     "week_seconds": 3927,
@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 21723,
+    "week_seconds": 22440,
     "week_start": 1781519118,
-    "total_seconds": 21723
+    "total_seconds": 22440
   },
   "hxrl": {
     "week_seconds": 17727,
@@ -4998,5 +4998,10 @@
     "week_seconds": 405,
     "week_start": 1781685657,
     "total_seconds": 405
+  },
+  "dwarfrogue654": {
+    "week_seconds": 0,
+    "week_start": 1781686516,
+    "total_seconds": 0
   }
 }
