@@ -230,9 +230,9 @@
     "total_seconds": 43
   },
   "the_fella7441": {
-    "week_seconds": 30148,
+    "week_seconds": 31503,
     "week_start": 1781476454,
-    "total_seconds": 30148
+    "total_seconds": 31503
   },
   "hentlol": {
     "week_seconds": 65999,
@@ -1570,9 +1570,9 @@
     "total_seconds": 14042
   },
   "physicsgamer": {
-    "week_seconds": 77028,
+    "week_seconds": 77049,
     "week_start": 1781504070,
-    "total_seconds": 77028
+    "total_seconds": 77049
   },
   "_2k42_": {
     "week_seconds": 44671,
@@ -5547,6 +5547,11 @@
   "vsraptor": {
     "week_seconds": 0,
     "week_start": 1781734300,
+    "total_seconds": 0
+  },
+  "siralador": {
+    "week_seconds": 0,
+    "week_start": 1781735004,
     "total_seconds": 0
   }
 }
