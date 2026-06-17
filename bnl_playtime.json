@@ -2145,9 +2145,9 @@
     "total_seconds": 36682
   },
   "daimnasal": {
-    "week_seconds": 8815,
+    "week_seconds": 8847,
     "week_start": 1781527309,
-    "total_seconds": 8815
+    "total_seconds": 8847
   },
   "azurisdev": {
     "week_seconds": 133,
@@ -4560,9 +4560,9 @@
     "total_seconds": 24
   },
   "blaxivox": {
-    "week_seconds": 11012,
+    "week_seconds": 12208,
     "week_start": 1781646700,
-    "total_seconds": 11012
+    "total_seconds": 12208
   },
   "anyone000000001": {
     "week_seconds": 8549,
@@ -4855,8 +4855,8 @@
     "total_seconds": 0
   },
   "ev1lduck95": {
-    "week_seconds": 0,
+    "week_seconds": 38,
     "week_start": 1781669250,
-    "total_seconds": 0
+    "total_seconds": 38
   }
 }
