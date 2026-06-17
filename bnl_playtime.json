@@ -2365,9 +2365,9 @@
     "total_seconds": 24657
   },
   "thisismynameatm": {
-    "week_seconds": 22000,
+    "week_seconds": 22042,
     "week_start": 1781532456,
-    "total_seconds": 22000
+    "total_seconds": 22042
   },
   "jaxkats": {
     "week_seconds": 62321,
@@ -5485,9 +5485,9 @@
     "total_seconds": 19
   },
   "lycoros": {
-    "week_seconds": 2343,
+    "week_seconds": 7759,
     "week_start": 1781728490,
-    "total_seconds": 2343
+    "total_seconds": 7759
   },
   "sobn": {
     "week_seconds": 1612,
@@ -5577,6 +5577,11 @@
   "desadier": {
     "week_seconds": 0,
     "week_start": 1781736015,
+    "total_seconds": 0
+  },
+  "natesupermon": {
+    "week_seconds": 0,
+    "week_start": 1781736238,
     "total_seconds": 0
   }
 }
