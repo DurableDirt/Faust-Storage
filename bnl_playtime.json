@@ -1500,9 +1500,9 @@
     "total_seconds": 3061
   },
   "innatee": {
-    "week_seconds": 56440,
+    "week_seconds": 56789,
     "week_start": 1781500068,
-    "total_seconds": 56440
+    "total_seconds": 56789
   },
   "arbiteradvit": {
     "week_seconds": 12656,
@@ -2145,9 +2145,9 @@
     "total_seconds": 36682
   },
   "daimnasal": {
-    "week_seconds": 3580,
+    "week_seconds": 4051,
     "week_start": 1781527309,
-    "total_seconds": 3580
+    "total_seconds": 4051
   },
   "azurisdev": {
     "week_seconds": 133,
