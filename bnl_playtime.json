@@ -1465,9 +1465,9 @@
     "total_seconds": 668
   },
   "cdragonmaster48": {
-    "week_seconds": 10416,
+    "week_seconds": 11569,
     "week_start": 1781498015,
-    "total_seconds": 10416
+    "total_seconds": 11569
   },
   "szepess": {
     "week_seconds": 5,
@@ -4732,6 +4732,11 @@
   "enjoyer4": {
     "week_seconds": 0,
     "week_start": 1781659018,
+    "total_seconds": 0
+  },
+  "fragmentsofdark": {
+    "week_seconds": 0,
+    "week_start": 1781659494,
     "total_seconds": 0
   }
 }
