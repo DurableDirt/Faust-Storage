@@ -785,9 +785,9 @@
     "total_seconds": 7395
   },
   "lalibo": {
-    "week_seconds": 35040,
+    "week_seconds": 35117,
     "week_start": 1781483266,
-    "total_seconds": 35040
+    "total_seconds": 35117
   },
   "fazeleafblower": {
     "week_seconds": 37389,
@@ -4817,6 +4817,11 @@
   "arowshot": {
     "week_seconds": 0,
     "week_start": 1781664636,
+    "total_seconds": 0
+  },
+  "nuggy1313": {
+    "week_seconds": 0,
+    "week_start": 1781665255,
     "total_seconds": 0
   }
 }
