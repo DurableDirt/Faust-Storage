@@ -2545,9 +2545,9 @@
     "total_seconds": 5455
   },
   "milevsky": {
-    "week_seconds": 54528,
+    "week_seconds": 57848,
     "week_start": 1781537262,
-    "total_seconds": 54528
+    "total_seconds": 57848
   },
   "wallbeck": {
     "week_seconds": 1116,
@@ -2590,9 +2590,9 @@
     "total_seconds": 6503
   },
   "dant481heman": {
-    "week_seconds": 19238,
+    "week_seconds": 23666,
     "week_start": 1781539434,
-    "total_seconds": 19238
+    "total_seconds": 23666
   },
   "aredstonegod378": {
     "week_seconds": 7068,
@@ -2970,9 +2970,9 @@
     "total_seconds": 2391
   },
   "_aperson1": {
-    "week_seconds": 17076,
+    "week_seconds": 20337,
     "week_start": 1781551032,
-    "total_seconds": 17076
+    "total_seconds": 20337
   },
   "joshaya787": {
     "week_seconds": 33128,
@@ -3080,9 +3080,9 @@
     "total_seconds": 250
   },
   "starryjeongyeon": {
-    "week_seconds": 5577,
+    "week_seconds": 6566,
     "week_start": 1781554088,
-    "total_seconds": 5577
+    "total_seconds": 6566
   },
   "refwoza": {
     "week_seconds": 15119,
@@ -4750,9 +4750,9 @@
     "total_seconds": 1619
   },
   "tommigunnn": {
-    "week_seconds": 289,
+    "week_seconds": 1676,
     "week_start": 1781659931,
-    "total_seconds": 289
+    "total_seconds": 1676
   },
   "randomguys0101": {
     "week_seconds": 178,
@@ -5415,9 +5415,9 @@
     "total_seconds": 29
   },
   "rosepoop": {
-    "week_seconds": 0,
+    "week_seconds": 558,
     "week_start": 1781724549,
-    "total_seconds": 0
+    "total_seconds": 558
   },
   "riftonhc": {
     "week_seconds": 383,
@@ -5438,5 +5438,10 @@
     "week_seconds": 25,
     "week_start": 1781724973,
     "total_seconds": 25
+  },
+  "sellguilded": {
+    "week_seconds": 0,
+    "week_start": 1781725093,
+    "total_seconds": 0
   }
 }
