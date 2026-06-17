@@ -405,9 +405,9 @@
     "total_seconds": 35733
   },
   "freshoxygenair": {
-    "week_seconds": 5003,
+    "week_seconds": 5235,
     "week_start": 1781478147,
-    "total_seconds": 5003
+    "total_seconds": 5235
   },
   "cz10_xp": {
     "week_seconds": 396,
@@ -1600,9 +1600,9 @@
     "total_seconds": 5
   },
   "guvn0r_uk": {
-    "week_seconds": 23817,
+    "week_seconds": 24396,
     "week_start": 1781506051,
-    "total_seconds": 23817
+    "total_seconds": 24396
   },
   "scavedr": {
     "week_seconds": 766,
@@ -1950,9 +1950,9 @@
     "total_seconds": 5211
   },
   "teato": {
-    "week_seconds": 29518,
+    "week_seconds": 35161,
     "week_start": 1781521729,
-    "total_seconds": 29518
+    "total_seconds": 35161
   },
   "thebigbeast2711": {
     "week_seconds": 238,
@@ -4943,5 +4943,15 @@
     "week_seconds": 237,
     "week_start": 1781677646,
     "total_seconds": 237
+  },
+  "3ncrypted_p4sty": {
+    "week_seconds": 0,
+    "week_start": 1781678939,
+    "total_seconds": 0
+  },
+  "karso8": {
+    "week_seconds": 0,
+    "week_start": 1781679017,
+    "total_seconds": 0
   }
 }
