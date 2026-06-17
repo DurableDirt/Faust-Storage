@@ -1575,9 +1575,9 @@
     "total_seconds": 71430
   },
   "_2k42_": {
-    "week_seconds": 40552,
+    "week_seconds": 44671,
     "week_start": 1781504570,
-    "total_seconds": 40552
+    "total_seconds": 44671
   },
   "gobblin": {
     "week_seconds": 28452,
@@ -5425,9 +5425,9 @@
     "total_seconds": 383
   },
   "happynowuwu": {
-    "week_seconds": 2038,
+    "week_seconds": 2070,
     "week_start": 1781724602,
-    "total_seconds": 2038
+    "total_seconds": 2070
   },
   "_avro_": {
     "week_seconds": 1978,
