@@ -855,9 +855,9 @@
     "total_seconds": 9326
   },
   "kixitbud": {
-    "week_seconds": 15356,
+    "week_seconds": 17484,
     "week_start": 1781484459,
-    "total_seconds": 15356
+    "total_seconds": 17484
   },
   "elekssa": {
     "week_seconds": 23,
@@ -4895,8 +4895,8 @@
     "total_seconds": 0
   },
   "true_cubic": {
-    "week_seconds": 0,
+    "week_seconds": 77,
     "week_start": 1781671842,
-    "total_seconds": 0
+    "total_seconds": 77
   }
 }
