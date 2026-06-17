@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 105773,
+    "week_seconds": 105976,
     "week_start": 1781479760,
-    "total_seconds": 105773
+    "total_seconds": 105976
   },
   "matilda4k9": {
     "week_seconds": 15832,
@@ -4962,6 +4962,11 @@
   "xlaser2014": {
     "week_seconds": 0,
     "week_start": 1781679634,
+    "total_seconds": 0
+  },
+  "plutouz": {
+    "week_seconds": 0,
+    "week_start": 1781680090,
     "total_seconds": 0
   }
 }
