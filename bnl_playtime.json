@@ -3275,9 +3275,9 @@
     "total_seconds": 74
   },
   "cavefire6675": {
-    "week_seconds": 10168,
+    "week_seconds": 13181,
     "week_start": 1781560987,
-    "total_seconds": 10168
+    "total_seconds": 13181
   },
   "artikul583": {
     "week_seconds": 2267,
@@ -4843,5 +4843,10 @@
     "week_seconds": 192,
     "week_start": 1781666810,
     "total_seconds": 192
+  },
+  "jerninja": {
+    "week_seconds": 0,
+    "week_start": 1781667856,
+    "total_seconds": 0
   }
 }
