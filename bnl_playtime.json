@@ -890,9 +890,9 @@
     "total_seconds": 11059
   },
   "c32shark": {
-    "week_seconds": 10358,
+    "week_seconds": 10558,
     "week_start": 1781484918,
-    "total_seconds": 10358
+    "total_seconds": 10558
   },
   "bigg2010": {
     "week_seconds": 14639,
@@ -4702,6 +4702,16 @@
   "okie15": {
     "week_seconds": 0,
     "week_start": 1781658127,
+    "total_seconds": 0
+  },
+  "jbblocker": {
+    "week_seconds": 54,
+    "week_start": 1781658387,
+    "total_seconds": 54
+  },
+  "jakobsofficial": {
+    "week_seconds": 0,
+    "week_start": 1781658387,
     "total_seconds": 0
   }
 }
