@@ -15,9 +15,9 @@
     "total_seconds": 16470
   },
   "dragran": {
-    "week_seconds": 115683,
+    "week_seconds": 175238,
     "week_start": 1781474495,
-    "total_seconds": 115683
+    "total_seconds": 175238
   },
   "turkishflavour": {
     "week_seconds": 26,
@@ -470,9 +470,9 @@
     "total_seconds": 39658
   },
   "anotnot": {
-    "week_seconds": 123306,
+    "week_seconds": 123747,
     "week_start": 1781479365,
-    "total_seconds": 123306
+    "total_seconds": 123747
   },
   "tntfortress": {
     "week_seconds": 62595,
@@ -4110,9 +4110,9 @@
     "total_seconds": 10121
   },
   "hplaptop": {
-    "week_seconds": 34256,
+    "week_seconds": 42921,
     "week_start": 1781622848,
-    "total_seconds": 34256
+    "total_seconds": 42921
   },
   "kablevz": {
     "week_seconds": 18,
@@ -5750,9 +5750,9 @@
     "total_seconds": 0
   },
   "_zedacted_": {
-    "week_seconds": 0,
+    "week_seconds": 1709,
     "week_start": 1781749265,
-    "total_seconds": 0
+    "total_seconds": 1709
   },
   "stxvix": {
     "week_seconds": 125,
@@ -5778,5 +5778,10 @@
     "week_seconds": 3,
     "week_start": 1781750601,
     "total_seconds": 3
+  },
+  "penguinf96": {
+    "week_seconds": 0,
+    "week_start": 1781750953,
+    "total_seconds": 0
   }
 }
