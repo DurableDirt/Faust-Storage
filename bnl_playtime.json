@@ -1690,9 +1690,9 @@
     "total_seconds": 33798
   },
   "solitaire7": {
-    "week_seconds": 55662,
+    "week_seconds": 55700,
     "week_start": 1781510605,
-    "total_seconds": 55662
+    "total_seconds": 55700
   },
   "masqo_": {
     "week_seconds": 31056,
@@ -5943,5 +5943,10 @@
     "week_seconds": 59,
     "week_start": 1781776745,
     "total_seconds": 59
+  },
+  "longrays": {
+    "week_seconds": 0,
+    "week_start": 1781778438,
+    "total_seconds": 0
   }
 }
