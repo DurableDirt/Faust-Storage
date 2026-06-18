@@ -3435,9 +3435,9 @@
     "total_seconds": 10528
   },
   "huskydog9988": {
-    "week_seconds": 22233,
+    "week_seconds": 39875,
     "week_start": 1781566038,
-    "total_seconds": 22233
+    "total_seconds": 39875
   },
   "jromeasfsniper": {
     "week_seconds": 9459,
@@ -5480,9 +5480,9 @@
     "total_seconds": 2349
   },
   "flameoguide": {
-    "week_seconds": 12150,
+    "week_seconds": 17692,
     "week_start": 1781728268,
-    "total_seconds": 12150
+    "total_seconds": 17692
   },
   "lycoros": {
     "week_seconds": 7759,
@@ -5788,5 +5788,10 @@
     "week_seconds": 42,
     "week_start": 1781751211,
     "total_seconds": 42
+  },
+  "jacob43365": {
+    "week_seconds": 0,
+    "week_start": 1781751506,
+    "total_seconds": 0
   }
 }
