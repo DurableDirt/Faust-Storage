@@ -3350,9 +3350,9 @@
     "total_seconds": 846
   },
   "sparkyjuice": {
-    "week_seconds": 10366,
+    "week_seconds": 13030,
     "week_start": 1781563281,
-    "total_seconds": 10366
+    "total_seconds": 13030
   },
   "trolstein_pt": {
     "week_seconds": 174,
@@ -5760,9 +5760,9 @@
     "total_seconds": 125
   },
   "_domain": {
-    "week_seconds": 726,
+    "week_seconds": 733,
     "week_start": 1781750091,
-    "total_seconds": 726
+    "total_seconds": 733
   },
   "bonjour": {
     "week_seconds": 99,
