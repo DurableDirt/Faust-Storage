@@ -1165,9 +1165,9 @@
     "total_seconds": 31579
   },
   "nateoneandonly": {
-    "week_seconds": 32898,
+    "week_seconds": 43739,
     "week_start": 1781489459,
-    "total_seconds": 32898
+    "total_seconds": 43739
   },
   "opozzumz": {
     "week_seconds": 61266,
@@ -2735,9 +2735,9 @@
     "total_seconds": 44
   },
   "anttolisa": {
-    "week_seconds": 73843,
+    "week_seconds": 82250,
     "week_start": 1781543984,
-    "total_seconds": 73843
+    "total_seconds": 82250
   },
   "ivona_dies_alot": {
     "week_seconds": 20299,
@@ -5868,5 +5868,10 @@
     "week_seconds": 86,
     "week_start": 1781758991,
     "total_seconds": 86
+  },
+  "peakman2": {
+    "week_seconds": 0,
+    "week_start": 1781759832,
+    "total_seconds": 0
   }
 }
