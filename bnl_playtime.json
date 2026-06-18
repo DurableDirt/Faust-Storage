@@ -1560,9 +1560,9 @@
     "total_seconds": 106568
   },
   "nsiv28": {
-    "week_seconds": 11072,
+    "week_seconds": 11681,
     "week_start": 1781503923,
-    "total_seconds": 11072
+    "total_seconds": 11681
   },
   "osronyeah": {
     "week_seconds": 14042,
@@ -3905,9 +3905,9 @@
     "total_seconds": 206
   },
   "kinghasantheone": {
-    "week_seconds": 83970,
+    "week_seconds": 85250,
     "week_start": 1781600857,
-    "total_seconds": 83970
+    "total_seconds": 85250
   },
   "stefanmakker": {
     "week_seconds": 284,
@@ -5937,6 +5937,11 @@
   "transylvaniaman": {
     "week_seconds": 0,
     "week_start": 1781776679,
+    "total_seconds": 0
+  },
+  "onlydemo777": {
+    "week_seconds": 0,
+    "week_start": 1781776745,
     "total_seconds": 0
   }
 }
