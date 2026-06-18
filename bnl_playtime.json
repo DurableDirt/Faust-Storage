@@ -155,9 +155,9 @@
     "total_seconds": 12119
   },
   "lightningboi4": {
-    "week_seconds": 66124,
+    "week_seconds": 66135,
     "week_start": 1781476003,
-    "total_seconds": 66124
+    "total_seconds": 66135
   },
   "aaroni_macaroni": {
     "week_seconds": 56191,
@@ -1050,9 +1050,9 @@
     "total_seconds": 47958
   },
   "rodragonlux": {
-    "week_seconds": 8499,
+    "week_seconds": 8944,
     "week_start": 1781487016,
-    "total_seconds": 8499
+    "total_seconds": 8944
   },
   "arkane9975": {
     "week_seconds": 13718,
@@ -6128,5 +6128,10 @@
     "week_seconds": 19,
     "week_start": 1781801461,
     "total_seconds": 19
+  },
+  "elcebamate": {
+    "week_seconds": 0,
+    "week_start": 1781802167,
+    "total_seconds": 0
   }
 }
