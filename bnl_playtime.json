@@ -1340,9 +1340,9 @@
     "total_seconds": 38356
   },
   "misprint293": {
-    "week_seconds": 50811,
+    "week_seconds": 50841,
     "week_start": 1781493068,
-    "total_seconds": 50811
+    "total_seconds": 50841
   },
   "choripancaliente": {
     "week_seconds": 38882,
@@ -1555,9 +1555,9 @@
     "total_seconds": 3540
   },
   "hakr_": {
-    "week_seconds": 101932,
+    "week_seconds": 106568,
     "week_start": 1781503652,
-    "total_seconds": 101932
+    "total_seconds": 106568
   },
   "nsiv28": {
     "week_seconds": 11072,
@@ -2005,9 +2005,9 @@
     "total_seconds": 1247
   },
   "kelsokevin": {
-    "week_seconds": 7025,
+    "week_seconds": 8718,
     "week_start": 1781523034,
-    "total_seconds": 7025
+    "total_seconds": 8718
   },
   "olliebell": {
     "week_seconds": 1083,
@@ -5797,6 +5797,11 @@
   "bigboyzoc": {
     "week_seconds": 0,
     "week_start": 1781752498,
+    "total_seconds": 0
+  },
+  "lil_fayth": {
+    "week_seconds": 0,
+    "week_start": 1781753071,
     "total_seconds": 0
   }
 }
