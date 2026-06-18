@@ -50,9 +50,9 @@
     "total_seconds": 24967
   },
   "meenos": {
-    "week_seconds": 84290,
+    "week_seconds": 84520,
     "week_start": 1781474845,
-    "total_seconds": 84290
+    "total_seconds": 84520
   },
   "jadenjb": {
     "week_seconds": 19347,
@@ -2560,9 +2560,9 @@
     "total_seconds": 53835
   },
   "myng11": {
-    "week_seconds": 5019,
+    "week_seconds": 5031,
     "week_start": 1781538162,
-    "total_seconds": 5019
+    "total_seconds": 5031
   },
   "dondindundan": {
     "week_seconds": 5,
@@ -6067,6 +6067,11 @@
   "sweetnoodle_": {
     "week_seconds": 0,
     "week_start": 1781794532,
+    "total_seconds": 0
+  },
+  "mrcheesepizzaguy": {
+    "week_seconds": 0,
+    "week_start": 1781795846,
     "total_seconds": 0
   }
 }
