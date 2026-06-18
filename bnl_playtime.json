@@ -1270,9 +1270,9 @@
     "total_seconds": 26848
   },
   "regencyshadow40": {
-    "week_seconds": 5097,
+    "week_seconds": 5180,
     "week_start": 1781491859,
-    "total_seconds": 5097
+    "total_seconds": 5180
   },
   "yatzplz": {
     "week_seconds": 10,
@@ -5735,9 +5735,9 @@
     "total_seconds": 1845
   },
   "uraumi": {
-    "week_seconds": 0,
+    "week_seconds": 2673,
     "week_start": 1781747623,
-    "total_seconds": 0
+    "total_seconds": 2673
   },
   "killbasdard": {
     "week_seconds": 5,
@@ -5765,8 +5765,8 @@
     "total_seconds": 0
   },
   "bonjour": {
-    "week_seconds": 0,
+    "week_seconds": 99,
     "week_start": 1781750206,
-    "total_seconds": 0
+    "total_seconds": 99
   }
 }
