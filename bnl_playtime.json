@@ -830,9 +830,9 @@
     "total_seconds": 6
   },
   "samtheblow": {
-    "week_seconds": 142580,
+    "week_seconds": 147920,
     "week_start": 1781483985,
-    "total_seconds": 142580
+    "total_seconds": 147920
   },
   "rydestar": {
     "week_seconds": 20241,
@@ -5715,9 +5715,9 @@
     "total_seconds": 731
   },
   "rurfu": {
-    "week_seconds": 1754,
+    "week_seconds": 2595,
     "week_start": 1781746808,
-    "total_seconds": 1754
+    "total_seconds": 2595
   },
   "binks4362": {
     "week_seconds": 266,
@@ -5758,5 +5758,10 @@
     "week_seconds": 125,
     "week_start": 1781749342,
     "total_seconds": 125
+  },
+  "_domain": {
+    "week_seconds": 0,
+    "week_start": 1781750091,
+    "total_seconds": 0
   }
 }
