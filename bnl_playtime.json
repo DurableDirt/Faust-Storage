@@ -3475,9 +3475,9 @@
     "total_seconds": 6079
   },
   "bloxtlemc": {
-    "week_seconds": 18259,
+    "week_seconds": 19192,
     "week_start": 1781567213,
-    "total_seconds": 18259
+    "total_seconds": 19192
   },
   "mdlp_red15": {
     "week_seconds": 25,
@@ -5833,5 +5833,10 @@
     "week_seconds": 10,
     "week_start": 1781755538,
     "total_seconds": 10
+  },
+  "gaperzo": {
+    "week_seconds": 0,
+    "week_start": 1781755975,
+    "total_seconds": 0
   }
 }
