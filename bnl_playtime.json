@@ -2715,9 +2715,9 @@
     "total_seconds": 22824
   },
   "landopotato712": {
-    "week_seconds": 20446,
+    "week_seconds": 20451,
     "week_start": 1781542629,
-    "total_seconds": 20446
+    "total_seconds": 20451
   },
   "hierophant1319": {
     "week_seconds": 8382,
@@ -4045,9 +4045,9 @@
     "total_seconds": 3606
   },
   "t_t_law": {
-    "week_seconds": 14698,
+    "week_seconds": 21775,
     "week_start": 1781618557,
-    "total_seconds": 14698
+    "total_seconds": 21775
   },
   "kittymeowyey": {
     "week_seconds": 271,
@@ -6260,13 +6260,18 @@
     "total_seconds": 0
   },
   "colenia": {
-    "week_seconds": 0,
+    "week_seconds": 137,
     "week_start": 1781808690,
-    "total_seconds": 0
+    "total_seconds": 137
   },
   "111oxonomy111": {
     "week_seconds": 0,
     "week_start": 1781808701,
+    "total_seconds": 0
+  },
+  "mr_g00berink": {
+    "week_seconds": 0,
+    "week_start": 1781808788,
     "total_seconds": 0
   }
 }
