@@ -1950,9 +1950,9 @@
     "total_seconds": 5211
   },
   "teato": {
-    "week_seconds": 41955,
+    "week_seconds": 42369,
     "week_start": 1781521729,
-    "total_seconds": 41955
+    "total_seconds": 42369
   },
   "thebigbeast2711": {
     "week_seconds": 238,
@@ -5973,5 +5973,10 @@
     "week_seconds": 0,
     "week_start": 1781781449,
     "total_seconds": 0
+  },
+  "diet_cola": {
+    "week_seconds": 78,
+    "week_start": 1781781474,
+    "total_seconds": 78
   }
 }
