@@ -1230,9 +1230,9 @@
     "total_seconds": 71042
   },
   "kahina": {
-    "week_seconds": 29497,
+    "week_seconds": 30598,
     "week_start": 1781491056,
-    "total_seconds": 29497
+    "total_seconds": 30598
   },
   "grantwellson": {
     "week_seconds": 14697,
@@ -6308,5 +6308,10 @@
     "week_seconds": 7,
     "week_start": 1781809861,
     "total_seconds": 7
+  },
+  "eewooks": {
+    "week_seconds": 0,
+    "week_start": 1781809990,
+    "total_seconds": 0
   }
 }
