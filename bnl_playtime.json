@@ -1795,9 +1795,9 @@
     "total_seconds": 7545
   },
   "lgamant": {
-    "week_seconds": 22383,
+    "week_seconds": 24655,
     "week_start": 1781515516,
-    "total_seconds": 22383
+    "total_seconds": 24655
   },
   "emilew": {
     "week_seconds": 20441,
@@ -5932,6 +5932,11 @@
   "k9_caper": {
     "week_seconds": 0,
     "week_start": 1781776382,
+    "total_seconds": 0
+  },
+  "transylvaniaman": {
+    "week_seconds": 0,
+    "week_start": 1781776679,
     "total_seconds": 0
   }
 }
