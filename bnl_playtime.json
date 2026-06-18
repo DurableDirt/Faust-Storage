@@ -555,9 +555,9 @@
     "total_seconds": 158
   },
   "zolo17": {
-    "week_seconds": 263320,
+    "week_seconds": 267728,
     "week_start": 1781480177,
-    "total_seconds": 263320
+    "total_seconds": 267728
   },
   "dutchcringe": {
     "week_seconds": 39254,
@@ -4520,9 +4520,9 @@
     "total_seconds": 4
   },
   "karmacraft21": {
-    "week_seconds": 16142,
+    "week_seconds": 19184,
     "week_start": 1781643707,
-    "total_seconds": 16142
+    "total_seconds": 19184
   },
   "herecomesriley": {
     "week_seconds": 4009,
@@ -6032,6 +6032,11 @@
   "revazius": {
     "week_seconds": 0,
     "week_start": 1781790528,
+    "total_seconds": 0
+  },
+  "itsroyden_": {
+    "week_seconds": 0,
+    "week_start": 1781790653,
     "total_seconds": 0
   }
 }
