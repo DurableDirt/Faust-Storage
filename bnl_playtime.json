@@ -3215,9 +3215,9 @@
     "total_seconds": 1058
   },
   "tikrainegedvilas": {
-    "week_seconds": 10823,
+    "week_seconds": 11310,
     "week_start": 1781558983,
-    "total_seconds": 10823
+    "total_seconds": 11310
   },
   "mannami": {
     "week_seconds": 10719,
@@ -3630,9 +3630,9 @@
     "total_seconds": 32863
   },
   "realmichael": {
-    "week_seconds": 988,
+    "week_seconds": 5464,
     "week_start": 1781575537,
-    "total_seconds": 988
+    "total_seconds": 5464
   },
   "dj121739": {
     "week_seconds": 131353,
@@ -6283,5 +6283,10 @@
     "week_seconds": 7,
     "week_start": 1781809346,
     "total_seconds": 7
+  },
+  "fel350": {
+    "week_seconds": 44,
+    "week_start": 1781809446,
+    "total_seconds": 44
   }
 }
