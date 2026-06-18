@@ -450,9 +450,9 @@
     "total_seconds": 73008
   },
   "mrtnt1925": {
-    "week_seconds": 66760,
+    "week_seconds": 66844,
     "week_start": 1781478966,
-    "total_seconds": 66760
+    "total_seconds": 66844
   },
   "axsld": {
     "week_seconds": 27164,
@@ -1500,9 +1500,9 @@
     "total_seconds": 3061
   },
   "innatee": {
-    "week_seconds": 114871,
+    "week_seconds": 115980,
     "week_start": 1781500068,
-    "total_seconds": 114871
+    "total_seconds": 115980
   },
   "arbiteradvit": {
     "week_seconds": 15595,
@@ -2115,9 +2115,9 @@
     "total_seconds": 66379
   },
   "trizzzx": {
-    "week_seconds": 14983,
+    "week_seconds": 20784,
     "week_start": 1781526367,
-    "total_seconds": 14983
+    "total_seconds": 20784
   },
   "reffelruz": {
     "week_seconds": 6549,
@@ -5030,9 +5030,9 @@
     "total_seconds": 372
   },
   "senscreed": {
-    "week_seconds": 31737,
+    "week_seconds": 33943,
     "week_start": 1781695134,
-    "total_seconds": 31737
+    "total_seconds": 33943
   },
   "bloodscw": {
     "week_seconds": 28974,
@@ -6038,5 +6038,10 @@
     "week_seconds": 576,
     "week_start": 1781790653,
     "total_seconds": 576
+  },
+  "moondemon19015": {
+    "week_seconds": 0,
+    "week_start": 1781792166,
+    "total_seconds": 0
   }
 }
