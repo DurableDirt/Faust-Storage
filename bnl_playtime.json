@@ -75,9 +75,9 @@
     "total_seconds": 38556
   },
   "40mm": {
-    "week_seconds": 35682,
+    "week_seconds": 35713,
     "week_start": 1781475020,
-    "total_seconds": 35682
+    "total_seconds": 35713
   },
   "lynx2007": {
     "week_seconds": 49292,
@@ -580,9 +580,9 @@
     "total_seconds": 26002
   },
   "ethn__": {
-    "week_seconds": 74806,
+    "week_seconds": 74966,
     "week_start": 1781480700,
-    "total_seconds": 74806
+    "total_seconds": 74966
   },
   "suderp": {
     "week_seconds": 3472,
