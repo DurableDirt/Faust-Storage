@@ -650,9 +650,9 @@
     "total_seconds": 15270
   },
   "malafly": {
-    "week_seconds": 75289,
+    "week_seconds": 78802,
     "week_start": 1781481518,
-    "total_seconds": 75289
+    "total_seconds": 78802
   },
   "velares": {
     "week_seconds": 13445,
@@ -6255,9 +6255,9 @@
     "total_seconds": 1083
   },
   "szmajol2": {
-    "week_seconds": 0,
+    "week_seconds": 1927,
     "week_start": 1781808499,
-    "total_seconds": 0
+    "total_seconds": 1927
   },
   "colenia": {
     "week_seconds": 137,
@@ -6323,5 +6323,10 @@
     "week_seconds": 5,
     "week_start": 1781810103,
     "total_seconds": 5
+  },
+  "moueleux": {
+    "week_seconds": 0,
+    "week_start": 1781810423,
+    "total_seconds": 0
   }
 }
