@@ -595,9 +595,9 @@
     "total_seconds": 13151
   },
   "webchat427": {
-    "week_seconds": 25421,
+    "week_seconds": 35578,
     "week_start": 1781481062,
-    "total_seconds": 25421
+    "total_seconds": 35578
   },
   "1stampy": {
     "week_seconds": 33949,
@@ -1230,9 +1230,9 @@
     "total_seconds": 71042
   },
   "kahina": {
-    "week_seconds": 33606,
+    "week_seconds": 34517,
     "week_start": 1781491056,
-    "total_seconds": 33606
+    "total_seconds": 34517
   },
   "grantwellson": {
     "week_seconds": 14697,
@@ -1615,9 +1615,9 @@
     "total_seconds": 221462
   },
   "cedarvaliant": {
-    "week_seconds": 27407,
+    "week_seconds": 27434,
     "week_start": 1781506488,
-    "total_seconds": 27407
+    "total_seconds": 27434
   },
   "jejames27": {
     "week_seconds": 6042,
@@ -6403,5 +6403,10 @@
     "week_seconds": 47,
     "week_start": 1781815724,
     "total_seconds": 47
+  },
+  "theirishpotatoii": {
+    "week_seconds": 7,
+    "week_start": 1781816144,
+    "total_seconds": 7
   }
 }
