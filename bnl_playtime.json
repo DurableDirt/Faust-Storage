@@ -1835,9 +1835,9 @@
     "total_seconds": 41330
   },
   "coockie70": {
-    "week_seconds": 12573,
+    "week_seconds": 12791,
     "week_start": 1781516833,
-    "total_seconds": 12573
+    "total_seconds": 12791
   },
   "sn1sr": {
     "week_seconds": 6,
@@ -4265,9 +4265,9 @@
     "total_seconds": 3384
   },
   "tallestthetall": {
-    "week_seconds": 117461,
+    "week_seconds": 117626,
     "week_start": 1781631686,
-    "total_seconds": 117461
+    "total_seconds": 117626
   },
   "stickyfishdaedae": {
     "week_seconds": 103,
@@ -5928,5 +5928,10 @@
     "week_seconds": 190,
     "week_start": 1781776138,
     "total_seconds": 190
+  },
+  "k9_caper": {
+    "week_seconds": 0,
+    "week_start": 1781776382,
+    "total_seconds": 0
   }
 }
