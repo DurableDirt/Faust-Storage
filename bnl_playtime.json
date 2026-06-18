@@ -5910,9 +5910,9 @@
     "total_seconds": 3323
   },
   "br_brine": {
-    "week_seconds": 3074,
+    "week_seconds": 3963,
     "week_start": 1781772668,
-    "total_seconds": 3074
+    "total_seconds": 3963
   },
   "jisaku": {
     "week_seconds": 615,
@@ -6018,5 +6018,10 @@
     "week_seconds": 28,
     "week_start": 1781786923,
     "total_seconds": 28
+  },
+  "hanitensh": {
+    "week_seconds": 0,
+    "week_start": 1781787737,
+    "total_seconds": 0
   }
 }
