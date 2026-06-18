@@ -2705,9 +2705,9 @@
     "total_seconds": 3322
   },
   "alzucats": {
-    "week_seconds": 106161,
+    "week_seconds": 108412,
     "week_start": 1781542157,
-    "total_seconds": 106161
+    "total_seconds": 108412
   },
   "jushuhh": {
     "week_seconds": 20099,
@@ -4685,9 +4685,9 @@
     "total_seconds": 8278
   },
   "clearhercules": {
-    "week_seconds": 12552,
+    "week_seconds": 16604,
     "week_start": 1781657179,
-    "total_seconds": 12552
+    "total_seconds": 16604
   },
   "mavorz911": {
     "week_seconds": 100,
@@ -5747,6 +5747,11 @@
   "michael82040": {
     "week_seconds": 0,
     "week_start": 1781748961,
+    "total_seconds": 0
+  },
+  "_zedacted_": {
+    "week_seconds": 0,
+    "week_start": 1781749265,
     "total_seconds": 0
   }
 }
