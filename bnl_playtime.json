@@ -5693,5 +5693,10 @@
     "week_seconds": 0,
     "week_start": 1781744610,
     "total_seconds": 0
+  },
+  "blacksmith52": {
+    "week_seconds": 3,
+    "week_start": 1781745634,
+    "total_seconds": 3
   }
 }
