@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 129062,
+    "week_seconds": 129089,
     "week_start": 1781513574,
-    "total_seconds": 129062
+    "total_seconds": 129089
   },
   "stavros_ell": {
     "week_seconds": 14970,
@@ -6252,6 +6252,11 @@
   "sputtslayer": {
     "week_seconds": 0,
     "week_start": 1781808456,
+    "total_seconds": 0
+  },
+  "szmajol2": {
+    "week_seconds": 0,
+    "week_start": 1781808499,
     "total_seconds": 0
   }
 }
