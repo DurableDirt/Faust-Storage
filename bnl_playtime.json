@@ -25,9 +25,9 @@
     "total_seconds": 26
   },
   "holdenvcaulfield": {
-    "week_seconds": 30584,
+    "week_seconds": 31720,
     "week_start": 1781474534,
-    "total_seconds": 30584
+    "total_seconds": 31720
   },
   "harved": {
     "week_seconds": 6382,
@@ -2080,9 +2080,9 @@
     "total_seconds": 31295
   },
   "ice_cream_guy": {
-    "week_seconds": 13610,
+    "week_seconds": 13687,
     "week_start": 1781525044,
-    "total_seconds": 13610
+    "total_seconds": 13687
   },
   "strocraft": {
     "week_seconds": 61504,
@@ -5683,5 +5683,10 @@
     "week_seconds": 26,
     "week_start": 1781742921,
     "total_seconds": 26
+  },
+  "darkhelmet12e4": {
+    "week_seconds": 0,
+    "week_start": 1781744270,
+    "total_seconds": 0
   }
 }
