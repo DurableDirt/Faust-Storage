@@ -3675,9 +3675,9 @@
     "total_seconds": 2886
   },
   "swampbog": {
-    "week_seconds": 13706,
+    "week_seconds": 14185,
     "week_start": 1781577612,
-    "total_seconds": 13706
+    "total_seconds": 14185
   },
   "2lynx2": {
     "week_seconds": 66543,
@@ -5185,9 +5185,9 @@
     "total_seconds": 118
   },
   "shafiahaz2478": {
-    "week_seconds": 5812,
+    "week_seconds": 7277,
     "week_start": 1781707838,
-    "total_seconds": 5812
+    "total_seconds": 7277
   },
   "ahmad_elayyen": {
     "week_seconds": 10283,
@@ -6087,6 +6087,11 @@
   "ggiulid": {
     "week_seconds": 0,
     "week_start": 1781797474,
+    "total_seconds": 0
+  },
+  "bootsiebear": {
+    "week_seconds": 0,
+    "week_start": 1781798068,
     "total_seconds": 0
   }
 }
