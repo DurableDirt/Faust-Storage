@@ -650,9 +650,9 @@
     "total_seconds": 15270
   },
   "malafly": {
-    "week_seconds": 87393,
+    "week_seconds": 89332,
     "week_start": 1781481518,
-    "total_seconds": 87393
+    "total_seconds": 89332
   },
   "velares": {
     "week_seconds": 13445,
@@ -5320,9 +5320,9 @@
     "total_seconds": 1176
   },
   "goneguy5": {
-    "week_seconds": 15551,
+    "week_seconds": 15929,
     "week_start": 1781718241,
-    "total_seconds": 15551
+    "total_seconds": 15929
   },
   "supermollyworld": {
     "week_seconds": 96,
@@ -6503,5 +6503,10 @@
     "week_seconds": 134,
     "week_start": 1781822311,
     "total_seconds": 134
+  },
+  "mastertyler7139": {
+    "week_seconds": 0,
+    "week_start": 1781822474,
+    "total_seconds": 0
   }
 }
