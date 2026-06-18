@@ -1365,9 +1365,9 @@
     "total_seconds": 1138
   },
   "rammyls": {
-    "week_seconds": 50860,
+    "week_seconds": 53807,
     "week_start": 1781495283,
-    "total_seconds": 50860
+    "total_seconds": 53807
   },
   "adelover01": {
     "week_seconds": 13597,
@@ -3955,9 +3955,9 @@
     "total_seconds": 578
   },
   "azuremc": {
-    "week_seconds": 4725,
+    "week_seconds": 4756,
     "week_start": 1781611008,
-    "total_seconds": 4725
+    "total_seconds": 4756
   },
   "therewalker": {
     "week_seconds": 46089,
@@ -5863,5 +5863,10 @@
     "week_seconds": 119,
     "week_start": 1781758289,
     "total_seconds": 119
+  },
+  "megan_6900": {
+    "week_seconds": 0,
+    "week_start": 1781758991,
+    "total_seconds": 0
   }
 }
