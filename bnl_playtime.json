@@ -815,9 +815,9 @@
     "total_seconds": 63640
   },
   "gnathope": {
-    "week_seconds": 58742,
+    "week_seconds": 58817,
     "week_start": 1781483765,
-    "total_seconds": 58742
+    "total_seconds": 58817
   },
   "freeblade999": {
     "week_seconds": 38124,
@@ -1655,9 +1655,9 @@
     "total_seconds": 23117
   },
   "voidvin": {
-    "week_seconds": 54219,
+    "week_seconds": 55919,
     "week_start": 1781509638,
-    "total_seconds": 54219
+    "total_seconds": 55919
   },
   "lordofthepig449": {
     "week_seconds": 9341,
@@ -6158,5 +6158,10 @@
     "week_seconds": 4,
     "week_start": 1781804200,
     "total_seconds": 4
+  },
+  "sypher1753": {
+    "week_seconds": 0,
+    "week_start": 1781804389,
+    "total_seconds": 0
   }
 }
