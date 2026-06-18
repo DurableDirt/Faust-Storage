@@ -1985,9 +1985,9 @@
     "total_seconds": 6364
   },
   "shockeddd": {
-    "week_seconds": 30417,
+    "week_seconds": 30486,
     "week_start": 1781522313,
-    "total_seconds": 30417
+    "total_seconds": 30486
   },
   "pl_y3r": {
     "week_seconds": 23713,
@@ -6008,5 +6008,10 @@
     "week_seconds": 31,
     "week_start": 1781785228,
     "total_seconds": 31
+  },
+  "rirochuro": {
+    "week_seconds": 0,
+    "week_start": 1781785801,
+    "total_seconds": 0
   }
 }
