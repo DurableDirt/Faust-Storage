@@ -115,9 +115,9 @@
     "total_seconds": 14813
   },
   "xjetistuff": {
-    "week_seconds": 16078,
+    "week_seconds": 23684,
     "week_start": 1781475510,
-    "total_seconds": 16078
+    "total_seconds": 23684
   },
   "popshotx9": {
     "week_seconds": 1010,
@@ -3635,9 +3635,9 @@
     "total_seconds": 988
   },
   "dj121739": {
-    "week_seconds": 121566,
+    "week_seconds": 131353,
     "week_start": 1781576437,
-    "total_seconds": 121566
+    "total_seconds": 131353
   },
   "gaming_alex7": {
     "week_seconds": 34,
@@ -6057,6 +6057,11 @@
   "exeplex": {
     "week_seconds": 0,
     "week_start": 1781793159,
+    "total_seconds": 0
+  },
+  "captainspacerat": {
+    "week_seconds": 0,
+    "week_start": 1781794144,
     "total_seconds": 0
   }
 }
