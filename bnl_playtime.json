@@ -1655,9 +1655,9 @@
     "total_seconds": 23117
   },
   "voidvin": {
-    "week_seconds": 55919,
+    "week_seconds": 56095,
     "week_start": 1781509638,
-    "total_seconds": 55919
+    "total_seconds": 56095
   },
   "lordofthepig449": {
     "week_seconds": 9341,
@@ -4930,9 +4930,9 @@
     "total_seconds": 51
   },
   "lasady": {
-    "week_seconds": 418,
+    "week_seconds": 630,
     "week_start": 1781677070,
-    "total_seconds": 418
+    "total_seconds": 630
   },
   "silenthunterx": {
     "week_seconds": 1385,
@@ -6168,5 +6168,10 @@
     "week_seconds": 143,
     "week_start": 1781804633,
     "total_seconds": 143
+  },
+  "caikis": {
+    "week_seconds": 0,
+    "week_start": 1781804908,
+    "total_seconds": 0
   }
 }
