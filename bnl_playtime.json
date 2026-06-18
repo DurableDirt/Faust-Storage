@@ -1500,9 +1500,9 @@
     "total_seconds": 3061
   },
   "innatee": {
-    "week_seconds": 96319,
+    "week_seconds": 96350,
     "week_start": 1781500068,
-    "total_seconds": 96319
+    "total_seconds": 96350
   },
   "arbiteradvit": {
     "week_seconds": 12656,
@@ -5848,5 +5848,10 @@
     "week_seconds": 411,
     "week_start": 1781756155,
     "total_seconds": 411
+  },
+  "seekerofthedark": {
+    "week_seconds": 0,
+    "week_start": 1781757147,
+    "total_seconds": 0
   }
 }
