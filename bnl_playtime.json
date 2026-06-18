@@ -3555,9 +3555,9 @@
     "total_seconds": 13341
   },
   "peregri": {
-    "week_seconds": 6783,
+    "week_seconds": 11754,
     "week_start": 1781570781,
-    "total_seconds": 6783
+    "total_seconds": 11754
   },
   "cinturoncadena": {
     "week_seconds": 7175,
@@ -5732,6 +5732,11 @@
   "kinekitsunee": {
     "week_seconds": 0,
     "week_start": 1781747247,
+    "total_seconds": 0
+  },
+  "uraumi": {
+    "week_seconds": 0,
+    "week_start": 1781747623,
     "total_seconds": 0
   }
 }
