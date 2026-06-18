@@ -2325,9 +2325,9 @@
     "total_seconds": 120
   },
   "bluechickpro": {
-    "week_seconds": 17368,
+    "week_seconds": 17676,
     "week_start": 1781531619,
-    "total_seconds": 17368
+    "total_seconds": 17676
   },
   "xa_n": {
     "week_seconds": 4196,
@@ -6297,6 +6297,11 @@
   "spenpaidesu1": {
     "week_seconds": 0,
     "week_start": 1781809657,
+    "total_seconds": 0
+  },
+  "space90": {
+    "week_seconds": 0,
+    "week_start": 1781809774,
     "total_seconds": 0
   }
 }
