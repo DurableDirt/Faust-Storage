@@ -695,9 +695,9 @@
     "total_seconds": 13356
   },
   "mr_kalboy": {
-    "week_seconds": 2170,
+    "week_seconds": 2904,
     "week_start": 1781482170,
-    "total_seconds": 2170
+    "total_seconds": 2904
   },
   "baro_mortis": {
     "week_seconds": 9586,
@@ -1570,9 +1570,9 @@
     "total_seconds": 14042
   },
   "physicsgamer": {
-    "week_seconds": 81303,
+    "week_seconds": 81336,
     "week_start": 1781504070,
-    "total_seconds": 81303
+    "total_seconds": 81336
   },
   "_2k42_": {
     "week_seconds": 44671,
@@ -5722,6 +5722,11 @@
   "binks4362": {
     "week_seconds": 0,
     "week_start": 1781746852,
+    "total_seconds": 0
+  },
+  "black5319": {
+    "week_seconds": 0,
+    "week_start": 1781747096,
     "total_seconds": 0
   }
 }
