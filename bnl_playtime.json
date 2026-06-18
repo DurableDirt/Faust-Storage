@@ -5773,5 +5773,10 @@
     "week_seconds": 0,
     "week_start": 1781750422,
     "total_seconds": 0
+  },
+  "hxrnxt": {
+    "week_seconds": 3,
+    "week_start": 1781750601,
+    "total_seconds": 3
   }
 }
