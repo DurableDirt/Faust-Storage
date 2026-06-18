@@ -2045,9 +2045,9 @@
     "total_seconds": 61987
   },
   "nareik01": {
-    "week_seconds": 9265,
+    "week_seconds": 11916,
     "week_start": 1781524184,
-    "total_seconds": 9265
+    "total_seconds": 11916
   },
   "busy_donut": {
     "week_seconds": 8015,
@@ -6042,6 +6042,11 @@
   "moondemon19015": {
     "week_seconds": 0,
     "week_start": 1781792166,
+    "total_seconds": 0
+  },
+  "meonumber1": {
+    "week_seconds": 0,
+    "week_start": 1781792272,
     "total_seconds": 0
   }
 }
