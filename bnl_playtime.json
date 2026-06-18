@@ -4265,9 +4265,9 @@
     "total_seconds": 3384
   },
   "tallestthetall": {
-    "week_seconds": 109803,
+    "week_seconds": 117425,
     "week_start": 1781631686,
-    "total_seconds": 109803
+    "total_seconds": 117425
   },
   "stickyfishdaedae": {
     "week_seconds": 103,
@@ -5883,5 +5883,10 @@
     "week_seconds": 0,
     "week_start": 1781761987,
     "total_seconds": 0
+  },
+  "rainfront": {
+    "week_seconds": 28,
+    "week_start": 1781762379,
+    "total_seconds": 28
   }
 }
