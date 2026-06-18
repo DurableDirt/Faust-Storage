@@ -1770,9 +1770,9 @@
     "total_seconds": 16038
   },
   "wandrumdum": {
-    "week_seconds": 41926,
+    "week_seconds": 42547,
     "week_start": 1781514455,
-    "total_seconds": 41926
+    "total_seconds": 42547
   },
   "badwaffles_": {
     "week_seconds": 3765,
@@ -6107,6 +6107,11 @@
   "moqqi2k": {
     "week_seconds": 0,
     "week_start": 1781798591,
+    "total_seconds": 0
+  },
+  "adamjn_": {
+    "week_seconds": 0,
+    "week_start": 1781799636,
     "total_seconds": 0
   }
 }
