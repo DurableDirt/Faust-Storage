@@ -730,9 +730,9 @@
     "total_seconds": 43782
   },
   "marc_1500": {
-    "week_seconds": 30904,
+    "week_seconds": 33815,
     "week_start": 1781482585,
-    "total_seconds": 30904
+    "total_seconds": 33815
   },
   "zipjaw3979": {
     "week_seconds": 276,
@@ -5200,9 +5200,9 @@
     "total_seconds": 12700
   },
   "rayunlucke": {
-    "week_seconds": 43599,
+    "week_seconds": 50088,
     "week_start": 1781708258,
-    "total_seconds": 43599
+    "total_seconds": 50088
   },
   "setablase": {
     "week_seconds": 4189,
@@ -6040,13 +6040,13 @@
     "total_seconds": 576
   },
   "moondemon19015": {
-    "week_seconds": 0,
+    "week_seconds": 144,
     "week_start": 1781792166,
-    "total_seconds": 0
+    "total_seconds": 144
   },
   "meonumber1": {
-    "week_seconds": 0,
+    "week_seconds": 67,
     "week_start": 1781792272,
-    "total_seconds": 0
+    "total_seconds": 67
   }
 }
