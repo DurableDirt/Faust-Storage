@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 152893,
+    "week_seconds": 155152,
     "week_start": 1781479760,
-    "total_seconds": 152893
+    "total_seconds": 155152
   },
   "matilda4k9": {
     "week_seconds": 15832,
@@ -5010,9 +5010,9 @@
     "total_seconds": 4547
   },
   "somerandomkenzol": {
-    "week_seconds": 2332,
+    "week_seconds": 2435,
     "week_start": 1781687953,
-    "total_seconds": 2332
+    "total_seconds": 2435
   },
   "piopiosettepio": {
     "week_seconds": 8466,
@@ -5918,5 +5918,10 @@
     "week_seconds": 615,
     "week_start": 1781774053,
     "total_seconds": 615
+  },
+  "gamergoodplay": {
+    "week_seconds": 0,
+    "week_start": 1781775664,
+    "total_seconds": 0
   }
 }
