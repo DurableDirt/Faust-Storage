@@ -3955,9 +3955,9 @@
     "total_seconds": 578
   },
   "azuremc": {
-    "week_seconds": 4215,
+    "week_seconds": 4248,
     "week_start": 1781611008,
-    "total_seconds": 4215
+    "total_seconds": 4248
   },
   "therewalker": {
     "week_seconds": 46089,
@@ -5768,5 +5768,10 @@
     "week_seconds": 99,
     "week_start": 1781750206,
     "total_seconds": 99
+  },
+  "v4lkyriezz": {
+    "week_seconds": 0,
+    "week_start": 1781750422,
+    "total_seconds": 0
   }
 }
