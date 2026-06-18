@@ -6355,13 +6355,18 @@
     "total_seconds": 0
   },
   "sabreeh": {
-    "week_seconds": 134,
+    "week_seconds": 315,
     "week_start": 1781811826,
-    "total_seconds": 134
+    "total_seconds": 315
   },
   "nemmasis": {
     "week_seconds": 0,
     "week_start": 1781811893,
+    "total_seconds": 0
+  },
+  "tamerlanee": {
+    "week_seconds": 0,
+    "week_start": 1781812130,
     "total_seconds": 0
   }
 }
