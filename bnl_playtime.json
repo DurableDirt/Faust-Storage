@@ -1805,9 +1805,9 @@
     "total_seconds": 20441
   },
   "creepi0n": {
-    "week_seconds": 82621,
+    "week_seconds": 82979,
     "week_start": 1781515950,
-    "total_seconds": 82621
+    "total_seconds": 82979
   },
   "_monor": {
     "week_seconds": 4975,
@@ -6357,6 +6357,11 @@
   "sabreeh": {
     "week_seconds": 0,
     "week_start": 1781811826,
+    "total_seconds": 0
+  },
+  "nemmasis": {
+    "week_seconds": 0,
+    "week_start": 1781811893,
     "total_seconds": 0
   }
 }
