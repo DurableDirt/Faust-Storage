@@ -1765,9 +1765,9 @@
     "total_seconds": 1073
   },
   "bravoocto15": {
-    "week_seconds": 16038,
+    "week_seconds": 20275,
     "week_start": 1781514162,
-    "total_seconds": 16038
+    "total_seconds": 20275
   },
   "wandrumdum": {
     "week_seconds": 42547,
@@ -2285,9 +2285,9 @@
     "total_seconds": 66
   },
   "jr212": {
-    "week_seconds": 44198,
+    "week_seconds": 44292,
     "week_start": 1781530293,
-    "total_seconds": 44198
+    "total_seconds": 44292
   },
   "smagz24": {
     "week_seconds": 28015,
@@ -2695,9 +2695,9 @@
     "total_seconds": 1516
   },
   "nighthed": {
-    "week_seconds": 36541,
+    "week_seconds": 36755,
     "week_start": 1781541617,
-    "total_seconds": 36541
+    "total_seconds": 36755
   },
   "tuffboi674193": {
     "week_seconds": 3322,
@@ -3335,9 +3335,9 @@
     "total_seconds": 1152
   },
   "project_baxti": {
-    "week_seconds": 19732,
+    "week_seconds": 26319,
     "week_start": 1781562706,
-    "total_seconds": 19732
+    "total_seconds": 26319
   },
   "tintin360": {
     "week_seconds": 226,
@@ -6142,6 +6142,11 @@
   "faie": {
     "week_seconds": 0,
     "week_start": 1781802967,
+    "total_seconds": 0
+  },
+  "sirenhead4500": {
+    "week_seconds": 0,
+    "week_start": 1781803121,
     "total_seconds": 0
   }
 }
