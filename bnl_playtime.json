@@ -5525,9 +5525,9 @@
     "total_seconds": 4629
   },
   "ikea_fridge": {
-    "week_seconds": 1569,
+    "week_seconds": 3333,
     "week_start": 1781734021,
-    "total_seconds": 1569
+    "total_seconds": 3333
   },
   "booltonian": {
     "week_seconds": 405,
