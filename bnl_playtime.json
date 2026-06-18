@@ -1570,9 +1570,9 @@
     "total_seconds": 14042
   },
   "physicsgamer": {
-    "week_seconds": 84107,
+    "week_seconds": 84133,
     "week_start": 1781504070,
-    "total_seconds": 84107
+    "total_seconds": 84133
   },
   "_2k42_": {
     "week_seconds": 51736,
@@ -6347,6 +6347,16 @@
   "kampuchea": {
     "week_seconds": 0,
     "week_start": 1781811175,
+    "total_seconds": 0
+  },
+  "radioactive88": {
+    "week_seconds": 0,
+    "week_start": 1781811810,
+    "total_seconds": 0
+  },
+  "sabreeh": {
+    "week_seconds": 0,
+    "week_start": 1781811826,
     "total_seconds": 0
   }
 }
