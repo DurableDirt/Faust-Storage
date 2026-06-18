@@ -1795,9 +1795,9 @@
     "total_seconds": 7545
   },
   "lgamant": {
-    "week_seconds": 24655,
+    "week_seconds": 32605,
     "week_start": 1781515516,
-    "total_seconds": 24655
+    "total_seconds": 32605
   },
   "emilew": {
     "week_seconds": 20441,
@@ -6062,6 +6062,11 @@
   "captainspacerat": {
     "week_seconds": 0,
     "week_start": 1781794144,
+    "total_seconds": 0
+  },
+  "sweetnoodle_": {
+    "week_seconds": 0,
+    "week_start": 1781794532,
     "total_seconds": 0
   }
 }
