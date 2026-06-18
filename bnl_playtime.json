@@ -1655,9 +1655,9 @@
     "total_seconds": 22232
   },
   "voidvin": {
-    "week_seconds": 48521,
+    "week_seconds": 52006,
     "week_start": 1781509638,
-    "total_seconds": 48521
+    "total_seconds": 52006
   },
   "lordofthepig449": {
     "week_seconds": 9230,
@@ -5910,9 +5910,9 @@
     "total_seconds": 3323
   },
   "br_brine": {
-    "week_seconds": 2772,
+    "week_seconds": 3074,
     "week_start": 1781772668,
-    "total_seconds": 2772
+    "total_seconds": 3074
   },
   "jisaku": {
     "week_seconds": 615,
@@ -6012,6 +6012,11 @@
   "rirochuro": {
     "week_seconds": 0,
     "week_start": 1781785801,
+    "total_seconds": 0
+  },
+  "phexx_raigen": {
+    "week_seconds": 0,
+    "week_start": 1781786923,
     "total_seconds": 0
   }
 }
