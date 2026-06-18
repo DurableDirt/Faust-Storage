@@ -175,9 +175,9 @@
     "total_seconds": 7579
   },
   "therisewarrior16": {
-    "week_seconds": 46240,
+    "week_seconds": 47296,
     "week_start": 1781476133,
-    "total_seconds": 46240
+    "total_seconds": 47296
   },
   "pasteldepapa777": {
     "week_seconds": 26870,
@@ -5752,6 +5752,11 @@
   "_zedacted_": {
     "week_seconds": 0,
     "week_start": 1781749265,
+    "total_seconds": 0
+  },
+  "stxvix": {
+    "week_seconds": 0,
+    "week_start": 1781749342,
     "total_seconds": 0
   }
 }
