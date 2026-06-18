@@ -940,9 +940,9 @@
     "total_seconds": 80149
   },
   "x1025": {
-    "week_seconds": 201685,
+    "week_seconds": 212149,
     "week_start": 1781485724,
-    "total_seconds": 201685
+    "total_seconds": 212149
   },
   "xcios": {
     "week_seconds": 6088,
@@ -6210,9 +6210,9 @@
     "total_seconds": 0
   },
   "sv2drifttdv": {
-    "week_seconds": 0,
+    "week_seconds": 402,
     "week_start": 1781806189,
-    "total_seconds": 0
+    "total_seconds": 402
   },
   "tappedcloud": {
     "week_seconds": 0,
