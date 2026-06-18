@@ -1505,9 +1505,9 @@
     "total_seconds": 114871
   },
   "arbiteradvit": {
-    "week_seconds": 14256,
+    "week_seconds": 14290,
     "week_start": 1781500251,
-    "total_seconds": 14256
+    "total_seconds": 14290
   },
   "t0mcat1": {
     "week_seconds": 110,
@@ -1660,9 +1660,9 @@
     "total_seconds": 48521
   },
   "lordofthepig449": {
-    "week_seconds": 8658,
+    "week_seconds": 8722,
     "week_start": 1781509657,
-    "total_seconds": 8658
+    "total_seconds": 8722
   },
   "polysemic": {
     "week_seconds": 28368,
@@ -6002,6 +6002,11 @@
   "jediharley": {
     "week_seconds": 0,
     "week_start": 1781784748,
+    "total_seconds": 0
+  },
+  "chuddypc": {
+    "week_seconds": 0,
+    "week_start": 1781785228,
     "total_seconds": 0
   }
 }
