@@ -475,9 +475,9 @@
     "total_seconds": 146692
   },
   "tntfortress": {
-    "week_seconds": 69490,
+    "week_seconds": 69797,
     "week_start": 1781479375,
-    "total_seconds": 69490
+    "total_seconds": 69797
   },
   "crafterkid50009": {
     "week_seconds": 5060,
@@ -3090,9 +3090,9 @@
     "total_seconds": 26477
   },
   "programmergod": {
-    "week_seconds": 230657,
+    "week_seconds": 231954,
     "week_start": 1781554499,
-    "total_seconds": 230657
+    "total_seconds": 231954
   },
   "monkeyaceparagon": {
     "week_seconds": 21,
@@ -6383,5 +6383,10 @@
     "week_seconds": 306,
     "week_start": 1781814215,
     "total_seconds": 306
+  },
+  "vuppie": {
+    "week_seconds": 0,
+    "week_start": 1781814803,
+    "total_seconds": 0
   }
 }
