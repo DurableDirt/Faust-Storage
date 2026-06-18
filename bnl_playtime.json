@@ -1360,9 +1360,9 @@
     "total_seconds": 28666
   },
   "c4rbonello": {
-    "week_seconds": 1138,
+    "week_seconds": 2829,
     "week_start": 1781494889,
-    "total_seconds": 1138
+    "total_seconds": 2829
   },
   "rammyls": {
     "week_seconds": 62357,
@@ -1885,9 +1885,9 @@
     "total_seconds": 30
   },
   "gidein": {
-    "week_seconds": 85163,
+    "week_seconds": 87993,
     "week_start": 1781518844,
-    "total_seconds": 85163
+    "total_seconds": 87993
   },
   "londara": {
     "week_seconds": 1120,
@@ -6005,8 +6005,8 @@
     "total_seconds": 0
   },
   "chuddypc": {
-    "week_seconds": 0,
+    "week_seconds": 31,
     "week_start": 1781785228,
-    "total_seconds": 0
+    "total_seconds": 31
   }
 }
