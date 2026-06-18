@@ -5985,13 +5985,18 @@
     "total_seconds": 0
   },
   "what777": {
-    "week_seconds": 127,
+    "week_seconds": 308,
     "week_start": 1781783211,
-    "total_seconds": 127
+    "total_seconds": 308
   },
   "arealfriedwing": {
-    "week_seconds": 0,
+    "week_seconds": 218,
     "week_start": 1781783345,
+    "total_seconds": 218
+  },
+  "jufo__": {
+    "week_seconds": 0,
+    "week_start": 1781783527,
     "total_seconds": 0
   }
 }
