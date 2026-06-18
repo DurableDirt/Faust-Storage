@@ -400,9 +400,9 @@
     "total_seconds": 6615
   },
   "uprisingmax": {
-    "week_seconds": 41343,
+    "week_seconds": 43360,
     "week_start": 1781478140,
-    "total_seconds": 41343
+    "total_seconds": 43360
   },
   "freshoxygenair": {
     "week_seconds": 5905,
@@ -415,9 +415,9 @@
     "total_seconds": 396
   },
   "maverick1351": {
-    "week_seconds": 6335,
+    "week_seconds": 9597,
     "week_start": 1781478196,
-    "total_seconds": 6335
+    "total_seconds": 9597
   },
   "hg__80": {
     "week_seconds": 128943,
@@ -475,9 +475,9 @@
     "total_seconds": 116573
   },
   "tntfortress": {
-    "week_seconds": 61011,
+    "week_seconds": 61269,
     "week_start": 1781479375,
-    "total_seconds": 61011
+    "total_seconds": 61269
   },
   "crafterkid50009": {
     "week_seconds": 5060,
@@ -5668,5 +5668,10 @@
     "week_seconds": 48,
     "week_start": 1781742074,
     "total_seconds": 48
+  },
+  "horpla": {
+    "week_seconds": 22,
+    "week_start": 1781742354,
+    "total_seconds": 22
   }
 }
