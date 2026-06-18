@@ -1380,9 +1380,9 @@
     "total_seconds": 95665
   },
   "luin": {
-    "week_seconds": 5833,
+    "week_seconds": 5880,
     "week_start": 1781495818,
-    "total_seconds": 5833
+    "total_seconds": 5880
   },
   "sommdummy": {
     "week_seconds": 9863,
@@ -6028,5 +6028,10 @@
     "week_seconds": 34,
     "week_start": 1781788617,
     "total_seconds": 34
+  },
+  "revazius": {
+    "week_seconds": 0,
+    "week_start": 1781790528,
+    "total_seconds": 0
   }
 }
