@@ -4445,9 +4445,9 @@
     "total_seconds": 7999
   },
   "blackoutknight": {
-    "week_seconds": 6183,
+    "week_seconds": 7483,
     "week_start": 1781638415,
-    "total_seconds": 6183
+    "total_seconds": 7483
   },
   "xbitzl": {
     "week_seconds": 9519,
@@ -6160,8 +6160,8 @@
     "total_seconds": 4
   },
   "sypher1753": {
-    "week_seconds": 0,
+    "week_seconds": 79,
     "week_start": 1781804389,
-    "total_seconds": 0
+    "total_seconds": 79
   }
 }
