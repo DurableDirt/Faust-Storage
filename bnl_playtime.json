@@ -450,9 +450,9 @@
     "total_seconds": 90504
   },
   "mrtnt1925": {
-    "week_seconds": 86287,
+    "week_seconds": 86749,
     "week_start": 1781478966,
-    "total_seconds": 86287
+    "total_seconds": 86749
   },
   "axsld": {
     "week_seconds": 27164,
@@ -6427,6 +6427,16 @@
   "dezza__": {
     "week_seconds": 0,
     "week_start": 1781816751,
+    "total_seconds": 0
+  },
+  "iakkovos": {
+    "week_seconds": 0,
+    "week_start": 1781817004,
+    "total_seconds": 0
+  },
+  "ieru": {
+    "week_seconds": 0,
+    "week_start": 1781817019,
     "total_seconds": 0
   }
 }
