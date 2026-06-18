@@ -2790,9 +2790,9 @@
     "total_seconds": 14860
   },
   "sirboss001": {
-    "week_seconds": 46248,
+    "week_seconds": 47374,
     "week_start": 1781545653,
-    "total_seconds": 46248
+    "total_seconds": 47374
   },
   "vortexx_xq": {
     "week_seconds": 12,
@@ -3965,9 +3965,9 @@
     "total_seconds": 46089
   },
   "elpaconcio": {
-    "week_seconds": 12478,
+    "week_seconds": 18186,
     "week_start": 1781612117,
-    "total_seconds": 12478
+    "total_seconds": 18186
   },
   "mclist": {
     "week_seconds": 119,
@@ -5807,6 +5807,11 @@
   "harmonlca": {
     "week_seconds": 0,
     "week_start": 1781753100,
+    "total_seconds": 0
+  },
+  "thinker33": {
+    "week_seconds": 0,
+    "week_start": 1781753362,
     "total_seconds": 0
   }
 }
