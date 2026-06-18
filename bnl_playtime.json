@@ -1345,9 +1345,9 @@
     "total_seconds": 50811
   },
   "choripancaliente": {
-    "week_seconds": 35853,
+    "week_seconds": 38882,
     "week_start": 1781493956,
-    "total_seconds": 35853
+    "total_seconds": 38882
   },
   "magicmars345": {
     "week_seconds": 50966,
@@ -5705,9 +5705,9 @@
     "total_seconds": 10
   },
   "videothunder44": {
-    "week_seconds": 399,
+    "week_seconds": 539,
     "week_start": 1781746580,
-    "total_seconds": 399
+    "total_seconds": 539
   },
   "omaknight": {
     "week_seconds": 0,
@@ -5728,5 +5728,10 @@
     "week_seconds": 37,
     "week_start": 1781747096,
     "total_seconds": 37
+  },
+  "kinekitsunee": {
+    "week_seconds": 0,
+    "week_start": 1781747247,
+    "total_seconds": 0
   }
 }
