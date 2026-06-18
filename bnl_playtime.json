@@ -2115,9 +2115,9 @@
     "total_seconds": 70617
   },
   "trizzzx": {
-    "week_seconds": 28217,
+    "week_seconds": 30928,
     "week_start": 1781526367,
-    "total_seconds": 28217
+    "total_seconds": 30928
   },
   "reffelruz": {
     "week_seconds": 6549,
@@ -6522,6 +6522,11 @@
   "aushankazombie": {
     "week_seconds": 0,
     "week_start": 1781824187,
+    "total_seconds": 0
+  },
+  "sigmaflash": {
+    "week_seconds": 0,
+    "week_start": 1781824286,
     "total_seconds": 0
   }
 }
