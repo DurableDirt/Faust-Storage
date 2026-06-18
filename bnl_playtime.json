@@ -180,9 +180,9 @@
     "total_seconds": 55245
   },
   "pasteldepapa777": {
-    "week_seconds": 30752,
+    "week_seconds": 31091,
     "week_start": 1781476144,
-    "total_seconds": 30752
+    "total_seconds": 31091
   },
   "ahrimanne": {
     "week_seconds": 41790,
@@ -6217,6 +6217,11 @@
   "tappedcloud": {
     "week_seconds": 0,
     "week_start": 1781806209,
+    "total_seconds": 0
+  },
+  "cantabmyrtle": {
+    "week_seconds": 0,
+    "week_start": 1781806571,
     "total_seconds": 0
   }
 }
