@@ -2060,9 +2060,9 @@
     "total_seconds": 5
   },
   "robomagical732": {
-    "week_seconds": 37530,
+    "week_seconds": 44559,
     "week_start": 1781524434,
-    "total_seconds": 37530
+    "total_seconds": 44559
   },
   "whisky_1": {
     "week_seconds": 7186,
@@ -3030,9 +3030,9 @@
     "total_seconds": 2483
   },
   "capollie": {
-    "week_seconds": 24094,
+    "week_seconds": 24179,
     "week_start": 1781552442,
-    "total_seconds": 24094
+    "total_seconds": 24179
   },
   "thyme13": {
     "week_seconds": 10035,
@@ -6148,5 +6148,10 @@
     "week_seconds": 0,
     "week_start": 1781803121,
     "total_seconds": 0
+  },
+  "average_v2": {
+    "week_seconds": 45,
+    "week_start": 1781803701,
+    "total_seconds": 45
   }
 }
