@@ -1270,9 +1270,9 @@
     "total_seconds": 26848
   },
   "regencyshadow40": {
-    "week_seconds": 5034,
+    "week_seconds": 5097,
     "week_start": 1781491859,
-    "total_seconds": 5034
+    "total_seconds": 5097
   },
   "yatzplz": {
     "week_seconds": 10,
@@ -3605,9 +3605,9 @@
     "total_seconds": 1509
   },
   "squidhasthebad": {
-    "week_seconds": 4658,
+    "week_seconds": 9026,
     "week_start": 1781574226,
-    "total_seconds": 4658
+    "total_seconds": 9026
   },
   "nicholas171717": {
     "week_seconds": 1170,
@@ -5762,6 +5762,11 @@
   "_domain": {
     "week_seconds": 0,
     "week_start": 1781750091,
+    "total_seconds": 0
+  },
+  "bonjour": {
+    "week_seconds": 0,
+    "week_start": 1781750206,
     "total_seconds": 0
   }
 }
