@@ -815,9 +815,9 @@
     "total_seconds": 63640
   },
   "gnathope": {
-    "week_seconds": 59661,
+    "week_seconds": 60027,
     "week_start": 1781483765,
-    "total_seconds": 59661
+    "total_seconds": 60027
   },
   "freeblade999": {
     "week_seconds": 38124,
@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 129029,
+    "week_seconds": 129062,
     "week_start": 1781513574,
-    "total_seconds": 129029
+    "total_seconds": 129062
   },
   "stavros_ell": {
     "week_seconds": 14970,
@@ -6248,5 +6248,10 @@
     "week_seconds": 20,
     "week_start": 1781808338,
     "total_seconds": 20
+  },
+  "sputtslayer": {
+    "week_seconds": 0,
+    "week_start": 1781808456,
+    "total_seconds": 0
   }
 }
