@@ -2635,9 +2635,9 @@
     "total_seconds": 31498
   },
   "hegghogaming": {
-    "week_seconds": 23437,
+    "week_seconds": 23629,
     "week_start": 1781540272,
-    "total_seconds": 23437
+    "total_seconds": 23629
   },
   "arnacious": {
     "week_seconds": 3960,
@@ -4420,9 +4420,9 @@
     "total_seconds": 2834
   },
   "formidable01": {
-    "week_seconds": 4516,
+    "week_seconds": 5902,
     "week_start": 1781637068,
-    "total_seconds": 4516
+    "total_seconds": 5902
   },
   "spacepaww": {
     "week_seconds": 20501,
@@ -4800,9 +4800,9 @@
     "total_seconds": 25
   },
   "vadimblin": {
-    "week_seconds": 6129,
+    "week_seconds": 8690,
     "week_start": 1781663064,
-    "total_seconds": 6129
+    "total_seconds": 8690
   },
   "yummyspacebar": {
     "week_seconds": 17623,
@@ -6437,6 +6437,11 @@
   "ieru": {
     "week_seconds": 0,
     "week_start": 1781817019,
+    "total_seconds": 0
+  },
+  "wlasium": {
+    "week_seconds": 0,
+    "week_start": 1781817144,
     "total_seconds": 0
   }
 }
