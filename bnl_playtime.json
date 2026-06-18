@@ -1985,9 +1985,9 @@
     "total_seconds": 6364
   },
   "shockeddd": {
-    "week_seconds": 39325,
+    "week_seconds": 39792,
     "week_start": 1781522313,
-    "total_seconds": 39325
+    "total_seconds": 39792
   },
   "pl_y3r": {
     "week_seconds": 32960,
@@ -6232,6 +6232,11 @@
   "fur": {
     "week_seconds": 0,
     "week_start": 1781807309,
+    "total_seconds": 0
+  },
+  "nfish2021": {
+    "week_seconds": 0,
+    "week_start": 1781807450,
     "total_seconds": 0
   }
 }
