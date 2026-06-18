@@ -1650,9 +1650,9 @@
     "total_seconds": 78676
   },
   "virexil": {
-    "week_seconds": 22232,
+    "week_seconds": 23110,
     "week_start": 1781509271,
-    "total_seconds": 22232
+    "total_seconds": 23110
   },
   "voidvin": {
     "week_seconds": 52006,
@@ -6102,6 +6102,11 @@
   "dj10_": {
     "week_seconds": 0,
     "week_start": 1781798150,
+    "total_seconds": 0
+  },
+  "moqqi2k": {
+    "week_seconds": 0,
+    "week_start": 1781798591,
     "total_seconds": 0
   }
 }
