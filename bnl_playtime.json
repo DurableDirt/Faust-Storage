@@ -85,9 +85,9 @@
     "total_seconds": 49292
   },
   "cunningwind6139": {
-    "week_seconds": 42184,
+    "week_seconds": 46270,
     "week_start": 1781475069,
-    "total_seconds": 42184
+    "total_seconds": 46270
   },
   "chips_and_salsa_": {
     "week_seconds": 28614,
@@ -6447,6 +6447,16 @@
   "dimbrain1038": {
     "week_seconds": 0,
     "week_start": 1781817177,
+    "total_seconds": 0
+  },
+  "seriousswimmerr": {
+    "week_seconds": 0,
+    "week_start": 1781817213,
+    "total_seconds": 0
+  },
+  "_echoforce_": {
+    "week_seconds": 0,
+    "week_start": 1781817248,
     "total_seconds": 0
   }
 }
