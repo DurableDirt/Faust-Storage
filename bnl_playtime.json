@@ -1450,9 +1450,9 @@
     "total_seconds": 11341
   },
   "xenoum": {
-    "week_seconds": 54367,
+    "week_seconds": 63197,
     "week_start": 1781497822,
-    "total_seconds": 54367
+    "total_seconds": 63197
   },
   "earrthfall": {
     "week_seconds": 138,
@@ -6270,8 +6270,8 @@
     "total_seconds": 0
   },
   "mr_g00berink": {
-    "week_seconds": 0,
+    "week_seconds": 427,
     "week_start": 1781808788,
-    "total_seconds": 0
+    "total_seconds": 427
   }
 }
