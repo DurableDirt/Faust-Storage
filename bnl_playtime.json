@@ -5698,5 +5698,10 @@
     "week_seconds": 3,
     "week_start": 1781745634,
     "total_seconds": 3
+  },
+  "spoopin_": {
+    "week_seconds": 10,
+    "week_start": 1781746397,
+    "total_seconds": 10
   }
 }
