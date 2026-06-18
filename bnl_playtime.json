@@ -565,9 +565,9 @@
     "total_seconds": 39254
   },
   "graydawn_": {
-    "week_seconds": 136457,
+    "week_seconds": 139528,
     "week_start": 1781480271,
-    "total_seconds": 136457
+    "total_seconds": 139528
   },
   "angie_dovie111": {
     "week_seconds": 65655,
@@ -6023,5 +6023,10 @@
     "week_seconds": 673,
     "week_start": 1781787737,
     "total_seconds": 673
+  },
+  "wiehies": {
+    "week_seconds": 0,
+    "week_start": 1781788617,
+    "total_seconds": 0
   }
 }
