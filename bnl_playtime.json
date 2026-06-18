@@ -4520,9 +4520,9 @@
     "total_seconds": 4
   },
   "karmacraft21": {
-    "week_seconds": 28591,
+    "week_seconds": 29655,
     "week_start": 1781643707,
-    "total_seconds": 28591
+    "total_seconds": 29655
   },
   "herecomesriley": {
     "week_seconds": 4009,
@@ -6257,6 +6257,16 @@
   "szmajol2": {
     "week_seconds": 0,
     "week_start": 1781808499,
+    "total_seconds": 0
+  },
+  "colenia": {
+    "week_seconds": 0,
+    "week_start": 1781808690,
+    "total_seconds": 0
+  },
+  "111oxonomy111": {
+    "week_seconds": 0,
+    "week_start": 1781808701,
     "total_seconds": 0
   }
 }
