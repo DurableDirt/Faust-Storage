@@ -4725,9 +4725,9 @@
     "total_seconds": 3879
   },
   "arkenx": {
-    "week_seconds": 4764,
+    "week_seconds": 7579,
     "week_start": 1781658998,
-    "total_seconds": 4764
+    "total_seconds": 7579
   },
   "enjoyer4": {
     "week_seconds": 507,
@@ -5677,6 +5677,11 @@
   "tombloc_": {
     "week_seconds": 0,
     "week_start": 1781742853,
+    "total_seconds": 0
+  },
+  "snowedbear": {
+    "week_seconds": 0,
+    "week_start": 1781742921,
     "total_seconds": 0
   }
 }
