@@ -965,9 +965,9 @@
     "total_seconds": 123
   },
   "sdorr": {
-    "week_seconds": 36476,
+    "week_seconds": 40643,
     "week_start": 1781486048,
-    "total_seconds": 36476
+    "total_seconds": 40643
   },
   "cynical_darling": {
     "week_seconds": 92898,
@@ -5802,6 +5802,11 @@
   "lil_fayth": {
     "week_seconds": 0,
     "week_start": 1781753071,
+    "total_seconds": 0
+  },
+  "harmonlca": {
+    "week_seconds": 0,
+    "week_start": 1781753100,
     "total_seconds": 0
   }
 }
