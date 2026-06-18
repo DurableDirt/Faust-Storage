@@ -3530,9 +3530,9 @@
     "total_seconds": 71
   },
   "_banana_blu_": {
-    "week_seconds": 75097,
+    "week_seconds": 75845,
     "week_start": 1781570022,
-    "total_seconds": 75097
+    "total_seconds": 75845
   },
   "theboatsmith": {
     "week_seconds": 15086,
@@ -6175,8 +6175,13 @@
     "total_seconds": 0
   },
   "deadliii": {
-    "week_seconds": 64,
+    "week_seconds": 96,
     "week_start": 1781804925,
-    "total_seconds": 64
+    "total_seconds": 96
+  },
+  "bendevnull": {
+    "week_seconds": 49,
+    "week_start": 1781805106,
+    "total_seconds": 49
   }
 }
