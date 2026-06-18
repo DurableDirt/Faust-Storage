@@ -470,9 +470,9 @@
     "total_seconds": 39658
   },
   "anotnot": {
-    "week_seconds": 130083,
+    "week_seconds": 131765,
     "week_start": 1781479365,
-    "total_seconds": 130083
+    "total_seconds": 131765
   },
   "tntfortress": {
     "week_seconds": 62595,
@@ -5865,8 +5865,8 @@
     "total_seconds": 119
   },
   "megan_6900": {
-    "week_seconds": 0,
+    "week_seconds": 86,
     "week_start": 1781758991,
-    "total_seconds": 0
+    "total_seconds": 86
   }
 }
