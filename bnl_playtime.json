@@ -4355,9 +4355,9 @@
     "total_seconds": 425
   },
   "isqmmy": {
-    "week_seconds": 13857,
+    "week_seconds": 14446,
     "week_start": 1781635408,
-    "total_seconds": 13857
+    "total_seconds": 14446
   },
   "darkbadr": {
     "week_seconds": 2000,
@@ -6463,5 +6463,10 @@
     "week_seconds": 97,
     "week_start": 1781817782,
     "total_seconds": 97
+  },
+  "gemster108": {
+    "week_seconds": 0,
+    "week_start": 1781818157,
+    "total_seconds": 0
   }
 }
