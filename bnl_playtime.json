@@ -5190,9 +5190,9 @@
     "total_seconds": 8719
   },
   "ahmad_elayyen": {
-    "week_seconds": 11257,
+    "week_seconds": 11611,
     "week_start": 1781707844,
-    "total_seconds": 11257
+    "total_seconds": 11611
   },
   "itzhoover": {
     "week_seconds": 12700,
@@ -6153,5 +6153,10 @@
     "week_seconds": 45,
     "week_start": 1781803701,
     "total_seconds": 45
+  },
+  "roaring_thunder": {
+    "week_seconds": 4,
+    "week_start": 1781804200,
+    "total_seconds": 4
   }
 }
