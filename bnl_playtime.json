@@ -175,9 +175,9 @@
     "total_seconds": 7579
   },
   "therisewarrior16": {
-    "week_seconds": 44687,
+    "week_seconds": 44838,
     "week_start": 1781476133,
-    "total_seconds": 44687
+    "total_seconds": 44838
   },
   "pasteldepapa777": {
     "week_seconds": 26870,
@@ -235,9 +235,9 @@
     "total_seconds": 32092
   },
   "hentlol": {
-    "week_seconds": 65999,
+    "week_seconds": 66701,
     "week_start": 1781476485,
-    "total_seconds": 65999
+    "total_seconds": 66701
   },
   "wasabiwhip": {
     "week_seconds": 14504,
@@ -5712,6 +5712,11 @@
   "omaknight": {
     "week_seconds": 0,
     "week_start": 1781746625,
+    "total_seconds": 0
+  },
+  "rurfu": {
+    "week_seconds": 0,
+    "week_start": 1781746808,
     "total_seconds": 0
   }
 }
