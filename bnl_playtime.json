@@ -1765,9 +1765,9 @@
     "total_seconds": 1073
   },
   "bravoocto15": {
-    "week_seconds": 13031,
+    "week_seconds": 15412,
     "week_start": 1781514162,
-    "total_seconds": 13031
+    "total_seconds": 15412
   },
   "wandrumdum": {
     "week_seconds": 41926,
@@ -5923,5 +5923,10 @@
     "week_seconds": 401,
     "week_start": 1781775664,
     "total_seconds": 401
+  },
+  "immortal_demon4": {
+    "week_seconds": 0,
+    "week_start": 1781776138,
+    "total_seconds": 0
   }
 }
