@@ -1905,9 +1905,9 @@
     "total_seconds": 42797
   },
   "hxrl": {
-    "week_seconds": 37008,
+    "week_seconds": 39746,
     "week_start": 1781519516,
-    "total_seconds": 37008
+    "total_seconds": 39746
   },
   "ech0o_o0": {
     "week_seconds": 6501,
@@ -6302,6 +6302,11 @@
   "space90": {
     "week_seconds": 0,
     "week_start": 1781809774,
+    "total_seconds": 0
+  },
+  "prasatko08": {
+    "week_seconds": 0,
+    "week_start": 1781809861,
     "total_seconds": 0
   }
 }
