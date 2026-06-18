@@ -3520,9 +3520,9 @@
     "total_seconds": 39
   },
   "toxblight": {
-    "week_seconds": 45877,
+    "week_seconds": 57573,
     "week_start": 1781569465,
-    "total_seconds": 45877
+    "total_seconds": 57573
   },
   "faroishere": {
     "week_seconds": 71,
@@ -4195,9 +4195,9 @@
     "total_seconds": 55653
   },
   "junerjun": {
-    "week_seconds": 40537,
+    "week_seconds": 53884,
     "week_start": 1781628892,
-    "total_seconds": 40537
+    "total_seconds": 53884
   },
   "cissonius": {
     "week_seconds": 10825,
@@ -5647,6 +5647,11 @@
   "skippydx": {
     "week_seconds": 0,
     "week_start": 1781741064,
+    "total_seconds": 0
+  },
+  "ultraman2": {
+    "week_seconds": 0,
+    "week_start": 1781741731,
     "total_seconds": 0
   }
 }
