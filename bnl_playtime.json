@@ -650,9 +650,9 @@
     "total_seconds": 15270
   },
   "malafly": {
-    "week_seconds": 82658,
+    "week_seconds": 84928,
     "week_start": 1781481518,
-    "total_seconds": 82658
+    "total_seconds": 84928
   },
   "velares": {
     "week_seconds": 13445,
@@ -1175,9 +1175,9 @@
     "total_seconds": 67733
   },
   "astralchroma": {
-    "week_seconds": 83980,
+    "week_seconds": 84006,
     "week_start": 1781489556,
-    "total_seconds": 83980
+    "total_seconds": 84006
   },
   "kingstell": {
     "week_seconds": 50,
@@ -6075,9 +6075,9 @@
     "total_seconds": 86
   },
   "martink2": {
-    "week_seconds": 3354,
+    "week_seconds": 3413,
     "week_start": 1781796539,
-    "total_seconds": 3354
+    "total_seconds": 3413
   },
   "emieliooo": {
     "week_seconds": 100,
@@ -6430,18 +6430,23 @@
     "total_seconds": 0
   },
   "iakkovos": {
-    "week_seconds": 0,
+    "week_seconds": 158,
     "week_start": 1781817004,
-    "total_seconds": 0
+    "total_seconds": 158
   },
   "ieru": {
-    "week_seconds": 0,
+    "week_seconds": 145,
     "week_start": 1781817019,
-    "total_seconds": 0
+    "total_seconds": 145
   },
   "wlasium": {
     "week_seconds": 0,
     "week_start": 1781817144,
+    "total_seconds": 0
+  },
+  "dimbrain1038": {
+    "week_seconds": 0,
+    "week_start": 1781817177,
     "total_seconds": 0
   }
 }
