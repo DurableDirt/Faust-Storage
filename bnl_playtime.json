@@ -920,9 +920,9 @@
     "total_seconds": 12871
   },
   "way2muchprada": {
-    "week_seconds": 56413,
+    "week_seconds": 58492,
     "week_start": 1781485533,
-    "total_seconds": 56413
+    "total_seconds": 58492
   },
   "thugfork": {
     "week_seconds": 794,
@@ -6497,6 +6497,11 @@
   "klasikrok": {
     "week_seconds": 0,
     "week_start": 1781822169,
+    "total_seconds": 0
+  },
+  "akoki": {
+    "week_seconds": 0,
+    "week_start": 1781822311,
     "total_seconds": 0
   }
 }
