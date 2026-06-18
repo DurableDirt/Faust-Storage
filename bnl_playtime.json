@@ -75,9 +75,9 @@
     "total_seconds": 38556
   },
   "40mm": {
-    "week_seconds": 34840,
+    "week_seconds": 35234,
     "week_start": 1781475020,
-    "total_seconds": 34840
+    "total_seconds": 35234
   },
   "lynx2007": {
     "week_seconds": 49292,
@@ -5430,9 +5430,9 @@
     "total_seconds": 5323
   },
   "_avro_": {
-    "week_seconds": 8171,
+    "week_seconds": 8213,
     "week_start": 1781724715,
-    "total_seconds": 8171
+    "total_seconds": 8213
   },
   "doero": {
     "week_seconds": 25,
@@ -6130,9 +6130,9 @@
     "total_seconds": 19
   },
   "elcebamate": {
-    "week_seconds": 0,
+    "week_seconds": 161,
     "week_start": 1781802167,
-    "total_seconds": 0
+    "total_seconds": 161
   },
   "rocker_x": {
     "week_seconds": 0,
