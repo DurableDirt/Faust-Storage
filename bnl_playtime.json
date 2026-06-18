@@ -50,9 +50,9 @@
     "total_seconds": 24967
   },
   "meenos": {
-    "week_seconds": 94196,
+    "week_seconds": 94841,
     "week_start": 1781474845,
-    "total_seconds": 94196
+    "total_seconds": 94841
   },
   "jadenjb": {
     "week_seconds": 19347,
@@ -6290,8 +6290,13 @@
     "total_seconds": 44
   },
   "shadowframes": {
-    "week_seconds": 0,
+    "week_seconds": 141,
     "week_start": 1781809561,
+    "total_seconds": 141
+  },
+  "spenpaidesu1": {
+    "week_seconds": 0,
+    "week_start": 1781809657,
     "total_seconds": 0
   }
 }
