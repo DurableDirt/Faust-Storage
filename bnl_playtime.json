@@ -270,9 +270,9 @@
     "total_seconds": 8506
   },
   "dasonishere2": {
-    "week_seconds": 66536,
+    "week_seconds": 77631,
     "week_start": 1781476841,
-    "total_seconds": 66536
+    "total_seconds": 77631
   },
   "peyt1212": {
     "week_seconds": 4809,
@@ -3125,9 +3125,9 @@
     "total_seconds": 1260
   },
   "rantha": {
-    "week_seconds": 53855,
+    "week_seconds": 81453,
     "week_start": 1781555224,
-    "total_seconds": 53855
+    "total_seconds": 81453
   },
   "blankestatlas": {
     "week_seconds": 4175,
@@ -5520,9 +5520,9 @@
     "total_seconds": 3191
   },
   "ascant": {
-    "week_seconds": 4629,
+    "week_seconds": 6507,
     "week_start": 1781734019,
-    "total_seconds": 4629
+    "total_seconds": 6507
   },
   "ikea_fridge": {
     "week_seconds": 3896,
@@ -5828,5 +5828,10 @@
     "week_seconds": 0,
     "week_start": 1781755340,
     "total_seconds": 0
+  },
+  "crispierpoem2": {
+    "week_seconds": 10,
+    "week_start": 1781755538,
+    "total_seconds": 10
   }
 }
