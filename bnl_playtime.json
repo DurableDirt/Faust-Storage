@@ -1190,9 +1190,9 @@
     "total_seconds": 25192
   },
   "gubukiv": {
-    "week_seconds": 74329,
+    "week_seconds": 74756,
     "week_start": 1781489878,
-    "total_seconds": 74329
+    "total_seconds": 74756
   },
   "some545": {
     "week_seconds": 35,
@@ -1520,9 +1520,9 @@
     "total_seconds": 29675
   },
   "_jaek": {
-    "week_seconds": 64523,
+    "week_seconds": 64524,
     "week_start": 1781501895,
-    "total_seconds": 64523
+    "total_seconds": 64524
   },
   "deuteriumoxide1": {
     "week_seconds": 26657,
@@ -3955,9 +3955,9 @@
     "total_seconds": 578
   },
   "azuremc": {
-    "week_seconds": 4508,
+    "week_seconds": 4539,
     "week_start": 1781611008,
-    "total_seconds": 4508
+    "total_seconds": 4539
   },
   "therewalker": {
     "week_seconds": 46089,
@@ -5853,5 +5853,10 @@
     "week_seconds": 517,
     "week_start": 1781757147,
     "total_seconds": 517
+  },
+  "latermchange": {
+    "week_seconds": 0,
+    "week_start": 1781757979,
+    "total_seconds": 0
   }
 }
