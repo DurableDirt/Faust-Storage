@@ -920,9 +920,9 @@
     "total_seconds": 12871
   },
   "way2muchprada": {
-    "week_seconds": 44551,
+    "week_seconds": 50584,
     "week_start": 1781485533,
-    "total_seconds": 44551
+    "total_seconds": 50584
   },
   "thugfork": {
     "week_seconds": 794,
@@ -5877,6 +5877,11 @@
   "jacob43246769": {
     "week_seconds": 0,
     "week_start": 1781760849,
+    "total_seconds": 0
+  },
+  "mtjava": {
+    "week_seconds": 0,
+    "week_start": 1781761987,
     "total_seconds": 0
   }
 }
