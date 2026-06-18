@@ -80,9 +80,9 @@
     "total_seconds": 35713
   },
   "lynx2007": {
-    "week_seconds": 51998,
+    "week_seconds": 52180,
     "week_start": 1781475059,
-    "total_seconds": 51998
+    "total_seconds": 52180
   },
   "cunningwind6139": {
     "week_seconds": 52004,
@@ -3700,9 +3700,9 @@
     "total_seconds": 67
   },
   "icb_72": {
-    "week_seconds": 23664,
+    "week_seconds": 30557,
     "week_start": 1781579862,
-    "total_seconds": 23664
+    "total_seconds": 30557
   },
   "killtheinternet": {
     "week_seconds": 223,
@@ -6490,9 +6490,9 @@
     "total_seconds": 756
   },
   "femboyfangirl": {
-    "week_seconds": 1801,
+    "week_seconds": 3470,
     "week_start": 1781821414,
-    "total_seconds": 1801
+    "total_seconds": 3470
   },
   "klasikrok": {
     "week_seconds": 280,
@@ -6538,5 +6538,10 @@
     "week_seconds": 34,
     "week_start": 1781825348,
     "total_seconds": 34
+  },
+  "devvyvr": {
+    "week_seconds": 0,
+    "week_start": 1781825440,
+    "total_seconds": 0
   }
 }
