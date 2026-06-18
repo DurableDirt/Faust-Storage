@@ -1930,9 +1930,9 @@
     "total_seconds": 56341
   },
   "impadme5996": {
-    "week_seconds": 9365,
+    "week_seconds": 10630,
     "week_start": 1781520572,
-    "total_seconds": 9365
+    "total_seconds": 10630
   },
   "walkers": {
     "week_seconds": 17620,
@@ -5953,5 +5953,15 @@
     "week_seconds": 48,
     "week_start": 1781778897,
     "total_seconds": 48
+  },
+  "bakrinii": {
+    "week_seconds": 0,
+    "week_start": 1781779004,
+    "total_seconds": 0
+  },
+  "capibar": {
+    "week_seconds": 34,
+    "week_start": 1781779005,
+    "total_seconds": 34
   }
 }
