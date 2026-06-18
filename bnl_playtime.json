@@ -6325,9 +6325,9 @@
     "total_seconds": 5
   },
   "moueleux": {
-    "week_seconds": 0,
+    "week_seconds": 755,
     "week_start": 1781810423,
-    "total_seconds": 0
+    "total_seconds": 755
   },
   "remustg13": {
     "week_seconds": 658,
@@ -6342,6 +6342,11 @@
   "asomb": {
     "week_seconds": 0,
     "week_start": 1781810836,
+    "total_seconds": 0
+  },
+  "kampuchea": {
+    "week_seconds": 0,
+    "week_start": 1781811175,
     "total_seconds": 0
   }
 }
