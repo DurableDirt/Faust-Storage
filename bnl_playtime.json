@@ -380,9 +380,9 @@
     "total_seconds": 39523
   },
   "noctash": {
-    "week_seconds": 21327,
+    "week_seconds": 21360,
     "week_start": 1781477945,
-    "total_seconds": 21327
+    "total_seconds": 21360
   },
   "opriva": {
     "week_seconds": 60998,
@@ -2935,9 +2935,9 @@
     "total_seconds": 1220
   },
   "catmit446": {
-    "week_seconds": 4876,
+    "week_seconds": 5982,
     "week_start": 1781549680,
-    "total_seconds": 4876
+    "total_seconds": 5982
   },
   "dr_bacon_hair": {
     "week_seconds": 20697,
@@ -6050,8 +6050,8 @@
     "total_seconds": 67
   },
   "milesdust": {
-    "week_seconds": 0,
+    "week_seconds": 436,
     "week_start": 1781792415,
-    "total_seconds": 0
+    "total_seconds": 436
   }
 }
