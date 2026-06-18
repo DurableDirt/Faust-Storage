@@ -3180,9 +3180,9 @@
     "total_seconds": 54
   },
   "1stev0": {
-    "week_seconds": 101999,
+    "week_seconds": 103023,
     "week_start": 1781557435,
-    "total_seconds": 101999
+    "total_seconds": 103023
   },
   "jonandr5735": {
     "week_seconds": 322,
@@ -5817,6 +5817,11 @@
   "wolfganglessth3n": {
     "week_seconds": 0,
     "week_start": 1781754644,
+    "total_seconds": 0
+  },
+  "yourguacbabygirl": {
+    "week_seconds": 0,
+    "week_start": 1781755015,
     "total_seconds": 0
   }
 }
