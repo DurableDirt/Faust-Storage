@@ -2980,9 +2980,9 @@
     "total_seconds": 46833
   },
   "dester32": {
-    "week_seconds": 71459,
+    "week_seconds": 80042,
     "week_start": 1781551199,
-    "total_seconds": 71459
+    "total_seconds": 80042
   },
   "nostalgie_": {
     "week_seconds": 1929,
@@ -5897,6 +5897,11 @@
   "majd_the_great": {
     "week_seconds": 0,
     "week_start": 1781767071,
+    "total_seconds": 0
+  },
+  "ivanovic": {
+    "week_seconds": 0,
+    "week_start": 1781767143,
     "total_seconds": 0
   }
 }
