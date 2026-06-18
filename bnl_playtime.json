@@ -2480,9 +2480,9 @@
     "total_seconds": 12305
   },
   "a_penguin_pal": {
-    "week_seconds": 17442,
+    "week_seconds": 18871,
     "week_start": 1781535840,
-    "total_seconds": 17442
+    "total_seconds": 18871
   },
   "emperorashina": {
     "week_seconds": 15482,
@@ -6387,6 +6387,11 @@
   "vuppie": {
     "week_seconds": 0,
     "week_start": 1781814803,
+    "total_seconds": 0
+  },
+  "brvn1": {
+    "week_seconds": 0,
+    "week_start": 1781814916,
     "total_seconds": 0
   }
 }
