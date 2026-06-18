@@ -900,9 +900,9 @@
     "total_seconds": 22478
   },
   "gman5420": {
-    "week_seconds": 15465,
+    "week_seconds": 16718,
     "week_start": 1781485148,
-    "total_seconds": 15465
+    "total_seconds": 16718
   },
   "ifriendiscool": {
     "week_seconds": 82132,
@@ -6460,13 +6460,18 @@
     "total_seconds": 89
   },
   "hashtaghuh": {
-    "week_seconds": 97,
+    "week_seconds": 409,
     "week_start": 1781817782,
-    "total_seconds": 97
+    "total_seconds": 409
   },
   "gemster108": {
     "week_seconds": 0,
     "week_start": 1781818157,
+    "total_seconds": 0
+  },
+  "rabya23": {
+    "week_seconds": 0,
+    "week_start": 1781819136,
     "total_seconds": 0
   }
 }
