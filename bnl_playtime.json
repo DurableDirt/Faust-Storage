@@ -100,9 +100,9 @@
     "total_seconds": 2523
   },
   "fishsticks47": {
-    "week_seconds": 80665,
+    "week_seconds": 86363,
     "week_start": 1781475372,
-    "total_seconds": 80665
+    "total_seconds": 86363
   },
   "slothinasuit": {
     "week_seconds": 113697,
@@ -5872,6 +5872,11 @@
   "peakman2": {
     "week_seconds": 0,
     "week_start": 1781759832,
+    "total_seconds": 0
+  },
+  "jacob43246769": {
+    "week_seconds": 0,
+    "week_start": 1781760849,
     "total_seconds": 0
   }
 }
