@@ -1450,9 +1450,9 @@
     "total_seconds": 11341
   },
   "xenoum": {
-    "week_seconds": 63947,
+    "week_seconds": 66010,
     "week_start": 1781497822,
-    "total_seconds": 63947
+    "total_seconds": 66010
   },
   "earrthfall": {
     "week_seconds": 138,
@@ -6393,5 +6393,10 @@
     "week_seconds": 143,
     "week_start": 1781814916,
     "total_seconds": 143
+  },
+  "atmenphalanx": {
+    "week_seconds": 0,
+    "week_start": 1781815593,
+    "total_seconds": 0
   }
 }
