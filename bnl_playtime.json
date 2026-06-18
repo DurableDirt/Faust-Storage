@@ -4860,9 +4860,9 @@
     "total_seconds": 38
   },
   "altegron": {
-    "week_seconds": 3382,
+    "week_seconds": 3630,
     "week_start": 1781669544,
-    "total_seconds": 3382
+    "total_seconds": 3630
   },
   "flecky47": {
     "week_seconds": 18,
@@ -6473,5 +6473,10 @@
     "week_seconds": 264,
     "week_start": 1781819136,
     "total_seconds": 264
+  },
+  "kokonut_d09": {
+    "week_seconds": 0,
+    "week_start": 1781819413,
+    "total_seconds": 0
   }
 }
