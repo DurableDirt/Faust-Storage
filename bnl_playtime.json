@@ -1755,9 +1755,9 @@
     "total_seconds": 14970
   },
   "facocero09": {
-    "week_seconds": 99581,
+    "week_seconds": 104908,
     "week_start": 1781514012,
-    "total_seconds": 99581
+    "total_seconds": 104908
   },
   "happyfeet4607": {
     "week_seconds": 1073,
@@ -2070,9 +2070,9 @@
     "total_seconds": 7186
   },
   "leonardus07": {
-    "week_seconds": 50235,
+    "week_seconds": 52583,
     "week_start": 1781524847,
-    "total_seconds": 50235
+    "total_seconds": 52583
   },
   "thomasdetrein0_0": {
     "week_seconds": 33376,
@@ -6375,8 +6375,13 @@
     "total_seconds": 0
   },
   "reqwium": {
-    "week_seconds": 72,
+    "week_seconds": 115,
     "week_start": 1781814050,
-    "total_seconds": 72
+    "total_seconds": 115
+  },
+  "max7898": {
+    "week_seconds": 0,
+    "week_start": 1781814215,
+    "total_seconds": 0
   }
 }
