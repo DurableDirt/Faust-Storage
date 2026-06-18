@@ -1695,9 +1695,9 @@
     "total_seconds": 63546
   },
   "masqo_": {
-    "week_seconds": 31056,
+    "week_seconds": 31160,
     "week_start": 1781511452,
-    "total_seconds": 31056
+    "total_seconds": 31160
   },
   "eyestrainz": {
     "week_seconds": 41617,
@@ -2800,9 +2800,9 @@
     "total_seconds": 12
   },
   "sneedchungus": {
-    "week_seconds": 9176,
+    "week_seconds": 13009,
     "week_start": 1781546071,
-    "total_seconds": 9176
+    "total_seconds": 13009
   },
   "koklushz": {
     "week_seconds": 11545,
@@ -6422,6 +6422,11 @@
   "engineeringbean": {
     "week_seconds": 0,
     "week_start": 1781816710,
+    "total_seconds": 0
+  },
+  "dezza__": {
+    "week_seconds": 0,
+    "week_start": 1781816751,
     "total_seconds": 0
   }
 }
