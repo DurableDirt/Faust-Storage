@@ -5485,9 +5485,9 @@
     "total_seconds": 17692
   },
   "lycoros": {
-    "week_seconds": 8850,
+    "week_seconds": 9119,
     "week_start": 1781728490,
-    "total_seconds": 8850
+    "total_seconds": 9119
   },
   "sobn": {
     "week_seconds": 1612,
@@ -6305,8 +6305,8 @@
     "total_seconds": 0
   },
   "prasatko08": {
-    "week_seconds": 0,
+    "week_seconds": 7,
     "week_start": 1781809861,
-    "total_seconds": 0
+    "total_seconds": 7
   }
 }
