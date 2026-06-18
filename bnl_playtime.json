@@ -6210,9 +6210,9 @@
     "total_seconds": 0
   },
   "sv2drifttdv": {
-    "week_seconds": 402,
+    "week_seconds": 1588,
     "week_start": 1781806189,
-    "total_seconds": 402
+    "total_seconds": 1588
   },
   "tappedcloud": {
     "week_seconds": 0,
@@ -6238,5 +6238,10 @@
     "week_seconds": 144,
     "week_start": 1781807450,
     "total_seconds": 144
+  },
+  "mirami_": {
+    "week_seconds": 0,
+    "week_start": 1781807711,
+    "total_seconds": 0
   }
 }
