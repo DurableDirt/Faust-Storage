@@ -1700,9 +1700,9 @@
     "total_seconds": 31056
   },
   "eyestrainz": {
-    "week_seconds": 36859,
+    "week_seconds": 38809,
     "week_start": 1781511497,
-    "total_seconds": 36859
+    "total_seconds": 38809
   },
   "snailytrail": {
     "week_seconds": 6,
@@ -2005,9 +2005,9 @@
     "total_seconds": 1247
   },
   "kelsokevin": {
-    "week_seconds": 20344,
+    "week_seconds": 20361,
     "week_start": 1781523034,
-    "total_seconds": 20344
+    "total_seconds": 20361
   },
   "olliebell": {
     "week_seconds": 1083,
@@ -5902,6 +5902,11 @@
   "ivanovic": {
     "week_seconds": 0,
     "week_start": 1781767143,
+    "total_seconds": 0
+  },
+  "socruler": {
+    "week_seconds": 0,
+    "week_start": 1781767852,
     "total_seconds": 0
   }
 }
