@@ -815,9 +815,9 @@
     "total_seconds": 63640
   },
   "gnathope": {
-    "week_seconds": 62444,
+    "week_seconds": 65319,
     "week_start": 1781483765,
-    "total_seconds": 62444
+    "total_seconds": 65319
   },
   "freeblade999": {
     "week_seconds": 39838,
@@ -6525,8 +6525,8 @@
     "total_seconds": 141
   },
   "sigmaflash": {
-    "week_seconds": 0,
+    "week_seconds": 209,
     "week_start": 1781824286,
-    "total_seconds": 0
+    "total_seconds": 209
   }
 }
