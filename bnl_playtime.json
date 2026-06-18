@@ -6185,9 +6185,9 @@
     "total_seconds": 49
   },
   "pinkphantxm": {
-    "week_seconds": 8247,
+    "week_seconds": 13087,
     "week_start": 1781805402,
-    "total_seconds": 8247
+    "total_seconds": 13087
   },
   "supersameee": {
     "week_seconds": 2,
@@ -6492,6 +6492,11 @@
   "femboyfangirl": {
     "week_seconds": 0,
     "week_start": 1781821414,
+    "total_seconds": 0
+  },
+  "klasikrok": {
+    "week_seconds": 0,
+    "week_start": 1781822169,
     "total_seconds": 0
   }
 }
