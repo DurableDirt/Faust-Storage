@@ -1175,9 +1175,9 @@
     "total_seconds": 55119
   },
   "astralchroma": {
-    "week_seconds": 72638,
+    "week_seconds": 74822,
     "week_start": 1781489556,
-    "total_seconds": 72638
+    "total_seconds": 74822
   },
   "kingstell": {
     "week_seconds": 50,
@@ -3260,9 +3260,9 @@
     "total_seconds": 7397
   },
   "primalrex_3": {
-    "week_seconds": 5563,
+    "week_seconds": 6891,
     "week_start": 1781560574,
-    "total_seconds": 5563
+    "total_seconds": 6891
   },
   "sebsterim": {
     "week_seconds": 443,
@@ -5738,5 +5738,10 @@
     "week_seconds": 0,
     "week_start": 1781747623,
     "total_seconds": 0
+  },
+  "killbasdard": {
+    "week_seconds": 5,
+    "week_start": 1781748182,
+    "total_seconds": 5
   }
 }
