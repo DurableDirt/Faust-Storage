@@ -3215,9 +3215,9 @@
     "total_seconds": 1058
   },
   "tikrainegedvilas": {
-    "week_seconds": 4753,
+    "week_seconds": 10797,
     "week_start": 1781558983,
-    "total_seconds": 4753
+    "total_seconds": 10797
   },
   "mannami": {
     "week_seconds": 10719,
@@ -6227,6 +6227,11 @@
   "victorivictoric": {
     "week_seconds": 0,
     "week_start": 1781807118,
+    "total_seconds": 0
+  },
+  "fur": {
+    "week_seconds": 0,
+    "week_start": 1781807309,
     "total_seconds": 0
   }
 }
