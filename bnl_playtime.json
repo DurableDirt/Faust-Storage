@@ -3475,9 +3475,9 @@
     "total_seconds": 6079
   },
   "bloxtlemc": {
-    "week_seconds": 23098,
+    "week_seconds": 23106,
     "week_start": 1781567213,
-    "total_seconds": 23098
+    "total_seconds": 23106
   },
   "mdlp_red15": {
     "week_seconds": 25,
@@ -6215,9 +6215,9 @@
     "total_seconds": 1588
   },
   "tappedcloud": {
-    "week_seconds": 0,
+    "week_seconds": 3382,
     "week_start": 1781806209,
-    "total_seconds": 0
+    "total_seconds": 3382
   },
   "cantabmyrtle": {
     "week_seconds": 615,
@@ -6288,5 +6288,10 @@
     "week_seconds": 44,
     "week_start": 1781809446,
     "total_seconds": 44
+  },
+  "shadowframes": {
+    "week_seconds": 0,
+    "week_start": 1781809561,
+    "total_seconds": 0
   }
 }
