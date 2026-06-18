@@ -35,9 +35,9 @@
     "total_seconds": 6857
   },
   "maxxyrose": {
-    "week_seconds": 5794,
+    "week_seconds": 10905,
     "week_start": 1781474643,
-    "total_seconds": 5794
+    "total_seconds": 10905
   },
   "piotato": {
     "week_seconds": 79942,
@@ -3530,9 +3530,9 @@
     "total_seconds": 71
   },
   "_banana_blu_": {
-    "week_seconds": 92431,
+    "week_seconds": 93351,
     "week_start": 1781570022,
-    "total_seconds": 92431
+    "total_seconds": 93351
   },
   "theboatsmith": {
     "week_seconds": 15086,
@@ -6518,5 +6518,10 @@
     "week_seconds": 48,
     "week_start": 1781823921,
     "total_seconds": 48
+  },
+  "aushankazombie": {
+    "week_seconds": 0,
+    "week_start": 1781824187,
+    "total_seconds": 0
   }
 }
