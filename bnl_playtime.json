@@ -1505,9 +1505,9 @@
     "total_seconds": 114871
   },
   "arbiteradvit": {
-    "week_seconds": 12783,
+    "week_seconds": 12814,
     "week_start": 1781500251,
-    "total_seconds": 12783
+    "total_seconds": 12814
   },
   "t0mcat1": {
     "week_seconds": 110,
@@ -3530,9 +3530,9 @@
     "total_seconds": 71
   },
   "_banana_blu_": {
-    "week_seconds": 64710,
+    "week_seconds": 64755,
     "week_start": 1781570022,
-    "total_seconds": 64710
+    "total_seconds": 64755
   },
   "theboatsmith": {
     "week_seconds": 15086,
@@ -5988,5 +5988,10 @@
     "week_seconds": 127,
     "week_start": 1781783211,
     "total_seconds": 127
+  },
+  "arealfriedwing": {
+    "week_seconds": 0,
+    "week_start": 1781783345,
+    "total_seconds": 0
   }
 }
