@@ -6333,5 +6333,10 @@
     "week_seconds": 0,
     "week_start": 1781810501,
     "total_seconds": 0
+  },
+  "cheese_dodo": {
+    "week_seconds": 73,
+    "week_start": 1781810659,
+    "total_seconds": 73
   }
 }
