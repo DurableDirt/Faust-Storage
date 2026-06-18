@@ -155,9 +155,9 @@
     "total_seconds": 12119
   },
   "lightningboi4": {
-    "week_seconds": 67607,
+    "week_seconds": 68309,
     "week_start": 1781476003,
-    "total_seconds": 67607
+    "total_seconds": 68309
   },
   "aaroni_macaroni": {
     "week_seconds": 56191,
@@ -6202,6 +6202,11 @@
   "frostwarrior112": {
     "week_seconds": 0,
     "week_start": 1781805869,
+    "total_seconds": 0
+  },
+  "acronymt": {
+    "week_seconds": 0,
+    "week_start": 1781806111,
     "total_seconds": 0
   }
 }
