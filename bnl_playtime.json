@@ -5890,8 +5890,8 @@
     "total_seconds": 28
   },
   "bluewave_12": {
-    "week_seconds": 0,
+    "week_seconds": 300,
     "week_start": 1781763637,
-    "total_seconds": 0
+    "total_seconds": 300
   }
 }
