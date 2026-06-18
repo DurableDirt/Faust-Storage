@@ -2340,9 +2340,9 @@
     "total_seconds": 4938
   },
   "shyguy_wph": {
-    "week_seconds": 31036,
+    "week_seconds": 39720,
     "week_start": 1781531847,
-    "total_seconds": 31036
+    "total_seconds": 39720
   },
   "crimsonfang3139": {
     "week_seconds": 29299,
@@ -6482,6 +6482,11 @@
   "hollymoly24": {
     "week_seconds": 0,
     "week_start": 1781820986,
+    "total_seconds": 0
+  },
+  "theafroboi": {
+    "week_seconds": 0,
+    "week_start": 1781821188,
     "total_seconds": 0
   }
 }
