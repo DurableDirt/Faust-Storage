@@ -240,9 +240,9 @@
     "total_seconds": 81658
   },
   "wasabiwhip": {
-    "week_seconds": 15738,
+    "week_seconds": 16896,
     "week_start": 1781476532,
-    "total_seconds": 15738
+    "total_seconds": 16896
   },
   "aluminum_foil_": {
     "week_seconds": 72735,
@@ -2635,9 +2635,9 @@
     "total_seconds": 31498
   },
   "hegghogaming": {
-    "week_seconds": 26035,
+    "week_seconds": 26764,
     "week_start": 1781540272,
-    "total_seconds": 26035
+    "total_seconds": 26764
   },
   "arnacious": {
     "week_seconds": 3960,
@@ -3190,9 +3190,9 @@
     "total_seconds": 322
   },
   "leadattic_": {
-    "week_seconds": 59070,
+    "week_seconds": 59819,
     "week_start": 1781557797,
-    "total_seconds": 59070
+    "total_seconds": 59819
   },
   "black__wolf_": {
     "week_seconds": 44840,
@@ -6487,6 +6487,11 @@
   "theafroboi": {
     "week_seconds": 0,
     "week_start": 1781821188,
+    "total_seconds": 0
+  },
+  "femboyfangirl": {
+    "week_seconds": 0,
+    "week_start": 1781821414,
     "total_seconds": 0
   }
 }
