@@ -665,9 +665,9 @@
     "total_seconds": 27982
   },
   "unique_nullptr": {
-    "week_seconds": 67325,
+    "week_seconds": 76151,
     "week_start": 1781481654,
-    "total_seconds": 67325
+    "total_seconds": 76151
   },
   "boatoverbogs": {
     "week_seconds": 15400,
@@ -5637,6 +5637,11 @@
   "abejaterrenal": {
     "week_seconds": 0,
     "week_start": 1781740751,
+    "total_seconds": 0
+  },
+  "faladorknight": {
+    "week_seconds": 0,
+    "week_start": 1781740964,
     "total_seconds": 0
   }
 }
