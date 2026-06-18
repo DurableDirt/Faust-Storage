@@ -3955,9 +3955,9 @@
     "total_seconds": 578
   },
   "azuremc": {
-    "week_seconds": 4570,
+    "week_seconds": 4601,
     "week_start": 1781611008,
-    "total_seconds": 4570
+    "total_seconds": 4601
   },
   "therewalker": {
     "week_seconds": 46089,
@@ -5857,6 +5857,11 @@
   "latermchange": {
     "week_seconds": 0,
     "week_start": 1781757979,
+    "total_seconds": 0
+  },
+  "dranfrost": {
+    "week_seconds": 0,
+    "week_start": 1781758289,
     "total_seconds": 0
   }
 }
