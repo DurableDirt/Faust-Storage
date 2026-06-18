@@ -3475,9 +3475,9 @@
     "total_seconds": 6079
   },
   "bloxtlemc": {
-    "week_seconds": 21865,
+    "week_seconds": 23057,
     "week_start": 1781567213,
-    "total_seconds": 21865
+    "total_seconds": 23057
   },
   "mdlp_red15": {
     "week_seconds": 25,
@@ -5035,9 +5035,9 @@
     "total_seconds": 33943
   },
   "bloodscw": {
-    "week_seconds": 28974,
+    "week_seconds": 35740,
     "week_start": 1781695184,
-    "total_seconds": 28974
+    "total_seconds": 35740
   },
   "spondle": {
     "week_seconds": 35,
@@ -6048,5 +6048,10 @@
     "week_seconds": 67,
     "week_start": 1781792272,
     "total_seconds": 67
+  },
+  "milesdust": {
+    "week_seconds": 0,
+    "week_start": 1781792415,
+    "total_seconds": 0
   }
 }
