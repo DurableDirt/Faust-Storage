@@ -1570,9 +1570,9 @@
     "total_seconds": 14042
   },
   "physicsgamer": {
-    "week_seconds": 90090,
+    "week_seconds": 91167,
     "week_start": 1781504070,
-    "total_seconds": 90090
+    "total_seconds": 91167
   },
   "_2k42_": {
     "week_seconds": 58246,
@@ -6533,5 +6533,10 @@
     "week_seconds": 471,
     "week_start": 1781824542,
     "total_seconds": 471
+  },
+  "wxcuii": {
+    "week_seconds": 34,
+    "week_start": 1781825348,
+    "total_seconds": 34
   }
 }
