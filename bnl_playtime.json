@@ -2220,9 +2220,9 @@
     "total_seconds": 75
   },
   "falphaeus": {
-    "week_seconds": 69834,
+    "week_seconds": 73168,
     "week_start": 1781528404,
-    "total_seconds": 69834
+    "total_seconds": 73168
   },
   "dorthit_0194a8au": {
     "week_seconds": 3029,
@@ -3950,9 +3950,9 @@
     "total_seconds": 8125
   },
   "fealsom_": {
-    "week_seconds": 578,
+    "week_seconds": 9003,
     "week_start": 1781610641,
-    "total_seconds": 578
+    "total_seconds": 9003
   },
   "azuremc": {
     "week_seconds": 5834,
@@ -6710,9 +6710,9 @@
     "total_seconds": 18420
   },
   "heartsii": {
-    "week_seconds": 27716,
+    "week_seconds": 28717,
     "week_start": 1781841865,
-    "total_seconds": 27716
+    "total_seconds": 28717
   },
   "muddy443m": {
     "week_seconds": 10774,
@@ -6923,5 +6923,10 @@
     "week_seconds": 149,
     "week_start": 1781872934,
     "total_seconds": 149
+  },
+  "agent_rubio": {
+    "week_seconds": 0,
+    "week_start": 1781873666,
+    "total_seconds": 0
   }
 }
