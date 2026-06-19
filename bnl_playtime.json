@@ -475,9 +475,9 @@
     "total_seconds": 163919
   },
   "tntfortress": {
-    "week_seconds": 108802,
+    "week_seconds": 109577,
     "week_start": 1781479375,
-    "total_seconds": 108802
+    "total_seconds": 109577
   },
   "crafterkid50009": {
     "week_seconds": 5060,
@@ -3920,9 +3920,9 @@
     "total_seconds": 26715
   },
   "plumily": {
-    "week_seconds": 59206,
+    "week_seconds": 59241,
     "week_start": 1781602124,
-    "total_seconds": 59206
+    "total_seconds": 59241
   },
   "soul9594": {
     "week_seconds": 541,
@@ -6978,5 +6978,10 @@
     "week_seconds": 34,
     "week_start": 1781882401,
     "total_seconds": 34
+  },
+  "erkikon": {
+    "week_seconds": 0,
+    "week_start": 1781882791,
+    "total_seconds": 0
   }
 }
