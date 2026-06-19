@@ -650,9 +650,9 @@
     "total_seconds": 15270
   },
   "malafly": {
-    "week_seconds": 108501,
+    "week_seconds": 109700,
     "week_start": 1781481518,
-    "total_seconds": 108501
+    "total_seconds": 109700
   },
   "velares": {
     "week_seconds": 13445,
@@ -1350,9 +1350,9 @@
     "total_seconds": 52996
   },
   "magicmars345": {
-    "week_seconds": 60532,
+    "week_seconds": 62322,
     "week_start": 1781494761,
-    "total_seconds": 60532
+    "total_seconds": 62322
   },
   "s_s_sobolev": {
     "week_seconds": 28666,
@@ -6735,8 +6735,8 @@
     "total_seconds": 60
   },
   "monkeyanjing": {
-    "week_seconds": 16,
+    "week_seconds": 86,
     "week_start": 1781847850,
-    "total_seconds": 16
+    "total_seconds": 86
   }
 }
