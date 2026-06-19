@@ -65,9 +65,9 @@
     "total_seconds": 250600
   },
   "rainsinger": {
-    "week_seconds": 65572,
+    "week_seconds": 67578,
     "week_start": 1781474875,
-    "total_seconds": 65572
+    "total_seconds": 67578
   },
   "jindosh": {
     "week_seconds": 59076,
@@ -3775,9 +3775,9 @@
     "total_seconds": 3463
   },
   "walleyefish": {
-    "week_seconds": 25113,
+    "week_seconds": 25272,
     "week_start": 1781586370,
-    "total_seconds": 25113
+    "total_seconds": 25272
   },
   "nukinmouse01": {
     "week_seconds": 79,
@@ -6837,6 +6837,11 @@
   "jobisveryscary67": {
     "week_seconds": 0,
     "week_start": 1781860955,
+    "total_seconds": 0
+  },
+  "coradiabutsmart": {
+    "week_seconds": 0,
+    "week_start": 1781861560,
     "total_seconds": 0
   }
 }
