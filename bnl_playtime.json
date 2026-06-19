@@ -2785,9 +2785,9 @@
     "total_seconds": 23847
   },
   "zzumzum": {
-    "week_seconds": 22313,
+    "week_seconds": 29480,
     "week_start": 1781545560,
-    "total_seconds": 22313
+    "total_seconds": 29480
   },
   "sirboss001": {
     "week_seconds": 50497,
@@ -3475,9 +3475,9 @@
     "total_seconds": 6079
   },
   "bloxtlemc": {
-    "week_seconds": 23249,
+    "week_seconds": 25044,
     "week_start": 1781567213,
-    "total_seconds": 23249
+    "total_seconds": 25044
   },
   "mdlp_red15": {
     "week_seconds": 25,
@@ -6937,6 +6937,11 @@
   "mr_quakston": {
     "week_seconds": 0,
     "week_start": 1781876039,
+    "total_seconds": 0
+  },
+  "sunflower73": {
+    "week_seconds": 0,
+    "week_start": 1781876077,
     "total_seconds": 0
   }
 }
