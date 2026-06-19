@@ -3845,9 +3845,9 @@
     "total_seconds": 6777
   },
   "noctillary": {
-    "week_seconds": 7681,
+    "week_seconds": 8504,
     "week_start": 1781595268,
-    "total_seconds": 7681
+    "total_seconds": 8504
   },
   "_executeds": {
     "week_seconds": 20,
@@ -6860,8 +6860,8 @@
     "total_seconds": 0
   },
   "rollin95": {
-    "week_seconds": 0,
+    "week_seconds": 131,
     "week_start": 1781866697,
-    "total_seconds": 0
+    "total_seconds": 131
   }
 }
