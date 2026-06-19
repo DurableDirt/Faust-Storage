@@ -6055,9 +6055,9 @@
     "total_seconds": 436
   },
   "exeplex": {
-    "week_seconds": 1337,
+    "week_seconds": 3708,
     "week_start": 1781793159,
-    "total_seconds": 1337
+    "total_seconds": 3708
   },
   "captainspacerat": {
     "week_seconds": 4053,
@@ -7050,8 +7050,8 @@
     "total_seconds": 0
   },
   "davosforum": {
-    "week_seconds": 15,
+    "week_seconds": 17,
     "week_start": 1781890232,
-    "total_seconds": 15
+    "total_seconds": 17
   }
 }
