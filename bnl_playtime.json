@@ -1675,9 +1675,9 @@
     "total_seconds": 95851
   },
   "jaydon_": {
-    "week_seconds": 97139,
+    "week_seconds": 97154,
     "week_start": 1781510086,
-    "total_seconds": 97139
+    "total_seconds": 97154
   },
   "pina0210": {
     "week_seconds": 4,
@@ -5000,9 +5000,9 @@
     "total_seconds": 2706
   },
   "dwarfrogue654": {
-    "week_seconds": 23227,
+    "week_seconds": 23276,
     "week_start": 1781686516,
-    "total_seconds": 23227
+    "total_seconds": 23276
   },
   "josse_124": {
     "week_seconds": 4547,
@@ -6782,6 +6782,11 @@
   "sakanaotoko": {
     "week_seconds": 0,
     "week_start": 1781856397,
+    "total_seconds": 0
+  },
+  "monk_icarus": {
+    "week_seconds": 0,
+    "week_start": 1781856692,
     "total_seconds": 0
   }
 }
