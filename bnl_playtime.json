@@ -4160,9 +4160,9 @@
     "total_seconds": 8197
   },
   "gunslingerzach": {
-    "week_seconds": 48132,
+    "week_seconds": 48660,
     "week_start": 1781627757,
-    "total_seconds": 48132
+    "total_seconds": 48660
   },
   "marrog20": {
     "week_seconds": 24,
@@ -6698,5 +6698,10 @@
     "week_seconds": 5,
     "week_start": 1781838717,
     "total_seconds": 5
+  },
+  "cr4zzygang": {
+    "week_seconds": 6,
+    "week_start": 1781839352,
+    "total_seconds": 6
   }
 }
