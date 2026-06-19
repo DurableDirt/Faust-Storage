@@ -2220,9 +2220,9 @@
     "total_seconds": 75
   },
   "falphaeus": {
-    "week_seconds": 69763,
+    "week_seconds": 69834,
     "week_start": 1781528404,
-    "total_seconds": 69763
+    "total_seconds": 69834
   },
   "dorthit_0194a8au": {
     "week_seconds": 3029,
@@ -6885,8 +6885,8 @@
     "total_seconds": 0
   },
   "mobee2": {
-    "week_seconds": 0,
+    "week_seconds": 417,
     "week_start": 1781869848,
-    "total_seconds": 0
+    "total_seconds": 417
   }
 }
