@@ -595,9 +595,9 @@
     "total_seconds": 13151
   },
   "webchat427": {
-    "week_seconds": 42894,
+    "week_seconds": 48217,
     "week_start": 1781481062,
-    "total_seconds": 42894
+    "total_seconds": 48217
   },
   "1stampy": {
     "week_seconds": 33949,
@@ -650,9 +650,9 @@
     "total_seconds": 15270
   },
   "malafly": {
-    "week_seconds": 92498,
+    "week_seconds": 95271,
     "week_start": 1781481518,
-    "total_seconds": 92498
+    "total_seconds": 95271
   },
   "velares": {
     "week_seconds": 13445,
@@ -6607,6 +6607,11 @@
   "nimph356": {
     "week_seconds": 0,
     "week_start": 1781829816,
+    "total_seconds": 0
+  },
+  "account_deleted2": {
+    "week_seconds": 0,
+    "week_start": 1781831943,
     "total_seconds": 0
   }
 }
