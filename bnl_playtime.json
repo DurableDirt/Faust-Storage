@@ -1655,9 +1655,9 @@
     "total_seconds": 24780
   },
   "voidvin": {
-    "week_seconds": 72301,
+    "week_seconds": 74026,
     "week_start": 1781509638,
-    "total_seconds": 72301
+    "total_seconds": 74026
   },
   "lordofthepig449": {
     "week_seconds": 9341,
@@ -2770,9 +2770,9 @@
     "total_seconds": 1555
   },
   "renero95": {
-    "week_seconds": 14123,
+    "week_seconds": 14512,
     "week_start": 1781545314,
-    "total_seconds": 14123
+    "total_seconds": 14512
   },
   "duskadmiral": {
     "week_seconds": 17217,
@@ -7122,6 +7122,16 @@
   "lordgoldmund": {
     "week_seconds": 0,
     "week_start": 1781896525,
+    "total_seconds": 0
+  },
+  "cmax0": {
+    "week_seconds": 0,
+    "week_start": 1781896583,
+    "total_seconds": 0
+  },
+  "sfortunkawtf": {
+    "week_seconds": 0,
+    "week_start": 1781896585,
     "total_seconds": 0
   }
 }
