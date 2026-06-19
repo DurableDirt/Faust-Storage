@@ -6650,8 +6650,13 @@
     "total_seconds": 19
   },
   "lord_qxbe": {
-    "week_seconds": 0,
+    "week_seconds": 164,
     "week_start": 1781836062,
-    "total_seconds": 0
+    "total_seconds": 164
+  },
+  "joshgamer10y": {
+    "week_seconds": 5,
+    "week_start": 1781836218,
+    "total_seconds": 5
   }
 }
