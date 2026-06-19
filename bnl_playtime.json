@@ -6660,9 +6660,9 @@
     "total_seconds": 5
   },
   "mrrex101": {
-    "week_seconds": 0,
+    "week_seconds": 220,
     "week_start": 1781836313,
-    "total_seconds": 0
+    "total_seconds": 220
   },
   "slexshortslax": {
     "week_seconds": 0,
@@ -6673,5 +6673,15 @@
     "week_seconds": 44,
     "week_start": 1781836459,
     "total_seconds": 44
+  },
+  "subpepper": {
+    "week_seconds": 0,
+    "week_start": 1781836510,
+    "total_seconds": 0
+  },
+  "spckeisnere": {
+    "week_seconds": 0,
+    "week_start": 1781836537,
+    "total_seconds": 0
   }
 }
