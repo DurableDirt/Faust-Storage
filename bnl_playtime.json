@@ -75,9 +75,9 @@
     "total_seconds": 61692
   },
   "40mm": {
-    "week_seconds": 40248,
+    "week_seconds": 42217,
     "week_start": 1781475020,
-    "total_seconds": 40248
+    "total_seconds": 42217
   },
   "lynx2007": {
     "week_seconds": 65849,
@@ -6873,5 +6873,10 @@
     "week_seconds": 14,
     "week_start": 1781867739,
     "total_seconds": 14
+  },
+  "dzikil1s": {
+    "week_seconds": 0,
+    "week_start": 1781868214,
+    "total_seconds": 0
   }
 }
