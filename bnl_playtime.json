@@ -6925,8 +6925,8 @@
     "total_seconds": 149
   },
   "agent_rubio": {
-    "week_seconds": 0,
+    "week_seconds": 75,
     "week_start": 1781873666,
-    "total_seconds": 0
+    "total_seconds": 75
   }
 }
