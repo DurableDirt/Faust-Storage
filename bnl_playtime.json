@@ -1,8 +1,8 @@
 {
   "durabledirt": {
-    "week_seconds": 55735,
+    "week_seconds": 55918,
     "week_start": 1781474461,
-    "total_seconds": 55735
+    "total_seconds": 55918
   },
   "alphaaaaaaaaalph": {
     "week_seconds": 4,
@@ -2545,9 +2545,9 @@
     "total_seconds": 5881
   },
   "milevsky": {
-    "week_seconds": 75276,
+    "week_seconds": 75489,
     "week_start": 1781537262,
-    "total_seconds": 75276
+    "total_seconds": 75489
   },
   "wallbeck": {
     "week_seconds": 1116,
@@ -2560,9 +2560,9 @@
     "total_seconds": 82820
   },
   "myng11": {
-    "week_seconds": 8149,
+    "week_seconds": 8209,
     "week_start": 1781538162,
-    "total_seconds": 8149
+    "total_seconds": 8209
   },
   "dondindundan": {
     "week_seconds": 5,
@@ -3915,9 +3915,9 @@
     "total_seconds": 2863
   },
   "bruisedbread": {
-    "week_seconds": 27268,
+    "week_seconds": 27303,
     "week_start": 1781601586,
-    "total_seconds": 27268
+    "total_seconds": 27303
   },
   "plumily": {
     "week_seconds": 59593,
@@ -7102,6 +7102,11 @@
   "arceusgamer2014": {
     "week_seconds": 0,
     "week_start": 1781894631,
+    "total_seconds": 0
+  },
+  "swienconpl": {
+    "week_seconds": 0,
+    "week_start": 1781894693,
     "total_seconds": 0
   }
 }
