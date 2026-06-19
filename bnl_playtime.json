@@ -1085,9 +1085,9 @@
     "total_seconds": 119219
   },
   "satava": {
-    "week_seconds": 79989,
+    "week_seconds": 80023,
     "week_start": 1781487788,
-    "total_seconds": 79989
+    "total_seconds": 80023
   },
   "majjcrunsgf": {
     "week_seconds": 3927,
@@ -7067,6 +7067,11 @@
   "nentneon": {
     "week_seconds": 0,
     "week_start": 1781892947,
+    "total_seconds": 0
+  },
+  "mhurren_dnd": {
+    "week_seconds": 0,
+    "week_start": 1781893100,
     "total_seconds": 0
   }
 }
