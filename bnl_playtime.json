@@ -195,9 +195,9 @@
     "total_seconds": 69052
   },
   "262i": {
-    "week_seconds": 52170,
+    "week_seconds": 54317,
     "week_start": 1781476204,
-    "total_seconds": 52170
+    "total_seconds": 54317
   },
   "jalhf": {
     "week_seconds": 47301,
@@ -3530,9 +3530,9 @@
     "total_seconds": 71
   },
   "_banana_blu_": {
-    "week_seconds": 136131,
+    "week_seconds": 136151,
     "week_start": 1781570022,
-    "total_seconds": 136131
+    "total_seconds": 136151
   },
   "theboatsmith": {
     "week_seconds": 15086,
@@ -7203,5 +7203,15 @@
     "week_seconds": 94,
     "week_start": 1781906263,
     "total_seconds": 94
+  },
+  "silentdecks": {
+    "week_seconds": 0,
+    "week_start": 1781906396,
+    "total_seconds": 0
+  },
+  "sandfalls": {
+    "week_seconds": 0,
+    "week_start": 1781906432,
+    "total_seconds": 0
   }
 }
