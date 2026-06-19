@@ -245,9 +245,9 @@
     "total_seconds": 26764
   },
   "aluminum_foil_": {
-    "week_seconds": 92816,
+    "week_seconds": 97966,
     "week_start": 1781476568,
-    "total_seconds": 92816
+    "total_seconds": 97966
   },
   "mpusa": {
     "week_seconds": 19258,
@@ -4180,9 +4180,9 @@
     "total_seconds": 333
   },
   "novalis76": {
-    "week_seconds": 20847,
+    "week_seconds": 21317,
     "week_start": 1781628482,
-    "total_seconds": 20847
+    "total_seconds": 21317
   },
   "kynthea": {
     "week_seconds": 21430,
@@ -7238,5 +7238,10 @@
     "week_seconds": 147,
     "week_start": 1781909345,
     "total_seconds": 147
+  },
+  "s4nta": {
+    "week_seconds": 0,
+    "week_start": 1781910389,
+    "total_seconds": 0
   }
 }
