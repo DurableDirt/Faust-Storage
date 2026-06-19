@@ -785,9 +785,9 @@
     "total_seconds": 11756
   },
   "lalibo": {
-    "week_seconds": 95228,
+    "week_seconds": 95604,
     "week_start": 1781483266,
-    "total_seconds": 95228
+    "total_seconds": 95604
   },
   "fazeleafblower": {
     "week_seconds": 68387,
@@ -1525,9 +1525,9 @@
     "total_seconds": 67367
   },
   "deuteriumoxide1": {
-    "week_seconds": 50040,
+    "week_seconds": 58095,
     "week_start": 1781502340,
-    "total_seconds": 50040
+    "total_seconds": 58095
   },
   "xlader161": {
     "week_seconds": 59486,
@@ -4155,9 +4155,9 @@
     "total_seconds": 58019
   },
   "dashingyang": {
-    "week_seconds": 8197,
+    "week_seconds": 47338,
     "week_start": 1781627526,
-    "total_seconds": 8197
+    "total_seconds": 47338
   },
   "gunslingerzach": {
     "week_seconds": 48660,
@@ -6703,5 +6703,10 @@
     "week_seconds": 6,
     "week_start": 1781839352,
     "total_seconds": 6
+  },
+  "privateporkchop": {
+    "week_seconds": 0,
+    "week_start": 1781839979,
+    "total_seconds": 0
   }
 }
