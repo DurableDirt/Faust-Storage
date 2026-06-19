@@ -405,9 +405,9 @@
     "total_seconds": 60404
   },
   "freshoxygenair": {
-    "week_seconds": 6511,
+    "week_seconds": 6598,
     "week_start": 1781478147,
-    "total_seconds": 6511
+    "total_seconds": 6598
   },
   "cz10_xp": {
     "week_seconds": 396,
@@ -1645,9 +1645,9 @@
     "total_seconds": 31476
   },
   "xenos": {
-    "week_seconds": 78676,
+    "week_seconds": 83686,
     "week_start": 1781509100,
-    "total_seconds": 78676
+    "total_seconds": 83686
   },
   "virexil": {
     "week_seconds": 23117,
