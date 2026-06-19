@@ -660,9 +660,9 @@
     "total_seconds": 13445
   },
   "demobottle12": {
-    "week_seconds": 53155,
+    "week_seconds": 57391,
     "week_start": 1781481621,
-    "total_seconds": 53155
+    "total_seconds": 57391
   },
   "unique_nullptr": {
     "week_seconds": 114310,
@@ -2415,9 +2415,9 @@
     "total_seconds": 15839
   },
   "sml128": {
-    "week_seconds": 52678,
+    "week_seconds": 57732,
     "week_start": 1781534411,
-    "total_seconds": 52678
+    "total_seconds": 57732
   },
   "malipan": {
     "week_seconds": 16492,
@@ -3530,9 +3530,9 @@
     "total_seconds": 71
   },
   "_banana_blu_": {
-    "week_seconds": 137406,
+    "week_seconds": 140099,
     "week_start": 1781570022,
-    "total_seconds": 137406
+    "total_seconds": 140099
   },
   "theboatsmith": {
     "week_seconds": 15086,
@@ -7240,8 +7240,8 @@
     "total_seconds": 147
   },
   "s4nta": {
-    "week_seconds": 0,
+    "week_seconds": 143,
     "week_start": 1781910389,
-    "total_seconds": 0
+    "total_seconds": 143
   }
 }
