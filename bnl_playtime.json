@@ -1570,9 +1570,9 @@
     "total_seconds": 14042
   },
   "physicsgamer": {
-    "week_seconds": 117146,
+    "week_seconds": 120596,
     "week_start": 1781504070,
-    "total_seconds": 117146
+    "total_seconds": 120596
   },
   "_2k42_": {
     "week_seconds": 58246,
@@ -1850,9 +1850,9 @@
     "total_seconds": 120764
   },
   "basicallyagungan": {
-    "week_seconds": 82158,
+    "week_seconds": 87358,
     "week_start": 1781517220,
-    "total_seconds": 82158
+    "total_seconds": 87358
   },
   "archieisverydum": {
     "week_seconds": 17,
@@ -7032,6 +7032,11 @@
   "azert324": {
     "week_seconds": 0,
     "week_start": 1781888168,
+    "total_seconds": 0
+  },
+  "crownclownoah": {
+    "week_seconds": 0,
+    "week_start": 1781889403,
     "total_seconds": 0
   }
 }
