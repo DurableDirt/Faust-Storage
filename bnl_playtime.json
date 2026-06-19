@@ -2220,9 +2220,9 @@
     "total_seconds": 75
   },
   "falphaeus": {
-    "week_seconds": 76802,
+    "week_seconds": 83724,
     "week_start": 1781528404,
-    "total_seconds": 76802
+    "total_seconds": 83724
   },
   "dorthit_0194a8au": {
     "week_seconds": 3029,
@@ -7082,6 +7082,11 @@
   "pazzuu_": {
     "week_seconds": 0,
     "week_start": 1781894145,
+    "total_seconds": 0
+  },
+  "shafi08": {
+    "week_seconds": 0,
+    "week_start": 1781894257,
     "total_seconds": 0
   }
 }
