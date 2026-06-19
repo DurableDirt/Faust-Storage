@@ -30,9 +30,9 @@
     "total_seconds": 42516
   },
   "harved": {
-    "week_seconds": 6857,
+    "week_seconds": 20939,
     "week_start": 1781474573,
-    "total_seconds": 6857
+    "total_seconds": 20939
   },
   "maxxyrose": {
     "week_seconds": 19914,
@@ -495,9 +495,9 @@
     "total_seconds": 137
   },
   "_ssg_": {
-    "week_seconds": 122468,
+    "week_seconds": 122957,
     "week_start": 1781479625,
-    "total_seconds": 122468
+    "total_seconds": 122957
   },
   "call_me_m1ke": {
     "week_seconds": 183277,
@@ -945,9 +945,9 @@
     "total_seconds": 231852
   },
   "xcios": {
-    "week_seconds": 6831,
+    "week_seconds": 10764,
     "week_start": 1781485868,
-    "total_seconds": 6831
+    "total_seconds": 10764
   },
   "bylethseisner": {
     "week_seconds": 78634,
@@ -6638,5 +6638,10 @@
     "week_seconds": 343,
     "week_start": 1781834081,
     "total_seconds": 343
+  },
+  "strangefungus": {
+    "week_seconds": 0,
+    "week_start": 1781834437,
+    "total_seconds": 0
   }
 }
