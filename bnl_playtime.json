@@ -1240,9 +1240,9 @@
     "total_seconds": 14697
   },
   "mtfuji": {
-    "week_seconds": 214591,
+    "week_seconds": 214625,
     "week_start": 1781491151,
-    "total_seconds": 214591
+    "total_seconds": 214625
   },
   "intelligences": {
     "week_seconds": 15355,
@@ -6988,5 +6988,10 @@
     "week_seconds": 21,
     "week_start": 1781882999,
     "total_seconds": 21
+  },
+  "cray0nz": {
+    "week_seconds": 0,
+    "week_start": 1781883604,
+    "total_seconds": 0
   }
 }
