@@ -690,9 +690,9 @@
     "total_seconds": 10878
   },
   "supposed": {
-    "week_seconds": 15780,
+    "week_seconds": 15788,
     "week_start": 1781482108,
-    "total_seconds": 15780
+    "total_seconds": 15788
   },
   "mr_kalboy": {
     "week_seconds": 3588,
@@ -3785,9 +3785,9 @@
     "total_seconds": 79
   },
   "kelly2506": {
-    "week_seconds": 10268,
+    "week_seconds": 10379,
     "week_start": 1781588290,
-    "total_seconds": 10268
+    "total_seconds": 10379
   },
   "c4thy_0": {
     "week_seconds": 4038,
@@ -6578,5 +6578,20 @@
     "week_seconds": 65,
     "week_start": 1781828979,
     "total_seconds": 65
+  },
+  "amethystxy": {
+    "week_seconds": 0,
+    "week_start": 1781829084,
+    "total_seconds": 0
+  },
+  "theweirdmans": {
+    "week_seconds": 62,
+    "week_start": 1781829086,
+    "total_seconds": 62
+  },
+  "zainefox": {
+    "week_seconds": 0,
+    "week_start": 1781829155,
+    "total_seconds": 0
   }
 }
