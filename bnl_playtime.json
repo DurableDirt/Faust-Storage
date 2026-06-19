@@ -1910,9 +1910,9 @@
     "total_seconds": 51543
   },
   "ech0o_o0": {
-    "week_seconds": 6501,
+    "week_seconds": 9632,
     "week_start": 1781519898,
-    "total_seconds": 6501
+    "total_seconds": 9632
   },
   "luckluc4243": {
     "week_seconds": 915,
@@ -6868,5 +6868,10 @@
     "week_seconds": 22,
     "week_start": 1781867031,
     "total_seconds": 22
+  },
+  "improper_lk": {
+    "week_seconds": 14,
+    "week_start": 1781867739,
+    "total_seconds": 14
   }
 }
