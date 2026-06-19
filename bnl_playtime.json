@@ -6823,5 +6823,10 @@
     "week_seconds": 0,
     "week_start": 1781858880,
     "total_seconds": 0
+  },
+  "lysika_lantariel": {
+    "week_seconds": 12,
+    "week_start": 1781859872,
+    "total_seconds": 12
   }
 }
