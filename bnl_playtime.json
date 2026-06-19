@@ -1230,9 +1230,9 @@
     "total_seconds": 81623
   },
   "kahina": {
-    "week_seconds": 50735,
+    "week_seconds": 50769,
     "week_start": 1781491056,
-    "total_seconds": 50735
+    "total_seconds": 50769
   },
   "grantwellson": {
     "week_seconds": 14697,
@@ -7112,6 +7112,11 @@
   "aekoldhellbrass": {
     "week_seconds": 0,
     "week_start": 1781895281,
+    "total_seconds": 0
+  },
+  "djzeno": {
+    "week_seconds": 0,
+    "week_start": 1781896258,
     "total_seconds": 0
   }
 }
