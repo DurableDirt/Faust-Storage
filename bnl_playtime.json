@@ -1240,9 +1240,9 @@
     "total_seconds": 14697
   },
   "mtfuji": {
-    "week_seconds": 215227,
+    "week_seconds": 215261,
     "week_start": 1781491151,
-    "total_seconds": 215227
+    "total_seconds": 215261
   },
   "intelligences": {
     "week_seconds": 15355,
@@ -2515,9 +2515,9 @@
     "total_seconds": 36315
   },
   "disdage": {
-    "week_seconds": 32956,
+    "week_seconds": 33353,
     "week_start": 1781536383,
-    "total_seconds": 32956
+    "total_seconds": 33353
   },
   "thomas2point0": {
     "week_seconds": 136,
