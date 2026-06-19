@@ -50,9 +50,9 @@
     "total_seconds": 24967
   },
   "meenos": {
-    "week_seconds": 104188,
+    "week_seconds": 104396,
     "week_start": 1781474845,
-    "total_seconds": 104188
+    "total_seconds": 104396
   },
   "jadenjb": {
     "week_seconds": 19347,
@@ -1100,9 +1100,9 @@
     "total_seconds": 31394
   },
   "nevergrimm": {
-    "week_seconds": 42964,
+    "week_seconds": 47774,
     "week_start": 1781487964,
-    "total_seconds": 42964
+    "total_seconds": 47774
   },
   "lagiacrus": {
     "week_seconds": 1460,
@@ -6643,5 +6643,10 @@
     "week_seconds": 0,
     "week_start": 1781834437,
     "total_seconds": 0
+  },
+  "legxi7622": {
+    "week_seconds": 19,
+    "week_start": 1781835095,
+    "total_seconds": 19
   }
 }
