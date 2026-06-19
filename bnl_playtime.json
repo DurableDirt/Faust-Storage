@@ -305,9 +305,9 @@
     "total_seconds": 192537
   },
   "olderastory": {
-    "week_seconds": 25710,
+    "week_seconds": 32686,
     "week_start": 1781477168,
-    "total_seconds": 25710
+    "total_seconds": 32686
   },
   "willowpox": {
     "week_seconds": 25312,
@@ -1245,9 +1245,9 @@
     "total_seconds": 169489
   },
   "intelligences": {
-    "week_seconds": 11574,
+    "week_seconds": 13113,
     "week_start": 1781491347,
-    "total_seconds": 11574
+    "total_seconds": 13113
   },
   "drippydippy": {
     "week_seconds": 216,
@@ -6632,6 +6632,11 @@
   "follivlxx": {
     "week_seconds": 0,
     "week_start": 1781833191,
+    "total_seconds": 0
+  },
+  "tippyshippy": {
+    "week_seconds": 0,
+    "week_start": 1781834081,
     "total_seconds": 0
   }
 }
