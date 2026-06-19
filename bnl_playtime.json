@@ -30,9 +30,9 @@
     "total_seconds": 53708
   },
   "harved": {
-    "week_seconds": 22641,
+    "week_seconds": 24903,
     "week_start": 1781474573,
-    "total_seconds": 22641
+    "total_seconds": 24903
   },
   "maxxyrose": {
     "week_seconds": 21812,
@@ -5905,9 +5905,9 @@
     "total_seconds": 6840
   },
   "socruler": {
-    "week_seconds": 4008,
+    "week_seconds": 5862,
     "week_start": 1781767852,
-    "total_seconds": 4008
+    "total_seconds": 5862
   },
   "br_brine": {
     "week_seconds": 9990,
@@ -6630,9 +6630,9 @@
     "total_seconds": 3734
   },
   "follivlxx": {
-    "week_seconds": 16560,
+    "week_seconds": 17840,
     "week_start": 1781833191,
-    "total_seconds": 16560
+    "total_seconds": 17840
   },
   "tippyshippy": {
     "week_seconds": 343,
@@ -6777,6 +6777,11 @@
   "big_shadow0": {
     "week_seconds": 0,
     "week_start": 1781856123,
+    "total_seconds": 0
+  },
+  "sakanaotoko": {
+    "week_seconds": 0,
+    "week_start": 1781856397,
     "total_seconds": 0
   }
 }
