@@ -1240,9 +1240,9 @@
     "total_seconds": 14697
   },
   "mtfuji": {
-    "week_seconds": 214958,
+    "week_seconds": 214991,
     "week_start": 1781491151,
-    "total_seconds": 214958
+    "total_seconds": 214991
   },
   "intelligences": {
     "week_seconds": 15355,
@@ -7007,6 +7007,11 @@
   "jarltalos": {
     "week_seconds": 0,
     "week_start": 1781884550,
+    "total_seconds": 0
+  },
+  "halberdhighking": {
+    "week_seconds": 0,
+    "week_start": 1781884653,
     "total_seconds": 0
   }
 }
