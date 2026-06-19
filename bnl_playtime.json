@@ -3360,9 +3360,9 @@
     "total_seconds": 174
   },
   "dropcity": {
-    "week_seconds": 3486,
+    "week_seconds": 4777,
     "week_start": 1781563531,
-    "total_seconds": 3486
+    "total_seconds": 4777
   },
   "duskiee__": {
     "week_seconds": 90727,
@@ -7143,5 +7143,10 @@
     "week_seconds": 780,
     "week_start": 1781897129,
     "total_seconds": 780
+  },
+  "nightmare3241": {
+    "week_seconds": 0,
+    "week_start": 1781898362,
+    "total_seconds": 0
   }
 }
