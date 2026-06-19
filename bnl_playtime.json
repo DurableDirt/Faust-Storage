@@ -1355,9 +1355,9 @@
     "total_seconds": 73138
   },
   "s_s_sobolev": {
-    "week_seconds": 29178,
+    "week_seconds": 29321,
     "week_start": 1781494871,
-    "total_seconds": 29178
+    "total_seconds": 29321
   },
   "c4rbonello": {
     "week_seconds": 11239,
@@ -7098,5 +7098,10 @@
     "week_seconds": 118,
     "week_start": 1781894323,
     "total_seconds": 118
+  },
+  "arceusgamer2014": {
+    "week_seconds": 0,
+    "week_start": 1781894631,
+    "total_seconds": 0
   }
 }
