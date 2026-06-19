@@ -4800,9 +4800,9 @@
     "total_seconds": 25
   },
   "vadimblin": {
-    "week_seconds": 9177,
+    "week_seconds": 9276,
     "week_start": 1781663064,
-    "total_seconds": 9177
+    "total_seconds": 9276
   },
   "yummyspacebar": {
     "week_seconds": 17623,
@@ -7050,8 +7050,8 @@
     "total_seconds": 0
   },
   "davosforum": {
-    "week_seconds": 5,
+    "week_seconds": 11,
     "week_start": 1781890232,
-    "total_seconds": 5
+    "total_seconds": 11
   }
 }
