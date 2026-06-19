@@ -1905,9 +1905,9 @@
     "total_seconds": 44937
   },
   "hxrl": {
-    "week_seconds": 45394,
+    "week_seconds": 49411,
     "week_start": 1781519516,
-    "total_seconds": 45394
+    "total_seconds": 49411
   },
   "ech0o_o0": {
     "week_seconds": 6501,
@@ -6775,9 +6775,9 @@
     "total_seconds": 142
   },
   "big_shadow0": {
-    "week_seconds": 4769,
+    "week_seconds": 4851,
     "week_start": 1781856123,
-    "total_seconds": 4769
+    "total_seconds": 4851
   },
   "sakanaotoko": {
     "week_seconds": 0,
@@ -6832,6 +6832,11 @@
   "vedel2050": {
     "week_seconds": 0,
     "week_start": 1781860716,
+    "total_seconds": 0
+  },
+  "jobisveryscary67": {
+    "week_seconds": 0,
+    "week_start": 1781860955,
     "total_seconds": 0
   }
 }
