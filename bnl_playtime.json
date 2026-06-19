@@ -6735,9 +6735,9 @@
     "total_seconds": 60
   },
   "monkeyanjing": {
-    "week_seconds": 86,
+    "week_seconds": 90,
     "week_start": 1781847850,
-    "total_seconds": 86
+    "total_seconds": 90
   },
   "arkenstine": {
     "week_seconds": 38,
@@ -6928,5 +6928,10 @@
     "week_seconds": 327,
     "week_start": 1781873666,
     "total_seconds": 327
+  },
+  "x_vtyv": {
+    "week_seconds": 0,
+    "week_start": 1781875617,
+    "total_seconds": 0
   }
 }
