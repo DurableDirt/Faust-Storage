@@ -6705,9 +6705,9 @@
     "total_seconds": 6
   },
   "privateporkchop": {
-    "week_seconds": 0,
+    "week_seconds": 18420,
     "week_start": 1781839979,
-    "total_seconds": 0
+    "total_seconds": 18420
   },
   "heartsii": {
     "week_seconds": 10054,
@@ -6797,6 +6797,11 @@
   "phantxmx": {
     "week_seconds": 0,
     "week_start": 1781858058,
+    "total_seconds": 0
+  },
+  "sch1zk": {
+    "week_seconds": 0,
+    "week_start": 1781858364,
     "total_seconds": 0
   }
 }
