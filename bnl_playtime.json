@@ -5835,9 +5835,9 @@
     "total_seconds": 10
   },
   "gaperzo": {
-    "week_seconds": 8383,
+    "week_seconds": 8431,
     "week_start": 1781755975,
-    "total_seconds": 8383
+    "total_seconds": 8431
   },
   "knkayen": {
     "week_seconds": 39,
@@ -6710,9 +6710,9 @@
     "total_seconds": 0
   },
   "heartsii": {
-    "week_seconds": 5664,
+    "week_seconds": 10054,
     "week_start": 1781841865,
-    "total_seconds": 5664
+    "total_seconds": 10054
   },
   "muddy443m": {
     "week_seconds": 0,
@@ -6755,8 +6755,8 @@
     "total_seconds": 0
   },
   "catthegizmo": {
-    "week_seconds": 0,
+    "week_seconds": 24,
     "week_start": 1781851923,
-    "total_seconds": 0
+    "total_seconds": 24
   }
 }
