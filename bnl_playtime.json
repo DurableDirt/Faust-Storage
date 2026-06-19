@@ -1240,9 +1240,9 @@
     "total_seconds": 14697
   },
   "mtfuji": {
-    "week_seconds": 215092,
+    "week_seconds": 215125,
     "week_start": 1781491151,
-    "total_seconds": 215092
+    "total_seconds": 215125
   },
   "intelligences": {
     "week_seconds": 15355,
@@ -2290,9 +2290,9 @@
     "total_seconds": 53443
   },
   "smagz24": {
-    "week_seconds": 28944,
+    "week_seconds": 30125,
     "week_start": 1781530300,
-    "total_seconds": 28944
+    "total_seconds": 30125
   },
   "stun2845": {
     "week_seconds": 14543,
