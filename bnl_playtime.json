@@ -1580,9 +1580,9 @@
     "total_seconds": 58246
   },
   "gobblin": {
-    "week_seconds": 33840,
+    "week_seconds": 34108,
     "week_start": 1781505039,
-    "total_seconds": 33840
+    "total_seconds": 34108
   },
   "vlinar": {
     "week_seconds": 47549,
@@ -1825,9 +1825,9 @@
     "total_seconds": 767
   },
   "castorguy": {
-    "week_seconds": 35479,
+    "week_seconds": 41634,
     "week_start": 1781516202,
-    "total_seconds": 35479
+    "total_seconds": 41634
   },
   "yinz001": {
     "week_seconds": 49679,
@@ -2145,9 +2145,9 @@
     "total_seconds": 162549
   },
   "daimnasal": {
-    "week_seconds": 40494,
+    "week_seconds": 43201,
     "week_start": 1781527309,
-    "total_seconds": 40494
+    "total_seconds": 43201
   },
   "azurisdev": {
     "week_seconds": 133,
