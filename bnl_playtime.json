@@ -4130,9 +4130,9 @@
     "total_seconds": 17203
   },
   "annatos": {
-    "week_seconds": 13641,
+    "week_seconds": 14664,
     "week_start": 1781623508,
-    "total_seconds": 13641
+    "total_seconds": 14664
   },
   "testedyapper": {
     "week_seconds": 263,
@@ -7260,8 +7260,8 @@
     "total_seconds": 0
   },
   "x_mell_x": {
-    "week_seconds": 0,
+    "week_seconds": 105,
     "week_start": 1781912993,
-    "total_seconds": 0
+    "total_seconds": 105
   }
 }
