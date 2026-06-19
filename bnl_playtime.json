@@ -2560,9 +2560,9 @@
     "total_seconds": 82820
   },
   "myng11": {
-    "week_seconds": 8388,
+    "week_seconds": 9471,
     "week_start": 1781538162,
-    "total_seconds": 8388
+    "total_seconds": 9471
   },
   "dondindundan": {
     "week_seconds": 5,
@@ -7138,5 +7138,10 @@
     "week_seconds": 169,
     "week_start": 1781896764,
     "total_seconds": 169
+  },
+  "adrianishere": {
+    "week_seconds": 0,
+    "week_start": 1781897129,
+    "total_seconds": 0
   }
 }
