@@ -1,8 +1,8 @@
 {
   "durabledirt": {
-    "week_seconds": 55918,
+    "week_seconds": 56862,
     "week_start": 1781474461,
-    "total_seconds": 55918
+    "total_seconds": 56862
   },
   "alphaaaaaaaaalph": {
     "week_seconds": 4,
@@ -2715,9 +2715,9 @@
     "total_seconds": 48875
   },
   "landopotato712": {
-    "week_seconds": 39969,
+    "week_seconds": 40086,
     "week_start": 1781542629,
-    "total_seconds": 39969
+    "total_seconds": 40086
   },
   "hierophant1319": {
     "week_seconds": 8382,
@@ -7222,6 +7222,11 @@
   "mrsbeens3": {
     "week_seconds": 0,
     "week_start": 1781906795,
+    "total_seconds": 0
+  },
+  "dqrkzzz1": {
+    "week_seconds": 0,
+    "week_start": 1781907564,
     "total_seconds": 0
   }
 }
