@@ -1065,9 +1065,9 @@
     "total_seconds": 363
   },
   "goldlirio": {
-    "week_seconds": 22555,
+    "week_seconds": 32667,
     "week_start": 1781487271,
-    "total_seconds": 22555
+    "total_seconds": 32667
   },
   "francreeps": {
     "week_seconds": 22828,
@@ -7152,6 +7152,11 @@
   "tandaman321": {
     "week_seconds": 0,
     "week_start": 1781899312,
+    "total_seconds": 0
+  },
+  "scramble0": {
+    "week_seconds": 0,
+    "week_start": 1781900087,
     "total_seconds": 0
   }
 }
