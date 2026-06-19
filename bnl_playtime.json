@@ -55,9 +55,9 @@
     "total_seconds": 117395
   },
   "jadenjb": {
-    "week_seconds": 19347,
+    "week_seconds": 20607,
     "week_start": 1781474857,
-    "total_seconds": 19347
+    "total_seconds": 20607
   },
   "mitthraw91": {
     "week_seconds": 263024,
@@ -7192,6 +7192,11 @@
   "californiagamer": {
     "week_seconds": 0,
     "week_start": 1781903352,
+    "total_seconds": 0
+  },
+  "2eez": {
+    "week_seconds": 0,
+    "week_start": 1781903680,
     "total_seconds": 0
   }
 }
