@@ -1690,9 +1690,9 @@
     "total_seconds": 37315
   },
   "solitaire7": {
-    "week_seconds": 75523,
+    "week_seconds": 79431,
     "week_start": 1781510605,
-    "total_seconds": 75523
+    "total_seconds": 79431
   },
   "masqo_": {
     "week_seconds": 31160,
@@ -4945,9 +4945,9 @@
     "total_seconds": 5635
   },
   "3ncrypted_p4sty": {
-    "week_seconds": 5153,
+    "week_seconds": 5182,
     "week_start": 1781678939,
-    "total_seconds": 5153
+    "total_seconds": 5182
   },
   "karso8": {
     "week_seconds": 7571,
@@ -6908,5 +6908,10 @@
     "week_seconds": 96,
     "week_start": 1781871718,
     "total_seconds": 96
+  },
+  "tsepnos": {
+    "week_seconds": 0,
+    "week_start": 1781871836,
+    "total_seconds": 0
   }
 }
