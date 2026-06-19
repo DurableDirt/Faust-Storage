@@ -240,9 +240,9 @@
     "total_seconds": 101626
   },
   "wasabiwhip": {
-    "week_seconds": 27719,
+    "week_seconds": 28023,
     "week_start": 1781476532,
-    "total_seconds": 27719
+    "total_seconds": 28023
   },
   "aluminum_foil_": {
     "week_seconds": 97966,
@@ -5320,9 +5320,9 @@
     "total_seconds": 1176
   },
   "goneguy5": {
-    "week_seconds": 16476,
+    "week_seconds": 21843,
     "week_start": 1781718241,
-    "total_seconds": 16476
+    "total_seconds": 21843
   },
   "supermollyworld": {
     "week_seconds": 96,
@@ -7248,5 +7248,10 @@
     "week_seconds": 645,
     "week_start": 1781910674,
     "total_seconds": 645
+  },
+  "thewithercrafter": {
+    "week_seconds": 0,
+    "week_start": 1781911788,
+    "total_seconds": 0
   }
 }
