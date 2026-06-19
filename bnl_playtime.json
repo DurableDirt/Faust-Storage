@@ -75,9 +75,9 @@
     "total_seconds": 61692
   },
   "40mm": {
-    "week_seconds": 42217,
+    "week_seconds": 43000,
     "week_start": 1781475020,
-    "total_seconds": 42217
+    "total_seconds": 43000
   },
   "lynx2007": {
     "week_seconds": 65849,
@@ -445,9 +445,9 @@
     "total_seconds": 51711
   },
   "iron600": {
-    "week_seconds": 112606,
+    "week_seconds": 112731,
     "week_start": 1781478931,
-    "total_seconds": 112606
+    "total_seconds": 112731
   },
   "mrtnt1925": {
     "week_seconds": 95890,
@@ -1675,9 +1675,9 @@
     "total_seconds": 95851
   },
   "jaydon_": {
-    "week_seconds": 101386,
+    "week_seconds": 101553,
     "week_start": 1781510086,
-    "total_seconds": 101386
+    "total_seconds": 101553
   },
   "pina0210": {
     "week_seconds": 4,
