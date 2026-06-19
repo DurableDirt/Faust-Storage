@@ -230,9 +230,9 @@
     "total_seconds": 43
   },
   "the_fella7441": {
-    "week_seconds": 38865,
+    "week_seconds": 39081,
     "week_start": 1781476454,
-    "total_seconds": 38865
+    "total_seconds": 39081
   },
   "hentlol": {
     "week_seconds": 81658,
@@ -6613,5 +6613,10 @@
     "week_seconds": 383,
     "week_start": 1781831943,
     "total_seconds": 383
+  },
+  "socrates_athens": {
+    "week_seconds": 0,
+    "week_start": 1781832420,
+    "total_seconds": 0
   }
 }
