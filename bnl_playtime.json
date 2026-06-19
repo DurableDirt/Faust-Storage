@@ -1035,9 +1035,9 @@
     "total_seconds": 6
   },
   "aserdabeast": {
-    "week_seconds": 18860,
+    "week_seconds": 18865,
     "week_start": 1781486788,
-    "total_seconds": 18860
+    "total_seconds": 18865
   },
   "pharomachrus2": {
     "week_seconds": 91,
@@ -7213,5 +7213,10 @@
     "week_seconds": 163,
     "week_start": 1781906432,
     "total_seconds": 163
+  },
+  "kav8": {
+    "week_seconds": 0,
+    "week_start": 1781906689,
+    "total_seconds": 0
   }
 }
