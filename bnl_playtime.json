@@ -75,9 +75,9 @@
     "total_seconds": 59076
   },
   "40mm": {
-    "week_seconds": 39091,
+    "week_seconds": 40248,
     "week_start": 1781475020,
-    "total_seconds": 39091
+    "total_seconds": 40248
   },
   "lynx2007": {
     "week_seconds": 65849,
@@ -6820,9 +6820,9 @@
     "total_seconds": 91
   },
   "hemp_bone": {
-    "week_seconds": 0,
+    "week_seconds": 2875,
     "week_start": 1781858880,
-    "total_seconds": 0
+    "total_seconds": 2875
   },
   "lysika_lantariel": {
     "week_seconds": 34,
