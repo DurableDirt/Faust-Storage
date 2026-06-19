@@ -3960,9 +3960,9 @@
     "total_seconds": 5834
   },
   "therewalker": {
-    "week_seconds": 84803,
+    "week_seconds": 85791,
     "week_start": 1781611918,
-    "total_seconds": 84803
+    "total_seconds": 85791
   },
   "elpaconcio": {
     "week_seconds": 23610,
@@ -7132,6 +7132,11 @@
   "sfortunkawtf": {
     "week_seconds": 0,
     "week_start": 1781896585,
+    "total_seconds": 0
+  },
+  "emphemeral": {
+    "week_seconds": 0,
+    "week_start": 1781896764,
     "total_seconds": 0
   }
 }
