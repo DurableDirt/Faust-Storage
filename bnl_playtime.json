@@ -1770,9 +1770,9 @@
     "total_seconds": 20275
   },
   "wandrumdum": {
-    "week_seconds": 49498,
+    "week_seconds": 54795,
     "week_start": 1781514455,
-    "total_seconds": 49498
+    "total_seconds": 54795
   },
   "badwaffles_": {
     "week_seconds": 3765,
@@ -3835,9 +3835,9 @@
     "total_seconds": 73652
   },
   "kashev": {
-    "week_seconds": 25467,
+    "week_seconds": 26125,
     "week_start": 1781595224,
-    "total_seconds": 25467
+    "total_seconds": 26125
   },
   "gracefulmomo_": {
     "week_seconds": 6777,
@@ -6942,6 +6942,11 @@
   "sunflower73": {
     "week_seconds": 0,
     "week_start": 1781876077,
+    "total_seconds": 0
+  },
+  "katoishere": {
+    "week_seconds": 0,
+    "week_start": 1781876617,
     "total_seconds": 0
   }
 }
