@@ -75,9 +75,9 @@
     "total_seconds": 61692
   },
   "40mm": {
-    "week_seconds": 43128,
+    "week_seconds": 43424,
     "week_start": 1781475020,
-    "total_seconds": 43128
+    "total_seconds": 43424
   },
   "lynx2007": {
     "week_seconds": 65849,
@@ -1080,9 +1080,9 @@
     "total_seconds": 214
   },
   "orestraya": {
-    "week_seconds": 105236,
+    "week_seconds": 119219,
     "week_start": 1781487686,
-    "total_seconds": 105236
+    "total_seconds": 119219
   },
   "satava": {
     "week_seconds": 77274,
@@ -2415,9 +2415,9 @@
     "total_seconds": 15839
   },
   "sml128": {
-    "week_seconds": 39512,
+    "week_seconds": 39647,
     "week_start": 1781534411,
-    "total_seconds": 39512
+    "total_seconds": 39647
   },
   "malipan": {
     "week_seconds": 16492,
@@ -2480,9 +2480,9 @@
     "total_seconds": 13562
   },
   "a_penguin_pal": {
-    "week_seconds": 18871,
+    "week_seconds": 20566,
     "week_start": 1781535840,
-    "total_seconds": 18871
+    "total_seconds": 20566
   },
   "emperorashina": {
     "week_seconds": 29047,
@@ -2920,9 +2920,9 @@
     "total_seconds": 397
   },
   "sishi0417": {
-    "week_seconds": 17986,
+    "week_seconds": 18109,
     "week_start": 1781548862,
-    "total_seconds": 17986
+    "total_seconds": 18109
   },
   "seiseitan": {
     "week_seconds": 43305,
