@@ -3910,9 +3910,9 @@
     "total_seconds": 90659
   },
   "stefanmakker": {
-    "week_seconds": 284,
+    "week_seconds": 2863,
     "week_start": 1781601544,
-    "total_seconds": 284
+    "total_seconds": 2863
   },
   "bruisedbread": {
     "week_seconds": 26715,
@@ -6060,9 +6060,9 @@
     "total_seconds": 1337
   },
   "captainspacerat": {
-    "week_seconds": 4029,
+    "week_seconds": 4053,
     "week_start": 1781794144,
-    "total_seconds": 4029
+    "total_seconds": 4053
   },
   "sweetnoodle_": {
     "week_seconds": 21749,
@@ -6968,5 +6968,10 @@
     "week_seconds": 224,
     "week_start": 1781881881,
     "total_seconds": 224
+  },
+  "arosinas": {
+    "week_seconds": 11,
+    "week_start": 1781882246,
+    "total_seconds": 11
   }
 }
