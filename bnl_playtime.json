@@ -80,9 +80,9 @@
     "total_seconds": 46454
   },
   "lynx2007": {
-    "week_seconds": 71944,
+    "week_seconds": 71975,
     "week_start": 1781475059,
-    "total_seconds": 71944
+    "total_seconds": 71975
   },
   "cunningwind6139": {
     "week_seconds": 56489,
@@ -2800,9 +2800,9 @@
     "total_seconds": 12
   },
   "sneedchungus": {
-    "week_seconds": 16336,
+    "week_seconds": 17848,
     "week_start": 1781546071,
-    "total_seconds": 16336
+    "total_seconds": 17848
   },
   "koklushz": {
     "week_seconds": 29698,
@@ -7183,5 +7183,10 @@
     "week_seconds": 167,
     "week_start": 1781902258,
     "total_seconds": 167
+  },
+  "parcquee": {
+    "week_seconds": 0,
+    "week_start": 1781902460,
+    "total_seconds": 0
   }
 }
