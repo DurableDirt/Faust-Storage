@@ -6100,9 +6100,9 @@
     "total_seconds": 10164
   },
   "dj10_": {
-    "week_seconds": 3300,
+    "week_seconds": 11321,
     "week_start": 1781798150,
-    "total_seconds": 3300
+    "total_seconds": 11321
   },
   "moqqi2k": {
     "week_seconds": 1945,
@@ -7002,6 +7002,11 @@
   "tolerant6000": {
     "week_seconds": 0,
     "week_start": 1781884493,
+    "total_seconds": 0
+  },
+  "jarltalos": {
+    "week_seconds": 0,
+    "week_start": 1781884550,
     "total_seconds": 0
   }
 }
