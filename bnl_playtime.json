@@ -1450,9 +1450,9 @@
     "total_seconds": 11341
   },
   "xenoum": {
-    "week_seconds": 84751,
+    "week_seconds": 86776,
     "week_start": 1781497822,
-    "total_seconds": 84751
+    "total_seconds": 86776
   },
   "earrthfall": {
     "week_seconds": 138,
@@ -2630,9 +2630,9 @@
     "total_seconds": 54616
   },
   "joldidk": {
-    "week_seconds": 42605,
+    "week_seconds": 42645,
     "week_start": 1781540251,
-    "total_seconds": 42605
+    "total_seconds": 42645
   },
   "hegghogaming": {
     "week_seconds": 27681,
@@ -7048,5 +7048,10 @@
     "week_seconds": 0,
     "week_start": 1781889612,
     "total_seconds": 0
+  },
+  "davosforum": {
+    "week_seconds": 5,
+    "week_start": 1781890232,
+    "total_seconds": 5
   }
 }
