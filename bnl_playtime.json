@@ -6625,9 +6625,9 @@
     "total_seconds": 0
   },
   "igeeker": {
-    "week_seconds": 0,
+    "week_seconds": 3328,
     "week_start": 1781833058,
-    "total_seconds": 0
+    "total_seconds": 3328
   },
   "follivlxx": {
     "week_seconds": 0,
@@ -6662,6 +6662,11 @@
   "mrrex101": {
     "week_seconds": 0,
     "week_start": 1781836313,
+    "total_seconds": 0
+  },
+  "slexshortslax": {
+    "week_seconds": 0,
+    "week_start": 1781836400,
     "total_seconds": 0
   }
 }
