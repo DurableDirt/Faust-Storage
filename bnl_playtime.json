@@ -3835,9 +3835,9 @@
     "total_seconds": 71669
   },
   "kashev": {
-    "week_seconds": 24043,
+    "week_seconds": 24160,
     "week_start": 1781595224,
-    "total_seconds": 24043
+    "total_seconds": 24160
   },
   "gracefulmomo_": {
     "week_seconds": 6777,
@@ -6875,9 +6875,9 @@
     "total_seconds": 14
   },
   "dzikil1s": {
-    "week_seconds": 0,
+    "week_seconds": 3574,
     "week_start": 1781868214,
-    "total_seconds": 0
+    "total_seconds": 3574
   },
   "rudy_7_7": {
     "week_seconds": 3334,
@@ -6903,5 +6903,10 @@
     "week_seconds": 202,
     "week_start": 1781871485,
     "total_seconds": 202
+  },
+  "rafa21212312": {
+    "week_seconds": 96,
+    "week_start": 1781871718,
+    "total_seconds": 96
   }
 }
