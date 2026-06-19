@@ -940,9 +940,9 @@
     "total_seconds": 115055
   },
   "x1025": {
-    "week_seconds": 282582,
+    "week_seconds": 289650,
     "week_start": 1781485724,
-    "total_seconds": 282582
+    "total_seconds": 289650
   },
   "xcios": {
     "week_seconds": 14786,
@@ -7135,8 +7135,8 @@
     "total_seconds": 0
   },
   "emphemeral": {
-    "week_seconds": 0,
+    "week_seconds": 169,
     "week_start": 1781896764,
-    "total_seconds": 0
+    "total_seconds": 169
   }
 }
