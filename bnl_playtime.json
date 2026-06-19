@@ -185,9 +185,9 @@
     "total_seconds": 41632
   },
   "ahrimanne": {
-    "week_seconds": 51300,
+    "week_seconds": 64314,
     "week_start": 1781476161,
-    "total_seconds": 51300
+    "total_seconds": 64314
   },
   "princess__bow": {
     "week_seconds": 52091,
@@ -6635,8 +6635,8 @@
     "total_seconds": 0
   },
   "tippyshippy": {
-    "week_seconds": 0,
+    "week_seconds": 229,
     "week_start": 1781834081,
-    "total_seconds": 0
+    "total_seconds": 229
   }
 }
