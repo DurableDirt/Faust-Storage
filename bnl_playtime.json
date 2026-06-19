@@ -400,9 +400,9 @@
     "total_seconds": 6615
   },
   "uprisingmax": {
-    "week_seconds": 60561,
+    "week_seconds": 64642,
     "week_start": 1781478140,
-    "total_seconds": 60561
+    "total_seconds": 64642
   },
   "freshoxygenair": {
     "week_seconds": 7175,
@@ -4680,9 +4680,9 @@
     "total_seconds": 22
   },
   "glog_frogmen": {
-    "week_seconds": 43191,
+    "week_seconds": 43224,
     "week_start": 1781656168,
-    "total_seconds": 43191
+    "total_seconds": 43224
   },
   "clearhercules": {
     "week_seconds": 45030,
@@ -5485,9 +5485,9 @@
     "total_seconds": 27991
   },
   "lycoros": {
-    "week_seconds": 21778,
+    "week_seconds": 24926,
     "week_start": 1781728490,
-    "total_seconds": 21778
+    "total_seconds": 24926
   },
   "sobn": {
     "week_seconds": 1612,
