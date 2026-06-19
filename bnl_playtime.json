@@ -1850,9 +1850,9 @@
     "total_seconds": 120764
   },
   "basicallyagungan": {
-    "week_seconds": 68242,
+    "week_seconds": 69693,
     "week_start": 1781517220,
-    "total_seconds": 68242
+    "total_seconds": 69693
   },
   "archieisverydum": {
     "week_seconds": 17,
@@ -6843,5 +6843,10 @@
     "week_seconds": 111,
     "week_start": 1781861560,
     "total_seconds": 111
+  },
+  "yarikheit": {
+    "week_seconds": 0,
+    "week_start": 1781865995,
+    "total_seconds": 0
   }
 }
