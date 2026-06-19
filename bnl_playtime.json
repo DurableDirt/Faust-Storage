@@ -5555,9 +5555,9 @@
     "total_seconds": 207
   },
   "squishywaffle20": {
-    "week_seconds": 3645,
+    "week_seconds": 4006,
     "week_start": 1781735266,
-    "total_seconds": 3645
+    "total_seconds": 4006
   },
   "defunctsnail187": {
     "week_seconds": 1378,
@@ -6563,5 +6563,10 @@
     "week_seconds": 93,
     "week_start": 1781827595,
     "total_seconds": 93
+  },
+  "omokami": {
+    "week_seconds": 0,
+    "week_start": 1781828112,
+    "total_seconds": 0
   }
 }
