@@ -3530,9 +3530,9 @@
     "total_seconds": 71
   },
   "_banana_blu_": {
-    "week_seconds": 120294,
+    "week_seconds": 123330,
     "week_start": 1781570022,
-    "total_seconds": 120294
+    "total_seconds": 123330
   },
   "theboatsmith": {
     "week_seconds": 15086,
@@ -7053,5 +7053,10 @@
     "week_seconds": 17,
     "week_start": 1781890232,
     "total_seconds": 17
+  },
+  "speedforce12359": {
+    "week_seconds": 0,
+    "week_start": 1781891085,
+    "total_seconds": 0
   }
 }
