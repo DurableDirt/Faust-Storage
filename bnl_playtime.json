@@ -125,9 +125,9 @@
     "total_seconds": 1010
   },
   "nahsaimonnumber2": {
-    "week_seconds": 14551,
+    "week_seconds": 17351,
     "week_start": 1781475711,
-    "total_seconds": 14551
+    "total_seconds": 17351
   },
   "threeapplestall": {
     "week_seconds": 150710,
@@ -1240,9 +1240,9 @@
     "total_seconds": 14697
   },
   "mtfuji": {
-    "week_seconds": 214991,
+    "week_seconds": 215026,
     "week_start": 1781491151,
-    "total_seconds": 214991
+    "total_seconds": 215026
   },
   "intelligences": {
     "week_seconds": 15355,
@@ -6100,9 +6100,9 @@
     "total_seconds": 10164
   },
   "dj10_": {
-    "week_seconds": 11321,
+    "week_seconds": 11354,
     "week_start": 1781798150,
-    "total_seconds": 11321
+    "total_seconds": 11354
   },
   "moqqi2k": {
     "week_seconds": 1945,
@@ -7017,6 +7017,11 @@
   "pfp_nexl": {
     "week_seconds": 0,
     "week_start": 1781884734,
+    "total_seconds": 0
+  },
+  "blizardxace": {
+    "week_seconds": 0,
+    "week_start": 1781884757,
     "total_seconds": 0
   }
 }
