@@ -375,9 +375,9 @@
     "total_seconds": 12111
   },
   "jamesthegmiguel": {
-    "week_seconds": 47571,
+    "week_seconds": 48672,
     "week_start": 1781477892,
-    "total_seconds": 47571
+    "total_seconds": 48672
   },
   "noctash": {
     "week_seconds": 21360,
@@ -7037,6 +7037,11 @@
   "crownclownoah": {
     "week_seconds": 0,
     "week_start": 1781889403,
+    "total_seconds": 0
+  },
+  "vitalcoin3800": {
+    "week_seconds": 0,
+    "week_start": 1781889551,
     "total_seconds": 0
   }
 }
