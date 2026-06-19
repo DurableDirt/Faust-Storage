@@ -2920,9 +2920,9 @@
     "total_seconds": 397
   },
   "sishi0417": {
-    "week_seconds": 17557,
+    "week_seconds": 17986,
     "week_start": 1781548862,
-    "total_seconds": 17557
+    "total_seconds": 17986
   },
   "seiseitan": {
     "week_seconds": 43305,
@@ -3920,9 +3920,9 @@
     "total_seconds": 26715
   },
   "plumily": {
-    "week_seconds": 59241,
+    "week_seconds": 59394,
     "week_start": 1781602124,
-    "total_seconds": 59241
+    "total_seconds": 59394
   },
   "soul9594": {
     "week_seconds": 541,
@@ -6983,5 +6983,10 @@
     "week_seconds": 0,
     "week_start": 1781882791,
     "total_seconds": 0
+  },
+  "wixelsprixels": {
+    "week_seconds": 21,
+    "week_start": 1781882999,
+    "total_seconds": 21
   }
 }
