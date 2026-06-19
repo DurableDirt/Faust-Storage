@@ -810,9 +810,9 @@
     "total_seconds": 67722
   },
   "timantha": {
-    "week_seconds": 70607,
+    "week_seconds": 74995,
     "week_start": 1781483687,
-    "total_seconds": 70607
+    "total_seconds": 74995
   },
   "gnathope": {
     "week_seconds": 74358,
@@ -7087,6 +7087,16 @@
   "shafi08": {
     "week_seconds": 0,
     "week_start": 1781894257,
+    "total_seconds": 0
+  },
+  "ja_c0b": {
+    "week_seconds": 0,
+    "week_start": 1781894296,
+    "total_seconds": 0
+  },
+  "0nightshadow0": {
+    "week_seconds": 0,
+    "week_start": 1781894323,
     "total_seconds": 0
   }
 }
