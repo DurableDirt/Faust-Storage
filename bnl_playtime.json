@@ -1650,9 +1650,9 @@
     "total_seconds": 90704
   },
   "virexil": {
-    "week_seconds": 23280,
+    "week_seconds": 23401,
     "week_start": 1781509271,
-    "total_seconds": 23280
+    "total_seconds": 23401
   },
   "voidvin": {
     "week_seconds": 63216,
@@ -2115,9 +2115,9 @@
     "total_seconds": 70934
   },
   "trizzzx": {
-    "week_seconds": 41999,
+    "week_seconds": 46939,
     "week_start": 1781526367,
-    "total_seconds": 41999
+    "total_seconds": 46939
   },
   "reffelruz": {
     "week_seconds": 6549,
@@ -6948,5 +6948,10 @@
     "week_seconds": 55,
     "week_start": 1781876617,
     "total_seconds": 55
+  },
+  "dominater1230": {
+    "week_seconds": 0,
+    "week_start": 1781878237,
+    "total_seconds": 0
   }
 }
