@@ -2955,9 +2955,9 @@
     "total_seconds": 2301
   },
   "enchanted_cow": {
-    "week_seconds": 53930,
+    "week_seconds": 54033,
     "week_start": 1781550099,
-    "total_seconds": 53930
+    "total_seconds": 54033
   },
   "lucifer_sh": {
     "week_seconds": 53901,
@@ -4160,9 +4160,9 @@
     "total_seconds": 8197
   },
   "gunslingerzach": {
-    "week_seconds": 46684,
+    "week_seconds": 46688,
     "week_start": 1781627757,
-    "total_seconds": 46684
+    "total_seconds": 46688
   },
   "marrog20": {
     "week_seconds": 24,
@@ -6635,8 +6635,8 @@
     "total_seconds": 0
   },
   "tippyshippy": {
-    "week_seconds": 229,
+    "week_seconds": 343,
     "week_start": 1781834081,
-    "total_seconds": 229
+    "total_seconds": 343
   }
 }
