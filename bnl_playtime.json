@@ -955,9 +955,9 @@
     "total_seconds": 78634
   },
   "pointy_hii": {
-    "week_seconds": 88177,
+    "week_seconds": 88743,
     "week_start": 1781486038,
-    "total_seconds": 88177
+    "total_seconds": 88743
   },
   "blewo": {
     "week_seconds": 123,
@@ -5645,9 +5645,9 @@
     "total_seconds": 174
   },
   "skippydx": {
-    "week_seconds": 9488,
+    "week_seconds": 10039,
     "week_start": 1781741064,
-    "total_seconds": 9488
+    "total_seconds": 10039
   },
   "ultraman2": {
     "week_seconds": 251,
@@ -6627,6 +6627,11 @@
   "igeeker": {
     "week_seconds": 0,
     "week_start": 1781833058,
+    "total_seconds": 0
+  },
+  "follivlxx": {
+    "week_seconds": 0,
+    "week_start": 1781833191,
     "total_seconds": 0
   }
 }
