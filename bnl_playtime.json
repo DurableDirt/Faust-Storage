@@ -2145,9 +2145,9 @@
     "total_seconds": 162549
   },
   "daimnasal": {
-    "week_seconds": 43201,
+    "week_seconds": 46335,
     "week_start": 1781527309,
-    "total_seconds": 43201
+    "total_seconds": 46335
   },
   "azurisdev": {
     "week_seconds": 133,
@@ -3920,9 +3920,9 @@
     "total_seconds": 26715
   },
   "plumily": {
-    "week_seconds": 56472,
+    "week_seconds": 58985,
     "week_start": 1781602124,
-    "total_seconds": 56472
+    "total_seconds": 58985
   },
   "soul9594": {
     "week_seconds": 541,
@@ -6960,8 +6960,8 @@
     "total_seconds": 145
   },
   "simonthejester": {
-    "week_seconds": 0,
+    "week_seconds": 261,
     "week_start": 1781881423,
-    "total_seconds": 0
+    "total_seconds": 261
   }
 }
