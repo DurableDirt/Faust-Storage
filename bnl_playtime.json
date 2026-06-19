@@ -2145,9 +2145,9 @@
     "total_seconds": 162549
   },
   "daimnasal": {
-    "week_seconds": 29099,
+    "week_seconds": 31202,
     "week_start": 1781527309,
-    "total_seconds": 29099
+    "total_seconds": 31202
   },
   "azurisdev": {
     "week_seconds": 133,
@@ -6743,5 +6743,10 @@
     "week_seconds": 38,
     "week_start": 1781850310,
     "total_seconds": 38
+  },
+  "heromatt27": {
+    "week_seconds": 87,
+    "week_start": 1781851122,
+    "total_seconds": 87
   }
 }
