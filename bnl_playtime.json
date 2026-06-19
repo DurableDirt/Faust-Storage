@@ -155,9 +155,9 @@
     "total_seconds": 12119
   },
   "lightningboi4": {
-    "week_seconds": 83092,
+    "week_seconds": 83127,
     "week_start": 1781476003,
-    "total_seconds": 83092
+    "total_seconds": 83127
   },
   "aaroni_macaroni": {
     "week_seconds": 56191,
@@ -2960,9 +2960,9 @@
     "total_seconds": 56545
   },
   "lucifer_sh": {
-    "week_seconds": 62932,
+    "week_seconds": 63026,
     "week_start": 1781550837,
-    "total_seconds": 62932
+    "total_seconds": 63026
   },
   "yuitzzy": {
     "week_seconds": 2391,
@@ -6717,6 +6717,11 @@
   "muddy443m": {
     "week_seconds": 0,
     "week_start": 1781842914,
+    "total_seconds": 0
+  },
+  "nathan_120": {
+    "week_seconds": 0,
+    "week_start": 1781844366,
     "total_seconds": 0
   }
 }
