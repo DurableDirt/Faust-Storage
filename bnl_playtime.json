@@ -1365,9 +1365,9 @@
     "total_seconds": 11239
   },
   "rammyls": {
-    "week_seconds": 89918,
+    "week_seconds": 92455,
     "week_start": 1781495283,
-    "total_seconds": 89918
+    "total_seconds": 92455
   },
   "adelover01": {
     "week_seconds": 26681,
@@ -7200,8 +7200,8 @@
     "total_seconds": 2197
   },
   "ekstramocny": {
-    "week_seconds": 10,
+    "week_seconds": 94,
     "week_start": 1781906263,
-    "total_seconds": 10
+    "total_seconds": 94
   }
 }
