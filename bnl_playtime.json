@@ -525,9 +525,9 @@
     "total_seconds": 7709
   },
   "shadno": {
-    "week_seconds": 177050,
+    "week_seconds": 183628,
     "week_start": 1781479968,
-    "total_seconds": 177050
+    "total_seconds": 183628
   },
   "hexayn": {
     "week_seconds": 974,
@@ -6888,5 +6888,10 @@
     "week_seconds": 417,
     "week_start": 1781869848,
     "total_seconds": 417
+  },
+  "flight_master": {
+    "week_seconds": 0,
+    "week_start": 1781870752,
+    "total_seconds": 0
   }
 }
