@@ -105,9 +105,9 @@
     "total_seconds": 87591
   },
   "slothinasuit": {
-    "week_seconds": 158341,
+    "week_seconds": 158367,
     "week_start": 1781475413,
-    "total_seconds": 158341
+    "total_seconds": 158367
   },
   "jck20h": {
     "week_seconds": 14813,
@@ -6973,5 +6973,10 @@
     "week_seconds": 11,
     "week_start": 1781882246,
     "total_seconds": 11
+  },
+  "thefuturecraft": {
+    "week_seconds": 0,
+    "week_start": 1781882401,
+    "total_seconds": 0
   }
 }
