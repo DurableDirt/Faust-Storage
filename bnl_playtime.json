@@ -1640,9 +1640,9 @@
     "total_seconds": 2807
   },
   "dominius_x": {
-    "week_seconds": 67542,
+    "week_seconds": 70246,
     "week_start": 1781508863,
-    "total_seconds": 67542
+    "total_seconds": 70246
   },
   "xenos": {
     "week_seconds": 90704,
@@ -7060,8 +7060,8 @@
     "total_seconds": 735
   },
   "ladylobotomi": {
-    "week_seconds": 0,
+    "week_seconds": 159,
     "week_start": 1781892693,
-    "total_seconds": 0
+    "total_seconds": 159
   }
 }
