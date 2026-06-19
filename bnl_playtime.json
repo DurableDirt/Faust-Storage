@@ -230,9 +230,9 @@
     "total_seconds": 43
   },
   "the_fella7441": {
-    "week_seconds": 39081,
+    "week_seconds": 39400,
     "week_start": 1781476454,
-    "total_seconds": 39081
+    "total_seconds": 39400
   },
   "hentlol": {
     "week_seconds": 81658,
@@ -3555,9 +3555,9 @@
     "total_seconds": 13341
   },
   "peregri": {
-    "week_seconds": 12415,
+    "week_seconds": 17419,
     "week_start": 1781570781,
-    "total_seconds": 12415
+    "total_seconds": 17419
   },
   "cinturoncadena": {
     "week_seconds": 12661,
@@ -5555,9 +5555,9 @@
     "total_seconds": 642
   },
   "squishywaffle20": {
-    "week_seconds": 5101,
+    "week_seconds": 8605,
     "week_start": 1781735266,
-    "total_seconds": 5101
+    "total_seconds": 8605
   },
   "defunctsnail187": {
     "week_seconds": 1378,
@@ -6617,6 +6617,11 @@
   "socrates_athens": {
     "week_seconds": 0,
     "week_start": 1781832420,
+    "total_seconds": 0
+  },
+  "glitternapalm": {
+    "week_seconds": 0,
+    "week_start": 1781832730,
     "total_seconds": 0
   }
 }
