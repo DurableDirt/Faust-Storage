@@ -6840,9 +6840,9 @@
     "total_seconds": 7339
   },
   "coradiabutsmart": {
-    "week_seconds": 9772,
+    "week_seconds": 10368,
     "week_start": 1781861560,
-    "total_seconds": 9772
+    "total_seconds": 10368
   },
   "yarikheit": {
     "week_seconds": 577,
@@ -7155,8 +7155,8 @@
     "total_seconds": 0
   },
   "scramble0": {
-    "week_seconds": 0,
+    "week_seconds": 399,
     "week_start": 1781900087,
-    "total_seconds": 0
+    "total_seconds": 399
   }
 }
