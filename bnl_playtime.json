@@ -730,9 +730,9 @@
     "total_seconds": 54506
   },
   "marc_1500": {
-    "week_seconds": 34141,
+    "week_seconds": 44409,
     "week_start": 1781482585,
-    "total_seconds": 34141
+    "total_seconds": 44409
   },
   "zipjaw3979": {
     "week_seconds": 276,
@@ -6597,6 +6597,11 @@
   "blackgold211": {
     "week_seconds": 0,
     "week_start": 1781829431,
+    "total_seconds": 0
+  },
+  "blkwaterr": {
+    "week_seconds": 0,
+    "week_start": 1781829672,
     "total_seconds": 0
   }
 }
