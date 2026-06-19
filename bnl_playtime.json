@@ -1095,9 +1095,9 @@
     "total_seconds": 3927
   },
   "magickponch": {
-    "week_seconds": 31963,
+    "week_seconds": 37255,
     "week_start": 1781487886,
-    "total_seconds": 31963
+    "total_seconds": 37255
   },
   "nevergrimm": {
     "week_seconds": 49870,
@@ -4510,9 +4510,9 @@
     "total_seconds": 15833
   },
   "n5ther": {
-    "week_seconds": 139,
+    "week_seconds": 143,
     "week_start": 1781642942,
-    "total_seconds": 139
+    "total_seconds": 143
   },
   "feelzgoodman1": {
     "week_seconds": 4,
@@ -7217,6 +7217,11 @@
   "kav8": {
     "week_seconds": 0,
     "week_start": 1781906689,
+    "total_seconds": 0
+  },
+  "mrsbeens3": {
+    "week_seconds": 0,
+    "week_start": 1781906795,
     "total_seconds": 0
   }
 }
