@@ -6445,9 +6445,9 @@
     "total_seconds": 179
   },
   "dimbrain1038": {
-    "week_seconds": 5136,
+    "week_seconds": 5280,
     "week_start": 1781817177,
-    "total_seconds": 5136
+    "total_seconds": 5280
   },
   "seriousswimmerr": {
     "week_seconds": 127,
@@ -6952,6 +6952,11 @@
   "dominater1230": {
     "week_seconds": 0,
     "week_start": 1781878237,
+    "total_seconds": 0
+  },
+  "jonmerisyt": {
+    "week_seconds": 0,
+    "week_start": 1781880452,
     "total_seconds": 0
   }
 }
