@@ -135,9 +135,9 @@
     "total_seconds": 137379
   },
   "donnelpyke2": {
-    "week_seconds": 31973,
+    "week_seconds": 34587,
     "week_start": 1781475849,
-    "total_seconds": 31973
+    "total_seconds": 34587
   },
   "ziqh333": {
     "week_seconds": 7,
@@ -1000,9 +1000,9 @@
     "total_seconds": 40722
   },
   "thedragstermc": {
-    "week_seconds": 13740,
+    "week_seconds": 13773,
     "week_start": 1781486293,
-    "total_seconds": 13740
+    "total_seconds": 13773
   },
   "marada_sword": {
     "week_seconds": 32683,
@@ -1085,9 +1085,9 @@
     "total_seconds": 100172
   },
   "satava": {
-    "week_seconds": 64757,
+    "week_seconds": 64791,
     "week_start": 1781487788,
-    "total_seconds": 64757
+    "total_seconds": 64791
   },
   "majjcrunsgf": {
     "week_seconds": 3927,
@@ -1180,9 +1180,9 @@
     "total_seconds": 88762
   },
   "kingstell": {
-    "week_seconds": 50,
+    "week_seconds": 180,
     "week_start": 1781489596,
-    "total_seconds": 50
+    "total_seconds": 180
   },
   "animeme_master": {
     "week_seconds": 36407,
@@ -6590,9 +6590,9 @@
     "total_seconds": 62
   },
   "zainefox": {
-    "week_seconds": 3437,
+    "week_seconds": 6255,
     "week_start": 1781829155,
-    "total_seconds": 3437
+    "total_seconds": 6255
   },
   "blackgold211": {
     "week_seconds": 356,
@@ -6658,5 +6658,10 @@
     "week_seconds": 5,
     "week_start": 1781836218,
     "total_seconds": 5
+  },
+  "mrrex101": {
+    "week_seconds": 0,
+    "week_start": 1781836313,
+    "total_seconds": 0
   }
 }
