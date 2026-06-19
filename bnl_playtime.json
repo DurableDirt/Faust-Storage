@@ -1850,9 +1850,9 @@
     "total_seconds": 120764
   },
   "basicallyagungan": {
-    "week_seconds": 72090,
+    "week_seconds": 73460,
     "week_start": 1781517220,
-    "total_seconds": 72090
+    "total_seconds": 73460
   },
   "archieisverydum": {
     "week_seconds": 17,
@@ -6882,6 +6882,11 @@
   "rudy_7_7": {
     "week_seconds": 0,
     "week_start": 1781868260,
+    "total_seconds": 0
+  },
+  "mobee2": {
+    "week_seconds": 0,
+    "week_start": 1781869848,
     "total_seconds": 0
   }
 }
