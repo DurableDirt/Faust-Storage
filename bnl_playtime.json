@@ -7010,8 +7010,13 @@
     "total_seconds": 0
   },
   "halberdhighking": {
-    "week_seconds": 0,
+    "week_seconds": 73,
     "week_start": 1781884653,
+    "total_seconds": 73
+  },
+  "pfp_nexl": {
+    "week_seconds": 0,
+    "week_start": 1781884734,
     "total_seconds": 0
   }
 }
