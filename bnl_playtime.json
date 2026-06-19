@@ -115,9 +115,9 @@
     "total_seconds": 14813
   },
   "xjetistuff": {
-    "week_seconds": 24706,
+    "week_seconds": 26632,
     "week_start": 1781475510,
-    "total_seconds": 24706
+    "total_seconds": 26632
   },
   "popshotx9": {
     "week_seconds": 1010,
@@ -1385,9 +1385,9 @@
     "total_seconds": 10352
   },
   "sommdummy": {
-    "week_seconds": 14265,
+    "week_seconds": 15267,
     "week_start": 1781495930,
-    "total_seconds": 14265
+    "total_seconds": 15267
   },
   "alphg": {
     "week_seconds": 8498,
@@ -6847,6 +6847,11 @@
   "yarikheit": {
     "week_seconds": 0,
     "week_start": 1781865995,
+    "total_seconds": 0
+  },
+  "xotchi": {
+    "week_seconds": 0,
+    "week_start": 1781866099,
     "total_seconds": 0
   }
 }
