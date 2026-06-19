@@ -3755,9 +3755,9 @@
     "total_seconds": 789
   },
   "aussiedaboss": {
-    "week_seconds": 7666,
+    "week_seconds": 7668,
     "week_start": 1781583242,
-    "total_seconds": 7666
+    "total_seconds": 7668
   },
   "arbidos": {
     "week_seconds": 18600,
@@ -6788,5 +6788,15 @@
     "week_seconds": 1213,
     "week_start": 1781856692,
     "total_seconds": 1213
+  },
+  "yycnbnb": {
+    "week_seconds": 0,
+    "week_start": 1781858043,
+    "total_seconds": 0
+  },
+  "phantxmx": {
+    "week_seconds": 0,
+    "week_start": 1781858058,
+    "total_seconds": 0
   }
 }
