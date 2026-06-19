@@ -1555,9 +1555,9 @@
     "total_seconds": 3540
   },
   "hakr_": {
-    "week_seconds": 150451,
+    "week_seconds": 168029,
     "week_start": 1781503652,
-    "total_seconds": 150451
+    "total_seconds": 168029
   },
   "nsiv28": {
     "week_seconds": 11681,
@@ -6712,6 +6712,11 @@
   "heartsii": {
     "week_seconds": 0,
     "week_start": 1781841865,
+    "total_seconds": 0
+  },
+  "muddy443m": {
+    "week_seconds": 0,
+    "week_start": 1781842914,
     "total_seconds": 0
   }
 }
