@@ -80,9 +80,9 @@
     "total_seconds": 46454
   },
   "lynx2007": {
-    "week_seconds": 71679,
+    "week_seconds": 71944,
     "week_start": 1781475059,
-    "total_seconds": 71679
+    "total_seconds": 71944
   },
   "cunningwind6139": {
     "week_seconds": 56489,
@@ -4500,9 +4500,9 @@
     "total_seconds": 31789
   },
   "moirai_3242": {
-    "week_seconds": 30733,
+    "week_seconds": 32134,
     "week_start": 1781642653,
-    "total_seconds": 30733
+    "total_seconds": 32134
   },
   "emilpop2": {
     "week_seconds": 13143,
@@ -7180,8 +7180,8 @@
     "total_seconds": 76
   },
   "12700k": {
-    "week_seconds": 0,
+    "week_seconds": 167,
     "week_start": 1781902258,
-    "total_seconds": 0
+    "total_seconds": 167
   }
 }
