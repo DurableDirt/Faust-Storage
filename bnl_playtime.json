@@ -450,9 +450,9 @@
     "total_seconds": 132024
   },
   "mrtnt1925": {
-    "week_seconds": 101914,
+    "week_seconds": 108084,
     "week_start": 1781478966,
-    "total_seconds": 101914
+    "total_seconds": 108084
   },
   "axsld": {
     "week_seconds": 41197,
@@ -4685,9 +4685,9 @@
     "total_seconds": 42153
   },
   "clearhercules": {
-    "week_seconds": 45023,
+    "week_seconds": 45030,
     "week_start": 1781657179,
-    "total_seconds": 45023
+    "total_seconds": 45030
   },
   "mavorz911": {
     "week_seconds": 100,
@@ -7245,8 +7245,8 @@
     "total_seconds": 143
   },
   "iangreyrat": {
-    "week_seconds": 0,
+    "week_seconds": 645,
     "week_start": 1781910674,
-    "total_seconds": 0
+    "total_seconds": 645
   }
 }
