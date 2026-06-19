@@ -840,9 +840,9 @@
     "total_seconds": 20241
   },
   "socialistspectre": {
-    "week_seconds": 64644,
+    "week_seconds": 64989,
     "week_start": 1781484121,
-    "total_seconds": 64644
+    "total_seconds": 64989
   },
   "desmonddotjpeg": {
     "week_seconds": 364,
@@ -3180,9 +3180,9 @@
     "total_seconds": 54
   },
   "1stev0": {
-    "week_seconds": 115194,
+    "week_seconds": 128459,
     "week_start": 1781557435,
-    "total_seconds": 115194
+    "total_seconds": 128459
   },
   "jonandr5735": {
     "week_seconds": 322,
@@ -6722,6 +6722,11 @@
   "nathan_120": {
     "week_seconds": 0,
     "week_start": 1781844366,
+    "total_seconds": 0
+  },
+  "claud3xxx": {
+    "week_seconds": 0,
+    "week_start": 1781844685,
     "total_seconds": 0
   }
 }
