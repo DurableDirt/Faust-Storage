@@ -75,9 +75,9 @@
     "total_seconds": 59076
   },
   "40mm": {
-    "week_seconds": 35713,
+    "week_seconds": 39091,
     "week_start": 1781475020,
-    "total_seconds": 35713
+    "total_seconds": 39091
   },
   "lynx2007": {
     "week_seconds": 65849,
@@ -1365,9 +1365,9 @@
     "total_seconds": 11239
   },
   "rammyls": {
-    "week_seconds": 88405,
+    "week_seconds": 88443,
     "week_start": 1781495283,
-    "total_seconds": 88405
+    "total_seconds": 88443
   },
   "adelover01": {
     "week_seconds": 16728,
