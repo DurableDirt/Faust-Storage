@@ -2060,9 +2060,9 @@
     "total_seconds": 5
   },
   "robomagical732": {
-    "week_seconds": 51280,
+    "week_seconds": 56627,
     "week_start": 1781524434,
-    "total_seconds": 51280
+    "total_seconds": 56627
   },
   "whisky_1": {
     "week_seconds": 7186,
@@ -6020,9 +6020,9 @@
     "total_seconds": 28
   },
   "hanitensh": {
-    "week_seconds": 6519,
+    "week_seconds": 6554,
     "week_start": 1781787737,
-    "total_seconds": 6519
+    "total_seconds": 6554
   },
   "wiehies": {
     "week_seconds": 34,
@@ -6933,5 +6933,10 @@
     "week_seconds": 42,
     "week_start": 1781875617,
     "total_seconds": 42
+  },
+  "mr_quakston": {
+    "week_seconds": 0,
+    "week_start": 1781876039,
+    "total_seconds": 0
   }
 }
