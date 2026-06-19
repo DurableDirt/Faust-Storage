@@ -2145,9 +2145,9 @@
     "total_seconds": 162549
   },
   "daimnasal": {
-    "week_seconds": 28156,
+    "week_seconds": 28533,
     "week_start": 1781527309,
-    "total_seconds": 28156
+    "total_seconds": 28533
   },
   "azurisdev": {
     "week_seconds": 133,
@@ -2265,9 +2265,9 @@
     "total_seconds": 12624
   },
   "pergyskeel": {
-    "week_seconds": 63273,
+    "week_seconds": 69872,
     "week_start": 1781530012,
-    "total_seconds": 63273
+    "total_seconds": 69872
   },
   "wickedmartin": {
     "week_seconds": 33708,
@@ -6728,5 +6728,10 @@
     "week_seconds": 309,
     "week_start": 1781844685,
     "total_seconds": 309
+  },
+  "notshawnfrog": {
+    "week_seconds": 0,
+    "week_start": 1781846298,
+    "total_seconds": 0
   }
 }
