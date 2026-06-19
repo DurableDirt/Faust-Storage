@@ -2630,9 +2630,9 @@
     "total_seconds": 54616
   },
   "joldidk": {
-    "week_seconds": 42645,
+    "week_seconds": 42674,
     "week_start": 1781540251,
-    "total_seconds": 42645
+    "total_seconds": 42674
   },
   "hegghogaming": {
     "week_seconds": 27681,
@@ -7050,8 +7050,8 @@
     "total_seconds": 0
   },
   "davosforum": {
-    "week_seconds": 11,
+    "week_seconds": 15,
     "week_start": 1781890232,
-    "total_seconds": 11
+    "total_seconds": 15
   }
 }
