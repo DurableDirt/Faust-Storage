@@ -115,9 +115,9 @@
     "total_seconds": 14813
   },
   "xjetistuff": {
-    "week_seconds": 26632,
+    "week_seconds": 27186,
     "week_start": 1781475510,
-    "total_seconds": 26632
+    "total_seconds": 27186
   },
   "popshotx9": {
     "week_seconds": 1010,
@@ -2220,9 +2220,9 @@
     "total_seconds": 75
   },
   "falphaeus": {
-    "week_seconds": 66273,
+    "week_seconds": 66321,
     "week_start": 1781528404,
-    "total_seconds": 66273
+    "total_seconds": 66321
   },
   "dorthit_0194a8au": {
     "week_seconds": 3029,
@@ -3815,9 +3815,9 @@
     "total_seconds": 15396
   },
   "refe1k": {
-    "week_seconds": 7713,
+    "week_seconds": 8990,
     "week_start": 1781593864,
-    "total_seconds": 7713
+    "total_seconds": 8990
   },
   "toasterbreaker": {
     "week_seconds": 4880,
@@ -6857,6 +6857,11 @@
   "_9zm": {
     "week_seconds": 0,
     "week_start": 1781866519,
+    "total_seconds": 0
+  },
+  "rollin95": {
+    "week_seconds": 0,
+    "week_start": 1781866697,
     "total_seconds": 0
   }
 }
