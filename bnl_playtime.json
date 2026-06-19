@@ -3775,9 +3775,9 @@
     "total_seconds": 3463
   },
   "walleyefish": {
-    "week_seconds": 24291,
+    "week_seconds": 24536,
     "week_start": 1781586370,
-    "total_seconds": 24291
+    "total_seconds": 24536
   },
   "nukinmouse01": {
     "week_seconds": 79,
@@ -6828,5 +6828,10 @@
     "week_seconds": 12,
     "week_start": 1781859872,
     "total_seconds": 12
+  },
+  "vedel2050": {
+    "week_seconds": 0,
+    "week_start": 1781860716,
+    "total_seconds": 0
   }
 }
