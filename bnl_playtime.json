@@ -1885,9 +1885,9 @@
     "total_seconds": 30
   },
   "gidein": {
-    "week_seconds": 94283,
+    "week_seconds": 95357,
     "week_start": 1781518844,
-    "total_seconds": 94283
+    "total_seconds": 95357
   },
   "londara": {
     "week_seconds": 1120,
@@ -2980,9 +2980,9 @@
     "total_seconds": 46833
   },
   "dester32": {
-    "week_seconds": 107868,
+    "week_seconds": 109230,
     "week_start": 1781551199,
-    "total_seconds": 107868
+    "total_seconds": 109230
   },
   "nostalgie_": {
     "week_seconds": 1929,
@@ -6763,5 +6763,10 @@
     "week_seconds": 5,
     "week_start": 1781852542,
     "total_seconds": 5
+  },
+  "cervanthes": {
+    "week_seconds": 0,
+    "week_start": 1781852809,
+    "total_seconds": 0
   }
 }
