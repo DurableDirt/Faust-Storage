@@ -595,9 +595,9 @@
     "total_seconds": 13151
   },
   "webchat427": {
-    "week_seconds": 66738,
+    "week_seconds": 66784,
     "week_start": 1781481062,
-    "total_seconds": 66738
+    "total_seconds": 66784
   },
   "1stampy": {
     "week_seconds": 33949,
@@ -3270,9 +3270,9 @@
     "total_seconds": 443
   },
   "venzpee": {
-    "week_seconds": 907,
+    "week_seconds": 909,
     "week_start": 1781560824,
-    "total_seconds": 907
+    "total_seconds": 909
   },
   "cavefire6675": {
     "week_seconds": 20921,
@@ -6752,6 +6752,11 @@
   "flamingohs": {
     "week_seconds": 0,
     "week_start": 1781851688,
+    "total_seconds": 0
+  },
+  "catthegizmo": {
+    "week_seconds": 0,
+    "week_start": 1781851923,
     "total_seconds": 0
   }
 }
