@@ -1230,9 +1230,9 @@
     "total_seconds": 81623
   },
   "kahina": {
-    "week_seconds": 54566,
+    "week_seconds": 54594,
     "week_start": 1781491056,
-    "total_seconds": 54566
+    "total_seconds": 54594
   },
   "grantwellson": {
     "week_seconds": 14697,
@@ -3915,9 +3915,9 @@
     "total_seconds": 2863
   },
   "bruisedbread": {
-    "week_seconds": 27303,
+    "week_seconds": 34224,
     "week_start": 1781601586,
-    "total_seconds": 27303
+    "total_seconds": 34224
   },
   "plumily": {
     "week_seconds": 59593,
@@ -6050,9 +6050,9 @@
     "total_seconds": 67
   },
   "milesdust": {
-    "week_seconds": 436,
+    "week_seconds": 1904,
     "week_start": 1781792415,
-    "total_seconds": 436
+    "total_seconds": 1904
   },
   "exeplex": {
     "week_seconds": 3708,
@@ -7175,8 +7175,8 @@
     "total_seconds": 0
   },
   "shiny743290": {
-    "week_seconds": 0,
+    "week_seconds": 76,
     "week_start": 1781901610,
-    "total_seconds": 0
+    "total_seconds": 76
   }
 }
