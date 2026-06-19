@@ -1240,9 +1240,9 @@
     "total_seconds": 14697
   },
   "mtfuji": {
-    "week_seconds": 214892,
+    "week_seconds": 214925,
     "week_start": 1781491151,
-    "total_seconds": 214892
+    "total_seconds": 214925
   },
   "intelligences": {
     "week_seconds": 15355,
@@ -3580,9 +3580,9 @@
     "total_seconds": 141842
   },
   "frozenfrosty30": {
-    "week_seconds": 23936,
+    "week_seconds": 25042,
     "week_start": 1781573103,
-    "total_seconds": 23936
+    "total_seconds": 25042
   },
   "jgirls": {
     "week_seconds": 2236,
@@ -5610,9 +5610,9 @@
     "total_seconds": 4
   },
   "erokex": {
-    "week_seconds": 4,
+    "week_seconds": 9,
     "week_start": 1781738249,
-    "total_seconds": 4
+    "total_seconds": 9
   },
   "mangomums": {
     "week_seconds": 6293,
@@ -6710,9 +6710,9 @@
     "total_seconds": 18420
   },
   "heartsii": {
-    "week_seconds": 30130,
+    "week_seconds": 38819,
     "week_start": 1781841865,
-    "total_seconds": 30130
+    "total_seconds": 38819
   },
   "muddy443m": {
     "week_seconds": 10774,
@@ -6992,6 +6992,16 @@
   "cray0nz": {
     "week_seconds": 0,
     "week_start": 1781883604,
+    "total_seconds": 0
+  },
+  "itwaswalpole": {
+    "week_seconds": 0,
+    "week_start": 1781884458,
+    "total_seconds": 0
+  },
+  "tolerant6000": {
+    "week_seconds": 0,
+    "week_start": 1781884493,
     "total_seconds": 0
   }
 }
