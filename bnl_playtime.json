@@ -1095,9 +1095,9 @@
     "total_seconds": 3927
   },
   "magickponch": {
-    "week_seconds": 31394,
+    "week_seconds": 31542,
     "week_start": 1781487886,
-    "total_seconds": 31394
+    "total_seconds": 31542
   },
   "nevergrimm": {
     "week_seconds": 47774,
@@ -1580,9 +1580,9 @@
     "total_seconds": 58246
   },
   "gobblin": {
-    "week_seconds": 33403,
+    "week_seconds": 33589,
     "week_start": 1781505039,
-    "total_seconds": 33403
+    "total_seconds": 33589
   },
   "vlinar": {
     "week_seconds": 42203,
@@ -5760,9 +5760,9 @@
     "total_seconds": 125
   },
   "_domain": {
-    "week_seconds": 29693,
+    "week_seconds": 30229,
     "week_start": 1781750091,
-    "total_seconds": 29693
+    "total_seconds": 30229
   },
   "bonjour": {
     "week_seconds": 99,
@@ -6748,5 +6748,10 @@
     "week_seconds": 87,
     "week_start": 1781851122,
     "total_seconds": 87
+  },
+  "flamingohs": {
+    "week_seconds": 0,
+    "week_start": 1781851688,
+    "total_seconds": 0
   }
 }
