@@ -1085,9 +1085,9 @@
     "total_seconds": 119219
   },
   "satava": {
-    "week_seconds": 79815,
+    "week_seconds": 79989,
     "week_start": 1781487788,
-    "total_seconds": 79815
+    "total_seconds": 79989
   },
   "majjcrunsgf": {
     "week_seconds": 3927,
@@ -3520,9 +3520,9 @@
     "total_seconds": 39
   },
   "toxblight": {
-    "week_seconds": 91412,
+    "week_seconds": 120168,
     "week_start": 1781569465,
-    "total_seconds": 91412
+    "total_seconds": 120168
   },
   "faroishere": {
     "week_seconds": 71,
@@ -7063,5 +7063,10 @@
     "week_seconds": 159,
     "week_start": 1781892693,
     "total_seconds": 159
+  },
+  "nentneon": {
+    "week_seconds": 0,
+    "week_start": 1781892947,
+    "total_seconds": 0
   }
 }
