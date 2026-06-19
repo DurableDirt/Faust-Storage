@@ -3755,9 +3755,9 @@
     "total_seconds": 789
   },
   "aussiedaboss": {
-    "week_seconds": 7670,
+    "week_seconds": 7783,
     "week_start": 1781583242,
-    "total_seconds": 7670
+    "total_seconds": 7783
   },
   "arbidos": {
     "week_seconds": 18600,
@@ -6185,9 +6185,9 @@
     "total_seconds": 49
   },
   "pinkphantxm": {
-    "week_seconds": 13087,
+    "week_seconds": 13847,
     "week_start": 1781805402,
-    "total_seconds": 13087
+    "total_seconds": 13847
   },
   "supersameee": {
     "week_seconds": 2,
@@ -6815,8 +6815,13 @@
     "total_seconds": 0
   },
   "ozzukie": {
-    "week_seconds": 0,
+    "week_seconds": 91,
     "week_start": 1781858784,
+    "total_seconds": 91
+  },
+  "hemp_bone": {
+    "week_seconds": 0,
+    "week_start": 1781858880,
     "total_seconds": 0
   }
 }
