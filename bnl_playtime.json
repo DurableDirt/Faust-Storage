@@ -75,9 +75,9 @@
     "total_seconds": 61692
   },
   "40mm": {
-    "week_seconds": 43000,
+    "week_seconds": 43128,
     "week_start": 1781475020,
-    "total_seconds": 43000
+    "total_seconds": 43128
   },
   "lynx2007": {
     "week_seconds": 65849,
@@ -1450,9 +1450,9 @@
     "total_seconds": 11341
   },
   "xenoum": {
-    "week_seconds": 82002,
+    "week_seconds": 84751,
     "week_start": 1781497822,
-    "total_seconds": 82002
+    "total_seconds": 84751
   },
   "earrthfall": {
     "week_seconds": 138,
@@ -1905,9 +1905,9 @@
     "total_seconds": 49115
   },
   "hxrl": {
-    "week_seconds": 57907,
+    "week_seconds": 61253,
     "week_start": 1781519516,
-    "total_seconds": 57907
+    "total_seconds": 61253
   },
   "ech0o_o0": {
     "week_seconds": 9632,
