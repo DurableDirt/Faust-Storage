@@ -2200,9 +2200,9 @@
     "total_seconds": 14691
   },
   "pandyteddyyt": {
-    "week_seconds": 35791,
+    "week_seconds": 36353,
     "week_start": 1781528053,
-    "total_seconds": 35791
+    "total_seconds": 36353
   },
   "britzsin": {
     "week_seconds": 5,
@@ -7498,5 +7498,10 @@
     "week_seconds": 101,
     "week_start": 1781943603,
     "total_seconds": 101
+  },
+  "wolie20": {
+    "week_seconds": 0,
+    "week_start": 1781944944,
+    "total_seconds": 0
   }
 }
