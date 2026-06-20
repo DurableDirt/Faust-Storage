@@ -4180,9 +4180,9 @@
     "total_seconds": 333
   },
   "novalis76": {
-    "week_seconds": 21317,
+    "week_seconds": 26744,
     "week_start": 1781628482,
-    "total_seconds": 21317
+    "total_seconds": 26744
   },
   "kynthea": {
     "week_seconds": 21430,
@@ -4345,9 +4345,9 @@
     "total_seconds": 103
   },
   "koentinius": {
-    "week_seconds": 92259,
+    "week_seconds": 92979,
     "week_start": 1781634890,
-    "total_seconds": 92259
+    "total_seconds": 92979
   },
   "hoax_mncrft": {
     "week_seconds": 425,
@@ -7663,5 +7663,10 @@
     "week_seconds": 1989,
     "week_start": 1781965838,
     "total_seconds": 1989
+  },
+  "dinonoogeet": {
+    "week_seconds": 0,
+    "week_start": 1781968022,
+    "total_seconds": 0
   }
 }
