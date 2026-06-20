@@ -7570,8 +7570,13 @@
     "total_seconds": 344
   },
   "swivee": {
-    "week_seconds": 68,
+    "week_seconds": 150,
     "week_start": 1781954376,
-    "total_seconds": 68
+    "total_seconds": 150
+  },
+  "vonkedev": {
+    "week_seconds": 0,
+    "week_start": 1781954505,
+    "total_seconds": 0
   }
 }
