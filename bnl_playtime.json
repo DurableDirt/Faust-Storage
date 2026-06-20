@@ -2865,9 +2865,9 @@
     "total_seconds": 761
   },
   "torqale": {
-    "week_seconds": 205,
+    "week_seconds": 239,
     "week_start": 1781547203,
-    "total_seconds": 205
+    "total_seconds": 239
   },
   "szymonekk08": {
     "week_seconds": 29,
@@ -3135,9 +3135,9 @@
     "total_seconds": 11936
   },
   "stashman1780": {
-    "week_seconds": 132979,
+    "week_seconds": 136956,
     "week_start": 1781555462,
-    "total_seconds": 132979
+    "total_seconds": 136956
   },
   "cokebrothers12": {
     "week_seconds": 4382,
@@ -7948,5 +7948,10 @@
     "week_seconds": 155,
     "week_start": 1781995608,
     "total_seconds": 155
+  },
+  "f0rdo_cw": {
+    "week_seconds": 0,
+    "week_start": 1781996043,
+    "total_seconds": 0
   }
 }
