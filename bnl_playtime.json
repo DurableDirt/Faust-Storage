@@ -245,9 +245,9 @@
     "total_seconds": 28023
   },
   "aluminum_foil_": {
-    "week_seconds": 120533,
+    "week_seconds": 123329,
     "week_start": 1781476568,
-    "total_seconds": 120533
+    "total_seconds": 123329
   },
   "mpusa": {
     "week_seconds": 27184,
@@ -1585,9 +1585,9 @@
     "total_seconds": 49127
   },
   "vlinar": {
-    "week_seconds": 48002,
+    "week_seconds": 49872,
     "week_start": 1781505389,
-    "total_seconds": 48002
+    "total_seconds": 49872
   },
   "nevicilia": {
     "week_seconds": 7534,
@@ -7035,9 +7035,9 @@
     "total_seconds": 226
   },
   "vitalcoin3800": {
-    "week_seconds": 9265,
+    "week_seconds": 9389,
     "week_start": 1781889551,
-    "total_seconds": 9265
+    "total_seconds": 9389
   },
   "goosie1238": {
     "week_seconds": 2381,
@@ -7515,8 +7515,8 @@
     "total_seconds": 90
   },
   "soy_framy": {
-    "week_seconds": 0,
+    "week_seconds": 170,
     "week_start": 1781947782,
-    "total_seconds": 0
+    "total_seconds": 170
   }
 }
