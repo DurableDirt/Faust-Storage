@@ -1885,9 +1885,9 @@
     "total_seconds": 30
   },
   "gidein": {
-    "week_seconds": 105932,
+    "week_seconds": 106056,
     "week_start": 1781518844,
-    "total_seconds": 105932
+    "total_seconds": 106056
   },
   "londara": {
     "week_seconds": 1120,
@@ -7760,8 +7760,8 @@
     "total_seconds": 38
   },
   "bailey00712": {
-    "week_seconds": 141,
+    "week_seconds": 174,
     "week_start": 1781977669,
-    "total_seconds": 141
+    "total_seconds": 174
   }
 }
