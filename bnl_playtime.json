@@ -2255,9 +2255,9 @@
     "total_seconds": 23125
   },
   "sajtos_puffancs": {
-    "week_seconds": 22869,
+    "week_seconds": 23501,
     "week_start": 1781529400,
-    "total_seconds": 22869
+    "total_seconds": 23501
   },
   "nekroz09": {
     "week_seconds": 20320,
@@ -4500,9 +4500,9 @@
     "total_seconds": 31789
   },
   "moirai_3242": {
-    "week_seconds": 37131,
+    "week_seconds": 45002,
     "week_start": 1781642653,
-    "total_seconds": 37131
+    "total_seconds": 45002
   },
   "emilpop2": {
     "week_seconds": 15833,
@@ -7503,5 +7503,10 @@
     "week_seconds": 389,
     "week_start": 1781944944,
     "total_seconds": 389
+  },
+  "you_suk": {
+    "week_seconds": 0,
+    "week_start": 1781947203,
+    "total_seconds": 0
   }
 }
