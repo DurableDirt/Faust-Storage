@@ -155,9 +155,9 @@
     "total_seconds": 12119
   },
   "lightningboi4": {
-    "week_seconds": 104890,
+    "week_seconds": 104952,
     "week_start": 1781476003,
-    "total_seconds": 104890
+    "total_seconds": 104952
   },
   "aaroni_macaroni": {
     "week_seconds": 56402,
@@ -4715,9 +4715,9 @@
     "total_seconds": 30742
   },
   "tubbzie": {
-    "week_seconds": 104791,
+    "week_seconds": 104820,
     "week_start": 1781658601,
-    "total_seconds": 104791
+    "total_seconds": 104820
   },
   "fakersfemboy": {
     "week_seconds": 4764,
@@ -7432,6 +7432,11 @@
   "jerome__092": {
     "week_seconds": 0,
     "week_start": 1781933366,
+    "total_seconds": 0
+  },
+  "holyromanraptor": {
+    "week_seconds": 0,
+    "week_start": 1781933456,
     "total_seconds": 0
   }
 }
