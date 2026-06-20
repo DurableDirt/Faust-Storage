@@ -2540,9 +2540,9 @@
     "total_seconds": 2689
   },
   "i_waffle_i": {
-    "week_seconds": 6910,
+    "week_seconds": 6950,
     "week_start": 1781537232,
-    "total_seconds": 6910
+    "total_seconds": 6950
   },
   "milevsky": {
     "week_seconds": 93076,
@@ -7760,13 +7760,18 @@
     "total_seconds": 38
   },
   "bailey00712": {
-    "week_seconds": 532,
+    "week_seconds": 535,
     "week_start": 1781977669,
-    "total_seconds": 532
+    "total_seconds": 535
   },
   "x_teach_x": {
     "week_seconds": 251,
     "week_start": 1781978073,
     "total_seconds": 251
+  },
+  "watermashen": {
+    "week_seconds": 0,
+    "week_start": 1781978511,
+    "total_seconds": 0
   }
 }
