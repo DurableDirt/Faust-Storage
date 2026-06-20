@@ -155,9 +155,9 @@
     "total_seconds": 12119
   },
   "lightningboi4": {
-    "week_seconds": 107302,
+    "week_seconds": 107333,
     "week_start": 1781476003,
-    "total_seconds": 107302
+    "total_seconds": 107333
   },
   "aaroni_macaroni": {
     "week_seconds": 56402,
@@ -7453,5 +7453,10 @@
     "week_seconds": 415,
     "week_start": 1781936662,
     "total_seconds": 415
+  },
+  "sigmaguy83297": {
+    "week_seconds": 22,
+    "week_start": 1781937320,
+    "total_seconds": 22
   }
 }
