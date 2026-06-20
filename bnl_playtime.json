@@ -4310,9 +4310,9 @@
     "total_seconds": 44901
   },
   "toastisnear": {
-    "week_seconds": 49597,
+    "week_seconds": 49687,
     "week_start": 1781633539,
-    "total_seconds": 49597
+    "total_seconds": 49687
   },
   "shadowsniper5": {
     "week_seconds": 58,
@@ -7680,8 +7680,8 @@
     "total_seconds": 0
   },
   "olblocks": {
-    "week_seconds": 0,
+    "week_seconds": 167,
     "week_start": 1781968676,
-    "total_seconds": 0
+    "total_seconds": 167
   }
 }
