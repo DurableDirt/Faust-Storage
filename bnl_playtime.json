@@ -1915,9 +1915,9 @@
     "total_seconds": 16532
   },
   "luckluc4243": {
-    "week_seconds": 24990,
+    "week_seconds": 25773,
     "week_start": 1781520064,
-    "total_seconds": 24990
+    "total_seconds": 25773
   },
   "choochtrooper": {
     "week_seconds": 3,
@@ -7748,5 +7748,10 @@
     "week_seconds": 266,
     "week_start": 1781976519,
     "total_seconds": 266
+  },
+  "tomaxx_innit": {
+    "week_seconds": 0,
+    "week_start": 1781977066,
+    "total_seconds": 0
   }
 }
