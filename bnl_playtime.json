@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 160861,
+    "week_seconds": 162388,
     "week_start": 1781513574,
-    "total_seconds": 160861
+    "total_seconds": 162388
   },
   "stavros_ell": {
     "week_seconds": 17006,
@@ -7487,6 +7487,11 @@
   "freezestep": {
     "week_seconds": 0,
     "week_start": 1781941674,
+    "total_seconds": 0
+  },
+  "srank_latina": {
+    "week_seconds": 0,
+    "week_start": 1781942039,
     "total_seconds": 0
   }
 }
