@@ -400,9 +400,9 @@
     "total_seconds": 6615
   },
   "uprisingmax": {
-    "week_seconds": 66494,
+    "week_seconds": 66498,
     "week_start": 1781478140,
-    "total_seconds": 66494
+    "total_seconds": 66498
   },
   "freshoxygenair": {
     "week_seconds": 7175,
@@ -7278,5 +7278,10 @@
     "week_seconds": 377,
     "week_start": 1781913830,
     "total_seconds": 377
+  },
+  "crackervolley": {
+    "week_seconds": 0,
+    "week_start": 1781915775,
+    "total_seconds": 0
   }
 }
