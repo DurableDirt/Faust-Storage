@@ -1770,9 +1770,9 @@
     "total_seconds": 20275
   },
   "wandrumdum": {
-    "week_seconds": 63405,
+    "week_seconds": 80122,
     "week_start": 1781514455,
-    "total_seconds": 63405
+    "total_seconds": 80122
   },
   "badwaffles_": {
     "week_seconds": 3866,
@@ -2415,9 +2415,9 @@
     "total_seconds": 15839
   },
   "sml128": {
-    "week_seconds": 57984,
+    "week_seconds": 58401,
     "week_start": 1781534411,
-    "total_seconds": 57984
+    "total_seconds": 58401
   },
   "malipan": {
     "week_seconds": 16492,
@@ -7287,6 +7287,11 @@
   "itsspookyyt": {
     "week_seconds": 0,
     "week_start": 1781916930,
+    "total_seconds": 0
+  },
+  "dinoversion90": {
+    "week_seconds": 0,
+    "week_start": 1781917247,
     "total_seconds": 0
   }
 }
