@@ -4345,9 +4345,9 @@
     "total_seconds": 103
   },
   "koentinius": {
-    "week_seconds": 93919,
+    "week_seconds": 93933,
     "week_start": 1781634890,
-    "total_seconds": 93919
+    "total_seconds": 93933
   },
   "hoax_mncrft": {
     "week_seconds": 425,
@@ -7683,5 +7683,10 @@
     "week_seconds": 167,
     "week_start": 1781968676,
     "total_seconds": 167
+  },
+  "wonderingwhale": {
+    "week_seconds": 0,
+    "week_start": 1781969005,
+    "total_seconds": 0
   }
 }
