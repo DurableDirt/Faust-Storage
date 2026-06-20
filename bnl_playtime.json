@@ -6780,9 +6780,9 @@
     "total_seconds": 6838
   },
   "monk_icarus": {
-    "week_seconds": 13826,
+    "week_seconds": 22418,
     "week_start": 1781856692,
-    "total_seconds": 13826
+    "total_seconds": 22418
   },
   "yycnbnb": {
     "week_seconds": 9619,
@@ -7205,9 +7205,9 @@
     "total_seconds": 3429
   },
   "sandfalls": {
-    "week_seconds": 5586,
+    "week_seconds": 5602,
     "week_start": 1781906432,
-    "total_seconds": 5586
+    "total_seconds": 5602
   },
   "kav8": {
     "week_seconds": 5355,
@@ -7698,5 +7698,10 @@
     "week_seconds": 0,
     "week_start": 1781970394,
     "total_seconds": 0
+  },
+  "mdubravka": {
+    "week_seconds": 24,
+    "week_start": 1781971104,
+    "total_seconds": 24
   }
 }
