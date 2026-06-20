@@ -3700,9 +3700,9 @@
     "total_seconds": 72
   },
   "icb_72": {
-    "week_seconds": 70224,
+    "week_seconds": 70838,
     "week_start": 1781579862,
-    "total_seconds": 70224
+    "total_seconds": 70838
   },
   "killtheinternet": {
     "week_seconds": 223,
@@ -7902,6 +7902,11 @@
   "etd_yt": {
     "week_seconds": 0,
     "week_start": 1781989627,
+    "total_seconds": 0
+  },
+  "synogi": {
+    "week_seconds": 0,
+    "week_start": 1781990189,
     "total_seconds": 0
   }
 }
