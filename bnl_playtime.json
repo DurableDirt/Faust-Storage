@@ -1190,9 +1190,9 @@
     "total_seconds": 42374
   },
   "gubukiv": {
-    "week_seconds": 106067,
+    "week_seconds": 117523,
     "week_start": 1781489878,
-    "total_seconds": 106067
+    "total_seconds": 117523
   },
   "some545": {
     "week_seconds": 35,
@@ -7025,9 +7025,9 @@
     "total_seconds": 4720
   },
   "azert324": {
-    "week_seconds": 3105,
+    "week_seconds": 12321,
     "week_start": 1781888168,
-    "total_seconds": 3105
+    "total_seconds": 12321
   },
   "crownclownoah": {
     "week_seconds": 226,
@@ -7810,9 +7810,9 @@
     "total_seconds": 1585
   },
   "limedebt": {
-    "week_seconds": 0,
+    "week_seconds": 9966,
     "week_start": 1781984142,
-    "total_seconds": 0
+    "total_seconds": 9966
   },
   "timthyz": {
     "week_seconds": 3541,
@@ -7923,5 +7923,10 @@
     "week_seconds": 128,
     "week_start": 1781993039,
     "total_seconds": 128
+  },
+  "zdunke": {
+    "week_seconds": 0,
+    "week_start": 1781994106,
+    "total_seconds": 0
   }
 }
