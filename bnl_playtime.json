@@ -1670,9 +1670,9 @@
     "total_seconds": 41400
   },
   "wuli": {
-    "week_seconds": 97176,
+    "week_seconds": 97204,
     "week_start": 1781509985,
-    "total_seconds": 97176
+    "total_seconds": 97204
   },
   "jaydon_": {
     "week_seconds": 127738,
@@ -2790,9 +2790,9 @@
     "total_seconds": 35842
   },
   "sirboss001": {
-    "week_seconds": 63619,
+    "week_seconds": 63687,
     "week_start": 1781545653,
-    "total_seconds": 63619
+    "total_seconds": 63687
   },
   "vortexx_xq": {
     "week_seconds": 12,
@@ -3555,9 +3555,9 @@
     "total_seconds": 13341
   },
   "peregri": {
-    "week_seconds": 27143,
+    "week_seconds": 32907,
     "week_start": 1781570781,
-    "total_seconds": 27143
+    "total_seconds": 32907
   },
   "cinturoncadena": {
     "week_seconds": 12661,
@@ -7792,6 +7792,11 @@
   "foreverf117": {
     "week_seconds": 0,
     "week_start": 1781981596,
+    "total_seconds": 0
+  },
+  "antifinnman": {
+    "week_seconds": 0,
+    "week_start": 1781982796,
     "total_seconds": 0
   }
 }
