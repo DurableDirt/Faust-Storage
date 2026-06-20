@@ -2005,9 +2005,9 @@
     "total_seconds": 1247
   },
   "kelsokevin": {
-    "week_seconds": 57688,
+    "week_seconds": 60326,
     "week_start": 1781523034,
-    "total_seconds": 57688
+    "total_seconds": 60326
   },
   "olliebell": {
     "week_seconds": 1083,
@@ -7265,9 +7265,9 @@
     "total_seconds": 105
   },
   "prettyparfait": {
-    "week_seconds": 6296,
+    "week_seconds": 6560,
     "week_start": 1781913607,
-    "total_seconds": 6296
+    "total_seconds": 6560
   },
   "swiftyscissors": {
     "week_seconds": 5439,
@@ -7353,5 +7353,15 @@
     "week_seconds": 78,
     "week_start": 1781920235,
     "total_seconds": 78
+  },
+  "cheatdeath": {
+    "week_seconds": 0,
+    "week_start": 1781920399,
+    "total_seconds": 0
+  },
+  "kubo_11": {
+    "week_seconds": 0,
+    "week_start": 1781920430,
+    "total_seconds": 0
   }
 }
