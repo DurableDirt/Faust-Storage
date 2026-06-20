@@ -3200,9 +3200,9 @@
     "total_seconds": 74420
   },
   "060__": {
-    "week_seconds": 6262,
+    "week_seconds": 7861,
     "week_start": 1781557885,
-    "total_seconds": 6262
+    "total_seconds": 7861
   },
   "proofen22": {
     "week_seconds": 210,
@@ -5555,9 +5555,9 @@
     "total_seconds": 642
   },
   "squishywaffle20": {
-    "week_seconds": 29005,
+    "week_seconds": 29113,
     "week_start": 1781735266,
-    "total_seconds": 29005
+    "total_seconds": 29113
   },
   "defunctsnail187": {
     "week_seconds": 1378,
@@ -7907,6 +7907,11 @@
   "synogi": {
     "week_seconds": 0,
     "week_start": 1781990189,
+    "total_seconds": 0
+  },
+  "unicornpvke": {
+    "week_seconds": 0,
+    "week_start": 1781990956,
     "total_seconds": 0
   }
 }
