@@ -2140,9 +2140,9 @@
     "total_seconds": 67525
   },
   "sqopenspellbook": {
-    "week_seconds": 162549,
+    "week_seconds": 171414,
     "week_start": 1781526809,
-    "total_seconds": 162549
+    "total_seconds": 171414
   },
   "daimnasal": {
     "week_seconds": 48791,
@@ -4265,9 +4265,9 @@
     "total_seconds": 3384
   },
   "tallestthetall": {
-    "week_seconds": 161249,
+    "week_seconds": 166633,
     "week_start": 1781631686,
-    "total_seconds": 161249
+    "total_seconds": 166633
   },
   "stickyfishdaedae": {
     "week_seconds": 103,
@@ -4680,9 +4680,9 @@
     "total_seconds": 22
   },
   "glog_frogmen": {
-    "week_seconds": 50029,
+    "week_seconds": 50201,
     "week_start": 1781656168,
-    "total_seconds": 50029
+    "total_seconds": 50201
   },
   "clearhercules": {
     "week_seconds": 45817,
@@ -7408,5 +7408,10 @@
     "week_seconds": 529,
     "week_start": 1781929242,
     "total_seconds": 529
+  },
+  "ritalinabuser": {
+    "week_seconds": 0,
+    "week_start": 1781929833,
+    "total_seconds": 0
   }
 }
