@@ -40,9 +40,9 @@
     "total_seconds": 30876
   },
   "piotato": {
-    "week_seconds": 88644,
+    "week_seconds": 94436,
     "week_start": 1781474698,
-    "total_seconds": 88644
+    "total_seconds": 94436
   },
   "lucifer420xx": {
     "week_seconds": 48906,
@@ -5715,9 +5715,9 @@
     "total_seconds": 7676
   },
   "rurfu": {
-    "week_seconds": 13060,
+    "week_seconds": 14548,
     "week_start": 1781746808,
-    "total_seconds": 13060
+    "total_seconds": 14548
   },
   "binks4362": {
     "week_seconds": 266,
@@ -7338,5 +7338,10 @@
     "week_seconds": 11,
     "week_start": 1781919308,
     "total_seconds": 11
+  },
+  "finnthehuman": {
+    "week_seconds": 6,
+    "week_start": 1781920101,
+    "total_seconds": 6
   }
 }
