@@ -1690,9 +1690,9 @@
     "total_seconds": 45182
   },
   "solitaire7": {
-    "week_seconds": 120581,
+    "week_seconds": 122474,
     "week_start": 1781510605,
-    "total_seconds": 120581
+    "total_seconds": 122474
   },
   "masqo_": {
     "week_seconds": 47874,
@@ -3810,9 +3810,9 @@
     "total_seconds": 20
   },
   "paddington_bear": {
-    "week_seconds": 15427,
+    "week_seconds": 17025,
     "week_start": 1781593429,
-    "total_seconds": 15427
+    "total_seconds": 17025
   },
   "refe1k": {
     "week_seconds": 8990,
@@ -3960,9 +3960,9 @@
     "total_seconds": 5834
   },
   "therewalker": {
-    "week_seconds": 108577,
+    "week_seconds": 111704,
     "week_start": 1781611918,
-    "total_seconds": 108577
+    "total_seconds": 111704
   },
   "elpaconcio": {
     "week_seconds": 23610,
@@ -7642,6 +7642,11 @@
   "mundnar7567": {
     "week_seconds": 0,
     "week_start": 1781963096,
+    "total_seconds": 0
+  },
+  "swissplane": {
+    "week_seconds": 0,
+    "week_start": 1781963464,
     "total_seconds": 0
   }
 }
