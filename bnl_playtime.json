@@ -1245,9 +1245,9 @@
     "total_seconds": 240342
   },
   "intelligences": {
-    "week_seconds": 15355,
+    "week_seconds": 15562,
     "week_start": 1781491347,
-    "total_seconds": 15355
+    "total_seconds": 15562
   },
   "drippydippy": {
     "week_seconds": 216,
@@ -3235,9 +3235,9 @@
     "total_seconds": 129231
   },
   "yarnnn": {
-    "week_seconds": 52509,
+    "week_seconds": 53526,
     "week_start": 1781559766,
-    "total_seconds": 52509
+    "total_seconds": 53526
   },
   "whenurcrazy": {
     "week_seconds": 3863,
@@ -7310,9 +7310,9 @@
     "total_seconds": 20
   },
   "donutmt": {
-    "week_seconds": 3303,
+    "week_seconds": 3657,
     "week_start": 1781917624,
-    "total_seconds": 3303
+    "total_seconds": 3657
   },
   "bobroos8": {
     "week_seconds": 336,
@@ -7372,6 +7372,11 @@
   "bera1dy": {
     "week_seconds": 0,
     "week_start": 1781922816,
+    "total_seconds": 0
+  },
+  "abyssethan1": {
+    "week_seconds": 0,
+    "week_start": 1781923113,
     "total_seconds": 0
   }
 }
