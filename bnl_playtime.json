@@ -900,9 +900,9 @@
     "total_seconds": 30814
   },
   "gman5420": {
-    "week_seconds": 21152,
+    "week_seconds": 27513,
     "week_start": 1781485148,
-    "total_seconds": 21152
+    "total_seconds": 27513
   },
   "ifriendiscool": {
     "week_seconds": 131730,
@@ -3090,9 +3090,9 @@
     "total_seconds": 27828
   },
   "programmergod": {
-    "week_seconds": 316905,
+    "week_seconds": 317082,
     "week_start": 1781554499,
-    "total_seconds": 316905
+    "total_seconds": 317082
   },
   "monkeyaceparagon": {
     "week_seconds": 21,
@@ -7872,6 +7872,16 @@
   "real_wemboo": {
     "week_seconds": 0,
     "week_start": 1781988269,
+    "total_seconds": 0
+  },
+  "maxthelim41": {
+    "week_seconds": 0,
+    "week_start": 1781988767,
+    "total_seconds": 0
+  },
+  "crozdumonde": {
+    "week_seconds": 0,
+    "week_start": 1781988779,
     "total_seconds": 0
   }
 }
