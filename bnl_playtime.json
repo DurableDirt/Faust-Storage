@@ -565,9 +565,9 @@
     "total_seconds": 49011
   },
   "graydawn_": {
-    "week_seconds": 196581,
+    "week_seconds": 196913,
     "week_start": 1781480271,
-    "total_seconds": 196581
+    "total_seconds": 196913
   },
   "angie_dovie111": {
     "week_seconds": 83030,
@@ -7723,5 +7723,15 @@
     "week_seconds": 145,
     "week_start": 1781973062,
     "total_seconds": 145
+  },
+  "carter_t23": {
+    "week_seconds": 40,
+    "week_start": 1781973439,
+    "total_seconds": 40
+  },
+  "mr_unwanted": {
+    "week_seconds": 0,
+    "week_start": 1781973457,
+    "total_seconds": 0
   }
 }
