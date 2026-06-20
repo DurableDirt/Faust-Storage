@@ -1650,9 +1650,9 @@
     "total_seconds": 90704
   },
   "virexil": {
-    "week_seconds": 29378,
+    "week_seconds": 29382,
     "week_start": 1781509271,
-    "total_seconds": 29378
+    "total_seconds": 29382
   },
   "voidvin": {
     "week_seconds": 93019,
@@ -2640,9 +2640,9 @@
     "total_seconds": 49035
   },
   "arnacious": {
-    "week_seconds": 4262,
+    "week_seconds": 6105,
     "week_start": 1781540292,
-    "total_seconds": 4262
+    "total_seconds": 6105
   },
   "k1yuma": {
     "week_seconds": 3532,
@@ -7623,5 +7623,10 @@
     "week_seconds": 762,
     "week_start": 1781959784,
     "total_seconds": 762
+  },
+  "majorgamer478": {
+    "week_seconds": 0,
+    "week_start": 1781961075,
+    "total_seconds": 0
   }
 }
