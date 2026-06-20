@@ -1690,9 +1690,9 @@
     "total_seconds": 45182
   },
   "solitaire7": {
-    "week_seconds": 131304,
+    "week_seconds": 132374,
     "week_start": 1781510605,
-    "total_seconds": 131304
+    "total_seconds": 132374
   },
   "masqo_": {
     "week_seconds": 47874,
@@ -2905,9 +2905,9 @@
     "total_seconds": 3188
   },
   "emarile": {
-    "week_seconds": 1969,
+    "week_seconds": 3346,
     "week_start": 1781548436,
-    "total_seconds": 1969
+    "total_seconds": 3346
   },
   "jcool640": {
     "week_seconds": 3378,
@@ -7892,6 +7892,11 @@
   "akillerandslayer": {
     "week_seconds": 0,
     "week_start": 1781989316,
+    "total_seconds": 0
+  },
+  "iplexity": {
+    "week_seconds": 0,
+    "week_start": 1781989331,
     "total_seconds": 0
   }
 }
