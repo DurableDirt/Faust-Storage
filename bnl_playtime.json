@@ -7300,13 +7300,18 @@
     "total_seconds": 102
   },
   "siinister": {
-    "week_seconds": 0,
+    "week_seconds": 233,
     "week_start": 1781917425,
-    "total_seconds": 0
+    "total_seconds": 233
   },
   "baggedtacos": {
     "week_seconds": 20,
     "week_start": 1781917453,
     "total_seconds": 20
+  },
+  "donutmt": {
+    "week_seconds": 34,
+    "week_start": 1781917624,
+    "total_seconds": 34
   }
 }
