@@ -580,9 +580,9 @@
     "total_seconds": 33275
   },
   "ethn__": {
-    "week_seconds": 118284,
+    "week_seconds": 118645,
     "week_start": 1781480700,
-    "total_seconds": 118284
+    "total_seconds": 118645
   },
   "suderp": {
     "week_seconds": 3472,
@@ -3615,9 +3615,9 @@
     "total_seconds": 1170
   },
   "luminous15": {
-    "week_seconds": 41061,
+    "week_seconds": 42003,
     "week_start": 1781574656,
-    "total_seconds": 41061
+    "total_seconds": 42003
   },
   "frostythorgrim": {
     "week_seconds": 11243,
@@ -7753,5 +7753,10 @@
     "week_seconds": 239,
     "week_start": 1781977066,
     "total_seconds": 239
+  },
+  "jimmytg29": {
+    "week_seconds": 0,
+    "week_start": 1781977593,
+    "total_seconds": 0
   }
 }
