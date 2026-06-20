@@ -1610,9 +1610,9 @@
     "total_seconds": 766
   },
   "adeadhead": {
-    "week_seconds": 363579,
+    "week_seconds": 377309,
     "week_start": 1781506340,
-    "total_seconds": 363579
+    "total_seconds": 377309
   },
   "cedarvaliant": {
     "week_seconds": 35298,
@@ -3960,9 +3960,9 @@
     "total_seconds": 5834
   },
   "therewalker": {
-    "week_seconds": 111943,
+    "week_seconds": 112317,
     "week_start": 1781611918,
-    "total_seconds": 111943
+    "total_seconds": 112317
   },
   "elpaconcio": {
     "week_seconds": 23610,
@@ -7648,5 +7648,10 @@
     "week_seconds": 397,
     "week_start": 1781963464,
     "total_seconds": 397
+  },
+  "chronoswilson": {
+    "week_seconds": 1,
+    "week_start": 1781964345,
+    "total_seconds": 1
   }
 }
