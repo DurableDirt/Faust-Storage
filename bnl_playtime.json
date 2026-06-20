@@ -4130,9 +4130,9 @@
     "total_seconds": 19139
   },
   "annatos": {
-    "week_seconds": 14664,
+    "week_seconds": 16776,
     "week_start": 1781623508,
-    "total_seconds": 14664
+    "total_seconds": 16776
   },
   "testedyapper": {
     "week_seconds": 263,
@@ -7645,8 +7645,8 @@
     "total_seconds": 0
   },
   "swissplane": {
-    "week_seconds": 0,
+    "week_seconds": 397,
     "week_start": 1781963464,
-    "total_seconds": 0
+    "total_seconds": 397
   }
 }
