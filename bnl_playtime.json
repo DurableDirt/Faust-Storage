@@ -4475,9 +4475,9 @@
     "total_seconds": 2693
   },
   "raeders": {
-    "week_seconds": 59659,
+    "week_seconds": 59929,
     "week_start": 1781639974,
-    "total_seconds": 59659
+    "total_seconds": 59929
   },
   "alphatrom3041": {
     "week_seconds": 79,
@@ -7282,6 +7282,11 @@
   "crackervolley": {
     "week_seconds": 0,
     "week_start": 1781915775,
+    "total_seconds": 0
+  },
+  "itsspookyyt": {
+    "week_seconds": 0,
+    "week_start": 1781916930,
     "total_seconds": 0
   }
 }
