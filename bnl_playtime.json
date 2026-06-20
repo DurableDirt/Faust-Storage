@@ -1085,9 +1085,9 @@
     "total_seconds": 119219
   },
   "satava": {
-    "week_seconds": 80294,
+    "week_seconds": 80326,
     "week_start": 1781487788,
-    "total_seconds": 80294
+    "total_seconds": 80326
   },
   "majjcrunsgf": {
     "week_seconds": 3927,
@@ -7402,6 +7402,11 @@
   "popiahrei": {
     "week_seconds": 0,
     "week_start": 1781928456,
+    "total_seconds": 0
+  },
+  "_medb_": {
+    "week_seconds": 0,
+    "week_start": 1781929242,
     "total_seconds": 0
   }
 }
