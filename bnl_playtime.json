@@ -195,9 +195,9 @@
     "total_seconds": 69052
   },
   "262i": {
-    "week_seconds": 76780,
+    "week_seconds": 79971,
     "week_start": 1781476204,
-    "total_seconds": 76780
+    "total_seconds": 79971
   },
   "jalhf": {
     "week_seconds": 47301,
@@ -7813,5 +7813,10 @@
     "week_seconds": 0,
     "week_start": 1781984142,
     "total_seconds": 0
+  },
+  "timthyz": {
+    "week_seconds": 22,
+    "week_start": 1781984741,
+    "total_seconds": 22
   }
 }
