@@ -7180,9 +7180,9 @@
     "total_seconds": 167
   },
   "parcquee": {
-    "week_seconds": 752,
+    "week_seconds": 3045,
     "week_start": 1781902460,
-    "total_seconds": 752
+    "total_seconds": 3045
   },
   "californiagamer": {
     "week_seconds": 896,
@@ -7853,5 +7853,10 @@
     "week_seconds": 861,
     "week_start": 1781986956,
     "total_seconds": 861
+  },
+  "ym_kuba": {
+    "week_seconds": 0,
+    "week_start": 1781988200,
+    "total_seconds": 0
   }
 }
