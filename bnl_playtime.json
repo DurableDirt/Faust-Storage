@@ -245,9 +245,9 @@
     "total_seconds": 28660
   },
   "aluminum_foil_": {
-    "week_seconds": 128016,
+    "week_seconds": 128034,
     "week_start": 1781476568,
-    "total_seconds": 128016
+    "total_seconds": 128034
   },
   "mpusa": {
     "week_seconds": 27184,
@@ -2950,9 +2950,9 @@
     "total_seconds": 3856
   },
   "battlebots_boi": {
-    "week_seconds": 2707,
+    "week_seconds": 2858,
     "week_start": 1781549985,
-    "total_seconds": 2707
+    "total_seconds": 2858
   },
   "enchanted_cow": {
     "week_seconds": 56545,
