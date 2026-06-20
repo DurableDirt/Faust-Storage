@@ -7415,8 +7415,13 @@
     "total_seconds": 0
   },
   "rlly_riley": {
-    "week_seconds": 0,
+    "week_seconds": 244,
     "week_start": 1781930809,
+    "total_seconds": 244
+  },
+  "alvinogambolo": {
+    "week_seconds": 0,
+    "week_start": 1781931087,
     "total_seconds": 0
   }
 }
