@@ -460,9 +460,9 @@
     "total_seconds": 57442
   },
   "thespecialplum": {
-    "week_seconds": 66800,
+    "week_seconds": 66967,
     "week_start": 1781479236,
-    "total_seconds": 66800
+    "total_seconds": 66967
   },
   "kaelon_othfryeli": {
     "week_seconds": 83187,
@@ -7857,6 +7857,11 @@
   "ym_kuba": {
     "week_seconds": 0,
     "week_start": 1781988200,
+    "total_seconds": 0
+  },
+  "escanor_rambo": {
+    "week_seconds": 0,
+    "week_start": 1781988208,
     "total_seconds": 0
   }
 }
