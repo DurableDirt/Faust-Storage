@@ -460,9 +460,9 @@
     "total_seconds": 49766
   },
   "thespecialplum": {
-    "week_seconds": 66133,
+    "week_seconds": 66168,
     "week_start": 1781479236,
-    "total_seconds": 66133
+    "total_seconds": 66168
   },
   "kaelon_othfryeli": {
     "week_seconds": 83187,
@@ -7847,6 +7847,11 @@
   "jaxmasterflash6": {
     "week_seconds": 0,
     "week_start": 1781986525,
+    "total_seconds": 0
+  },
+  "guru_63": {
+    "week_seconds": 0,
+    "week_start": 1781986956,
     "total_seconds": 0
   }
 }
