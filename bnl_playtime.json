@@ -105,9 +105,9 @@
     "total_seconds": 93159
   },
   "slothinasuit": {
-    "week_seconds": 226970,
+    "week_seconds": 227900,
     "week_start": 1781475413,
-    "total_seconds": 226970
+    "total_seconds": 227900
   },
   "jck20h": {
     "week_seconds": 14813,
@@ -7958,5 +7958,10 @@
     "week_seconds": 773,
     "week_start": 1781997118,
     "total_seconds": 773
+  },
+  "galaga": {
+    "week_seconds": 0,
+    "week_start": 1781998266,
+    "total_seconds": 0
   }
 }
