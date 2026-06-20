@@ -1580,9 +1580,9 @@
     "total_seconds": 64480
   },
   "gobblin": {
-    "week_seconds": 34761,
+    "week_seconds": 34807,
     "week_start": 1781505039,
-    "total_seconds": 34761
+    "total_seconds": 34807
   },
   "vlinar": {
     "week_seconds": 47549,
@@ -4940,9 +4940,9 @@
     "total_seconds": 1385
   },
   "the_player_101": {
-    "week_seconds": 5635,
+    "week_seconds": 7004,
     "week_start": 1781677646,
-    "total_seconds": 5635
+    "total_seconds": 7004
   },
   "3ncrypted_p4sty": {
     "week_seconds": 5675,
