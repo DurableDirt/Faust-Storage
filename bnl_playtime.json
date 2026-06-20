@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 203248,
+    "week_seconds": 203392,
     "week_start": 1781479760,
-    "total_seconds": 203248
+    "total_seconds": 203392
   },
   "matilda4k9": {
     "week_seconds": 15832,
@@ -2145,9 +2145,9 @@
     "total_seconds": 171414
   },
   "daimnasal": {
-    "week_seconds": 52518,
+    "week_seconds": 52623,
     "week_start": 1781527309,
-    "total_seconds": 52518
+    "total_seconds": 52623
   },
   "azurisdev": {
     "week_seconds": 133,
@@ -7628,5 +7628,10 @@
     "week_seconds": 97,
     "week_start": 1781961075,
     "total_seconds": 97
+  },
+  "zinvictan": {
+    "week_seconds": 0,
+    "week_start": 1781961511,
+    "total_seconds": 0
   }
 }
