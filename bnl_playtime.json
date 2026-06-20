@@ -385,9 +385,9 @@
     "total_seconds": 21360
   },
   "opriva": {
-    "week_seconds": 61904,
+    "week_seconds": 64347,
     "week_start": 1781477978,
-    "total_seconds": 61904
+    "total_seconds": 64347
   },
   "kokomiology": {
     "week_seconds": 55065,
@@ -980,9 +980,9 @@
     "total_seconds": 4077
   },
   "shadedoom": {
-    "week_seconds": 29768,
+    "week_seconds": 29842,
     "week_start": 1781486144,
-    "total_seconds": 29768
+    "total_seconds": 29842
   },
   "ms_enchanted": {
     "week_seconds": 111530,
