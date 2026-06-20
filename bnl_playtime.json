@@ -3475,9 +3475,9 @@
     "total_seconds": 6079
   },
   "bloxtlemc": {
-    "week_seconds": 62064,
+    "week_seconds": 64678,
     "week_start": 1781567213,
-    "total_seconds": 62064
+    "total_seconds": 64678
   },
   "mdlp_red15": {
     "week_seconds": 25,
@@ -3675,9 +3675,9 @@
     "total_seconds": 3601
   },
   "swampbog": {
-    "week_seconds": 16164,
+    "week_seconds": 16400,
     "week_start": 1781577612,
-    "total_seconds": 16164
+    "total_seconds": 16400
   },
   "2lynx2": {
     "week_seconds": 136754,
@@ -7677,6 +7677,11 @@
   "accelgorfan617": {
     "week_seconds": 0,
     "week_start": 1781968618,
+    "total_seconds": 0
+  },
+  "olblocks": {
+    "week_seconds": 0,
+    "week_start": 1781968676,
     "total_seconds": 0
   }
 }
