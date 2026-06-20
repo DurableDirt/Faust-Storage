@@ -6765,9 +6765,9 @@
     "total_seconds": 474
   },
   "gabrielmaennl5": {
-    "week_seconds": 38203,
+    "week_seconds": 45528,
     "week_start": 1781854830,
-    "total_seconds": 38203
+    "total_seconds": 45528
   },
   "big_shadow0": {
     "week_seconds": 4858,
@@ -7732,6 +7732,11 @@
   "mr_unwanted": {
     "week_seconds": 0,
     "week_start": 1781973457,
+    "total_seconds": 0
+  },
+  "matzzyxikk": {
+    "week_seconds": 0,
+    "week_start": 1781973598,
     "total_seconds": 0
   }
 }
