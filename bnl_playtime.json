@@ -165,9 +165,9 @@
     "total_seconds": 56402
   },
   "nobodypanicc": {
-    "week_seconds": 65789,
+    "week_seconds": 66422,
     "week_start": 1781476038,
-    "total_seconds": 65789
+    "total_seconds": 66422
   },
   "snw": {
     "week_seconds": 9418,
@@ -6545,9 +6545,9 @@
     "total_seconds": 2479
   },
   "chair2head": {
-    "week_seconds": 5729,
+    "week_seconds": 5783,
     "week_start": 1781826085,
-    "total_seconds": 5729
+    "total_seconds": 5783
   },
   "nagloxd": {
     "week_seconds": 877,
@@ -7842,6 +7842,11 @@
   "gjum": {
     "week_seconds": 0,
     "week_start": 1781986480,
+    "total_seconds": 0
+  },
+  "jaxmasterflash6": {
+    "week_seconds": 0,
+    "week_start": 1781986525,
     "total_seconds": 0
   }
 }
