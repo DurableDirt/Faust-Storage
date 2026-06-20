@@ -715,9 +715,9 @@
     "total_seconds": 24277
   },
   "limtingus1": {
-    "week_seconds": 209267,
+    "week_seconds": 213123,
     "week_start": 1781482426,
-    "total_seconds": 209267
+    "total_seconds": 213123
   },
   "the_montenegrin": {
     "week_seconds": 329,
@@ -7505,9 +7505,9 @@
     "total_seconds": 389
   },
   "you_suk": {
-    "week_seconds": 0,
+    "week_seconds": 2166,
     "week_start": 1781947203,
-    "total_seconds": 0
+    "total_seconds": 2166
   },
   "klzk_": {
     "week_seconds": 90,
@@ -7530,8 +7530,13 @@
     "total_seconds": 218
   },
   "realmickeymouse": {
-    "week_seconds": 0,
+    "week_seconds": 140,
     "week_start": 1781949229,
+    "total_seconds": 140
+  },
+  "ahong0327": {
+    "week_seconds": 0,
+    "week_start": 1781949400,
     "total_seconds": 0
   }
 }
