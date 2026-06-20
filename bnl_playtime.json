@@ -1575,9 +1575,9 @@
     "total_seconds": 153289
   },
   "_2k42_": {
-    "week_seconds": 64480,
+    "week_seconds": 67673,
     "week_start": 1781504570,
-    "total_seconds": 64480
+    "total_seconds": 67673
   },
   "gobblin": {
     "week_seconds": 46046,
@@ -6710,9 +6710,9 @@
     "total_seconds": 18420
   },
   "heartsii": {
-    "week_seconds": 66516,
+    "week_seconds": 74003,
     "week_start": 1781841865,
-    "total_seconds": 66516
+    "total_seconds": 74003
   },
   "muddy443m": {
     "week_seconds": 10774,
