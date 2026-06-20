@@ -1835,9 +1835,9 @@
     "total_seconds": 75620
   },
   "coockie70": {
-    "week_seconds": 36080,
+    "week_seconds": 36388,
     "week_start": 1781516833,
-    "total_seconds": 36080
+    "total_seconds": 36388
   },
   "sn1sr": {
     "week_seconds": 6,
@@ -7818,5 +7818,10 @@
     "week_seconds": 22,
     "week_start": 1781984741,
     "total_seconds": 22
+  },
+  "kronprinzkaiser": {
+    "week_seconds": 0,
+    "week_start": 1781985181,
+    "total_seconds": 0
   }
 }
