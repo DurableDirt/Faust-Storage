@@ -7205,9 +7205,9 @@
     "total_seconds": 3429
   },
   "sandfalls": {
-    "week_seconds": 5602,
+    "week_seconds": 5850,
     "week_start": 1781906432,
-    "total_seconds": 5602
+    "total_seconds": 5850
   },
   "kav8": {
     "week_seconds": 5355,
@@ -7703,5 +7703,10 @@
     "week_seconds": 24,
     "week_start": 1781971104,
     "total_seconds": 24
+  },
+  "w1un": {
+    "week_seconds": 0,
+    "week_start": 1781971377,
+    "total_seconds": 0
   }
 }
