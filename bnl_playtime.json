@@ -2115,9 +2115,9 @@
     "total_seconds": 75676
   },
   "trizzzx": {
-    "week_seconds": 58799,
+    "week_seconds": 62085,
     "week_start": 1781526367,
-    "total_seconds": 58799
+    "total_seconds": 62085
   },
   "reffelruz": {
     "week_seconds": 7830,
@@ -7667,6 +7667,11 @@
   "dinonoogeet": {
     "week_seconds": 0,
     "week_start": 1781968022,
+    "total_seconds": 0
+  },
+  "pelletine": {
+    "week_seconds": 0,
+    "week_start": 1781968159,
     "total_seconds": 0
   }
 }
