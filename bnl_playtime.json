@@ -1035,9 +1035,9 @@
     "total_seconds": 6
   },
   "aserdabeast": {
-    "week_seconds": 29038,
+    "week_seconds": 29040,
     "week_start": 1781486788,
-    "total_seconds": 29038
+    "total_seconds": 29040
   },
   "pharomachrus2": {
     "week_seconds": 91,
@@ -1950,9 +1950,9 @@
     "total_seconds": 5211
   },
   "teato": {
-    "week_seconds": 84859,
+    "week_seconds": 84866,
     "week_start": 1781521729,
-    "total_seconds": 84859
+    "total_seconds": 84866
   },
   "thebigbeast2711": {
     "week_seconds": 238,
@@ -7918,5 +7918,10 @@
     "week_seconds": 14,
     "week_start": 1781992882,
     "total_seconds": 14
+  },
+  "rowsd": {
+    "week_seconds": 0,
+    "week_start": 1781993039,
+    "total_seconds": 0
   }
 }
