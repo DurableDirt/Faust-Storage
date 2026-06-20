@@ -4420,9 +4420,9 @@
     "total_seconds": 2834
   },
   "formidable01": {
-    "week_seconds": 19232,
+    "week_seconds": 19263,
     "week_start": 1781637068,
-    "total_seconds": 19232
+    "total_seconds": 19263
   },
   "spacepaww": {
     "week_seconds": 43617,
@@ -7770,8 +7770,8 @@
     "total_seconds": 251
   },
   "watermashen": {
-    "week_seconds": 0,
+    "week_seconds": 115,
     "week_start": 1781978511,
-    "total_seconds": 0
+    "total_seconds": 115
   }
 }
