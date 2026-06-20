@@ -75,9 +75,9 @@
     "total_seconds": 98140
   },
   "40mm": {
-    "week_seconds": 63108,
+    "week_seconds": 69235,
     "week_start": 1781475020,
-    "total_seconds": 63108
+    "total_seconds": 69235
   },
   "lynx2007": {
     "week_seconds": 75451,
@@ -2145,9 +2145,9 @@
     "total_seconds": 171414
   },
   "daimnasal": {
-    "week_seconds": 51718,
+    "week_seconds": 51879,
     "week_start": 1781527309,
-    "total_seconds": 51718
+    "total_seconds": 51879
   },
   "azurisdev": {
     "week_seconds": 133,
@@ -5645,9 +5645,9 @@
     "total_seconds": 174
   },
   "skippydx": {
-    "week_seconds": 21563,
+    "week_seconds": 22288,
     "week_start": 1781741064,
-    "total_seconds": 21563
+    "total_seconds": 22288
   },
   "ultraman2": {
     "week_seconds": 251,
