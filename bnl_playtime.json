@@ -130,9 +130,9 @@
     "total_seconds": 32917
   },
   "threeapplestall": {
-    "week_seconds": 160041,
+    "week_seconds": 162040,
     "week_start": 1781475744,
-    "total_seconds": 160041
+    "total_seconds": 162040
   },
   "donnelpyke2": {
     "week_seconds": 34826,
@@ -7315,8 +7315,8 @@
     "total_seconds": 34
   },
   "bobroos8": {
-    "week_seconds": 0,
+    "week_seconds": 336,
     "week_start": 1781917893,
-    "total_seconds": 0
+    "total_seconds": 336
   }
 }
