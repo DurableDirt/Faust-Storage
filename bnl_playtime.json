@@ -2415,9 +2415,9 @@
     "total_seconds": 17618
   },
   "sml128": {
-    "week_seconds": 64179,
+    "week_seconds": 64209,
     "week_start": 1781534411,
-    "total_seconds": 64179
+    "total_seconds": 64209
   },
   "malipan": {
     "week_seconds": 19169,
@@ -3440,9 +3440,9 @@
     "total_seconds": 65325
   },
   "jromeasfsniper": {
-    "week_seconds": 15817,
+    "week_seconds": 30905,
     "week_start": 1781566212,
-    "total_seconds": 15817
+    "total_seconds": 30905
   },
   "smilers": {
     "week_seconds": 62,
