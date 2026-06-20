@@ -7525,9 +7525,9 @@
     "total_seconds": 383
   },
   "dinglef1zv": {
-    "week_seconds": 1105,
+    "week_seconds": 1363,
     "week_start": 1781948496,
-    "total_seconds": 1105
+    "total_seconds": 1363
   },
   "realmickeymouse": {
     "week_seconds": 140,
@@ -7543,5 +7543,15 @@
     "week_seconds": 65,
     "week_start": 1781950634,
     "total_seconds": 65
+  },
+  "pablena": {
+    "week_seconds": 0,
+    "week_start": 1781950977,
+    "total_seconds": 0
+  },
+  "matteturtle09": {
+    "week_seconds": 0,
+    "week_start": 1781950981,
+    "total_seconds": 0
   }
 }
