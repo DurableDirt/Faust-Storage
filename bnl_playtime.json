@@ -250,9 +250,9 @@
     "total_seconds": 97966
   },
   "mpusa": {
-    "week_seconds": 19258,
+    "week_seconds": 27184,
     "week_start": 1781476578,
-    "total_seconds": 19258
+    "total_seconds": 27184
   },
   "madmachinist25": {
     "week_seconds": 103266,
@@ -2590,9 +2590,9 @@
     "total_seconds": 10286
   },
   "dant481heman": {
-    "week_seconds": 68136,
+    "week_seconds": 76692,
     "week_start": 1781539434,
-    "total_seconds": 68136
+    "total_seconds": 76692
   },
   "aredstonegod378": {
     "week_seconds": 12376,
@@ -7263,5 +7263,15 @@
     "week_seconds": 105,
     "week_start": 1781912993,
     "total_seconds": 105
+  },
+  "prettyparfait": {
+    "week_seconds": 0,
+    "week_start": 1781913607,
+    "total_seconds": 0
+  },
+  "swiftyscissors": {
+    "week_seconds": 0,
+    "week_start": 1781913623,
+    "total_seconds": 0
   }
 }
