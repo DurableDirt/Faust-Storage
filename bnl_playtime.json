@@ -1710,9 +1710,9 @@
     "total_seconds": 6
   },
   "remax152": {
-    "week_seconds": 14245,
+    "week_seconds": 14278,
     "week_start": 1781511995,
-    "total_seconds": 14245
+    "total_seconds": 14278
   },
   "hugolegend2014": {
     "week_seconds": 780,
@@ -7855,13 +7855,23 @@
     "total_seconds": 861
   },
   "ym_kuba": {
-    "week_seconds": 0,
+    "week_seconds": 89,
     "week_start": 1781988200,
-    "total_seconds": 0
+    "total_seconds": 89
   },
   "escanor_rambo": {
     "week_seconds": 0,
     "week_start": 1781988208,
+    "total_seconds": 0
+  },
+  "fatrabi": {
+    "week_seconds": 0,
+    "week_start": 1781988256,
+    "total_seconds": 0
+  },
+  "real_wemboo": {
+    "week_seconds": 0,
+    "week_start": 1781988269,
     "total_seconds": 0
   }
 }
