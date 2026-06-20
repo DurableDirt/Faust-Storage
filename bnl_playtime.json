@@ -4810,9 +4810,9 @@
     "total_seconds": 17623
   },
   "mayblu": {
-    "week_seconds": 28933,
+    "week_seconds": 29063,
     "week_start": 1781664230,
-    "total_seconds": 28933
+    "total_seconds": 29063
   },
   "arowshot": {
     "week_seconds": 11884,
@@ -7925,8 +7925,8 @@
     "total_seconds": 128
   },
   "zdunke": {
-    "week_seconds": 0,
+    "week_seconds": 48,
     "week_start": 1781994106,
-    "total_seconds": 0
+    "total_seconds": 48
   }
 }
