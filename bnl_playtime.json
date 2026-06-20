@@ -2470,9 +2470,9 @@
     "total_seconds": 130
   },
   "vechozzz": {
-    "week_seconds": 3653,
+    "week_seconds": 5190,
     "week_start": 1781535676,
-    "total_seconds": 3653
+    "total_seconds": 5190
   },
   "potatooverlord13": {
     "week_seconds": 13562,
@@ -7777,6 +7777,11 @@
   "sovietfan7": {
     "week_seconds": 0,
     "week_start": 1781978835,
+    "total_seconds": 0
+  },
+  "rune_lol": {
+    "week_seconds": 0,
+    "week_start": 1781978941,
     "total_seconds": 0
   }
 }
