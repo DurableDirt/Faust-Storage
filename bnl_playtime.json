@@ -7760,9 +7760,9 @@
     "total_seconds": 38
   },
   "bailey00712": {
-    "week_seconds": 3270,
+    "week_seconds": 3299,
     "week_start": 1781977669,
-    "total_seconds": 3270
+    "total_seconds": 3299
   },
   "x_teach_x": {
     "week_seconds": 251,
@@ -7838,5 +7838,10 @@
     "week_seconds": 23,
     "week_start": 1781985467,
     "total_seconds": 23
+  },
+  "gjum": {
+    "week_seconds": 0,
+    "week_start": 1781986480,
+    "total_seconds": 0
   }
 }
