@@ -1825,9 +1825,9 @@
     "total_seconds": 767
   },
   "castorguy": {
-    "week_seconds": 56418,
+    "week_seconds": 56457,
     "week_start": 1781516202,
-    "total_seconds": 56418
+    "total_seconds": 56457
   },
   "yinz001": {
     "week_seconds": 75620,
@@ -2260,9 +2260,9 @@
     "total_seconds": 24465
   },
   "nekroz09": {
-    "week_seconds": 23700,
+    "week_seconds": 23746,
     "week_start": 1781529591,
-    "total_seconds": 23700
+    "total_seconds": 23746
   },
   "pergyskeel": {
     "week_seconds": 77616,
@@ -7658,5 +7658,10 @@
     "week_seconds": 32,
     "week_start": 1781964441,
     "total_seconds": 32
+  },
+  "endu_112": {
+    "week_seconds": 0,
+    "week_start": 1781965838,
+    "total_seconds": 0
   }
 }
