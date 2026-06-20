@@ -5715,9 +5715,9 @@
     "total_seconds": 7676
   },
   "rurfu": {
-    "week_seconds": 21340,
+    "week_seconds": 23434,
     "week_start": 1781746808,
-    "total_seconds": 21340
+    "total_seconds": 23434
   },
   "binks4362": {
     "week_seconds": 266,
@@ -7420,8 +7420,8 @@
     "total_seconds": 244
   },
   "alvinogambolo": {
-    "week_seconds": 0,
+    "week_seconds": 165,
     "week_start": 1781931087,
-    "total_seconds": 0
+    "total_seconds": 165
   }
 }
