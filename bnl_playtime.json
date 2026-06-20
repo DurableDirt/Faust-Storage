@@ -400,9 +400,9 @@
     "total_seconds": 6615
   },
   "uprisingmax": {
-    "week_seconds": 64642,
+    "week_seconds": 65082,
     "week_start": 1781478140,
-    "total_seconds": 64642
+    "total_seconds": 65082
   },
   "freshoxygenair": {
     "week_seconds": 7175,
@@ -7275,8 +7275,8 @@
     "total_seconds": 340
   },
   "beinbean13": {
-    "week_seconds": 0,
+    "week_seconds": 377,
     "week_start": 1781913830,
-    "total_seconds": 0
+    "total_seconds": 377
   }
 }
