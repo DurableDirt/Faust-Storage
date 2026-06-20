@@ -1950,9 +1950,9 @@
     "total_seconds": 5211
   },
   "teato": {
-    "week_seconds": 78654,
+    "week_seconds": 81404,
     "week_start": 1781521729,
-    "total_seconds": 78654
+    "total_seconds": 81404
   },
   "thebigbeast2711": {
     "week_seconds": 238,
@@ -7887,6 +7887,11 @@
   "gingerhotpot": {
     "week_seconds": 0,
     "week_start": 1781989088,
+    "total_seconds": 0
+  },
+  "akillerandslayer": {
+    "week_seconds": 0,
+    "week_start": 1781989316,
     "total_seconds": 0
   }
 }
