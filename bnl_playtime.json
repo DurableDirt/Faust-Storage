@@ -405,9 +405,9 @@
     "total_seconds": 76505
   },
   "freshoxygenair": {
-    "week_seconds": 8282,
+    "week_seconds": 8555,
     "week_start": 1781478147,
-    "total_seconds": 8282
+    "total_seconds": 8555
   },
   "cz10_xp": {
     "week_seconds": 396,
@@ -1975,9 +1975,9 @@
     "total_seconds": 2161
   },
   "capybaralove90": {
-    "week_seconds": 38273,
+    "week_seconds": 38293,
     "week_start": 1781522300,
-    "total_seconds": 38273
+    "total_seconds": 38293
   },
   "monoilo": {
     "week_seconds": 6364,
@@ -7480,8 +7480,8 @@
     "total_seconds": 0
   },
   "mpwevoker": {
-    "week_seconds": 0,
+    "week_seconds": 41,
     "week_start": 1781941319,
-    "total_seconds": 0
+    "total_seconds": 41
   }
 }
