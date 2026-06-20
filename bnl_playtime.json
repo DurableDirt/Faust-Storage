@@ -155,9 +155,9 @@
     "total_seconds": 12119
   },
   "lightningboi4": {
-    "week_seconds": 108392,
+    "week_seconds": 108422,
     "week_start": 1781476003,
-    "total_seconds": 108392
+    "total_seconds": 108422
   },
   "aaroni_macaroni": {
     "week_seconds": 56402,
@@ -2325,9 +2325,9 @@
     "total_seconds": 887
   },
   "bluechickpro": {
-    "week_seconds": 18603,
+    "week_seconds": 19283,
     "week_start": 1781531619,
-    "total_seconds": 18603
+    "total_seconds": 19283
   },
   "xa_n": {
     "week_seconds": 11656,
@@ -7472,6 +7472,11 @@
   "sir_manguydude": {
     "week_seconds": 0,
     "week_start": 1781939190,
+    "total_seconds": 0
+  },
+  "jerven1": {
+    "week_seconds": 0,
+    "week_start": 1781939675,
     "total_seconds": 0
   }
 }
