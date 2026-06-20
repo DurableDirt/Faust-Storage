@@ -7035,9 +7035,9 @@
     "total_seconds": 226
   },
   "vitalcoin3800": {
-    "week_seconds": 16943,
+    "week_seconds": 16999,
     "week_start": 1781889551,
-    "total_seconds": 16943
+    "total_seconds": 16999
   },
   "goosie1238": {
     "week_seconds": 7447,
@@ -7910,8 +7910,8 @@
     "total_seconds": 0
   },
   "unicornpvke": {
-    "week_seconds": 59,
+    "week_seconds": 858,
     "week_start": 1781990956,
-    "total_seconds": 59
+    "total_seconds": 858
   }
 }
