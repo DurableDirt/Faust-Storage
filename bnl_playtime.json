@@ -665,9 +665,9 @@
     "total_seconds": 62681
   },
   "unique_nullptr": {
-    "week_seconds": 114310,
+    "week_seconds": 126391,
     "week_start": 1781481654,
-    "total_seconds": 114310
+    "total_seconds": 126391
   },
   "boatoverbogs": {
     "week_seconds": 18424,
@@ -7570,9 +7570,9 @@
     "total_seconds": 344
   },
   "swivee": {
-    "week_seconds": 10186,
+    "week_seconds": 11042,
     "week_start": 1781954376,
-    "total_seconds": 10186
+    "total_seconds": 11042
   },
   "vonkedev": {
     "week_seconds": 3768,
@@ -7780,8 +7780,8 @@
     "total_seconds": 0
   },
   "rune_lol": {
-    "week_seconds": 170,
+    "week_seconds": 469,
     "week_start": 1781978941,
-    "total_seconds": 170
+    "total_seconds": 469
   }
 }
