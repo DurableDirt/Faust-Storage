@@ -3985,9 +3985,9 @@
     "total_seconds": 2416
   },
   "cloudpug": {
-    "week_seconds": 25675,
+    "week_seconds": 26764,
     "week_start": 1781615095,
-    "total_seconds": 25675
+    "total_seconds": 26764
   },
   "frosterjr5": {
     "week_seconds": 12055,
@@ -7265,9 +7265,9 @@
     "total_seconds": 14573
   },
   "swiftyscissors": {
-    "week_seconds": 35152,
+    "week_seconds": 39478,
     "week_start": 1781913623,
-    "total_seconds": 35152
+    "total_seconds": 39478
   },
   "beinbean13": {
     "week_seconds": 377,
@@ -7577,6 +7577,11 @@
   "vonkedev": {
     "week_seconds": 0,
     "week_start": 1781954505,
+    "total_seconds": 0
+  },
+  "bradleyinnit": {
+    "week_seconds": 0,
+    "week_start": 1781954889,
     "total_seconds": 0
   }
 }
