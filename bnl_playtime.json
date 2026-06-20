@@ -7205,9 +7205,9 @@
     "total_seconds": 3429
   },
   "sandfalls": {
-    "week_seconds": 10558,
+    "week_seconds": 19385,
     "week_start": 1781906432,
-    "total_seconds": 10558
+    "total_seconds": 19385
   },
   "kav8": {
     "week_seconds": 5355,
@@ -7967,6 +7967,11 @@
   "echoform0202": {
     "week_seconds": 0,
     "week_start": 1781999503,
+    "total_seconds": 0
+  },
+  "terminalnorth003": {
+    "week_seconds": 0,
+    "week_start": 1781999710,
     "total_seconds": 0
   }
 }
