@@ -1665,9 +1665,9 @@
     "total_seconds": 9341
   },
   "polysemic": {
-    "week_seconds": 34765,
+    "week_seconds": 38439,
     "week_start": 1781509665,
-    "total_seconds": 34765
+    "total_seconds": 38439
   },
   "wuli": {
     "week_seconds": 95851,
@@ -7495,8 +7495,8 @@
     "total_seconds": 479
   },
   "apexify22mc": {
-    "week_seconds": 0,
+    "week_seconds": 29,
     "week_start": 1781943603,
-    "total_seconds": 0
+    "total_seconds": 29
   }
 }
