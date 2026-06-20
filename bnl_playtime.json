@@ -1690,9 +1690,9 @@
     "total_seconds": 45182
   },
   "solitaire7": {
-    "week_seconds": 110341,
+    "week_seconds": 112852,
     "week_start": 1781510605,
-    "total_seconds": 110341
+    "total_seconds": 112852
   },
   "masqo_": {
     "week_seconds": 47874,
@@ -7528,5 +7528,10 @@
     "week_seconds": 218,
     "week_start": 1781948496,
     "total_seconds": 218
+  },
+  "realmickeymouse": {
+    "week_seconds": 0,
+    "week_start": 1781949229,
+    "total_seconds": 0
   }
 }
