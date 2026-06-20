@@ -1665,9 +1665,9 @@
     "total_seconds": 9341
   },
   "polysemic": {
-    "week_seconds": 41400,
+    "week_seconds": 51462,
     "week_start": 1781509665,
-    "total_seconds": 41400
+    "total_seconds": 51462
   },
   "wuli": {
     "week_seconds": 97221,
@@ -7250,9 +7250,9 @@
     "total_seconds": 441
   },
   "wemmbu40": {
-    "week_seconds": 13277,
+    "week_seconds": 14349,
     "week_start": 1781912538,
-    "total_seconds": 13277
+    "total_seconds": 14349
   },
   "x_mell_x": {
     "week_seconds": 105,
@@ -7802,6 +7802,11 @@
   "trekkie27": {
     "week_seconds": 0,
     "week_start": 1781982846,
+    "total_seconds": 0
+  },
+  "waiz0": {
+    "week_seconds": 0,
+    "week_start": 1781983532,
     "total_seconds": 0
   }
 }
