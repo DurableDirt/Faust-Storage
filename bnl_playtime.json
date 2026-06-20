@@ -795,9 +795,9 @@
     "total_seconds": 68387
   },
   "moneyboypassion": {
-    "week_seconds": 24060,
+    "week_seconds": 24097,
     "week_start": 1781483583,
-    "total_seconds": 24060
+    "total_seconds": 24097
   },
   "zanzirbibley": {
     "week_seconds": 25295,
@@ -7323,5 +7323,10 @@
     "week_seconds": 125,
     "week_start": 1781918561,
     "total_seconds": 125
+  },
+  "naha000": {
+    "week_seconds": 17,
+    "week_start": 1781918745,
+    "total_seconds": 17
   }
 }
