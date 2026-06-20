@@ -2255,9 +2255,9 @@
     "total_seconds": 23125
   },
   "sajtos_puffancs": {
-    "week_seconds": 23501,
+    "week_seconds": 24465,
     "week_start": 1781529400,
-    "total_seconds": 23501
+    "total_seconds": 24465
   },
   "nekroz09": {
     "week_seconds": 20320,
@@ -7518,5 +7518,10 @@
     "week_seconds": 170,
     "week_start": 1781947782,
     "total_seconds": 170
+  },
+  "gustavo2004": {
+    "week_seconds": 0,
+    "week_start": 1781948113,
+    "total_seconds": 0
   }
 }
