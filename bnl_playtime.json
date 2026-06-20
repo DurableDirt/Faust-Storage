@@ -1080,9 +1080,9 @@
     "total_seconds": 214
   },
   "orestraya": {
-    "week_seconds": 122527,
+    "week_seconds": 123545,
     "week_start": 1781487686,
-    "total_seconds": 122527
+    "total_seconds": 123545
   },
   "satava": {
     "week_seconds": 89520,
@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 162388,
+    "week_seconds": 163496,
     "week_start": 1781513574,
-    "total_seconds": 162388
+    "total_seconds": 163496
   },
   "stavros_ell": {
     "week_seconds": 17006,
@@ -7525,8 +7525,8 @@
     "total_seconds": 383
   },
   "dinglef1zv": {
-    "week_seconds": 183,
+    "week_seconds": 218,
     "week_start": 1781948496,
-    "total_seconds": 183
+    "total_seconds": 218
   }
 }
