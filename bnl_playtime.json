@@ -555,9 +555,9 @@
     "total_seconds": 158
   },
   "zolo17": {
-    "week_seconds": 395358,
+    "week_seconds": 395365,
     "week_start": 1781480177,
-    "total_seconds": 395358
+    "total_seconds": 395365
   },
   "dutchcringe": {
     "week_seconds": 47348,
@@ -7570,9 +7570,9 @@
     "total_seconds": 344
   },
   "swivee": {
-    "week_seconds": 5172,
+    "week_seconds": 5204,
     "week_start": 1781954376,
-    "total_seconds": 5172
+    "total_seconds": 5204
   },
   "vonkedev": {
     "week_seconds": 3768,
@@ -7608,5 +7608,10 @@
     "week_seconds": 0,
     "week_start": 1781957654,
     "total_seconds": 0
+  },
+  "mathias_42012": {
+    "week_seconds": 1,
+    "week_start": 1781959631,
+    "total_seconds": 1
   }
 }
