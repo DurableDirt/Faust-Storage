@@ -1085,9 +1085,9 @@
     "total_seconds": 119219
   },
   "satava": {
-    "week_seconds": 81123,
+    "week_seconds": 81158,
     "week_start": 1781487788,
-    "total_seconds": 81123
+    "total_seconds": 81158
   },
   "majjcrunsgf": {
     "week_seconds": 3927,
@@ -1580,9 +1580,9 @@
     "total_seconds": 64480
   },
   "gobblin": {
-    "week_seconds": 35145,
+    "week_seconds": 41273,
     "week_start": 1781505039,
-    "total_seconds": 35145
+    "total_seconds": 41273
   },
   "vlinar": {
     "week_seconds": 47549,
