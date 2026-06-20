@@ -1080,9 +1080,9 @@
     "total_seconds": 214
   },
   "orestraya": {
-    "week_seconds": 123545,
+    "week_seconds": 130671,
     "week_start": 1781487686,
-    "total_seconds": 123545
+    "total_seconds": 130671
   },
   "satava": {
     "week_seconds": 91113,
@@ -4235,9 +4235,9 @@
     "total_seconds": 37908
   },
   "pineappleman541": {
-    "week_seconds": 17709,
+    "week_seconds": 19798,
     "week_start": 1781630307,
-    "total_seconds": 17709
+    "total_seconds": 19798
   },
   "gabrox5": {
     "week_seconds": 1443,
@@ -7603,5 +7603,10 @@
     "week_seconds": 91,
     "week_start": 1781957419,
     "total_seconds": 91
+  },
+  "salier": {
+    "week_seconds": 0,
+    "week_start": 1781957654,
+    "total_seconds": 0
   }
 }
