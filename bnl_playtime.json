@@ -2220,9 +2220,9 @@
     "total_seconds": 75
   },
   "falphaeus": {
-    "week_seconds": 94776,
+    "week_seconds": 94858,
     "week_start": 1781528404,
-    "total_seconds": 94776
+    "total_seconds": 94858
   },
   "dorthit_0194a8au": {
     "week_seconds": 3029,
@@ -7080,9 +7080,9 @@
     "total_seconds": 274
   },
   "shafi08": {
-    "week_seconds": 4880,
+    "week_seconds": 4888,
     "week_start": 1781894257,
-    "total_seconds": 4880
+    "total_seconds": 4888
   },
   "ja_c0b": {
     "week_seconds": 2270,
@@ -7545,9 +7545,9 @@
     "total_seconds": 65
   },
   "pablena": {
-    "week_seconds": 1624,
+    "week_seconds": 5210,
     "week_start": 1781950977,
-    "total_seconds": 1624
+    "total_seconds": 5210
   },
   "matteturtle09": {
     "week_seconds": 292,
@@ -7587,6 +7587,11 @@
   "backwash": {
     "week_seconds": 0,
     "week_start": 1781955472,
+    "total_seconds": 0
+  },
+  "huston_x": {
+    "week_seconds": 0,
+    "week_start": 1781956185,
     "total_seconds": 0
   }
 }
