@@ -7590,8 +7590,8 @@
     "total_seconds": 0
   },
   "huston_x": {
-    "week_seconds": 0,
+    "week_seconds": 240,
     "week_start": 1781956185,
-    "total_seconds": 0
+    "total_seconds": 240
   }
 }
