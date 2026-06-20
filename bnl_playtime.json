@@ -580,9 +580,9 @@
     "total_seconds": 33275
   },
   "ethn__": {
-    "week_seconds": 116985,
+    "week_seconds": 118284,
     "week_start": 1781480700,
-    "total_seconds": 116985
+    "total_seconds": 118284
   },
   "suderp": {
     "week_seconds": 3472,
@@ -7680,9 +7680,9 @@
     "total_seconds": 299
   },
   "olblocks": {
-    "week_seconds": 167,
+    "week_seconds": 197,
     "week_start": 1781968676,
-    "total_seconds": 167
+    "total_seconds": 197
   },
   "wonderingwhale": {
     "week_seconds": 0,
