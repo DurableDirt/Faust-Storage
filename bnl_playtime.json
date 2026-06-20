@@ -175,9 +175,9 @@
     "total_seconds": 9418
   },
   "therisewarrior16": {
-    "week_seconds": 67694,
+    "week_seconds": 69793,
     "week_start": 1781476133,
-    "total_seconds": 67694
+    "total_seconds": 69793
   },
   "pasteldepapa777": {
     "week_seconds": 65160,
@@ -660,9 +660,9 @@
     "total_seconds": 13445
   },
   "demobottle12": {
-    "week_seconds": 58283,
+    "week_seconds": 62681,
     "week_start": 1781481621,
-    "total_seconds": 58283
+    "total_seconds": 62681
   },
   "unique_nullptr": {
     "week_seconds": 114310,
@@ -2495,9 +2495,9 @@
     "total_seconds": 194853
   },
   "blazelogic": {
-    "week_seconds": 26069,
+    "week_seconds": 26842,
     "week_start": 1781535865,
-    "total_seconds": 26069
+    "total_seconds": 26842
   },
   "mariora": {
     "week_seconds": 867,
@@ -7718,5 +7718,10 @@
     "week_seconds": 318,
     "week_start": 1781971985,
     "total_seconds": 318
+  },
+  "cptz": {
+    "week_seconds": 0,
+    "week_start": 1781973062,
+    "total_seconds": 0
   }
 }
