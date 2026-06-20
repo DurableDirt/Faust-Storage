@@ -525,9 +525,9 @@
     "total_seconds": 7709
   },
   "shadno": {
-    "week_seconds": 225634,
+    "week_seconds": 227856,
     "week_start": 1781479968,
-    "total_seconds": 225634
+    "total_seconds": 227856
   },
   "hexayn": {
     "week_seconds": 974,
@@ -1340,9 +1340,9 @@
     "total_seconds": 46003
   },
   "misprint293": {
-    "week_seconds": 101674,
+    "week_seconds": 101701,
     "week_start": 1781493068,
-    "total_seconds": 101674
+    "total_seconds": 101701
   },
   "choripancaliente": {
     "week_seconds": 94990,
@@ -1650,9 +1650,9 @@
     "total_seconds": 90704
   },
   "virexil": {
-    "week_seconds": 31585,
+    "week_seconds": 32506,
     "week_start": 1781509271,
-    "total_seconds": 31585
+    "total_seconds": 32506
   },
   "voidvin": {
     "week_seconds": 93019,
@@ -7673,5 +7673,10 @@
     "week_seconds": 76,
     "week_start": 1781968159,
     "total_seconds": 76
+  },
+  "accelgorfan617": {
+    "week_seconds": 0,
+    "week_start": 1781968618,
+    "total_seconds": 0
   }
 }
