@@ -3600,9 +3600,9 @@
     "total_seconds": 3710
   },
   "sdgviking": {
-    "week_seconds": 11487,
+    "week_seconds": 19596,
     "week_start": 1781573787,
-    "total_seconds": 11487
+    "total_seconds": 19596
   },
   "squidhasthebad": {
     "week_seconds": 11053,
@@ -7710,13 +7710,13 @@
     "total_seconds": 0
   },
   "gladiatus13": {
-    "week_seconds": 195,
+    "week_seconds": 700,
     "week_start": 1781971642,
-    "total_seconds": 195
+    "total_seconds": 700
   },
   "dark_phoenixs": {
-    "week_seconds": 100,
+    "week_seconds": 318,
     "week_start": 1781971985,
-    "total_seconds": 100
+    "total_seconds": 318
   }
 }
