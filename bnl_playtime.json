@@ -580,9 +580,9 @@
     "total_seconds": 32869
   },
   "ethn__": {
-    "week_seconds": 103497,
+    "week_seconds": 107243,
     "week_start": 1781480700,
-    "total_seconds": 103497
+    "total_seconds": 107243
   },
   "suderp": {
     "week_seconds": 3472,
@@ -2960,9 +2960,9 @@
     "total_seconds": 56545
   },
   "lucifer_sh": {
-    "week_seconds": 93064,
+    "week_seconds": 95418,
     "week_start": 1781550837,
-    "total_seconds": 93064
+    "total_seconds": 95418
   },
   "yuitzzy": {
     "week_seconds": 2391,
@@ -7272,6 +7272,11 @@
   "swiftyscissors": {
     "week_seconds": 0,
     "week_start": 1781913623,
+    "total_seconds": 0
+  },
+  "beinbean13": {
+    "week_seconds": 0,
+    "week_start": 1781913830,
     "total_seconds": 0
   }
 }
