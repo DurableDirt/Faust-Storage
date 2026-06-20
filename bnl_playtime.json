@@ -650,9 +650,9 @@
     "total_seconds": 20805
   },
   "malafly": {
-    "week_seconds": 130235,
+    "week_seconds": 132257,
     "week_start": 1781481518,
-    "total_seconds": 130235
+    "total_seconds": 132257
   },
   "velares": {
     "week_seconds": 13445,
@@ -810,9 +810,9 @@
     "total_seconds": 84357
   },
   "timantha": {
-    "week_seconds": 85458,
+    "week_seconds": 86135,
     "week_start": 1781483687,
-    "total_seconds": 85458
+    "total_seconds": 86135
   },
   "gnathope": {
     "week_seconds": 78142,
@@ -6180,9 +6180,9 @@
     "total_seconds": 49
   },
   "pinkphantxm": {
-    "week_seconds": 18558,
+    "week_seconds": 19087,
     "week_start": 1781805402,
-    "total_seconds": 18558
+    "total_seconds": 19087
   },
   "supersameee": {
     "week_seconds": 2,
@@ -7822,6 +7822,11 @@
   "kronprinzkaiser": {
     "week_seconds": 0,
     "week_start": 1781985181,
+    "total_seconds": 0
+  },
+  "lelo404": {
+    "week_seconds": 0,
+    "week_start": 1781985272,
     "total_seconds": 0
   }
 }
