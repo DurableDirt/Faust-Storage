@@ -725,9 +725,9 @@
     "total_seconds": 329
   },
   "zzcqmbozz": {
-    "week_seconds": 81413,
+    "week_seconds": 81660,
     "week_start": 1781482541,
-    "total_seconds": 81413
+    "total_seconds": 81660
   },
   "marc_1500": {
     "week_seconds": 55621,
@@ -3180,9 +3180,9 @@
     "total_seconds": 54
   },
   "1stev0": {
-    "week_seconds": 143240,
+    "week_seconds": 147116,
     "week_start": 1781557435,
-    "total_seconds": 143240
+    "total_seconds": 147116
   },
   "jonandr5735": {
     "week_seconds": 322,
@@ -7713,5 +7713,10 @@
     "week_seconds": 195,
     "week_start": 1781971642,
     "total_seconds": 195
+  },
+  "dark_phoenixs": {
+    "week_seconds": 0,
+    "week_start": 1781971985,
+    "total_seconds": 0
   }
 }
