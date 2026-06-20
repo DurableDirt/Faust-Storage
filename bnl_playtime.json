@@ -1670,9 +1670,9 @@
     "total_seconds": 41400
   },
   "wuli": {
-    "week_seconds": 97213,
+    "week_seconds": 97221,
     "week_start": 1781509985,
-    "total_seconds": 97213
+    "total_seconds": 97221
   },
   "jaydon_": {
     "week_seconds": 127738,
@@ -2155,9 +2155,9 @@
     "total_seconds": 133
   },
   "dryna1825": {
-    "week_seconds": 16,
+    "week_seconds": 48,
     "week_start": 1781527495,
-    "total_seconds": 16
+    "total_seconds": 48
   },
   "voidhecker": {
     "week_seconds": 4045,
@@ -7797,6 +7797,11 @@
   "antifinnman": {
     "week_seconds": 0,
     "week_start": 1781982796,
+    "total_seconds": 0
+  },
+  "trekkie27": {
+    "week_seconds": 0,
+    "week_start": 1781982846,
     "total_seconds": 0
   }
 }
