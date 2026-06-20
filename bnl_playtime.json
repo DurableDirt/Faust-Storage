@@ -2735,9 +2735,9 @@
     "total_seconds": 44
   },
   "anttolisa": {
-    "week_seconds": 120403,
+    "week_seconds": 120954,
     "week_start": 1781543984,
-    "total_seconds": 120403
+    "total_seconds": 120954
   },
   "ivona_dies_alot": {
     "week_seconds": 25887,
@@ -7423,5 +7423,10 @@
     "week_seconds": 165,
     "week_start": 1781931087,
     "total_seconds": 165
+  },
+  "c0rgi_d0g": {
+    "week_seconds": 0,
+    "week_start": 1781931793,
+    "total_seconds": 0
   }
 }
