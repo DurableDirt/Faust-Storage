@@ -2415,9 +2415,9 @@
     "total_seconds": 17618
   },
   "sml128": {
-    "week_seconds": 64703,
+    "week_seconds": 64791,
     "week_start": 1781534411,
-    "total_seconds": 64703
+    "total_seconds": 64791
   },
   "malipan": {
     "week_seconds": 19169,
@@ -7932,6 +7932,11 @@
   "simpology": {
     "week_seconds": 0,
     "week_start": 1781994187,
+    "total_seconds": 0
+  },
+  "sturdyshelf": {
+    "week_seconds": 0,
+    "week_start": 1781994385,
     "total_seconds": 0
   }
 }
