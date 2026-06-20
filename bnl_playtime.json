@@ -560,9 +560,9 @@
     "total_seconds": 395365
   },
   "dutchcringe": {
-    "week_seconds": 49011,
+    "week_seconds": 61343,
     "week_start": 1781480187,
-    "total_seconds": 49011
+    "total_seconds": 61343
   },
   "graydawn_": {
     "week_seconds": 199673,
@@ -3700,9 +3700,9 @@
     "total_seconds": 72
   },
   "icb_72": {
-    "week_seconds": 66230,
+    "week_seconds": 66913,
     "week_start": 1781579862,
-    "total_seconds": 66230
+    "total_seconds": 66913
   },
   "killtheinternet": {
     "week_seconds": 223,
@@ -7773,5 +7773,10 @@
     "week_seconds": 115,
     "week_start": 1781978511,
     "total_seconds": 115
+  },
+  "sovietfan7": {
+    "week_seconds": 0,
+    "week_start": 1781978835,
+    "total_seconds": 0
   }
 }
