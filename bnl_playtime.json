@@ -525,9 +525,9 @@
     "total_seconds": 7709
   },
   "shadno": {
-    "week_seconds": 224283,
+    "week_seconds": 225608,
     "week_start": 1781479968,
-    "total_seconds": 224283
+    "total_seconds": 225608
   },
   "hexayn": {
     "week_seconds": 974,
@@ -3235,9 +3235,9 @@
     "total_seconds": 146211
   },
   "yarnnn": {
-    "week_seconds": 65113,
+    "week_seconds": 65958,
     "week_start": 1781559766,
-    "total_seconds": 65113
+    "total_seconds": 65958
   },
   "whenurcrazy": {
     "week_seconds": 3863,
@@ -7598,5 +7598,10 @@
     "week_seconds": 53,
     "week_start": 1781957214,
     "total_seconds": 53
+  },
+  "winulf": {
+    "week_seconds": 0,
+    "week_start": 1781957419,
+    "total_seconds": 0
   }
 }
