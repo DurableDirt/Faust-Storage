@@ -3000,9 +3000,9 @@
     "total_seconds": 18469
   },
   "t0ast_realtoast": {
-    "week_seconds": 62,
+    "week_seconds": 68,
     "week_start": 1781551667,
-    "total_seconds": 62
+    "total_seconds": 68
   },
   "jaxon9013": {
     "week_seconds": 7822,
@@ -7710,8 +7710,8 @@
     "total_seconds": 0
   },
   "gladiatus13": {
-    "week_seconds": 0,
+    "week_seconds": 177,
     "week_start": 1781971642,
-    "total_seconds": 0
+    "total_seconds": 177
   }
 }
