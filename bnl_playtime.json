@@ -2145,9 +2145,9 @@
     "total_seconds": 171414
   },
   "daimnasal": {
-    "week_seconds": 52302,
+    "week_seconds": 52304,
     "week_start": 1781527309,
-    "total_seconds": 52302
+    "total_seconds": 52304
   },
   "azurisdev": {
     "week_seconds": 133,
@@ -7625,8 +7625,8 @@
     "total_seconds": 762
   },
   "majorgamer478": {
-    "week_seconds": 0,
+    "week_seconds": 97,
     "week_start": 1781961075,
-    "total_seconds": 0
+    "total_seconds": 97
   }
 }
