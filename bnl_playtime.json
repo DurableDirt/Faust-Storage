@@ -6545,9 +6545,9 @@
     "total_seconds": 2479
   },
   "chair2head": {
-    "week_seconds": 5783,
+    "week_seconds": 7900,
     "week_start": 1781826085,
-    "total_seconds": 5783
+    "total_seconds": 7900
   },
   "nagloxd": {
     "week_seconds": 877,
@@ -7835,9 +7835,9 @@
     "total_seconds": 41
   },
   "commradepotatoe": {
-    "week_seconds": 2872,
+    "week_seconds": 3533,
     "week_start": 1781985467,
-    "total_seconds": 2872
+    "total_seconds": 3533
   },
   "gjum": {
     "week_seconds": 846,
@@ -7882,6 +7882,11 @@
   "crozdumonde": {
     "week_seconds": 0,
     "week_start": 1781988779,
+    "total_seconds": 0
+  },
+  "gingerhotpot": {
+    "week_seconds": 0,
+    "week_start": 1781989088,
     "total_seconds": 0
   }
 }
