@@ -870,9 +870,9 @@
     "total_seconds": 22245
   },
   "deerifius": {
-    "week_seconds": 104550,
+    "week_seconds": 105599,
     "week_start": 1781484629,
-    "total_seconds": 104550
+    "total_seconds": 105599
   },
   "dreadyheadyyn": {
     "week_seconds": 5,
@@ -3510,9 +3510,9 @@
     "total_seconds": 8517
   },
   "thenebster123": {
-    "week_seconds": 10986,
+    "week_seconds": 11488,
     "week_start": 1781569115,
-    "total_seconds": 10986
+    "total_seconds": 11488
   },
   "jpyesthatme": {
     "week_seconds": 39,
@@ -7367,6 +7367,11 @@
   "westiesaurus": {
     "week_seconds": 0,
     "week_start": 1781920959,
+    "total_seconds": 0
+  },
+  "bera1dy": {
+    "week_seconds": 0,
+    "week_start": 1781922816,
     "total_seconds": 0
   }
 }
