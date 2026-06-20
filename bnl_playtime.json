@@ -25,9 +25,9 @@
     "total_seconds": 26
   },
   "holdenvcaulfield": {
-    "week_seconds": 68438,
+    "week_seconds": 77562,
     "week_start": 1781474534,
-    "total_seconds": 68438
+    "total_seconds": 77562
   },
   "harved": {
     "week_seconds": 24903,
@@ -185,9 +185,9 @@
     "total_seconds": 65160
   },
   "ahrimanne": {
-    "week_seconds": 91448,
+    "week_seconds": 91747,
     "week_start": 1781476161,
-    "total_seconds": 91448
+    "total_seconds": 91747
   },
   "princess__bow": {
     "week_seconds": 69052,
@@ -4225,9 +4225,9 @@
     "total_seconds": 93
   },
   "o_angelbitez": {
-    "week_seconds": 3850,
+    "week_seconds": 4809,
     "week_start": 1781630022,
-    "total_seconds": 3850
+    "total_seconds": 4809
   },
   "power_utter": {
     "week_seconds": 37908,
@@ -7383,5 +7383,10 @@
     "week_seconds": 17,
     "week_start": 1781923216,
     "total_seconds": 17
+  },
+  "fleourah": {
+    "week_seconds": 0,
+    "week_start": 1781925675,
+    "total_seconds": 0
   }
 }
