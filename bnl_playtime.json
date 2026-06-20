@@ -245,9 +245,9 @@
     "total_seconds": 28023
   },
   "aluminum_foil_": {
-    "week_seconds": 118264,
+    "week_seconds": 119013,
     "week_start": 1781476568,
-    "total_seconds": 118264
+    "total_seconds": 119013
   },
   "mpusa": {
     "week_seconds": 27184,
@@ -3235,9 +3235,9 @@
     "total_seconds": 146211
   },
   "yarnnn": {
-    "week_seconds": 63353,
+    "week_seconds": 63940,
     "week_start": 1781559766,
-    "total_seconds": 63353
+    "total_seconds": 63940
   },
   "whenurcrazy": {
     "week_seconds": 3863,
@@ -7493,5 +7493,10 @@
     "week_seconds": 479,
     "week_start": 1781942039,
     "total_seconds": 479
+  },
+  "apexify22mc": {
+    "week_seconds": 0,
+    "week_start": 1781943603,
+    "total_seconds": 0
   }
 }
