@@ -1825,9 +1825,9 @@
     "total_seconds": 767
   },
   "castorguy": {
-    "week_seconds": 56334,
+    "week_seconds": 56382,
     "week_start": 1781516202,
-    "total_seconds": 56334
+    "total_seconds": 56382
   },
   "yinz001": {
     "week_seconds": 66722,
@@ -7583,5 +7583,10 @@
     "week_seconds": 67,
     "week_start": 1781954889,
     "total_seconds": 67
+  },
+  "backwash": {
+    "week_seconds": 0,
+    "week_start": 1781955472,
+    "total_seconds": 0
   }
 }
