@@ -6600,9 +6600,9 @@
     "total_seconds": 9696
   },
   "blkwaterr": {
-    "week_seconds": 21029,
+    "week_seconds": 26261,
     "week_start": 1781829672,
-    "total_seconds": 21029
+    "total_seconds": 26261
   },
   "nimph356": {
     "week_seconds": 8652,
@@ -7412,6 +7412,11 @@
   "ritalinabuser": {
     "week_seconds": 0,
     "week_start": 1781929833,
+    "total_seconds": 0
+  },
+  "rlly_riley": {
+    "week_seconds": 0,
+    "week_start": 1781930809,
     "total_seconds": 0
   }
 }
