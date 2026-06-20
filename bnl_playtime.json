@@ -2070,9 +2070,9 @@
     "total_seconds": 7186
   },
   "leonardus07": {
-    "week_seconds": 64747,
+    "week_seconds": 69648,
     "week_start": 1781524847,
-    "total_seconds": 64747
+    "total_seconds": 69648
   },
   "thomasdetrein0_0": {
     "week_seconds": 36185,
@@ -7638,5 +7638,10 @@
     "week_seconds": 4,
     "week_start": 1781962003,
     "total_seconds": 4
+  },
+  "mundnar7567": {
+    "week_seconds": 0,
+    "week_start": 1781963096,
+    "total_seconds": 0
   }
 }
