@@ -1940,9 +1940,9 @@
     "total_seconds": 18601
   },
   "worthlessbean": {
-    "week_seconds": 110020,
+    "week_seconds": 110322,
     "week_start": 1781521151,
-    "total_seconds": 110020
+    "total_seconds": 110322
   },
   "lolmi202": {
     "week_seconds": 5211,
@@ -2970,9 +2970,9 @@
     "total_seconds": 2391
   },
   "_aperson1": {
-    "week_seconds": 28457,
+    "week_seconds": 28466,
     "week_start": 1781551032,
-    "total_seconds": 28457
+    "total_seconds": 28466
   },
   "joshaya787": {
     "week_seconds": 72704,
@@ -7570,9 +7570,9 @@
     "total_seconds": 344
   },
   "swivee": {
-    "week_seconds": 16436,
+    "week_seconds": 18808,
     "week_start": 1781954376,
-    "total_seconds": 16436
+    "total_seconds": 18808
   },
   "vonkedev": {
     "week_seconds": 3768,
@@ -8202,6 +8202,11 @@
   "notcraniax": {
     "week_seconds": 0,
     "week_start": 1782035086,
+    "total_seconds": 0
+  },
+  "eeeror": {
+    "week_seconds": 0,
+    "week_start": 1782035254,
     "total_seconds": 0
   }
 }
