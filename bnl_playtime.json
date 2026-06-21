@@ -470,9 +470,9 @@
     "total_seconds": 83187
   },
   "anotnot": {
-    "week_seconds": 239452,
+    "week_seconds": 240448,
     "week_start": 1781479365,
-    "total_seconds": 239452
+    "total_seconds": 240448
   },
   "tntfortress": {
     "week_seconds": 113266,
@@ -8005,8 +8005,8 @@
     "total_seconds": 0
   },
   "rontheballer": {
-    "week_seconds": 0,
+    "week_seconds": 72,
     "week_start": 1782002743,
-    "total_seconds": 0
+    "total_seconds": 72
   }
 }
