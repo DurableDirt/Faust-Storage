@@ -7485,9 +7485,9 @@
     "total_seconds": 41
   },
   "freezestep": {
-    "week_seconds": 16014,
+    "week_seconds": 16155,
     "week_start": 1781941674,
-    "total_seconds": 16014
+    "total_seconds": 16155
   },
   "srank_latina": {
     "week_seconds": 479,
@@ -8442,6 +8442,11 @@
   "speedyfire1000": {
     "week_seconds": 0,
     "week_start": 1782068164,
+    "total_seconds": 0
+  },
+  "mattbruhr": {
+    "week_seconds": 0,
+    "week_start": 1782068717,
     "total_seconds": 0
   }
 }
