@@ -8173,5 +8173,10 @@
     "week_seconds": 0,
     "week_start": 1782025236,
     "total_seconds": 0
+  },
+  "prussiandivision": {
+    "week_seconds": 102,
+    "week_start": 1782025385,
+    "total_seconds": 102
   }
 }
