@@ -1675,9 +1675,9 @@
     "total_seconds": 99906
   },
   "jaydon_": {
-    "week_seconds": 157134,
+    "week_seconds": 162465,
     "week_start": 1781510086,
-    "total_seconds": 157134
+    "total_seconds": 162465
   },
   "pina0210": {
     "week_seconds": 4,
@@ -2790,9 +2790,9 @@
     "total_seconds": 39643
   },
   "sirboss001": {
-    "week_seconds": 65639,
+    "week_seconds": 67010,
     "week_start": 1781545653,
-    "total_seconds": 65639
+    "total_seconds": 67010
   },
   "vortexx_xq": {
     "week_seconds": 12,
@@ -4390,9 +4390,9 @@
     "total_seconds": 3356
   },
   "thebiodino": {
-    "week_seconds": 17149,
+    "week_seconds": 17153,
     "week_start": 1781636020,
-    "total_seconds": 17149
+    "total_seconds": 17153
   },
   "plrog": {
     "week_seconds": 8941,
@@ -8577,6 +8577,11 @@
   "nick2011": {
     "week_seconds": 0,
     "week_start": 1782079836,
+    "total_seconds": 0
+  },
+  "ni3a": {
+    "week_seconds": 0,
+    "week_start": 1782080238,
     "total_seconds": 0
   }
 }
