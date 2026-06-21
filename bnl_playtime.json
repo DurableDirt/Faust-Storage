@@ -2810,9 +2810,9 @@
     "total_seconds": 40562
   },
   "nemesiscy": {
-    "week_seconds": 21754,
+    "week_seconds": 23627,
     "week_start": 1781546410,
-    "total_seconds": 21754
+    "total_seconds": 23627
   },
   "quazaa32": {
     "week_seconds": 287,
@@ -8337,6 +8337,16 @@
   "mareqsmieszq": {
     "week_seconds": 0,
     "week_start": 1782056590,
+    "total_seconds": 0
+  },
+  "jwmgregory": {
+    "week_seconds": 0,
+    "week_start": 1782056819,
+    "total_seconds": 0
+  },
+  "flutschrobbe": {
+    "week_seconds": 0,
+    "week_start": 1782056824,
     "total_seconds": 0
   }
 }
