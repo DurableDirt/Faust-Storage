@@ -590,9 +590,9 @@
     "total_seconds": 3472
   },
   "cocobean1122": {
-    "week_seconds": 19794,
+    "week_seconds": 20097,
     "week_start": 1781480895,
-    "total_seconds": 19794
+    "total_seconds": 20097
   },
   "webchat427": {
     "week_seconds": 88631,
@@ -3945,9 +3945,9 @@
     "total_seconds": 136
   },
   "chaudmoi": {
-    "week_seconds": 30678,
+    "week_seconds": 32457,
     "week_start": 1781609279,
-    "total_seconds": 30678
+    "total_seconds": 32457
   },
   "fealsom_": {
     "week_seconds": 22280,
@@ -8108,5 +8108,10 @@
     "week_seconds": 538,
     "week_start": 1782014772,
     "total_seconds": 538
+  },
+  "legoninja11": {
+    "week_seconds": 0,
+    "week_start": 1782015437,
+    "total_seconds": 0
   }
 }
