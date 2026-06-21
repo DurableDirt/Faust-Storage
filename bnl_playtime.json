@@ -385,9 +385,9 @@
     "total_seconds": 21360
   },
   "opriva": {
-    "week_seconds": 94026,
+    "week_seconds": 94472,
     "week_start": 1781477978,
-    "total_seconds": 94026
+    "total_seconds": 94472
   },
   "kokomiology": {
     "week_seconds": 72407,
@@ -575,9 +575,9 @@
     "total_seconds": 84049
   },
   "balderbert": {
-    "week_seconds": 39235,
+    "week_seconds": 39655,
     "week_start": 1781480690,
-    "total_seconds": 39235
+    "total_seconds": 39655
   },
   "ethn__": {
     "week_seconds": 127034,
@@ -8017,6 +8017,16 @@
   "thetingler67": {
     "week_seconds": 0,
     "week_start": 1782004527,
+    "total_seconds": 0
+  },
+  "strider4111": {
+    "week_seconds": 0,
+    "week_start": 1782004537,
+    "total_seconds": 0
+  },
+  "yaksies": {
+    "week_seconds": 0,
+    "week_start": 1782004572,
     "total_seconds": 0
   }
 }
