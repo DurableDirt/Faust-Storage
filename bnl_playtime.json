@@ -1485,9 +1485,9 @@
     "total_seconds": 2500
   },
   "jpmiii": {
-    "week_seconds": 36773,
+    "week_seconds": 37738,
     "week_start": 1781499050,
-    "total_seconds": 36773
+    "total_seconds": 37738
   },
   "benpuma25": {
     "week_seconds": 24549,
@@ -1750,9 +1750,9 @@
     "total_seconds": 193613
   },
   "stavros_ell": {
-    "week_seconds": 17043,
+    "week_seconds": 17115,
     "week_start": 1781513707,
-    "total_seconds": 17043
+    "total_seconds": 17115
   },
   "facocero09": {
     "week_seconds": 144738,
@@ -8313,5 +8313,10 @@
     "week_seconds": 79,
     "week_start": 1782052663,
     "total_seconds": 79
+  },
+  "notbond": {
+    "week_seconds": 0,
+    "week_start": 1782053772,
+    "total_seconds": 0
   }
 }
