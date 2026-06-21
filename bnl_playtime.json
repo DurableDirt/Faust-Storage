@@ -3945,9 +3945,9 @@
     "total_seconds": 136
   },
   "chaudmoi": {
-    "week_seconds": 52938,
+    "week_seconds": 53188,
     "week_start": 1781609279,
-    "total_seconds": 52938
+    "total_seconds": 53188
   },
   "fealsom_": {
     "week_seconds": 22280,
@@ -8243,5 +8243,10 @@
     "week_seconds": 0,
     "week_start": 1782040861,
     "total_seconds": 0
+  },
+  "destroyerplayz99": {
+    "week_seconds": 13,
+    "week_start": 1782041409,
+    "total_seconds": 13
   }
 }
