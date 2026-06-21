@@ -2070,9 +2070,9 @@
     "total_seconds": 7186
   },
   "leonardus07": {
-    "week_seconds": 89060,
+    "week_seconds": 89406,
     "week_start": 1781524847,
-    "total_seconds": 89060
+    "total_seconds": 89406
   },
   "thomasdetrein0_0": {
     "week_seconds": 60589,
@@ -2415,9 +2415,9 @@
     "total_seconds": 17618
   },
   "sml128": {
-    "week_seconds": 73886,
+    "week_seconds": 73917,
     "week_start": 1781534411,
-    "total_seconds": 73886
+    "total_seconds": 73917
   },
   "malipan": {
     "week_seconds": 21888,
@@ -8353,5 +8353,15 @@
     "week_seconds": 620,
     "week_start": 1782056844,
     "total_seconds": 620
+  },
+  "civwars": {
+    "week_seconds": 0,
+    "week_start": 1782059550,
+    "total_seconds": 0
+  },
+  "snowmarc": {
+    "week_seconds": 0,
+    "week_start": 1782059621,
+    "total_seconds": 0
   }
 }
