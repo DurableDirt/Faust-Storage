@@ -1585,9 +1585,9 @@
     "total_seconds": 53610
   },
   "vlinar": {
-    "week_seconds": 51409,
+    "week_seconds": 53148,
     "week_start": 1781505389,
-    "total_seconds": 51409
+    "total_seconds": 53148
   },
   "nevicilia": {
     "week_seconds": 7534,
@@ -8045,8 +8045,8 @@
     "total_seconds": 684
   },
   "mrextrat1": {
-    "week_seconds": 171,
+    "week_seconds": 246,
     "week_start": 1782007700,
-    "total_seconds": 171
+    "total_seconds": 246
   }
 }
