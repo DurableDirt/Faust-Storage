@@ -1175,9 +1175,9 @@
     "total_seconds": 68602
   },
   "astralchroma": {
-    "week_seconds": 160401,
+    "week_seconds": 161626,
     "week_start": 1781489556,
-    "total_seconds": 160401
+    "total_seconds": 161626
   },
   "kingstell": {
     "week_seconds": 503,
@@ -2385,9 +2385,9 @@
     "total_seconds": 734
   },
   "theonenamedbeezz": {
-    "week_seconds": 62679,
+    "week_seconds": 63144,
     "week_start": 1781533214,
-    "total_seconds": 62679
+    "total_seconds": 63144
   },
   "benjamin12chief": {
     "week_seconds": 14,
@@ -8323,5 +8323,10 @@
     "week_seconds": 187,
     "week_start": 1782054669,
     "total_seconds": 187
+  },
+  "achickenguy": {
+    "week_seconds": 0,
+    "week_start": 1782055106,
+    "total_seconds": 0
   }
 }
