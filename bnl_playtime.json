@@ -2290,9 +2290,9 @@
     "total_seconds": 57004
   },
   "smagz24": {
-    "week_seconds": 56446,
+    "week_seconds": 56519,
     "week_start": 1781530300,
-    "total_seconds": 56446
+    "total_seconds": 56519
   },
   "stun2845": {
     "week_seconds": 14543,
@@ -3830,9 +3830,9 @@
     "total_seconds": 56729
   },
   "eledion": {
-    "week_seconds": 124228,
+    "week_seconds": 132593,
     "week_start": 1781595185,
-    "total_seconds": 124228
+    "total_seconds": 132593
   },
   "kashev": {
     "week_seconds": 38049,
@@ -8427,6 +8427,11 @@
   "mrbelik1": {
     "week_seconds": 0,
     "week_start": 1782067369,
+    "total_seconds": 0
+  },
+  "spiegelbiest": {
+    "week_seconds": 0,
+    "week_start": 1782067425,
     "total_seconds": 0
   }
 }
