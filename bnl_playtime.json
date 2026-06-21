@@ -2970,9 +2970,9 @@
     "total_seconds": 2391
   },
   "_aperson1": {
-    "week_seconds": 29390,
+    "week_seconds": 29579,
     "week_start": 1781551032,
-    "total_seconds": 29390
+    "total_seconds": 29579
   },
   "joshaya787": {
     "week_seconds": 72704,
@@ -5810,9 +5810,9 @@
     "total_seconds": 3276
   },
   "thinker33": {
-    "week_seconds": 13129,
+    "week_seconds": 13159,
     "week_start": 1781753362,
-    "total_seconds": 13129
+    "total_seconds": 13159
   },
   "wolfganglessth3n": {
     "week_seconds": 1482,
@@ -8258,5 +8258,10 @@
     "week_seconds": 2,
     "week_start": 1782042588,
     "total_seconds": 2
+  },
+  "springimmortal": {
+    "week_seconds": 0,
+    "week_start": 1782045287,
+    "total_seconds": 0
   }
 }
