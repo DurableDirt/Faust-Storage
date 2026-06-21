@@ -1045,9 +1045,9 @@
     "total_seconds": 91
   },
   "endville360": {
-    "week_seconds": 118768,
+    "week_seconds": 136115,
     "week_start": 1781486895,
-    "total_seconds": 118768
+    "total_seconds": 136115
   },
   "rodragonlux": {
     "week_seconds": 10550,
@@ -7485,9 +7485,9 @@
     "total_seconds": 41
   },
   "freezestep": {
-    "week_seconds": 15955,
+    "week_seconds": 16014,
     "week_start": 1781941674,
-    "total_seconds": 15955
+    "total_seconds": 16014
   },
   "srank_latina": {
     "week_seconds": 479,
@@ -8433,5 +8433,10 @@
     "week_seconds": 337,
     "week_start": 1782067425,
     "total_seconds": 337
+  },
+  "marshallark16": {
+    "week_seconds": 0,
+    "week_start": 1782068046,
+    "total_seconds": 0
   }
 }
