@@ -3530,9 +3530,9 @@
     "total_seconds": 71
   },
   "_banana_blu_": {
-    "week_seconds": 169115,
+    "week_seconds": 169255,
     "week_start": 1781570022,
-    "total_seconds": 169115
+    "total_seconds": 169255
   },
   "theboatsmith": {
     "week_seconds": 16688,
@@ -6775,9 +6775,9 @@
     "total_seconds": 4858
   },
   "sakanaotoko": {
-    "week_seconds": 10650,
+    "week_seconds": 13775,
     "week_start": 1781856397,
-    "total_seconds": 10650
+    "total_seconds": 13775
   },
   "monk_icarus": {
     "week_seconds": 22418,
@@ -8027,6 +8027,11 @@
   "yaksies": {
     "week_seconds": 0,
     "week_start": 1782004572,
+    "total_seconds": 0
+  },
+  "xspee": {
+    "week_seconds": 0,
+    "week_start": 1782004906,
     "total_seconds": 0
   }
 }
