@@ -25,9 +25,9 @@
     "total_seconds": 26
   },
   "holdenvcaulfield": {
-    "week_seconds": 0,
+    "week_seconds": 676,
     "week_start": 1782080360,
-    "total_seconds": 126945
+    "total_seconds": 127621
   },
   "harved": {
     "week_seconds": 0,
@@ -615,9 +615,9 @@
     "total_seconds": 8502
   },
   "yodabird19": {
-    "week_seconds": 260868,
+    "week_seconds": 261777,
     "week_start": 1781481165,
-    "total_seconds": 260868
+    "total_seconds": 261777
   },
   "justmicwa": {
     "week_seconds": 75551,
@@ -8598,5 +8598,10 @@
     "week_seconds": 30,
     "week_start": 1782083762,
     "total_seconds": 30
+  },
+  "luksasrb97": {
+    "week_seconds": 0,
+    "week_start": 1782084163,
+    "total_seconds": 0
   }
 }
