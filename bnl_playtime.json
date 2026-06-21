@@ -2480,9 +2480,9 @@
     "total_seconds": 13562
   },
   "a_penguin_pal": {
-    "week_seconds": 39686,
+    "week_seconds": 45790,
     "week_start": 1781535840,
-    "total_seconds": 39686
+    "total_seconds": 45790
   },
   "emperorashina": {
     "week_seconds": 73858,
@@ -4640,9 +4640,9 @@
     "total_seconds": 633
   },
   "isahelle": {
-    "week_seconds": 12657,
+    "week_seconds": 14276,
     "week_start": 1781653709,
-    "total_seconds": 12657
+    "total_seconds": 14276
   },
   "itsalreadygold": {
     "week_seconds": 3664,
@@ -8302,6 +8302,11 @@
   "z_monke": {
     "week_seconds": 0,
     "week_start": 1782051919,
+    "total_seconds": 0
+  },
+  "obsiloon": {
+    "week_seconds": 0,
+    "week_start": 1782052487,
     "total_seconds": 0
   }
 }
