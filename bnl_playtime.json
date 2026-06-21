@@ -6595,9 +6595,9 @@
     "total_seconds": 9696
   },
   "blkwaterr": {
-    "week_seconds": 28352,
+    "week_seconds": 30878,
     "week_start": 1781829672,
-    "total_seconds": 28352
+    "total_seconds": 30878
   },
   "nimph356": {
     "week_seconds": 8652,
@@ -8150,8 +8150,8 @@
     "total_seconds": 1067
   },
   "coolmike17": {
-    "week_seconds": 0,
+    "week_seconds": 339,
     "week_start": 1782022545,
-    "total_seconds": 0
+    "total_seconds": 339
   }
 }
