@@ -610,9 +610,9 @@
     "total_seconds": 459
   },
   "_blare": {
-    "week_seconds": 4669,
+    "week_seconds": 5573,
     "week_start": 1781481160,
-    "total_seconds": 4669
+    "total_seconds": 5573
   },
   "yodabird19": {
     "week_seconds": 233105,
@@ -8060,8 +8060,8 @@
     "total_seconds": 25
   },
   "ilatteralus": {
-    "week_seconds": 0,
+    "week_seconds": 205,
     "week_start": 1782009821,
-    "total_seconds": 0
+    "total_seconds": 205
   }
 }
