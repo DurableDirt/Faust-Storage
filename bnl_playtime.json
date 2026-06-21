@@ -25,9 +25,9 @@
     "total_seconds": 26
   },
   "holdenvcaulfield": {
-    "week_seconds": 101972,
+    "week_seconds": 102721,
     "week_start": 1781474534,
-    "total_seconds": 101972
+    "total_seconds": 102721
   },
   "harved": {
     "week_seconds": 28658,
@@ -2145,9 +2145,9 @@
     "total_seconds": 202136
   },
   "daimnasal": {
-    "week_seconds": 61702,
+    "week_seconds": 62265,
     "week_start": 1781527309,
-    "total_seconds": 61702
+    "total_seconds": 62265
   },
   "azurisdev": {
     "week_seconds": 133,
@@ -4400,9 +4400,9 @@
     "total_seconds": 8941
   },
   "threeboar": {
-    "week_seconds": 32914,
+    "week_seconds": 34211,
     "week_start": 1781636400,
-    "total_seconds": 32914
+    "total_seconds": 34211
   },
   "korb3bbad": {
     "week_seconds": 474,
@@ -8308,5 +8308,10 @@
     "week_seconds": 28,
     "week_start": 1782052487,
     "total_seconds": 28
+  },
+  "varrxx": {
+    "week_seconds": 79,
+    "week_start": 1782052663,
+    "total_seconds": 79
   }
 }
