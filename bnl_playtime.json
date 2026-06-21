@@ -7993,5 +7993,10 @@
     "week_seconds": 0,
     "week_start": 1782001807,
     "total_seconds": 0
+  },
+  "southnsniper": {
+    "week_seconds": 71,
+    "week_start": 1782002393,
+    "total_seconds": 71
   }
 }
