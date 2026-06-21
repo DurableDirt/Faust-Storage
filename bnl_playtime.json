@@ -1035,9 +1035,9 @@
     "total_seconds": 6
   },
   "aserdabeast": {
-    "week_seconds": 36395,
+    "week_seconds": 36984,
     "week_start": 1781486788,
-    "total_seconds": 36395
+    "total_seconds": 36984
   },
   "pharomachrus2": {
     "week_seconds": 91,
@@ -8095,13 +8095,18 @@
     "total_seconds": 0
   },
   "squabbled": {
-    "week_seconds": 0,
+    "week_seconds": 240,
     "week_start": 1782014592,
-    "total_seconds": 0
+    "total_seconds": 240
   },
   "mika0001": {
     "week_seconds": 0,
     "week_start": 1782014740,
+    "total_seconds": 0
+  },
+  "whi5keyinthejar": {
+    "week_seconds": 0,
+    "week_start": 1782014772,
     "total_seconds": 0
   }
 }
