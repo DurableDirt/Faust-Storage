@@ -4845,9 +4845,9 @@
     "total_seconds": 192
   },
   "jerninja": {
-    "week_seconds": 21103,
+    "week_seconds": 32821,
     "week_start": 1781667856,
-    "total_seconds": 21103
+    "total_seconds": 32821
   },
   "jaybirdino": {
     "week_seconds": 513,
@@ -8032,6 +8032,11 @@
   "xspee": {
     "week_seconds": 0,
     "week_start": 1782004906,
+    "total_seconds": 0
+  },
+  "jhop11": {
+    "week_seconds": 0,
+    "week_start": 1782005227,
     "total_seconds": 0
   }
 }
