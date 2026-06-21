@@ -45,9 +45,9 @@
     "total_seconds": 107303
   },
   "lucifer420xx": {
-    "week_seconds": 0,
+    "week_seconds": 1590,
     "week_start": 1782080360,
-    "total_seconds": 68859
+    "total_seconds": 70449
   },
   "meenos": {
     "week_seconds": 0,
@@ -4810,9 +4810,9 @@
     "total_seconds": 17623
   },
   "mayblu": {
-    "week_seconds": 43369,
+    "week_seconds": 44798,
     "week_start": 1781664230,
-    "total_seconds": 43369
+    "total_seconds": 44798
   },
   "arowshot": {
     "week_seconds": 22982,
@@ -5980,9 +5980,9 @@
     "total_seconds": 78
   },
   "avianaeternum": {
-    "week_seconds": 18589,
+    "week_seconds": 21044,
     "week_start": 1781782663,
-    "total_seconds": 18589
+    "total_seconds": 21044
   },
   "what777": {
     "week_seconds": 202418,
@@ -8592,6 +8592,11 @@
   "yungsgt": {
     "week_seconds": 0,
     "week_start": 1782083472,
+    "total_seconds": 0
+  },
+  "bigboysam1245": {
+    "week_seconds": 0,
+    "week_start": 1782083762,
     "total_seconds": 0
   }
 }
