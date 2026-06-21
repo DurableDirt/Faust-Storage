@@ -445,9 +445,9 @@
     "total_seconds": 62885
   },
   "iron600": {
-    "week_seconds": 175062,
+    "week_seconds": 186472,
     "week_start": 1781478931,
-    "total_seconds": 175062
+    "total_seconds": 186472
   },
   "mrtnt1925": {
     "week_seconds": 149180,
@@ -2050,9 +2050,9 @@
     "total_seconds": 40319
   },
   "busy_donut": {
-    "week_seconds": 22577,
+    "week_seconds": 24876,
     "week_start": 1781524263,
-    "total_seconds": 22577
+    "total_seconds": 24876
   },
   "spearitz": {
     "week_seconds": 5,
@@ -4310,9 +4310,9 @@
     "total_seconds": 54931
   },
   "toastisnear": {
-    "week_seconds": 55834,
+    "week_seconds": 56935,
     "week_start": 1781633539,
-    "total_seconds": 55834
+    "total_seconds": 56935
   },
   "shadowsniper5": {
     "week_seconds": 58,
@@ -8350,8 +8350,8 @@
     "total_seconds": 0
   },
   "rnb_rak": {
-    "week_seconds": 0,
+    "week_seconds": 620,
     "week_start": 1782056844,
-    "total_seconds": 0
+    "total_seconds": 620
   }
 }
