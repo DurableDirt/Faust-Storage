@@ -815,9 +815,9 @@
     "total_seconds": 95967
   },
   "gnathope": {
-    "week_seconds": 86502,
+    "week_seconds": 87873,
     "week_start": 1781483765,
-    "total_seconds": 86502
+    "total_seconds": 87873
   },
   "freeblade999": {
     "week_seconds": 63041,
@@ -6060,9 +6060,9 @@
     "total_seconds": 45983
   },
   "captainspacerat": {
-    "week_seconds": 7437,
+    "week_seconds": 8575,
     "week_start": 1781794144,
-    "total_seconds": 7437
+    "total_seconds": 8575
   },
   "sweetnoodle_": {
     "week_seconds": 32400,
@@ -7425,9 +7425,9 @@
     "total_seconds": 635
   },
   "jerome__092": {
-    "week_seconds": 2005,
+    "week_seconds": 4824,
     "week_start": 1781933366,
-    "total_seconds": 2005
+    "total_seconds": 4824
   },
   "holyromanraptor": {
     "week_seconds": 91,
@@ -8293,5 +8293,10 @@
     "week_seconds": 0,
     "week_start": 1782051075,
     "total_seconds": 0
+  },
+  "_omar__": {
+    "week_seconds": 47,
+    "week_start": 1782051299,
+    "total_seconds": 47
   }
 }
