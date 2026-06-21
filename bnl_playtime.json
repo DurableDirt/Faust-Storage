@@ -4475,9 +4475,9 @@
     "total_seconds": 2693
   },
   "raeders": {
-    "week_seconds": 63575,
+    "week_seconds": 63599,
     "week_start": 1781639974,
-    "total_seconds": 63575
+    "total_seconds": 63599
   },
   "alphatrom3041": {
     "week_seconds": 79,
@@ -5985,9 +5985,9 @@
     "total_seconds": 18589
   },
   "what777": {
-    "week_seconds": 182968,
+    "week_seconds": 182982,
     "week_start": 1781783211,
-    "total_seconds": 182968
+    "total_seconds": 182982
   },
   "arealfriedwing": {
     "week_seconds": 218,
@@ -8298,5 +8298,10 @@
     "week_seconds": 47,
     "week_start": 1782051299,
     "total_seconds": 47
+  },
+  "z_monke": {
+    "week_seconds": 0,
+    "week_start": 1782051919,
+    "total_seconds": 0
   }
 }
