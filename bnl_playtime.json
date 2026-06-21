@@ -3690,9 +3690,9 @@
     "total_seconds": 896
   },
   "nalimtuh": {
-    "week_seconds": 26753,
+    "week_seconds": 29381,
     "week_start": 1781578419,
-    "total_seconds": 26753
+    "total_seconds": 29381
   },
   "seamonkey1981": {
     "week_seconds": 160,
@@ -4680,9 +4680,9 @@
     "total_seconds": 22
   },
   "glog_frogmen": {
-    "week_seconds": 60378,
+    "week_seconds": 60537,
     "week_start": 1781656168,
-    "total_seconds": 60378
+    "total_seconds": 60537
   },
   "clearhercules": {
     "week_seconds": 61714,
@@ -8618,5 +8618,10 @@
     "week_seconds": 85,
     "week_start": 1782085372,
     "total_seconds": 85
+  },
+  "matihua": {
+    "week_seconds": 0,
+    "week_start": 1782085616,
+    "total_seconds": 0
   }
 }
