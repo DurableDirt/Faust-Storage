@@ -245,9 +245,9 @@
     "total_seconds": 30759
   },
   "aluminum_foil_": {
-    "week_seconds": 146071,
+    "week_seconds": 149167,
     "week_start": 1781476568,
-    "total_seconds": 146071
+    "total_seconds": 149167
   },
   "mpusa": {
     "week_seconds": 46416,
@@ -455,9 +455,9 @@
     "total_seconds": 144590
   },
   "axsld": {
-    "week_seconds": 61247,
+    "week_seconds": 71376,
     "week_start": 1781479011,
-    "total_seconds": 61247
+    "total_seconds": 71376
   },
   "thespecialplum": {
     "week_seconds": 70675,
@@ -1735,9 +1735,9 @@
     "total_seconds": 101823
   },
   "mayaafox": {
-    "week_seconds": 105802,
+    "week_seconds": 108881,
     "week_start": 1781513537,
-    "total_seconds": 105802
+    "total_seconds": 108881
   },
   "colorkoded": {
     "week_seconds": 41,
@@ -3760,9 +3760,9 @@
     "total_seconds": 48688
   },
   "arbidos": {
-    "week_seconds": 24703,
+    "week_seconds": 25116,
     "week_start": 1781584037,
-    "total_seconds": 24703
+    "total_seconds": 25116
   },
   "fallen_screw": {
     "week_seconds": 102742,
@@ -8153,5 +8153,10 @@
     "week_seconds": 339,
     "week_start": 1782022545,
     "total_seconds": 339
+  },
+  "sixteenthnotes": {
+    "week_seconds": 0,
+    "week_start": 1782023550,
+    "total_seconds": 0
   }
 }
