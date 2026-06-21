@@ -1345,9 +1345,9 @@
     "total_seconds": 117335
   },
   "choripancaliente": {
-    "week_seconds": 99046,
+    "week_seconds": 108659,
     "week_start": 1781493956,
-    "total_seconds": 99046
+    "total_seconds": 108659
   },
   "magicmars345": {
     "week_seconds": 102805,
@@ -8362,6 +8362,11 @@
   "snowmarc": {
     "week_seconds": 0,
     "week_start": 1782059621,
+    "total_seconds": 0
+  },
+  "guythuh": {
+    "week_seconds": 0,
+    "week_start": 1782060111,
     "total_seconds": 0
   }
 }
