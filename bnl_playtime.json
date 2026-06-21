@@ -2040,9 +2040,9 @@
     "total_seconds": 9622
   },
   "el_shap0": {
-    "week_seconds": 145545,
+    "week_seconds": 167177,
     "week_start": 1781523974,
-    "total_seconds": 145545
+    "total_seconds": 167177
   },
   "nareik01": {
     "week_seconds": 40319,
@@ -5000,9 +5000,9 @@
     "total_seconds": 2706
   },
   "dwarfrogue654": {
-    "week_seconds": 29956,
+    "week_seconds": 33314,
     "week_start": 1781686516,
-    "total_seconds": 29956
+    "total_seconds": 33314
   },
   "josse_124": {
     "week_seconds": 15585,
@@ -8607,6 +8607,11 @@
   "jaimiemie": {
     "week_seconds": 0,
     "week_start": 1782084744,
+    "total_seconds": 0
+  },
+  "mallace": {
+    "week_seconds": 0,
+    "week_start": 1782085111,
     "total_seconds": 0
   }
 }
