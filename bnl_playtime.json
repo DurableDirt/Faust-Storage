@@ -1865,9 +1865,9 @@
     "total_seconds": 198
   },
   "orinnari": {
-    "week_seconds": 341554,
+    "week_seconds": 341962,
     "week_start": 1781518565,
-    "total_seconds": 341554
+    "total_seconds": 341962
   },
   "dudees": {
     "week_seconds": 122266,
@@ -8437,6 +8437,11 @@
   "marshallark16": {
     "week_seconds": 0,
     "week_start": 1782068046,
+    "total_seconds": 0
+  },
+  "speedyfire1000": {
+    "week_seconds": 0,
+    "week_start": 1782068164,
     "total_seconds": 0
   }
 }
