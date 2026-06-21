@@ -2970,9 +2970,9 @@
     "total_seconds": 2391
   },
   "_aperson1": {
-    "week_seconds": 28572,
+    "week_seconds": 28581,
     "week_start": 1781551032,
-    "total_seconds": 28572
+    "total_seconds": 28581
   },
   "joshaya787": {
     "week_seconds": 72704,
@@ -8212,6 +8212,11 @@
   "azuziiiii": {
     "week_seconds": 0,
     "week_start": 1782037470,
+    "total_seconds": 0
+  },
+  "redbeardthetired": {
+    "week_seconds": 0,
+    "week_start": 1782037674,
     "total_seconds": 0
   }
 }
