@@ -2145,9 +2145,9 @@
     "total_seconds": 171414
   },
   "daimnasal": {
-    "week_seconds": 55691,
+    "week_seconds": 55748,
     "week_start": 1781527309,
-    "total_seconds": 55691
+    "total_seconds": 55748
   },
   "azurisdev": {
     "week_seconds": 133,
@@ -8128,5 +8128,10 @@
     "week_seconds": 13,
     "week_start": 1782018107,
     "total_seconds": 13
+  },
+  "s0uthw3st": {
+    "week_seconds": 0,
+    "week_start": 1782018278,
+    "total_seconds": 0
   }
 }
