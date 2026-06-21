@@ -1255,9 +1255,9 @@
     "total_seconds": 216
   },
   "blu9710": {
-    "week_seconds": 71162,
+    "week_seconds": 71853,
     "week_start": 1781491456,
-    "total_seconds": 71162
+    "total_seconds": 71853
   },
   "krabs123": {
     "week_seconds": 126,
@@ -8528,5 +8528,10 @@
     "week_seconds": 0,
     "week_start": 1782075705,
     "total_seconds": 0
+  },
+  "agentsquid2012": {
+    "week_seconds": 33,
+    "week_start": 1782075779,
+    "total_seconds": 33
   }
 }
