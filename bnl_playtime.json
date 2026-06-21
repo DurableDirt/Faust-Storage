@@ -3240,9 +3240,9 @@
     "total_seconds": 68042
   },
   "whenurcrazy": {
-    "week_seconds": 4051,
+    "week_seconds": 5222,
     "week_start": 1781560006,
-    "total_seconds": 4051
+    "total_seconds": 5222
   },
   "__blackhawk": {
     "week_seconds": 11169,
@@ -8042,6 +8042,11 @@
   "toasterbaths_": {
     "week_seconds": 0,
     "week_start": 1782007203,
+    "total_seconds": 0
+  },
+  "mrextrat1": {
+    "week_seconds": 0,
+    "week_start": 1782007700,
     "total_seconds": 0
   }
 }
