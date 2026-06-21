@@ -4680,9 +4680,9 @@
     "total_seconds": 22
   },
   "glog_frogmen": {
-    "week_seconds": 59462,
+    "week_seconds": 59991,
     "week_start": 1781656168,
-    "total_seconds": 59462
+    "total_seconds": 59991
   },
   "clearhercules": {
     "week_seconds": 53607,
@@ -7395,9 +7395,9 @@
     "total_seconds": 517
   },
   "popiahrei": {
-    "week_seconds": 6400,
+    "week_seconds": 10089,
     "week_start": 1781928456,
-    "total_seconds": 6400
+    "total_seconds": 10089
   },
   "_medb_": {
     "week_seconds": 529,
@@ -8603,5 +8603,10 @@
     "week_seconds": 160,
     "week_start": 1782084163,
     "total_seconds": 160
+  },
+  "jaimiemie": {
+    "week_seconds": 0,
+    "week_start": 1782084744,
+    "total_seconds": 0
   }
 }
