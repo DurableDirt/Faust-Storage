@@ -2415,9 +2415,9 @@
     "total_seconds": 17618
   },
   "sml128": {
-    "week_seconds": 83342,
+    "week_seconds": 83852,
     "week_start": 1781534411,
-    "total_seconds": 83342
+    "total_seconds": 83852
   },
   "malipan": {
     "week_seconds": 25042,
@@ -8620,8 +8620,8 @@
     "total_seconds": 85
   },
   "matihua": {
-    "week_seconds": 0,
+    "week_seconds": 214,
     "week_start": 1782085616,
-    "total_seconds": 0
+    "total_seconds": 214
   }
 }
