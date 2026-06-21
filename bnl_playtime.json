@@ -1335,9 +1335,9 @@
     "total_seconds": 379
   },
   "cactusbecool": {
-    "week_seconds": 46003,
+    "week_seconds": 47800,
     "week_start": 1781492928,
-    "total_seconds": 46003
+    "total_seconds": 47800
   },
   "misprint293": {
     "week_seconds": 117335,
@@ -1515,9 +1515,9 @@
     "total_seconds": 16006
   },
   "fang_op": {
-    "week_seconds": 86729,
+    "week_seconds": 91114,
     "week_start": 1781501594,
-    "total_seconds": 86729
+    "total_seconds": 91114
   },
   "_jaek": {
     "week_seconds": 132805,
@@ -8333,5 +8333,10 @@
     "week_seconds": 500,
     "week_start": 1782055358,
     "total_seconds": 500
+  },
+  "mareqsmieszq": {
+    "week_seconds": 0,
+    "week_start": 1782056590,
+    "total_seconds": 0
   }
 }
