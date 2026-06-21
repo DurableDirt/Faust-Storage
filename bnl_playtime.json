@@ -525,9 +525,9 @@
     "total_seconds": 7709
   },
   "shadno": {
-    "week_seconds": 240256,
+    "week_seconds": 253965,
     "week_start": 1781479968,
-    "total_seconds": 240256
+    "total_seconds": 253965
   },
   "hexayn": {
     "week_seconds": 974,
@@ -810,9 +810,9 @@
     "total_seconds": 107211
   },
   "timantha": {
-    "week_seconds": 106760,
+    "week_seconds": 108064,
     "week_start": 1781483687,
-    "total_seconds": 106760
+    "total_seconds": 108064
   },
   "gnathope": {
     "week_seconds": 92004,
@@ -3765,9 +3765,9 @@
     "total_seconds": 34098
   },
   "fallen_screw": {
-    "week_seconds": 108936,
+    "week_seconds": 111330,
     "week_start": 1781585595,
-    "total_seconds": 108936
+    "total_seconds": 111330
   },
   "porterpore9": {
     "week_seconds": 3463,
@@ -8210,9 +8210,9 @@
     "total_seconds": 358
   },
   "azuziiiii": {
-    "week_seconds": 21312,
+    "week_seconds": 32386,
     "week_start": 1782037470,
-    "total_seconds": 21312
+    "total_seconds": 32386
   },
   "redbeardthetired": {
     "week_seconds": 1087,
@@ -8457,6 +8457,11 @@
   "aceofcopper": {
     "week_seconds": 0,
     "week_start": 1782069402,
+    "total_seconds": 0
+  },
+  "cobblemc_yt": {
+    "week_seconds": 0,
+    "week_start": 1782070181,
     "total_seconds": 0
   }
 }
