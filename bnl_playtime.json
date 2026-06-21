@@ -2255,9 +2255,9 @@
     "total_seconds": 36756
   },
   "sajtos_puffancs": {
-    "week_seconds": 35269,
+    "week_seconds": 38461,
     "week_start": 1781529400,
-    "total_seconds": 35269
+    "total_seconds": 38461
   },
   "nekroz09": {
     "week_seconds": 23746,
@@ -8230,9 +8230,9 @@
     "total_seconds": 1282
   },
   "dve_olivki": {
-    "week_seconds": 0,
+    "week_seconds": 1010,
     "week_start": 1782039754,
-    "total_seconds": 0
+    "total_seconds": 1010
   },
   "pinkfloyd12": {
     "week_seconds": 218,
