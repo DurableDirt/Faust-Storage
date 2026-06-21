@@ -2590,9 +2590,9 @@
     "total_seconds": 10286
   },
   "dant481heman": {
-    "week_seconds": 100543,
+    "week_seconds": 101420,
     "week_start": 1781539434,
-    "total_seconds": 100543
+    "total_seconds": 101420
   },
   "aredstonegod378": {
     "week_seconds": 17154,
@@ -3945,9 +3945,9 @@
     "total_seconds": 136
   },
   "chaudmoi": {
-    "week_seconds": 58421,
+    "week_seconds": 59498,
     "week_start": 1781609279,
-    "total_seconds": 58421
+    "total_seconds": 59498
   },
   "fealsom_": {
     "week_seconds": 22280,
@@ -8398,5 +8398,10 @@
     "week_seconds": 151,
     "week_start": 1782062565,
     "total_seconds": 151
+  },
+  "timeworncomrade": {
+    "week_seconds": 0,
+    "week_start": 1782063194,
+    "total_seconds": 0
   }
 }
