@@ -2495,9 +2495,9 @@
     "total_seconds": 202778
   },
   "blazelogic": {
-    "week_seconds": 28935,
+    "week_seconds": 29937,
     "week_start": 1781535865,
-    "total_seconds": 28935
+    "total_seconds": 29937
   },
   "mariora": {
     "week_seconds": 867,
@@ -8133,5 +8133,15 @@
     "week_seconds": 1532,
     "week_start": 1782018278,
     "total_seconds": 1532
+  },
+  "logodaedaly": {
+    "week_seconds": 0,
+    "week_start": 1782020926,
+    "total_seconds": 0
+  },
+  "r0u7er": {
+    "week_seconds": 0,
+    "week_start": 1782020931,
+    "total_seconds": 0
   }
 }
