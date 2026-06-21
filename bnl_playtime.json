@@ -3250,9 +3250,9 @@
     "total_seconds": 11169
   },
   "vilyanz": {
-    "week_seconds": 964,
+    "week_seconds": 2096,
     "week_start": 1781560262,
-    "total_seconds": 964
+    "total_seconds": 2096
   },
   "mickale": {
     "week_seconds": 7397,
@@ -8387,6 +8387,11 @@
   "charmfulpeace": {
     "week_seconds": 0,
     "week_start": 1782061205,
+    "total_seconds": 0
+  },
+  "daboys273playz": {
+    "week_seconds": 0,
+    "week_start": 1782062076,
     "total_seconds": 0
   }
 }
