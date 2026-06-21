@@ -7935,9 +7935,9 @@
     "total_seconds": 1764
   },
   "sturdyshelf": {
-    "week_seconds": 262,
+    "week_seconds": 2875,
     "week_start": 1781994385,
-    "total_seconds": 262
+    "total_seconds": 2875
   },
   "darth0tter": {
     "week_seconds": 9853,
@@ -8228,5 +8228,10 @@
     "week_seconds": 5,
     "week_start": 1782038864,
     "total_seconds": 5
+  },
+  "dve_olivki": {
+    "week_seconds": 0,
+    "week_start": 1782039754,
+    "total_seconds": 0
   }
 }
