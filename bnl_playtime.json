@@ -2600,9 +2600,9 @@
     "total_seconds": 17154
   },
   "invertedmind": {
-    "week_seconds": 23143,
+    "week_seconds": 23182,
     "week_start": 1781539543,
-    "total_seconds": 23143
+    "total_seconds": 23182
   },
   "luannn25": {
     "week_seconds": 7563,
@@ -8503,5 +8503,10 @@
     "week_seconds": 5,
     "week_start": 1782073717,
     "total_seconds": 5
+  },
+  "digkingvg": {
+    "week_seconds": 0,
+    "week_start": 1782074995,
+    "total_seconds": 0
   }
 }
