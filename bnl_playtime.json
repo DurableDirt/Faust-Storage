@@ -2525,9 +2525,9 @@
     "total_seconds": 136
   },
   "szymon1999": {
-    "week_seconds": 2798,
+    "week_seconds": 2984,
     "week_start": 1781536427,
-    "total_seconds": 2798
+    "total_seconds": 2984
   },
   "lucfdez": {
     "week_seconds": 6866,
@@ -7973,5 +7973,10 @@
     "week_seconds": 223,
     "week_start": 1781999710,
     "total_seconds": 223
+  },
+  "bigred34555": {
+    "week_seconds": 0,
+    "week_start": 1782000422,
+    "total_seconds": 0
   }
 }
