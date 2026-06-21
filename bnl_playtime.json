@@ -50,9 +50,9 @@
     "total_seconds": 67054
   },
   "meenos": {
-    "week_seconds": 140894,
+    "week_seconds": 141698,
     "week_start": 1781474845,
-    "total_seconds": 140894
+    "total_seconds": 141698
   },
   "jadenjb": {
     "week_seconds": 37244,
@@ -8112,6 +8112,11 @@
   "legoninja11": {
     "week_seconds": 0,
     "week_start": 1782015437,
+    "total_seconds": 0
+  },
+  "dagitslayer": {
+    "week_seconds": 0,
+    "week_start": 1782015977,
     "total_seconds": 0
   }
 }
