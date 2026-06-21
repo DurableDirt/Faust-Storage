@@ -7010,9 +7010,9 @@
     "total_seconds": 73
   },
   "pfp_nexl": {
-    "week_seconds": 36899,
+    "week_seconds": 40274,
     "week_start": 1781884734,
-    "total_seconds": 36899
+    "total_seconds": 40274
   },
   "blizardxace": {
     "week_seconds": 278,
@@ -8573,5 +8573,10 @@
     "week_seconds": 736,
     "week_start": 1782078822,
     "total_seconds": 736
+  },
+  "nick2011": {
+    "week_seconds": 0,
+    "week_start": 1782079836,
+    "total_seconds": 0
   }
 }
