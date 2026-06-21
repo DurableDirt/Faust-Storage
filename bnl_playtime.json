@@ -3625,9 +3625,9 @@
     "total_seconds": 11243
   },
   "madrafe1": {
-    "week_seconds": 103977,
+    "week_seconds": 106782,
     "week_start": 1781575509,
-    "total_seconds": 103977
+    "total_seconds": 106782
   },
   "realmichael": {
     "week_seconds": 10878,
@@ -8193,5 +8193,10 @@
     "week_seconds": 9,
     "week_start": 1782030416,
     "total_seconds": 9
+  },
+  "lordskitlesr": {
+    "week_seconds": 0,
+    "week_start": 1782032710,
+    "total_seconds": 0
   }
 }
