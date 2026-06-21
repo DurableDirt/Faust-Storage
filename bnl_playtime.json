@@ -2790,9 +2790,9 @@
     "total_seconds": 37935
   },
   "sirboss001": {
-    "week_seconds": 63687,
+    "week_seconds": 65639,
     "week_start": 1781545653,
-    "total_seconds": 63687
+    "total_seconds": 65639
   },
   "vortexx_xq": {
     "week_seconds": 12,
@@ -7975,9 +7975,9 @@
     "total_seconds": 1264
   },
   "bigred34555": {
-    "week_seconds": 0,
+    "week_seconds": 2189,
     "week_start": 1782000422,
-    "total_seconds": 0
+    "total_seconds": 2189
   },
   "thatonenapp": {
     "week_seconds": 1343,
@@ -7998,5 +7998,10 @@
     "week_seconds": 71,
     "week_start": 1782002393,
     "total_seconds": 71
+  },
+  "evillarry2017": {
+    "week_seconds": 0,
+    "week_start": 1782002588,
+    "total_seconds": 0
   }
 }
