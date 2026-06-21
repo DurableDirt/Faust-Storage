@@ -1510,9 +1510,9 @@
     "total_seconds": 15705
   },
   "t0mcat1": {
-    "week_seconds": 4238,
+    "week_seconds": 4985,
     "week_start": 1781500259,
-    "total_seconds": 4238
+    "total_seconds": 4985
   },
   "fang_op": {
     "week_seconds": 68456,
@@ -5715,9 +5715,9 @@
     "total_seconds": 7676
   },
   "rurfu": {
-    "week_seconds": 48262,
+    "week_seconds": 51942,
     "week_start": 1781746808,
-    "total_seconds": 48262
+    "total_seconds": 51942
   },
   "binks4362": {
     "week_seconds": 266,
@@ -8040,13 +8040,13 @@
     "total_seconds": 0
   },
   "toasterbaths_": {
-    "week_seconds": 0,
+    "week_seconds": 684,
     "week_start": 1782007203,
-    "total_seconds": 0
+    "total_seconds": 684
   },
   "mrextrat1": {
-    "week_seconds": 0,
+    "week_seconds": 171,
     "week_start": 1782007700,
-    "total_seconds": 0
+    "total_seconds": 171
   }
 }
