@@ -1735,9 +1735,9 @@
     "total_seconds": 108425
   },
   "mayaafox": {
-    "week_seconds": 109343,
+    "week_seconds": 117709,
     "week_start": 1781513537,
-    "total_seconds": 109343
+    "total_seconds": 117709
   },
   "colorkoded": {
     "week_seconds": 41,
@@ -3145,9 +3145,9 @@
     "total_seconds": 6982
   },
   "8donis": {
-    "week_seconds": 5607,
+    "week_seconds": 6437,
     "week_start": 1781555877,
-    "total_seconds": 5607
+    "total_seconds": 6437
   },
   "thaddemus": {
     "week_seconds": 4115,
@@ -3760,9 +3760,9 @@
     "total_seconds": 48688
   },
   "arbidos": {
-    "week_seconds": 34620,
+    "week_seconds": 35526,
     "week_start": 1781584037,
-    "total_seconds": 34620
+    "total_seconds": 35526
   },
   "fallen_screw": {
     "week_seconds": 111330,
@@ -8473,5 +8473,10 @@
     "week_seconds": 43,
     "week_start": 1782071472,
     "total_seconds": 43
+  },
+  "butter_villager": {
+    "week_seconds": 0,
+    "week_start": 1782071693,
+    "total_seconds": 0
   }
 }
