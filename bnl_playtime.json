@@ -60,9 +60,9 @@
     "total_seconds": 37244
   },
   "mitthraw91": {
-    "week_seconds": 371840,
+    "week_seconds": 383634,
     "week_start": 1781474873,
-    "total_seconds": 371840
+    "total_seconds": 383634
   },
   "rainsinger": {
     "week_seconds": 93689,
@@ -580,9 +580,9 @@
     "total_seconds": 39655
   },
   "ethn__": {
-    "week_seconds": 139687,
+    "week_seconds": 139919,
     "week_start": 1781480700,
-    "total_seconds": 139687
+    "total_seconds": 139919
   },
   "suderp": {
     "week_seconds": 3472,
@@ -5185,9 +5185,9 @@
     "total_seconds": 118
   },
   "shafiahaz2478": {
-    "week_seconds": 32741,
+    "week_seconds": 33116,
     "week_start": 1781707838,
-    "total_seconds": 32741
+    "total_seconds": 33116
   },
   "ahmad_elayyen": {
     "week_seconds": 11708,
@@ -8372,6 +8372,11 @@
   "xvguardian105": {
     "week_seconds": 0,
     "week_start": 1782060698,
+    "total_seconds": 0
+  },
+  "nicluu": {
+    "week_seconds": 0,
+    "week_start": 1782061053,
     "total_seconds": 0
   }
 }
