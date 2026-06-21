@@ -7760,9 +7760,9 @@
     "total_seconds": 38
   },
   "bailey00712": {
-    "week_seconds": 13979,
+    "week_seconds": 13984,
     "week_start": 1781977669,
-    "total_seconds": 13979
+    "total_seconds": 13984
   },
   "x_teach_x": {
     "week_seconds": 251,
@@ -8037,6 +8037,11 @@
   "jhop11": {
     "week_seconds": 0,
     "week_start": 1782005227,
+    "total_seconds": 0
+  },
+  "toasterbaths_": {
+    "week_seconds": 0,
+    "week_start": 1782007203,
     "total_seconds": 0
   }
 }
