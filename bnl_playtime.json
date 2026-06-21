@@ -685,9 +685,9 @@
     "total_seconds": 27245
   },
   "cheesenoodle24": {
-    "week_seconds": 10878,
+    "week_seconds": 14658,
     "week_start": 1781482060,
-    "total_seconds": 10878
+    "total_seconds": 14658
   },
   "supposed": {
     "week_seconds": 37215,
@@ -8157,6 +8157,11 @@
   "sixteenthnotes": {
     "week_seconds": 0,
     "week_start": 1782023550,
+    "total_seconds": 0
+  },
+  "tiddy1806": {
+    "week_seconds": 0,
+    "week_start": 1782023807,
     "total_seconds": 0
   }
 }
