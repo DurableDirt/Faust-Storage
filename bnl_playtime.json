@@ -1580,9 +1580,9 @@
     "total_seconds": 67673
   },
   "gobblin": {
-    "week_seconds": 53844,
+    "week_seconds": 54088,
     "week_start": 1781505039,
-    "total_seconds": 53844
+    "total_seconds": 54088
   },
   "vlinar": {
     "week_seconds": 53148,
@@ -8092,6 +8092,11 @@
   "yayoballs": {
     "week_seconds": 0,
     "week_start": 1782013190,
+    "total_seconds": 0
+  },
+  "squabbled": {
+    "week_seconds": 0,
+    "week_start": 1782014592,
     "total_seconds": 0
   }
 }
