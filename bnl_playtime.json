@@ -2560,9 +2560,9 @@
     "total_seconds": 109727
   },
   "myng11": {
-    "week_seconds": 13133,
+    "week_seconds": 17563,
     "week_start": 1781538162,
-    "total_seconds": 13133
+    "total_seconds": 17563
   },
   "dondindundan": {
     "week_seconds": 5,
@@ -2770,9 +2770,9 @@
     "total_seconds": 1555
   },
   "renero95": {
-    "week_seconds": 19545,
+    "week_seconds": 21939,
     "week_start": 1781545314,
-    "total_seconds": 19545
+    "total_seconds": 21939
   },
   "duskadmiral": {
     "week_seconds": 17731,
@@ -8510,8 +8510,8 @@
     "total_seconds": 0
   },
   "kmshr": {
-    "week_seconds": 0,
+    "week_seconds": 75,
     "week_start": 1782075261,
-    "total_seconds": 0
+    "total_seconds": 75
   }
 }
