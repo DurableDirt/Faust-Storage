@@ -1580,9 +1580,9 @@
     "total_seconds": 71910
   },
   "gobblin": {
-    "week_seconds": 54088,
+    "week_seconds": 58887,
     "week_start": 1781505039,
-    "total_seconds": 54088
+    "total_seconds": 58887
   },
   "vlinar": {
     "week_seconds": 57274,
@@ -2695,9 +2695,9 @@
     "total_seconds": 1516
   },
   "nighthed": {
-    "week_seconds": 56997,
+    "week_seconds": 58784,
     "week_start": 1781541617,
-    "total_seconds": 56997
+    "total_seconds": 58784
   },
   "tuffboi674193": {
     "week_seconds": 3322,
