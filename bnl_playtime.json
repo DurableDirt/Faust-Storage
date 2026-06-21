@@ -1510,9 +1510,9 @@
     "total_seconds": 15705
   },
   "t0mcat1": {
-    "week_seconds": 5669,
+    "week_seconds": 14837,
     "week_start": 1781500259,
-    "total_seconds": 5669
+    "total_seconds": 14837
   },
   "fang_op": {
     "week_seconds": 69792,
@@ -7050,9 +7050,9 @@
     "total_seconds": 21
   },
   "speedforce12359": {
-    "week_seconds": 2593,
+    "week_seconds": 9328,
     "week_start": 1781891085,
-    "total_seconds": 2593
+    "total_seconds": 9328
   },
   "ladylobotomi": {
     "week_seconds": 159,
@@ -7500,9 +7500,9 @@
     "total_seconds": 1363
   },
   "wolie20": {
-    "week_seconds": 389,
+    "week_seconds": 9273,
     "week_start": 1781944944,
-    "total_seconds": 389
+    "total_seconds": 9273
   },
   "you_suk": {
     "week_seconds": 2166,
@@ -8178,5 +8178,10 @@
     "week_seconds": 102,
     "week_start": 1782025385,
     "total_seconds": 102
+  },
+  "qpid1": {
+    "week_seconds": 0,
+    "week_start": 1782026424,
+    "total_seconds": 0
   }
 }
