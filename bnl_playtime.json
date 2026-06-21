@@ -2135,9 +2135,9 @@
     "total_seconds": 208
   },
   "captainaxes": {
-    "week_seconds": 92548,
+    "week_seconds": 94189,
     "week_start": 1781526698,
-    "total_seconds": 92548
+    "total_seconds": 94189
   },
   "sqopenspellbook": {
     "week_seconds": 202136,
@@ -8347,6 +8347,11 @@
   "flutschrobbe": {
     "week_seconds": 0,
     "week_start": 1782056824,
+    "total_seconds": 0
+  },
+  "rnb_rak": {
+    "week_seconds": 0,
+    "week_start": 1782056844,
     "total_seconds": 0
   }
 }
