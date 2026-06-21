@@ -4390,9 +4390,9 @@
     "total_seconds": 3356
   },
   "thebiodino": {
-    "week_seconds": 10264,
+    "week_seconds": 11068,
     "week_start": 1781636020,
-    "total_seconds": 10264
+    "total_seconds": 11068
   },
   "plrog": {
     "week_seconds": 8941,
@@ -6635,9 +6635,9 @@
     "total_seconds": 343
   },
   "strangefungus": {
-    "week_seconds": 74036,
+    "week_seconds": 76977,
     "week_start": 1781834437,
-    "total_seconds": 74036
+    "total_seconds": 76977
   },
   "legxi7622": {
     "week_seconds": 19,
@@ -8468,5 +8468,10 @@
     "week_seconds": 165,
     "week_start": 1782070559,
     "total_seconds": 165
+  },
+  "coolbaseball96": {
+    "week_seconds": 0,
+    "week_start": 1782071472,
+    "total_seconds": 0
   }
 }
