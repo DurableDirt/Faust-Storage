@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 52560,
+    "week_seconds": 55737,
     "week_start": 1781519118,
-    "total_seconds": 52560
+    "total_seconds": 55737
   },
   "hxrl": {
     "week_seconds": 101753,
@@ -3475,9 +3475,9 @@
     "total_seconds": 6079
   },
   "bloxtlemc": {
-    "week_seconds": 65126,
+    "week_seconds": 66964,
     "week_start": 1781567213,
-    "total_seconds": 65126
+    "total_seconds": 66964
   },
   "mdlp_red15": {
     "week_seconds": 25,
@@ -8283,5 +8283,10 @@
     "week_seconds": 48,
     "week_start": 1782048156,
     "total_seconds": 48
+  },
+  "pterasakus": {
+    "week_seconds": 0,
+    "week_start": 1782049575,
+    "total_seconds": 0
   }
 }
