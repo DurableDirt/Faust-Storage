@@ -25,9 +25,9 @@
     "total_seconds": 26
   },
   "holdenvcaulfield": {
-    "week_seconds": 906,
+    "week_seconds": 1056,
     "week_start": 1782080360,
-    "total_seconds": 127851
+    "total_seconds": 128001
   },
   "harved": {
     "week_seconds": 0,
@@ -3700,9 +3700,9 @@
     "total_seconds": 160
   },
   "icb_72": {
-    "week_seconds": 89020,
+    "week_seconds": 89192,
     "week_start": 1781579862,
-    "total_seconds": 89020
+    "total_seconds": 89192
   },
   "killtheinternet": {
     "week_seconds": 223,
@@ -4680,9 +4680,9 @@
     "total_seconds": 22
   },
   "glog_frogmen": {
-    "week_seconds": 60327,
+    "week_seconds": 60378,
     "week_start": 1781656168,
-    "total_seconds": 60327
+    "total_seconds": 60378
   },
   "clearhercules": {
     "week_seconds": 61714,
@@ -8590,9 +8590,9 @@
     "total_seconds": 0
   },
   "yungsgt": {
-    "week_seconds": 0,
+    "week_seconds": 1909,
     "week_start": 1782083472,
-    "total_seconds": 0
+    "total_seconds": 1909
   },
   "bigboysam1245": {
     "week_seconds": 30,
@@ -8612,6 +8612,11 @@
   "mallace": {
     "week_seconds": 0,
     "week_start": 1782085111,
+    "total_seconds": 0
+  },
+  "notcherrycola": {
+    "week_seconds": 0,
+    "week_start": 1782085372,
     "total_seconds": 0
   }
 }
