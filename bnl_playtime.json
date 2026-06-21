@@ -2575,9 +2575,9 @@
     "total_seconds": 21176
   },
   "snowpix_": {
-    "week_seconds": 36412,
+    "week_seconds": 36441,
     "week_start": 1781538879,
-    "total_seconds": 36412
+    "total_seconds": 36441
   },
   "7qou": {
     "week_seconds": 5064,
@@ -8002,6 +8002,11 @@
   "evillarry2017": {
     "week_seconds": 0,
     "week_start": 1782002588,
+    "total_seconds": 0
+  },
+  "rontheballer": {
+    "week_seconds": 0,
+    "week_start": 1782002743,
     "total_seconds": 0
   }
 }
