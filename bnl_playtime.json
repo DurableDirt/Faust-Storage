@@ -525,9 +525,9 @@
     "total_seconds": 7709
   },
   "shadno": {
-    "week_seconds": 239316,
+    "week_seconds": 239352,
     "week_start": 1781479968,
-    "total_seconds": 239316
+    "total_seconds": 239352
   },
   "hexayn": {
     "week_seconds": 974,
@@ -8085,8 +8085,8 @@
     "total_seconds": 0
   },
   "bladedballer": {
-    "week_seconds": 0,
+    "week_seconds": 58,
     "week_start": 1782012828,
-    "total_seconds": 0
+    "total_seconds": 58
   }
 }
