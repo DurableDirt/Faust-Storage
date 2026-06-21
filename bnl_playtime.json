@@ -50,9 +50,9 @@
     "total_seconds": 67054
   },
   "meenos": {
-    "week_seconds": 139806,
+    "week_seconds": 140437,
     "week_start": 1781474845,
-    "total_seconds": 139806
+    "total_seconds": 140437
   },
   "jadenjb": {
     "week_seconds": 37244,
@@ -320,9 +320,9 @@
     "total_seconds": 108263
   },
   "skormcel": {
-    "week_seconds": 96678,
+    "week_seconds": 114994,
     "week_start": 1781477339,
-    "total_seconds": 96678
+    "total_seconds": 114994
   },
   "catgifs": {
     "week_seconds": 2084,
@@ -8097,6 +8097,11 @@
   "squabbled": {
     "week_seconds": 0,
     "week_start": 1782014592,
+    "total_seconds": 0
+  },
+  "mika0001": {
+    "week_seconds": 0,
+    "week_start": 1782014740,
     "total_seconds": 0
   }
 }
