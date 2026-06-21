@@ -3090,9 +3090,9 @@
     "total_seconds": 27828
   },
   "programmergod": {
-    "week_seconds": 317082,
+    "week_seconds": 319848,
     "week_start": 1781554499,
-    "total_seconds": 317082
+    "total_seconds": 319848
   },
   "monkeyaceparagon": {
     "week_seconds": 21,
@@ -3475,9 +3475,9 @@
     "total_seconds": 6079
   },
   "bloxtlemc": {
-    "week_seconds": 66964,
+    "week_seconds": 68389,
     "week_start": 1781567213,
-    "total_seconds": 66964
+    "total_seconds": 68389
   },
   "mdlp_red15": {
     "week_seconds": 25,
@@ -8382,6 +8382,11 @@
   "sisponic": {
     "week_seconds": 0,
     "week_start": 1782061097,
+    "total_seconds": 0
+  },
+  "charmfulpeace": {
+    "week_seconds": 0,
+    "week_start": 1782061205,
     "total_seconds": 0
   }
 }
