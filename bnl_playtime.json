@@ -565,9 +565,9 @@
     "total_seconds": 66175
   },
   "graydawn_": {
-    "week_seconds": 201750,
+    "week_seconds": 217035,
     "week_start": 1781480271,
-    "total_seconds": 201750
+    "total_seconds": 217035
   },
   "angie_dovie111": {
     "week_seconds": 83030,
@@ -2485,9 +2485,9 @@
     "total_seconds": 38021
   },
   "emperorashina": {
-    "week_seconds": 57754,
+    "week_seconds": 69000,
     "week_start": 1781535841,
-    "total_seconds": 57754
+    "total_seconds": 69000
   },
   "sailorwillis": {
     "week_seconds": 194853,
@@ -7977,6 +7977,11 @@
   "bigred34555": {
     "week_seconds": 0,
     "week_start": 1782000422,
+    "total_seconds": 0
+  },
+  "thatonenapp": {
+    "week_seconds": 0,
+    "week_start": 1782000617,
     "total_seconds": 0
   }
 }
