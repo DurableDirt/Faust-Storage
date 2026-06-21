@@ -1450,9 +1450,9 @@
     "total_seconds": 11341
   },
   "xenoum": {
-    "week_seconds": 109179,
+    "week_seconds": 113046,
     "week_start": 1781497822,
-    "total_seconds": 109179
+    "total_seconds": 113046
   },
   "earrthfall": {
     "week_seconds": 138,
@@ -6625,9 +6625,9 @@
     "total_seconds": 3734
   },
   "follivlxx": {
-    "week_seconds": 89519,
+    "week_seconds": 89602,
     "week_start": 1781833191,
-    "total_seconds": 89519
+    "total_seconds": 89602
   },
   "tippyshippy": {
     "week_seconds": 343,
@@ -8328,5 +8328,10 @@
     "week_seconds": 145,
     "week_start": 1782055106,
     "total_seconds": 145
+  },
+  "fid_33": {
+    "week_seconds": 0,
+    "week_start": 1782055358,
+    "total_seconds": 0
   }
 }
