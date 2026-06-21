@@ -1665,9 +1665,9 @@
     "total_seconds": 9341
   },
   "polysemic": {
-    "week_seconds": 51462,
+    "week_seconds": 61008,
     "week_start": 1781509665,
-    "total_seconds": 51462
+    "total_seconds": 61008
   },
   "wuli": {
     "week_seconds": 98134,
@@ -3810,9 +3810,9 @@
     "total_seconds": 20
   },
   "paddington_bear": {
-    "week_seconds": 17025,
+    "week_seconds": 36411,
     "week_start": 1781593429,
-    "total_seconds": 17025
+    "total_seconds": 36411
   },
   "refe1k": {
     "week_seconds": 13549,
