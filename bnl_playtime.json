@@ -8275,8 +8275,13 @@
     "total_seconds": 35
   },
   "swingcarried": {
-    "week_seconds": 0,
+    "week_seconds": 26,
     "week_start": 1782048133,
+    "total_seconds": 26
+  },
+  "foxisthenoob": {
+    "week_seconds": 0,
+    "week_start": 1782048156,
     "total_seconds": 0
   }
 }
