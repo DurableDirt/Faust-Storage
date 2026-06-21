@@ -670,9 +670,9 @@
     "total_seconds": 166703
   },
   "boatoverbogs": {
-    "week_seconds": 18424,
+    "week_seconds": 22634,
     "week_start": 1781481750,
-    "total_seconds": 18424
+    "total_seconds": 22634
   },
   "versedreset": {
     "week_seconds": 6053,
@@ -2035,9 +2035,9 @@
     "total_seconds": 56507
   },
   "showerenjoyer7": {
-    "week_seconds": 8900,
+    "week_seconds": 9622,
     "week_start": 1781523915,
-    "total_seconds": 8900
+    "total_seconds": 9622
   },
   "el_shap0": {
     "week_seconds": 145545,
@@ -8412,6 +8412,11 @@
   "actualmouse": {
     "week_seconds": 0,
     "week_start": 1782065038,
+    "total_seconds": 0
+  },
+  "scrubadubdubs": {
+    "week_seconds": 0,
+    "week_start": 1782065893,
     "total_seconds": 0
   }
 }
