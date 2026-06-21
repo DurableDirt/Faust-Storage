@@ -5985,9 +5985,9 @@
     "total_seconds": 18589
   },
   "what777": {
-    "week_seconds": 178230,
+    "week_seconds": 179573,
     "week_start": 1781783211,
-    "total_seconds": 178230
+    "total_seconds": 179573
   },
   "arealfriedwing": {
     "week_seconds": 218,
@@ -8263,5 +8263,10 @@
     "week_seconds": 0,
     "week_start": 1782045287,
     "total_seconds": 0
+  },
+  "breadperfume": {
+    "week_seconds": 73,
+    "week_start": 1782046219,
+    "total_seconds": 73
   }
 }
