@@ -525,9 +525,9 @@
     "total_seconds": 7709
   },
   "shadno": {
-    "week_seconds": 258670,
+    "week_seconds": 258723,
     "week_start": 1781479968,
-    "total_seconds": 258670
+    "total_seconds": 258723
   },
   "hexayn": {
     "week_seconds": 974,
@@ -1225,9 +1225,9 @@
     "total_seconds": 1392
   },
   "_oceanstar": {
-    "week_seconds": 121867,
+    "week_seconds": 124030,
     "week_start": 1781490835,
-    "total_seconds": 121867
+    "total_seconds": 124030
   },
   "kahina": {
     "week_seconds": 96798,
@@ -2710,9 +2710,9 @@
     "total_seconds": 137697
   },
   "jushuhh": {
-    "week_seconds": 106859,
+    "week_seconds": 106925,
     "week_start": 1781542564,
-    "total_seconds": 106859
+    "total_seconds": 106925
   },
   "landopotato712": {
     "week_seconds": 43772,
@@ -7725,9 +7725,9 @@
     "total_seconds": 145
   },
   "carter_t23": {
-    "week_seconds": 4142,
+    "week_seconds": 9604,
     "week_start": 1781973439,
-    "total_seconds": 4142
+    "total_seconds": 9604
   },
   "mr_unwanted": {
     "week_seconds": 733,
@@ -8568,5 +8568,10 @@
     "week_seconds": 8,
     "week_start": 1782076839,
     "total_seconds": 8
+  },
+  "blackhand12412": {
+    "week_seconds": 0,
+    "week_start": 1782078822,
+    "total_seconds": 0
   }
 }
