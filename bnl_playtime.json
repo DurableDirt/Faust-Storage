@@ -10,9 +10,9 @@
     "total_seconds": 4
   },
   "logic_man": {
-    "week_seconds": 45319,
+    "week_seconds": 48995,
     "week_start": 1781474483,
-    "total_seconds": 45319
+    "total_seconds": 48995
   },
   "dragran": {
     "week_seconds": 341828,
@@ -130,9 +130,9 @@
     "total_seconds": 32917
   },
   "threeapplestall": {
-    "week_seconds": 203205,
+    "week_seconds": 217233,
     "week_start": 1781475744,
-    "total_seconds": 203205
+    "total_seconds": 217233
   },
   "donnelpyke2": {
     "week_seconds": 50421,
@@ -1110,9 +1110,9 @@
     "total_seconds": 1460
   },
   "warendrop": {
-    "week_seconds": 140609,
+    "week_seconds": 140943,
     "week_start": 1781488025,
-    "total_seconds": 140609
+    "total_seconds": 140943
   },
   "boatcat": {
     "week_seconds": 159130,
@@ -8048,5 +8048,10 @@
     "week_seconds": 246,
     "week_start": 1782007700,
     "total_seconds": 246
+  },
+  "sandpsycho": {
+    "week_seconds": 1,
+    "week_start": 1782008098,
+    "total_seconds": 1
   }
 }
