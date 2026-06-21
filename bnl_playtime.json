@@ -185,9 +185,9 @@
     "total_seconds": 65695
   },
   "ahrimanne": {
-    "week_seconds": 10525,
+    "week_seconds": 11093,
     "week_start": 1782083960,
-    "total_seconds": 162152
+    "total_seconds": 162720
   },
   "princess__bow": {
     "week_seconds": 0,
@@ -8623,5 +8623,10 @@
     "week_seconds": 214,
     "week_start": 1782085616,
     "total_seconds": 214
+  },
+  "waveofdeath99": {
+    "week_seconds": 0,
+    "week_start": 1782086310,
+    "total_seconds": 0
   }
 }
