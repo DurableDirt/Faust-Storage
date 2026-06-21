@@ -75,9 +75,9 @@
     "total_seconds": 127569
   },
   "40mm": {
-    "week_seconds": 77518,
+    "week_seconds": 78656,
     "week_start": 1781475020,
-    "total_seconds": 77518
+    "total_seconds": 78656
   },
   "lynx2007": {
     "week_seconds": 81932,
@@ -6625,9 +6625,9 @@
     "total_seconds": 3734
   },
   "follivlxx": {
-    "week_seconds": 86709,
+    "week_seconds": 88962,
     "week_start": 1781833191,
-    "total_seconds": 86709
+    "total_seconds": 88962
   },
   "tippyshippy": {
     "week_seconds": 343,
