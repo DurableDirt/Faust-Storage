@@ -830,9 +830,9 @@
     "total_seconds": 6
   },
   "samtheblow": {
-    "week_seconds": 352890,
+    "week_seconds": 360353,
     "week_start": 1781483985,
-    "total_seconds": 352890
+    "total_seconds": 360353
   },
   "rydestar": {
     "week_seconds": 20241,
@@ -8077,6 +8077,11 @@
   "dawnriser01": {
     "week_seconds": 0,
     "week_start": 1782011443,
+    "total_seconds": 0
+  },
+  "socksbocksfox": {
+    "week_seconds": 0,
+    "week_start": 1782012126,
     "total_seconds": 0
   }
 }
