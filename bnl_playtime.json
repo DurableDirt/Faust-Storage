@@ -1610,9 +1610,9 @@
     "total_seconds": 766
   },
   "adeadhead": {
-    "week_seconds": 487960,
+    "week_seconds": 488179,
     "week_start": 1781506340,
-    "total_seconds": 487960
+    "total_seconds": 488179
   },
   "cedarvaliant": {
     "week_seconds": 35298,
@@ -3055,9 +3055,9 @@
     "total_seconds": 1084
   },
   "baodani24": {
-    "week_seconds": 328,
+    "week_seconds": 1112,
     "week_start": 1781553372,
-    "total_seconds": 328
+    "total_seconds": 1112
   },
   "justas1967": {
     "week_seconds": 51,
@@ -6595,9 +6595,9 @@
     "total_seconds": 9696
   },
   "blkwaterr": {
-    "week_seconds": 33766,
+    "week_seconds": 37582,
     "week_start": 1781829672,
-    "total_seconds": 33766
+    "total_seconds": 37582
   },
   "nimph356": {
     "week_seconds": 8652,
@@ -8490,9 +8490,9 @@
     "total_seconds": 6
   },
   "damaddenmyth": {
-    "week_seconds": 2857,
+    "week_seconds": 2896,
     "week_start": 1782073478,
-    "total_seconds": 2857
+    "total_seconds": 2896
   },
   "yourbronolan": {
     "week_seconds": 36,
@@ -8548,5 +8548,10 @@
     "week_seconds": 9,
     "week_start": 1782076483,
     "total_seconds": 9
+  },
+  "_etherealmoss_": {
+    "week_seconds": 0,
+    "week_start": 1782076582,
+    "total_seconds": 0
   }
 }
