@@ -5985,9 +5985,9 @@
     "total_seconds": 18589
   },
   "what777": {
-    "week_seconds": 182924,
+    "week_seconds": 182939,
     "week_start": 1781783211,
-    "total_seconds": 182924
+    "total_seconds": 182939
   },
   "arealfriedwing": {
     "week_seconds": 218,
@@ -8288,5 +8288,10 @@
     "week_seconds": 1348,
     "week_start": 1782049575,
     "total_seconds": 1348
+  },
+  "fractured_dreams": {
+    "week_seconds": 0,
+    "week_start": 1782051075,
+    "total_seconds": 0
   }
 }
