@@ -195,9 +195,9 @@
     "total_seconds": 83238
   },
   "262i": {
-    "week_seconds": 97644,
+    "week_seconds": 100112,
     "week_start": 1781476204,
-    "total_seconds": 97644
+    "total_seconds": 100112
   },
   "jalhf": {
     "week_seconds": 47301,
@@ -8318,5 +8318,10 @@
     "week_seconds": 483,
     "week_start": 1782053772,
     "total_seconds": 483
+  },
+  "hielluosymp": {
+    "week_seconds": 0,
+    "week_start": 1782054669,
+    "total_seconds": 0
   }
 }
