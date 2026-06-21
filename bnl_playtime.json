@@ -400,9 +400,9 @@
     "total_seconds": 6615
   },
   "uprisingmax": {
-    "week_seconds": 93932,
+    "week_seconds": 93960,
     "week_start": 1781478140,
-    "total_seconds": 93932
+    "total_seconds": 93960
   },
   "freshoxygenair": {
     "week_seconds": 8555,
@@ -470,9 +470,9 @@
     "total_seconds": 83187
   },
   "anotnot": {
-    "week_seconds": 268626,
+    "week_seconds": 268737,
     "week_start": 1781479365,
-    "total_seconds": 268626
+    "total_seconds": 268737
   },
   "tntfortress": {
     "week_seconds": 113266,
@@ -7760,9 +7760,9 @@
     "total_seconds": 38
   },
   "bailey00712": {
-    "week_seconds": 17088,
+    "week_seconds": 17296,
     "week_start": 1781977669,
-    "total_seconds": 17088
+    "total_seconds": 17296
   },
   "x_teach_x": {
     "week_seconds": 12779,
@@ -8377,6 +8377,11 @@
   "nicluu": {
     "week_seconds": 0,
     "week_start": 1782061053,
+    "total_seconds": 0
+  },
+  "sisponic": {
+    "week_seconds": 0,
+    "week_start": 1782061097,
     "total_seconds": 0
   }
 }
