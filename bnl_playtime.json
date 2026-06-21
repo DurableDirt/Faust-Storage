@@ -3945,9 +3945,9 @@
     "total_seconds": 136
   },
   "chaudmoi": {
-    "week_seconds": 51108,
+    "week_seconds": 52719,
     "week_start": 1781609279,
-    "total_seconds": 51108
+    "total_seconds": 52719
   },
   "fealsom_": {
     "week_seconds": 22280,
@@ -8238,5 +8238,10 @@
     "week_seconds": 218,
     "week_start": 1782040392,
     "total_seconds": 218
+  },
+  "ch4m3leon": {
+    "week_seconds": 0,
+    "week_start": 1782040861,
+    "total_seconds": 0
   }
 }
