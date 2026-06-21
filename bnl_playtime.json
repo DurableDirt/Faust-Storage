@@ -1085,9 +1085,9 @@
     "total_seconds": 138988
   },
   "satava": {
-    "week_seconds": 104748,
+    "week_seconds": 107340,
     "week_start": 1781487788,
-    "total_seconds": 104748
+    "total_seconds": 107340
   },
   "majjcrunsgf": {
     "week_seconds": 3927,
@@ -8130,8 +8130,8 @@
     "total_seconds": 13
   },
   "s0uthw3st": {
-    "week_seconds": 0,
+    "week_seconds": 1532,
     "week_start": 1782018278,
-    "total_seconds": 0
+    "total_seconds": 1532
   }
 }
