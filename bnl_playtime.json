@@ -80,9 +80,9 @@
     "total_seconds": 83403
   },
   "lynx2007": {
-    "week_seconds": 87456,
+    "week_seconds": 87553,
     "week_start": 1781475059,
-    "total_seconds": 87456
+    "total_seconds": 87553
   },
   "cunningwind6139": {
     "week_seconds": 86207,
@@ -5555,9 +5555,9 @@
     "total_seconds": 642
   },
   "squishywaffle20": {
-    "week_seconds": 44561,
+    "week_seconds": 44881,
     "week_start": 1781735266,
-    "total_seconds": 44561
+    "total_seconds": 44881
   },
   "defunctsnail187": {
     "week_seconds": 1378,
@@ -8478,5 +8478,10 @@
     "week_seconds": 397,
     "week_start": 1782071693,
     "total_seconds": 397
+  },
+  "highjaco123": {
+    "week_seconds": 0,
+    "week_start": 1782072330,
+    "total_seconds": 0
   }
 }
