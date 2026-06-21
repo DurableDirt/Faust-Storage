@@ -450,9 +450,9 @@
     "total_seconds": 188813
   },
   "mrtnt1925": {
-    "week_seconds": 156624,
+    "week_seconds": 160956,
     "week_start": 1781478966,
-    "total_seconds": 156624
+    "total_seconds": 160956
   },
   "axsld": {
     "week_seconds": 71376,
@@ -2605,9 +2605,9 @@
     "total_seconds": 23182
   },
   "luannn25": {
-    "week_seconds": 7563,
+    "week_seconds": 11181,
     "week_start": 1781539748,
-    "total_seconds": 7563
+    "total_seconds": 11181
   },
   "phytophthorato": {
     "week_seconds": 10129,
@@ -7050,9 +7050,9 @@
     "total_seconds": 21
   },
   "speedforce12359": {
-    "week_seconds": 10640,
+    "week_seconds": 10830,
     "week_start": 1781891085,
-    "total_seconds": 10640
+    "total_seconds": 10830
   },
   "ladylobotomi": {
     "week_seconds": 159,
@@ -8552,6 +8552,16 @@
   "_etherealmoss_": {
     "week_seconds": 0,
     "week_start": 1782076582,
+    "total_seconds": 0
+  },
+  "liammuwu": {
+    "week_seconds": 0,
+    "week_start": 1782076772,
+    "total_seconds": 0
+  },
+  "monkey_man4321": {
+    "week_seconds": 0,
+    "week_start": 1782076790,
     "total_seconds": 0
   }
 }
