@@ -7395,9 +7395,9 @@
     "total_seconds": 517
   },
   "popiahrei": {
-    "week_seconds": 1500,
+    "week_seconds": 6400,
     "week_start": 1781928456,
-    "total_seconds": 1500
+    "total_seconds": 6400
   },
   "_medb_": {
     "week_seconds": 529,
@@ -8058,5 +8058,10 @@
     "week_seconds": 25,
     "week_start": 1782008791,
     "total_seconds": 25
+  },
+  "ilatteralus": {
+    "week_seconds": 0,
+    "week_start": 1782009821,
+    "total_seconds": 0
   }
 }
