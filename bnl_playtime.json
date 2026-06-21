@@ -5565,9 +5565,9 @@
     "total_seconds": 1378
   },
   "kralkuzeyb": {
-    "week_seconds": 627,
+    "week_seconds": 979,
     "week_start": 1781735472,
-    "total_seconds": 627
+    "total_seconds": 979
   },
   "jessiejinx": {
     "week_seconds": 15107,
@@ -6625,9 +6625,9 @@
     "total_seconds": 3734
   },
   "follivlxx": {
-    "week_seconds": 83722,
+    "week_seconds": 84456,
     "week_start": 1781833191,
-    "total_seconds": 83722
+    "total_seconds": 84456
   },
   "tippyshippy": {
     "week_seconds": 343,
@@ -8147,6 +8147,11 @@
   "sheeve_": {
     "week_seconds": 0,
     "week_start": 1782021782,
+    "total_seconds": 0
+  },
+  "coolmike17": {
+    "week_seconds": 0,
+    "week_start": 1782022545,
     "total_seconds": 0
   }
 }
