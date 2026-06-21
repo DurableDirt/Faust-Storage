@@ -245,9 +245,9 @@
     "total_seconds": 30759
   },
   "aluminum_foil_": {
-    "week_seconds": 138448,
+    "week_seconds": 139567,
     "week_start": 1781476568,
-    "total_seconds": 138448
+    "total_seconds": 139567
   },
   "mpusa": {
     "week_seconds": 46416,
@@ -6625,9 +6625,9 @@
     "total_seconds": 3734
   },
   "follivlxx": {
-    "week_seconds": 75325,
+    "week_seconds": 77086,
     "week_start": 1781833191,
-    "total_seconds": 75325
+    "total_seconds": 77086
   },
   "tippyshippy": {
     "week_seconds": 343,
@@ -8072,6 +8072,11 @@
   "endurenrb": {
     "week_seconds": 0,
     "week_start": 1782010684,
+    "total_seconds": 0
+  },
+  "dawnriser01": {
+    "week_seconds": 0,
+    "week_start": 1782011443,
     "total_seconds": 0
   }
 }
