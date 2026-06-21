@@ -1370,9 +1370,9 @@
     "total_seconds": 113222
   },
   "adelover01": {
-    "week_seconds": 40439,
+    "week_seconds": 40519,
     "week_start": 1781495390,
-    "total_seconds": 40439
+    "total_seconds": 40519
   },
   "furybyproxy": {
     "week_seconds": 110679,
@@ -7485,9 +7485,9 @@
     "total_seconds": 41
   },
   "freezestep": {
-    "week_seconds": 10775,
+    "week_seconds": 11692,
     "week_start": 1781941674,
-    "total_seconds": 10775
+    "total_seconds": 11692
   },
   "srank_latina": {
     "week_seconds": 479,
@@ -8235,8 +8235,8 @@
     "total_seconds": 0
   },
   "pinkfloyd12": {
-    "week_seconds": 0,
+    "week_seconds": 218,
     "week_start": 1782040392,
-    "total_seconds": 0
+    "total_seconds": 218
   }
 }
