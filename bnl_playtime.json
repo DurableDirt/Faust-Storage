@@ -2915,9 +2915,9 @@
     "total_seconds": 3378
   },
   "emilderking": {
-    "week_seconds": 1966,
+    "week_seconds": 2972,
     "week_start": 1781548787,
-    "total_seconds": 1966
+    "total_seconds": 2972
   },
   "sishi0417": {
     "week_seconds": 25783,
@@ -9118,5 +9118,20 @@
     "week_seconds": 57,
     "week_start": 1782151931,
     "total_seconds": 57
+  },
+  "mildemu5000": {
+    "week_seconds": 0,
+    "week_start": 1782152130,
+    "total_seconds": 0
+  },
+  "cheassburgi": {
+    "week_seconds": 0,
+    "week_start": 1782152190,
+    "total_seconds": 0
+  },
+  "itspeper": {
+    "week_seconds": 0,
+    "week_start": 1782152218,
+    "total_seconds": 0
   }
 }
