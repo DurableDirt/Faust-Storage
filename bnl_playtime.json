@@ -4230,9 +4230,9 @@
     "total_seconds": 12922
   },
   "power_utter": {
-    "week_seconds": 41923,
+    "week_seconds": 54590,
     "week_start": 1781630256,
-    "total_seconds": 41923
+    "total_seconds": 54590
   },
   "pineappleman541": {
     "week_seconds": 23944,
@@ -7940,9 +7940,9 @@
     "total_seconds": 4927
   },
   "darth0tter": {
-    "week_seconds": 10036,
+    "week_seconds": 12342,
     "week_start": 1781995321,
-    "total_seconds": 10036
+    "total_seconds": 12342
   },
   "p4i3y": {
     "week_seconds": 16067,
@@ -8647,6 +8647,11 @@
   "eleze_24": {
     "week_seconds": 0,
     "week_start": 1782086895,
+    "total_seconds": 0
+  },
+  "seekinq": {
+    "week_seconds": 0,
+    "week_start": 1782087088,
     "total_seconds": 0
   }
 }
