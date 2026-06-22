@@ -9325,8 +9325,8 @@
     "total_seconds": 24
   },
   "az_adm_prime": {
-    "week_seconds": 0,
+    "week_seconds": 32,
     "week_start": 1782168498,
-    "total_seconds": 0
+    "total_seconds": 32
   }
 }
