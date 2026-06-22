@@ -2620,9 +2620,9 @@
     "total_seconds": 341
   },
   "comstaat": {
-    "week_seconds": 0,
+    "week_seconds": 240,
     "week_start": 1782145160,
-    "total_seconds": 6526
+    "total_seconds": 6766
   },
   "syvslime": {
     "week_seconds": 0,
@@ -8535,9 +8535,9 @@
     "total_seconds": 703
   },
   "chrischrispie": {
-    "week_seconds": 6766,
+    "week_seconds": 6936,
     "week_start": 1782076048,
-    "total_seconds": 6766
+    "total_seconds": 6936
   },
   "not_lawruin": {
     "week_seconds": 3520,
