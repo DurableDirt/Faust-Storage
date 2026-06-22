@@ -1845,9 +1845,9 @@
     "total_seconds": 6
   },
   "xfier": {
-    "week_seconds": 0,
+    "week_seconds": 3198,
     "week_start": 1782123560,
-    "total_seconds": 162795
+    "total_seconds": 165993
   },
   "basicallyagungan": {
     "week_seconds": 0,
@@ -3755,9 +3755,9 @@
     "total_seconds": 789
   },
   "aussiedaboss": {
-    "week_seconds": 49512,
+    "week_seconds": 49875,
     "week_start": 1781583242,
-    "total_seconds": 49512
+    "total_seconds": 49875
   },
   "arbidos": {
     "week_seconds": 35526,
@@ -5985,9 +5985,9 @@
     "total_seconds": 21044
   },
   "what777": {
-    "week_seconds": 214875,
+    "week_seconds": 214887,
     "week_start": 1781783211,
-    "total_seconds": 214875
+    "total_seconds": 214887
   },
   "arealfriedwing": {
     "week_seconds": 218,
@@ -8927,6 +8927,11 @@
   "chris__mapper": {
     "week_seconds": 0,
     "week_start": 1782128058,
+    "total_seconds": 0
+  },
+  "cxansbro": {
+    "week_seconds": 0,
+    "week_start": 1782128741,
     "total_seconds": 0
   }
 }
