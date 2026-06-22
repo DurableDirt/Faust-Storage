@@ -75,9 +75,9 @@
     "total_seconds": 153433
   },
   "40mm": {
-    "week_seconds": 9518,
+    "week_seconds": 14259,
     "week_start": 1782080360,
-    "total_seconds": 95882
+    "total_seconds": 100623
   },
   "lynx2007": {
     "week_seconds": 1253,
@@ -1815,9 +1815,9 @@
     "total_seconds": 4975
   },
   "airdav": {
-    "week_seconds": 8,
+    "week_seconds": 3839,
     "week_start": 1782123560,
-    "total_seconds": 18372
+    "total_seconds": 22203
   },
   "ch0rk": {
     "week_seconds": 0,
