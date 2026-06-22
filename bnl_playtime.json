@@ -450,9 +450,9 @@
     "total_seconds": 235351
   },
   "mrtnt1925": {
-    "week_seconds": 3571,
+    "week_seconds": 3604,
     "week_start": 1782083960,
-    "total_seconds": 164527
+    "total_seconds": 164560
   },
   "axsld": {
     "week_seconds": 29548,
@@ -9362,6 +9362,11 @@
   "gladius_03_": {
     "week_seconds": 0,
     "week_start": 1782171338,
+    "total_seconds": 0
+  },
+  "theforeverronin": {
+    "week_seconds": 0,
+    "week_start": 1782171548,
     "total_seconds": 0
   }
 }
