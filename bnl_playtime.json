@@ -1650,9 +1650,9 @@
     "total_seconds": 94363
   },
   "virexil": {
-    "week_seconds": 1011,
+    "week_seconds": 1697,
     "week_start": 1782116360,
-    "total_seconds": 35340
+    "total_seconds": 36026
   },
   "voidvin": {
     "week_seconds": 24119,
@@ -8982,6 +8982,11 @@
   "snowclimb": {
     "week_seconds": 0,
     "week_start": 1782139555,
+    "total_seconds": 0
+  },
+  "justqueeck": {
+    "week_seconds": 0,
+    "week_start": 1782139725,
     "total_seconds": 0
   }
 }
