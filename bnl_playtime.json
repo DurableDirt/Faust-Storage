@@ -35,9 +35,9 @@
     "total_seconds": 46641
   },
   "maxxyrose": {
-    "week_seconds": 21126,
+    "week_seconds": 27256,
     "week_start": 1782080360,
-    "total_seconds": 52002
+    "total_seconds": 58132
   },
   "piotato": {
     "week_seconds": 18194,
@@ -8837,6 +8837,11 @@
   "tay0ne": {
     "week_seconds": 0,
     "week_start": 1782115622,
+    "total_seconds": 0
+  },
+  "virtual_j1": {
+    "week_seconds": 0,
+    "week_start": 1782115757,
     "total_seconds": 0
   }
 }
