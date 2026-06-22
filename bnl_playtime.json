@@ -965,9 +965,9 @@
     "total_seconds": 123
   },
   "sdorr": {
-    "week_seconds": 10493,
+    "week_seconds": 11169,
     "week_start": 1782091160,
-    "total_seconds": 105567
+    "total_seconds": 106243
   },
   "cynical_darling": {
     "week_seconds": 0,
@@ -2555,9 +2555,9 @@
     "total_seconds": 1116
   },
   "yunfi": {
-    "week_seconds": 0,
+    "week_seconds": 1996,
     "week_start": 1782145160,
-    "total_seconds": 129273
+    "total_seconds": 131269
   },
   "myng11": {
     "week_seconds": 0,
@@ -4390,9 +4390,9 @@
     "total_seconds": 3356
   },
   "thebiodino": {
-    "week_seconds": 17153,
+    "week_seconds": 17190,
     "week_start": 1781636020,
-    "total_seconds": 17153
+    "total_seconds": 17190
   },
   "plrog": {
     "week_seconds": 8941,
@@ -8240,9 +8240,9 @@
     "total_seconds": 3950
   },
   "ch4m3leon": {
-    "week_seconds": 19057,
+    "week_seconds": 20735,
     "week_start": 1782040861,
-    "total_seconds": 19057
+    "total_seconds": 20735
   },
   "destroyerplayz99": {
     "week_seconds": 13,
@@ -9067,6 +9067,11 @@
   "bewarethebears": {
     "week_seconds": 0,
     "week_start": 1782146192,
+    "total_seconds": 0
+  },
+  "e_mac_": {
+    "week_seconds": 0,
+    "week_start": 1782146251,
     "total_seconds": 0
   }
 }
