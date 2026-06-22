@@ -250,9 +250,9 @@
     "total_seconds": 166635
   },
   "mpusa": {
-    "week_seconds": 12484,
+    "week_seconds": 15665,
     "week_start": 1782083960,
-    "total_seconds": 74327
+    "total_seconds": 77508
   },
   "madmachinist25": {
     "week_seconds": 136,
@@ -2415,9 +2415,9 @@
     "total_seconds": 17618
   },
   "sml128": {
-    "week_seconds": 0,
+    "week_seconds": 1222,
     "week_start": 1782141560,
-    "total_seconds": 84901
+    "total_seconds": 86123
   },
   "malipan": {
     "week_seconds": 0,
@@ -3010,9 +3010,9 @@
     "total_seconds": 7822
   },
   "avale86x64": {
-    "week_seconds": 13344,
+    "week_seconds": 14825,
     "week_start": 1781551967,
-    "total_seconds": 13344
+    "total_seconds": 14825
   },
   "houdiniandseek": {
     "week_seconds": 2,
