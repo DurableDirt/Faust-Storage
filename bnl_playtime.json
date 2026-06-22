@@ -3690,9 +3690,9 @@
     "total_seconds": 896
   },
   "nalimtuh": {
-    "week_seconds": 64580,
+    "week_seconds": 68386,
     "week_start": 1781578419,
-    "total_seconds": 64580
+    "total_seconds": 68386
   },
   "seamonkey1981": {
     "week_seconds": 160,
@@ -9302,6 +9302,11 @@
   "nuh_uh2355": {
     "week_seconds": 0,
     "week_start": 1782167318,
+    "total_seconds": 0
+  },
+  "byraltis": {
+    "week_seconds": 0,
+    "week_start": 1782167492,
     "total_seconds": 0
   }
 }
