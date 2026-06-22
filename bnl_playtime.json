@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 1643,
+    "week_seconds": 6104,
     "week_start": 1782127160,
-    "total_seconds": 66121
+    "total_seconds": 70582
   },
   "hxrl": {
     "week_seconds": 0,
@@ -3090,9 +3090,9 @@
     "total_seconds": 27828
   },
   "programmergod": {
-    "week_seconds": 332739,
+    "week_seconds": 336035,
     "week_start": 1781554499,
-    "total_seconds": 332739
+    "total_seconds": 336035
   },
   "monkeyaceparagon": {
     "week_seconds": 21,
@@ -9038,5 +9038,10 @@
     "week_seconds": 227,
     "week_start": 1782143720,
     "total_seconds": 227
+  },
+  "tanjiro62538": {
+    "week_seconds": 0,
+    "week_start": 1782144053,
+    "total_seconds": 0
   }
 }
