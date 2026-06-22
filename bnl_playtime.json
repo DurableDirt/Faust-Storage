@@ -1575,9 +1575,9 @@
     "total_seconds": 247777
   },
   "_2k42_": {
-    "week_seconds": 13281,
+    "week_seconds": 21946,
     "week_start": 1782112760,
-    "total_seconds": 101345
+    "total_seconds": 110010
   },
   "gobblin": {
     "week_seconds": 14131,
@@ -1655,9 +1655,9 @@
     "total_seconds": 34460
   },
   "voidvin": {
-    "week_seconds": 11703,
+    "week_seconds": 20157,
     "week_start": 1782116360,
-    "total_seconds": 115226
+    "total_seconds": 123680
   },
   "lordofthepig449": {
     "week_seconds": 0,
