@@ -1650,9 +1650,9 @@
     "total_seconds": 94363
   },
   "virexil": {
-    "week_seconds": 2313,
+    "week_seconds": 2331,
     "week_start": 1782116360,
-    "total_seconds": 36642
+    "total_seconds": 36660
   },
   "voidvin": {
     "week_seconds": 32330,
@@ -2810,9 +2810,9 @@
     "total_seconds": 45664
   },
   "nemesiscy": {
-    "week_seconds": 0,
+    "week_seconds": 2497,
     "week_start": 1782152360,
-    "total_seconds": 74350
+    "total_seconds": 76847
   },
   "quazaa32": {
     "week_seconds": 0,
@@ -9172,6 +9172,11 @@
   "matking66": {
     "week_seconds": 0,
     "week_start": 1782155136,
+    "total_seconds": 0
+  },
+  "maxie4321": {
+    "week_seconds": 0,
+    "week_start": 1782155641,
     "total_seconds": 0
   }
 }
