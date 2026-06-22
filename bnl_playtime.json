@@ -10,9 +10,9 @@
     "total_seconds": 4
   },
   "logic_man": {
-    "week_seconds": 12600,
+    "week_seconds": 12632,
     "week_start": 1782080360,
-    "total_seconds": 79478
+    "total_seconds": 79510
   },
   "dragran": {
     "week_seconds": 48630,
@@ -8767,6 +8767,11 @@
   "dg_gamer": {
     "week_seconds": 0,
     "week_start": 1782100450,
+    "total_seconds": 0
+  },
+  "jurolssino7": {
+    "week_seconds": 0,
+    "week_start": 1782100893,
     "total_seconds": 0
   }
 }
