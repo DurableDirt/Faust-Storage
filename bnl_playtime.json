@@ -1905,9 +1905,9 @@
     "total_seconds": 81836
   },
   "hxrl": {
-    "week_seconds": 5185,
+    "week_seconds": 7884,
     "week_start": 1782127160,
-    "total_seconds": 128811
+    "total_seconds": 131510
   },
   "ech0o_o0": {
     "week_seconds": 5158,
@@ -5985,9 +5985,9 @@
     "total_seconds": 21044
   },
   "what777": {
-    "week_seconds": 234109,
+    "week_seconds": 234156,
     "week_start": 1781783211,
-    "total_seconds": 234109
+    "total_seconds": 234156
   },
   "arealfriedwing": {
     "week_seconds": 218,
@@ -9277,6 +9277,11 @@
   "eurydikos": {
     "week_seconds": 0,
     "week_start": 1782165461,
+    "total_seconds": 0
+  },
+  "vai_": {
+    "week_seconds": 0,
+    "week_start": 1782165618,
     "total_seconds": 0
   }
 }
