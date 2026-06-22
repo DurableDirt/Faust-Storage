@@ -1750,9 +1750,9 @@
     "total_seconds": 230652
   },
   "stavros_ell": {
-    "week_seconds": 0,
+    "week_seconds": 2265,
     "week_start": 1782119960,
-    "total_seconds": 31843
+    "total_seconds": 34108
   },
   "facocero09": {
     "week_seconds": 12959,
@@ -9080,9 +9080,9 @@
     "total_seconds": 1604
   },
   "capiancolton": {
-    "week_seconds": 0,
+    "week_seconds": 4048,
     "week_start": 1782148977,
-    "total_seconds": 0
+    "total_seconds": 4048
   },
   "phantom_ph0": {
     "week_seconds": 70,
@@ -9142,6 +9142,11 @@
   "topher3001": {
     "week_seconds": 0,
     "week_start": 1782152372,
+    "total_seconds": 0
+  },
+  "bigbraingamr": {
+    "week_seconds": 0,
+    "week_start": 1782152901,
     "total_seconds": 0
   }
 }
