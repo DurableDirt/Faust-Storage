@@ -1650,9 +1650,9 @@
     "total_seconds": 94363
   },
   "virexil": {
-    "week_seconds": 1789,
+    "week_seconds": 2044,
     "week_start": 1782116360,
-    "total_seconds": 36118
+    "total_seconds": 36373
   },
   "voidvin": {
     "week_seconds": 24119,
@@ -3680,9 +3680,9 @@
     "total_seconds": 56869
   },
   "2lynx2": {
-    "week_seconds": 188689,
+    "week_seconds": 193106,
     "week_start": 1781577764,
-    "total_seconds": 188689
+    "total_seconds": 193106
   },
   "dredgarzomboss": {
     "week_seconds": 896,
@@ -8993,5 +8993,10 @@
     "week_seconds": 83,
     "week_start": 1782140401,
     "total_seconds": 83
+  },
+  "bluebabydidi": {
+    "week_seconds": 0,
+    "week_start": 1782140576,
+    "total_seconds": 0
   }
 }
