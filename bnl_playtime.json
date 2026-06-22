@@ -8845,9 +8845,9 @@
     "total_seconds": 4774
   },
   "kalamarko2": {
-    "week_seconds": 1821,
+    "week_seconds": 4556,
     "week_start": 1782115791,
-    "total_seconds": 1821
+    "total_seconds": 4556
   },
   "vickypere": {
     "week_seconds": 3460,
@@ -8878,5 +8878,10 @@
     "week_seconds": 0,
     "week_start": 1782120503,
     "total_seconds": 0
+  },
+  "nitando1234": {
+    "week_seconds": 5,
+    "week_start": 1782120608,
+    "total_seconds": 5
   }
 }
