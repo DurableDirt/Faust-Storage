@@ -4180,9 +4180,9 @@
     "total_seconds": 333
   },
   "novalis76": {
-    "week_seconds": 46428,
+    "week_seconds": 46534,
     "week_start": 1781628482,
-    "total_seconds": 46428
+    "total_seconds": 46534
   },
   "kynthea": {
     "week_seconds": 21430,
@@ -8827,6 +8827,11 @@
   "exoliun": {
     "week_seconds": 0,
     "week_start": 1782115345,
+    "total_seconds": 0
+  },
+  "coolb0x": {
+    "week_seconds": 0,
+    "week_start": 1782115476,
     "total_seconds": 0
   }
 }
