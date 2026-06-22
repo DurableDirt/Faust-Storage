@@ -4725,9 +4725,9 @@
     "total_seconds": 12996
   },
   "arkenx": {
-    "week_seconds": 9784,
+    "week_seconds": 12719,
     "week_start": 1781658998,
-    "total_seconds": 9784
+    "total_seconds": 12719
   },
   "enjoyer4": {
     "week_seconds": 507,
@@ -8963,5 +8963,15 @@
     "week_seconds": 1,
     "week_start": 1782137294,
     "total_seconds": 1
+  },
+  "thesquaredslayer": {
+    "week_seconds": 19,
+    "week_start": 1782138286,
+    "total_seconds": 19
+  },
+  "gomor08": {
+    "week_seconds": 2,
+    "week_start": 1782138302,
+    "total_seconds": 2
   }
 }
