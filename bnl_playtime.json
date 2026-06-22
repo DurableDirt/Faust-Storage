@@ -3105,108 +3105,108 @@
     "total_seconds": 13071
   },
   "crow9225": {
-    "week_seconds": 11138,
-    "week_start": 1781554864,
+    "week_seconds": 0,
+    "week_start": 1782163160,
     "total_seconds": 11138
   },
   "nhmillia": {
-    "week_seconds": 4,
-    "week_start": 1781554928,
+    "week_seconds": 0,
+    "week_start": 1782163160,
     "total_seconds": 4
   },
   "willfreddoo": {
-    "week_seconds": 99,
-    "week_start": 1781555015,
+    "week_seconds": 0,
+    "week_start": 1782163160,
     "total_seconds": 99
   },
   "jackmarston1914": {
-    "week_seconds": 1260,
-    "week_start": 1781555162,
+    "week_seconds": 0,
+    "week_start": 1782163160,
     "total_seconds": 1260
   },
   "rantha": {
-    "week_seconds": 236528,
-    "week_start": 1781555224,
+    "week_seconds": 0,
+    "week_start": 1782163160,
     "total_seconds": 236528
   },
   "blankestatlas": {
-    "week_seconds": 11936,
-    "week_start": 1781555374,
+    "week_seconds": 0,
+    "week_start": 1782163160,
     "total_seconds": 11936
   },
   "stashman1780": {
-    "week_seconds": 177262,
-    "week_start": 1781555462,
+    "week_seconds": 0,
+    "week_start": 1782163160,
     "total_seconds": 177262
   },
   "cokebrothers12": {
-    "week_seconds": 7943,
-    "week_start": 1781555712,
+    "week_seconds": 0,
+    "week_start": 1782163160,
     "total_seconds": 7943
   },
   "8donis": {
-    "week_seconds": 12632,
-    "week_start": 1781555877,
+    "week_seconds": 0,
+    "week_start": 1782163160,
     "total_seconds": 12632
   },
   "thaddemus": {
-    "week_seconds": 4115,
-    "week_start": 1781556086,
+    "week_seconds": 0,
+    "week_start": 1782163160,
     "total_seconds": 4115
   },
   "theonezeroth": {
-    "week_seconds": 272,
-    "week_start": 1781556400,
+    "week_seconds": 0,
+    "week_start": 1782163160,
     "total_seconds": 272
   },
   "el_luk": {
-    "week_seconds": 68,
-    "week_start": 1781556449,
+    "week_seconds": 0,
+    "week_start": 1782163160,
     "total_seconds": 68
   },
   "metropolitan_": {
-    "week_seconds": 58567,
-    "week_start": 1781556797,
+    "week_seconds": 0,
+    "week_start": 1782163160,
     "total_seconds": 58567
   },
   "rosalinopossum": {
-    "week_seconds": 65182,
-    "week_start": 1781557258,
+    "week_seconds": 0,
+    "week_start": 1782163160,
     "total_seconds": 65182
   },
   "baby_yodayt": {
-    "week_seconds": 54,
-    "week_start": 1781557380,
+    "week_seconds": 0,
+    "week_start": 1782163160,
     "total_seconds": 54
   },
   "1stev0": {
-    "week_seconds": 220525,
-    "week_start": 1781557435,
+    "week_seconds": 0,
+    "week_start": 1782163160,
     "total_seconds": 220525
   },
   "jonandr5735": {
-    "week_seconds": 322,
-    "week_start": 1781557522,
+    "week_seconds": 0,
+    "week_start": 1782163160,
     "total_seconds": 322
   },
   "leadattic_": {
-    "week_seconds": 110718,
-    "week_start": 1781557797,
+    "week_seconds": 0,
+    "week_start": 1782163160,
     "total_seconds": 110718
   },
   "black__wolf_": {
-    "week_seconds": 77540,
-    "week_start": 1781557800,
+    "week_seconds": 0,
+    "week_start": 1782163160,
     "total_seconds": 77540
   },
   "060__": {
-    "week_seconds": 8994,
-    "week_start": 1781557885,
+    "week_seconds": 0,
+    "week_start": 1782163160,
     "total_seconds": 8994
   },
   "proofen22": {
-    "week_seconds": 210,
-    "week_start": 1781558133,
+    "week_seconds": 0,
+    "week_start": 1782163160,
     "total_seconds": 210
   },
   "cifec": {
@@ -4705,9 +4705,9 @@
     "total_seconds": 404
   },
   "jbblocker": {
-    "week_seconds": 4636,
+    "week_seconds": 11559,
     "week_start": 1781658387,
-    "total_seconds": 4636
+    "total_seconds": 11559
   },
   "jakobsofficial": {
     "week_seconds": 43693,
@@ -7010,9 +7010,9 @@
     "total_seconds": 73
   },
   "pfp_nexl": {
-    "week_seconds": 40718,
+    "week_seconds": 48180,
     "week_start": 1781884734,
-    "total_seconds": 40718
+    "total_seconds": 48180
   },
   "blizardxace": {
     "week_seconds": 278,
@@ -9247,6 +9247,11 @@
   "yemmbu_": {
     "week_seconds": 0,
     "week_start": 1782163085,
+    "total_seconds": 0
+  },
+  "0drhammond0": {
+    "week_seconds": 0,
+    "week_start": 1782163166,
     "total_seconds": 0
   }
 }
