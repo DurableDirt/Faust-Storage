@@ -1510,9 +1510,9 @@
     "total_seconds": 15705
   },
   "t0mcat1": {
-    "week_seconds": 2899,
+    "week_seconds": 3690,
     "week_start": 1782105560,
-    "total_seconds": 22009
+    "total_seconds": 22800
   },
   "fang_op": {
     "week_seconds": 19835,
@@ -9285,8 +9285,8 @@
     "total_seconds": 0
   },
   "mis_misato": {
-    "week_seconds": 0,
+    "week_seconds": 66,
     "week_start": 1782165726,
-    "total_seconds": 0
+    "total_seconds": 66
   }
 }
