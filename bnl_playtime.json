@@ -3210,9 +3210,9 @@
     "total_seconds": 210
   },
   "cifec": {
-    "week_seconds": 29228,
+    "week_seconds": 32768,
     "week_start": 1781558539,
-    "total_seconds": 29228
+    "total_seconds": 32768
   },
   "tikrainegedvilas": {
     "week_seconds": 32284,
@@ -8980,9 +8980,9 @@
     "total_seconds": 431
   },
   "snowclimb": {
-    "week_seconds": 0,
+    "week_seconds": 1293,
     "week_start": 1782139555,
-    "total_seconds": 0
+    "total_seconds": 1293
   },
   "justqueeck": {
     "week_seconds": 427,
