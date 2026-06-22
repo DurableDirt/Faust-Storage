@@ -1160,9 +1160,9 @@
     "total_seconds": 23715
   },
   "toonylinksr": {
-    "week_seconds": 0,
+    "week_seconds": 60,
     "week_start": 1782094760,
-    "total_seconds": 51433
+    "total_seconds": 51493
   },
   "nateoneandonly": {
     "week_seconds": 26697,
@@ -1500,9 +1500,9 @@
     "total_seconds": 3061
   },
   "innatee": {
-    "week_seconds": 487,
+    "week_seconds": 1260,
     "week_start": 1782105560,
-    "total_seconds": 151341
+    "total_seconds": 152114
   },
   "arbiteradvit": {
     "week_seconds": 0,
@@ -9017,6 +9017,11 @@
   "flashbash21": {
     "week_seconds": 0,
     "week_start": 1782141767,
+    "total_seconds": 0
+  },
+  "zetm4n": {
+    "week_seconds": 0,
+    "week_start": 1782142049,
     "total_seconds": 0
   }
 }
