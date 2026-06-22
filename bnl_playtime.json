@@ -3740,9 +3740,9 @@
     "total_seconds": 4405
   },
   "spenduh": {
-    "week_seconds": 15147,
+    "week_seconds": 23530,
     "week_start": 1781582696,
-    "total_seconds": 15147
+    "total_seconds": 23530
   },
   "chickenjockey500": {
     "week_seconds": 199,
@@ -8722,6 +8722,11 @@
   "catra_meowmeow": {
     "week_seconds": 0,
     "week_start": 1782094968,
+    "total_seconds": 0
+  },
+  "therealjewy": {
+    "week_seconds": 0,
+    "week_start": 1782095270,
     "total_seconds": 0
   }
 }
