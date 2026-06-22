@@ -985,9 +985,9 @@
     "total_seconds": 71710
   },
   "ms_enchanted": {
-    "week_seconds": 0,
+    "week_seconds": 7337,
     "week_start": 1782091160,
-    "total_seconds": 135478
+    "total_seconds": 142815
   },
   "jettkid17": {
     "week_seconds": 0,
@@ -6625,9 +6625,9 @@
     "total_seconds": 11230
   },
   "follivlxx": {
-    "week_seconds": 136272,
+    "week_seconds": 137904,
     "week_start": 1781833191,
-    "total_seconds": 136272
+    "total_seconds": 137904
   },
   "tippyshippy": {
     "week_seconds": 343,
@@ -8978,5 +8978,10 @@
     "week_seconds": 6,
     "week_start": 1782138974,
     "total_seconds": 6
+  },
+  "snowclimb": {
+    "week_seconds": 0,
+    "week_start": 1782139555,
+    "total_seconds": 0
   }
 }
