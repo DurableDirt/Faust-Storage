@@ -5760,9 +5760,9 @@
     "total_seconds": 125
   },
   "_domain": {
-    "week_seconds": 63576,
+    "week_seconds": 72488,
     "week_start": 1781750091,
-    "total_seconds": 63576
+    "total_seconds": 72488
   },
   "bonjour": {
     "week_seconds": 99,
@@ -5985,9 +5985,9 @@
     "total_seconds": 21044
   },
   "what777": {
-    "week_seconds": 220602,
+    "week_seconds": 221060,
     "week_start": 1781783211,
-    "total_seconds": 220602
+    "total_seconds": 221060
   },
   "arealfriedwing": {
     "week_seconds": 218,
@@ -6705,9 +6705,9 @@
     "total_seconds": 57365
   },
   "heartsii": {
-    "week_seconds": 150538,
+    "week_seconds": 150721,
     "week_start": 1781841865,
-    "total_seconds": 150538
+    "total_seconds": 150721
   },
   "muddy443m": {
     "week_seconds": 10774,
@@ -8670,9 +8670,9 @@
     "total_seconds": 4959
   },
   "obsidian_mike": {
-    "week_seconds": 15350,
+    "week_seconds": 15884,
     "week_start": 1782089382,
-    "total_seconds": 15350
+    "total_seconds": 15884
   },
   "rygysofly": {
     "week_seconds": 4523,
@@ -9112,6 +9112,11 @@
   "_rusnaka777": {
     "week_seconds": 0,
     "week_start": 1782151102,
+    "total_seconds": 0
+  },
+  "quagmire": {
+    "week_seconds": 0,
+    "week_start": 1782151931,
     "total_seconds": 0
   }
 }
