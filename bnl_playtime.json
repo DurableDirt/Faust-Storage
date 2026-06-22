@@ -905,9 +905,9 @@
     "total_seconds": 33736
   },
   "ifriendiscool": {
-    "week_seconds": 25178,
+    "week_seconds": 26789,
     "week_start": 1782091160,
-    "total_seconds": 170176
+    "total_seconds": 171787
   },
   "ytrewq64": {
     "week_seconds": 0,
@@ -2925,9 +2925,9 @@
     "total_seconds": 25783
   },
   "seiseitan": {
-    "week_seconds": 9996,
+    "week_seconds": 10425,
     "week_start": 1782155960,
-    "total_seconds": 69878
+    "total_seconds": 70307
   },
   "lolle0": {
     "week_seconds": 832,
@@ -9292,6 +9292,11 @@
   "fl0pshot": {
     "week_seconds": 0,
     "week_start": 1782166633,
+    "total_seconds": 0
+  },
+  "zergannie": {
+    "week_seconds": 0,
+    "week_start": 1782166750,
     "total_seconds": 0
   }
 }
