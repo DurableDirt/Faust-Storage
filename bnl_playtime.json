@@ -1340,9 +1340,9 @@
     "total_seconds": 50170
   },
   "misprint293": {
-    "week_seconds": 16489,
+    "week_seconds": 25664,
     "week_start": 1782098360,
-    "total_seconds": 133824
+    "total_seconds": 142999
   },
   "choripancaliente": {
     "week_seconds": 0,
@@ -2810,9 +2810,9 @@
     "total_seconds": 45664
   },
   "nemesiscy": {
-    "week_seconds": 12712,
+    "week_seconds": 14057,
     "week_start": 1782152360,
-    "total_seconds": 87062
+    "total_seconds": 88407
   },
   "quazaa32": {
     "week_seconds": 0,
@@ -9315,8 +9315,8 @@
     "total_seconds": 0
   },
   "tarekxt": {
-    "week_seconds": 0,
+    "week_seconds": 224,
     "week_start": 1782167733,
-    "total_seconds": 0
+    "total_seconds": 224
   }
 }
