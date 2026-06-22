@@ -1750,9 +1750,9 @@
     "total_seconds": 246818
   },
   "stavros_ell": {
-    "week_seconds": 10232,
+    "week_seconds": 19782,
     "week_start": 1782119960,
-    "total_seconds": 42075
+    "total_seconds": 51625
   },
   "facocero09": {
     "week_seconds": 29726,
@@ -9353,5 +9353,10 @@
     "week_seconds": 278,
     "week_start": 1782169725,
     "total_seconds": 278
+  },
+  "empirecorsica": {
+    "week_seconds": 0,
+    "week_start": 1782170800,
+    "total_seconds": 0
   }
 }
