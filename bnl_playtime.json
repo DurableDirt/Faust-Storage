@@ -740,9 +740,9 @@
     "total_seconds": 276
   },
   "grepsedawk": {
-    "week_seconds": 42570,
+    "week_seconds": 42619,
     "week_start": 1782087560,
-    "total_seconds": 443726
+    "total_seconds": 443775
   },
   "complexii": {
     "week_seconds": 0,
@@ -8852,6 +8852,11 @@
   "vickypere": {
     "week_seconds": 0,
     "week_start": 1782116948,
+    "total_seconds": 0
+  },
+  "trulyareal": {
+    "week_seconds": 0,
+    "week_start": 1782117406,
     "total_seconds": 0
   }
 }
