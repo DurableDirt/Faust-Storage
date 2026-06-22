@@ -5985,9 +5985,9 @@
     "total_seconds": 21044
   },
   "what777": {
-    "week_seconds": 213886,
+    "week_seconds": 213905,
     "week_start": 1781783211,
-    "total_seconds": 213886
+    "total_seconds": 213905
   },
   "arealfriedwing": {
     "week_seconds": 218,
@@ -8762,6 +8762,11 @@
   "bellybuttonbob6": {
     "week_seconds": 0,
     "week_start": 1782100391,
+    "total_seconds": 0
+  },
+  "dg_gamer": {
+    "week_seconds": 0,
+    "week_start": 1782100450,
     "total_seconds": 0
   }
 }
