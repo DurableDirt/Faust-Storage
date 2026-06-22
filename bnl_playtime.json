@@ -5185,9 +5185,9 @@
     "total_seconds": 118
   },
   "shafiahaz2478": {
-    "week_seconds": 38612,
+    "week_seconds": 40021,
     "week_start": 1781707838,
-    "total_seconds": 38612
+    "total_seconds": 40021
   },
   "ahmad_elayyen": {
     "week_seconds": 11708,
@@ -8840,9 +8840,9 @@
     "total_seconds": 371
   },
   "virtual_j1": {
-    "week_seconds": 0,
+    "week_seconds": 4774,
     "week_start": 1782115757,
-    "total_seconds": 0
+    "total_seconds": 4774
   },
   "kalamarko2": {
     "week_seconds": 1821,
@@ -8872,6 +8872,11 @@
   "cerreckter": {
     "week_seconds": 0,
     "week_start": 1782119350,
+    "total_seconds": 0
+  },
+  "morningsoda": {
+    "week_seconds": 0,
+    "week_start": 1782120503,
     "total_seconds": 0
   }
 }
