@@ -715,9 +715,9 @@
     "total_seconds": 24277
   },
   "limtingus1": {
-    "week_seconds": 264265,
+    "week_seconds": 277188,
     "week_start": 1781482426,
-    "total_seconds": 264265
+    "total_seconds": 277188
   },
   "the_montenegrin": {
     "week_seconds": 329,
@@ -8640,8 +8640,8 @@
     "total_seconds": 64
   },
   "7_misun": {
-    "week_seconds": 0,
+    "week_seconds": 76,
     "week_start": 1782086796,
-    "total_seconds": 0
+    "total_seconds": 76
   }
 }
