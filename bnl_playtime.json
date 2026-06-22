@@ -1640,9 +1640,9 @@
     "total_seconds": 2807
   },
   "dominius_x": {
-    "week_seconds": 11207,
+    "week_seconds": 15709,
     "week_start": 1782116360,
-    "total_seconds": 136539
+    "total_seconds": 141041
   },
   "xenos": {
     "week_seconds": 1927,
@@ -2145,9 +2145,9 @@
     "total_seconds": 231726
   },
   "daimnasal": {
-    "week_seconds": 95897,
+    "week_seconds": 95964,
     "week_start": 1781527309,
-    "total_seconds": 95897
+    "total_seconds": 95964
   },
   "azurisdev": {
     "week_seconds": 133,
