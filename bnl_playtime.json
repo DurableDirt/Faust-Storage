@@ -1365,9 +1365,9 @@
     "total_seconds": 13471
   },
   "rammyls": {
-    "week_seconds": 0,
+    "week_seconds": 3842,
     "week_start": 1782101960,
-    "total_seconds": 121465
+    "total_seconds": 125307
   },
   "adelover01": {
     "week_seconds": 0,
@@ -4715,9 +4715,9 @@
     "total_seconds": 43693
   },
   "tubbzie": {
-    "week_seconds": 195292,
+    "week_seconds": 196349,
     "week_start": 1781658601,
-    "total_seconds": 195292
+    "total_seconds": 196349
   },
   "fakersfemboy": {
     "week_seconds": 12959,
@@ -8782,6 +8782,11 @@
   "cronith16": {
     "week_seconds": 0,
     "week_start": 1782104418,
+    "total_seconds": 0
+  },
+  "dimatheone": {
+    "week_seconds": 0,
+    "week_start": 1782104702,
     "total_seconds": 0
   }
 }
