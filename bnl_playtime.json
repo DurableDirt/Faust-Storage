@@ -65,9 +65,9 @@
     "total_seconds": 411981
   },
   "rainsinger": {
-    "week_seconds": 0,
+    "week_seconds": 101,
     "week_start": 1782080360,
-    "total_seconds": 93689
+    "total_seconds": 93790
   },
   "jindosh": {
     "week_seconds": 23957,
@@ -8815,8 +8815,8 @@
     "total_seconds": 676
   },
   "cxmplement": {
-    "week_seconds": 5,
+    "week_seconds": 374,
     "week_start": 1782112674,
-    "total_seconds": 5
+    "total_seconds": 374
   }
 }
