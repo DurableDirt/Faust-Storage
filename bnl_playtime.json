@@ -815,9 +815,9 @@
     "total_seconds": 149962
   },
   "gnathope": {
-    "week_seconds": 6168,
+    "week_seconds": 6387,
     "week_start": 1782091160,
-    "total_seconds": 108164
+    "total_seconds": 108383
   },
   "freeblade999": {
     "week_seconds": 4102,
@@ -2915,9 +2915,9 @@
     "total_seconds": 3378
   },
   "emilderking": {
-    "week_seconds": 454,
+    "week_seconds": 512,
     "week_start": 1782155960,
-    "total_seconds": 4751
+    "total_seconds": 4809
   },
   "sishi0417": {
     "week_seconds": 0,
@@ -3660,9 +3660,9 @@
     "total_seconds": 986
   },
   "mirkenmidnight": {
-    "week_seconds": 23839,
+    "week_seconds": 23855,
     "week_start": 1781576827,
-    "total_seconds": 23839
+    "total_seconds": 23855
   },
   "sharpbag9376805": {
     "week_seconds": 1231,
@@ -9237,6 +9237,11 @@
   "qtq_uwu": {
     "week_seconds": 0,
     "week_start": 1782162157,
+    "total_seconds": 0
+  },
+  "midnightrblx": {
+    "week_seconds": 0,
+    "week_start": 1782162587,
     "total_seconds": 0
   }
 }
