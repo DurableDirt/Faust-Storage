@@ -65,9 +65,9 @@
     "total_seconds": 411981
   },
   "rainsinger": {
-    "week_seconds": 101,
+    "week_seconds": 4833,
     "week_start": 1782080360,
-    "total_seconds": 93790
+    "total_seconds": 98522
   },
   "jindosh": {
     "week_seconds": 23957,
@@ -6835,9 +6835,9 @@
     "total_seconds": 9130
   },
   "coradiabutsmart": {
-    "week_seconds": 32520,
+    "week_seconds": 35377,
     "week_start": 1781861560,
-    "total_seconds": 32520
+    "total_seconds": 35377
   },
   "yarikheit": {
     "week_seconds": 577,
@@ -8845,9 +8845,9 @@
     "total_seconds": 0
   },
   "kalamarko2": {
-    "week_seconds": 1135,
+    "week_seconds": 1793,
     "week_start": 1782115791,
-    "total_seconds": 1135
+    "total_seconds": 1793
   },
   "vickypere": {
     "week_seconds": 0,
@@ -8858,5 +8858,10 @@
     "week_seconds": 177,
     "week_start": 1782117406,
     "total_seconds": 177
+  },
+  "maxi12390": {
+    "week_seconds": 0,
+    "week_start": 1782117785,
+    "total_seconds": 0
   }
 }
