@@ -905,9 +905,9 @@
     "total_seconds": 32886
   },
   "ifriendiscool": {
-    "week_seconds": 3274,
+    "week_seconds": 3620,
     "week_start": 1782091160,
-    "total_seconds": 148272
+    "total_seconds": 148618
   },
   "ytrewq64": {
     "week_seconds": 0,
@@ -8787,6 +8787,11 @@
   "dimatheone": {
     "week_seconds": 0,
     "week_start": 1782104702,
+    "total_seconds": 0
+  },
+  "mixxx3": {
+    "week_seconds": 0,
+    "week_start": 1782104766,
     "total_seconds": 0
   }
 }
