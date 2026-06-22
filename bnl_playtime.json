@@ -1665,9 +1665,9 @@
     "total_seconds": 9341
   },
   "polysemic": {
-    "week_seconds": 2927,
+    "week_seconds": 3212,
     "week_start": 1782116360,
-    "total_seconds": 80234
+    "total_seconds": 80519
   },
   "wuli": {
     "week_seconds": 3301,
@@ -3675,9 +3675,9 @@
     "total_seconds": 3946
   },
   "swampbog": {
-    "week_seconds": 61971,
+    "week_seconds": 67233,
     "week_start": 1781577612,
-    "total_seconds": 61971
+    "total_seconds": 67233
   },
   "2lynx2": {
     "week_seconds": 195453,
@@ -7040,9 +7040,9 @@
     "total_seconds": 34517
   },
   "goosie1238": {
-    "week_seconds": 30487,
+    "week_seconds": 30891,
     "week_start": 1781889612,
-    "total_seconds": 30487
+    "total_seconds": 30891
   },
   "davosforum": {
     "week_seconds": 23,
@@ -9185,8 +9185,8 @@
     "total_seconds": 0
   },
   "dominikoss": {
-    "week_seconds": 0,
+    "week_seconds": 149,
     "week_start": 1782156132,
-    "total_seconds": 0
+    "total_seconds": 149
   }
 }
