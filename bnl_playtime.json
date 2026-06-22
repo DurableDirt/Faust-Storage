@@ -390,9 +390,9 @@
     "total_seconds": 135633
   },
   "kokomiology": {
-    "week_seconds": 18717,
+    "week_seconds": 20118,
     "week_start": 1782083960,
-    "total_seconds": 99234
+    "total_seconds": 100635
   },
   "toasted745": {
     "week_seconds": 0,
@@ -1340,9 +1340,9 @@
     "total_seconds": 48721
   },
   "misprint293": {
-    "week_seconds": 780,
+    "week_seconds": 4364,
     "week_start": 1782098360,
-    "total_seconds": 118115
+    "total_seconds": 121699
   },
   "choripancaliente": {
     "week_seconds": 0,
@@ -8802,6 +8802,11 @@
   "notaww2tank": {
     "week_seconds": 0,
     "week_start": 1782105364,
+    "total_seconds": 0
+  },
+  "gray9111": {
+    "week_seconds": 0,
+    "week_start": 1782107168,
     "total_seconds": 0
   }
 }
