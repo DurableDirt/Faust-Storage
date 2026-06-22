@@ -3085,9 +3085,9 @@
     "total_seconds": 24779
   },
   "refwoza": {
-    "week_seconds": 30260,
+    "week_seconds": 30486,
     "week_start": 1781554201,
-    "total_seconds": 30260
+    "total_seconds": 30486
   },
   "programmergod": {
     "week_seconds": 339070,
@@ -9192,6 +9192,11 @@
   "qman21": {
     "week_seconds": 0,
     "week_start": 1782156629,
+    "total_seconds": 0
+  },
+  "mrhulk77": {
+    "week_seconds": 0,
+    "week_start": 1782156653,
     "total_seconds": 0
   }
 }
