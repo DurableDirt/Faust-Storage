@@ -2140,9 +2140,9 @@
     "total_seconds": 106224
   },
   "sqopenspellbook": {
-    "week_seconds": 220113,
+    "week_seconds": 231726,
     "week_start": 1781526809,
-    "total_seconds": 220113
+    "total_seconds": 231726
   },
   "daimnasal": {
     "week_seconds": 91102,
@@ -8690,9 +8690,9 @@
     "total_seconds": 0
   },
   "unobservedproton": {
-    "week_seconds": 532,
+    "week_seconds": 641,
     "week_start": 1782092889,
-    "total_seconds": 532
+    "total_seconds": 641
   },
   "prokimon51": {
     "week_seconds": 1059,
@@ -8712,6 +8712,11 @@
   "theeternalflame_": {
     "week_seconds": 0,
     "week_start": 1782093932,
+    "total_seconds": 0
+  },
+  "tiitaniumsilver": {
+    "week_seconds": 0,
+    "week_start": 1782094567,
     "total_seconds": 0
   }
 }
