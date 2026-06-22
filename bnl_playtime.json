@@ -3010,9 +3010,9 @@
     "total_seconds": 7822
   },
   "avale86x64": {
-    "week_seconds": 10025,
+    "week_seconds": 13344,
     "week_start": 1781551967,
-    "total_seconds": 10025
+    "total_seconds": 13344
   },
   "houdiniandseek": {
     "week_seconds": 2,
@@ -6595,9 +6595,9 @@
     "total_seconds": 18470
   },
   "blkwaterr": {
-    "week_seconds": 62998,
+    "week_seconds": 64000,
     "week_start": 1781829672,
-    "total_seconds": 62998
+    "total_seconds": 64000
   },
   "nimph356": {
     "week_seconds": 8652,
