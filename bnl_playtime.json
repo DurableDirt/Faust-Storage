@@ -2925,9 +2925,9 @@
     "total_seconds": 25783
   },
   "seiseitan": {
-    "week_seconds": 8705,
+    "week_seconds": 9479,
     "week_start": 1782155960,
-    "total_seconds": 68587
+    "total_seconds": 69361
   },
   "lolle0": {
     "week_seconds": 832,
@@ -4940,9 +4940,9 @@
     "total_seconds": 1385
   },
   "the_player_101": {
-    "week_seconds": 11221,
+    "week_seconds": 11333,
     "week_start": 1781677646,
-    "total_seconds": 11221
+    "total_seconds": 11333
   },
   "3ncrypted_p4sty": {
     "week_seconds": 6336,
@@ -5985,9 +5985,9 @@
     "total_seconds": 21044
   },
   "what777": {
-    "week_seconds": 234156,
+    "week_seconds": 234214,
     "week_start": 1781783211,
-    "total_seconds": 234156
+    "total_seconds": 234214
   },
   "arealfriedwing": {
     "week_seconds": 218,
@@ -9260,9 +9260,9 @@
     "total_seconds": 0
   },
   "td_xgodx": {
-    "week_seconds": 0,
+    "week_seconds": 1077,
     "week_start": 1782164693,
-    "total_seconds": 0
+    "total_seconds": 1077
   },
   "bv0j1201": {
     "week_seconds": 0,
@@ -9275,13 +9275,18 @@
     "total_seconds": 457
   },
   "eurydikos": {
-    "week_seconds": 0,
+    "week_seconds": 276,
     "week_start": 1782165461,
-    "total_seconds": 0
+    "total_seconds": 276
   },
   "vai_": {
     "week_seconds": 0,
     "week_start": 1782165618,
+    "total_seconds": 0
+  },
+  "mis_misato": {
+    "week_seconds": 0,
+    "week_start": 1782165726,
     "total_seconds": 0
   }
 }
