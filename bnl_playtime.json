@@ -955,9 +955,9 @@
     "total_seconds": 81896
   },
   "pointy_hii": {
-    "week_seconds": 3096,
+    "week_seconds": 5247,
     "week_start": 1782091160,
-    "total_seconds": 123925
+    "total_seconds": 126076
   },
   "blewo": {
     "week_seconds": 0,
@@ -8732,6 +8732,11 @@
   "smmdz": {
     "week_seconds": 0,
     "week_start": 1782095563,
+    "total_seconds": 0
+  },
+  "teagy_bear": {
+    "week_seconds": 0,
+    "week_start": 1782096198,
     "total_seconds": 0
   }
 }
