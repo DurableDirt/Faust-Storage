@@ -945,9 +945,9 @@
     "total_seconds": 385026
   },
   "xcios": {
-    "week_seconds": 40530,
+    "week_seconds": 45141,
     "week_start": 1781485868,
-    "total_seconds": 40530
+    "total_seconds": 45141
   },
   "bylethseisner": {
     "week_seconds": 81896,
@@ -1050,9 +1050,9 @@
     "total_seconds": 136115
   },
   "rodragonlux": {
-    "week_seconds": 11291,
+    "week_seconds": 13627,
     "week_start": 1781487016,
-    "total_seconds": 11291
+    "total_seconds": 13627
   },
   "arkane9975": {
     "week_seconds": 28177,
@@ -8627,6 +8627,11 @@
   "waveofdeath99": {
     "week_seconds": 0,
     "week_start": 1782086310,
+    "total_seconds": 0
+  },
+  "kryfe": {
+    "week_seconds": 0,
+    "week_start": 1782086452,
     "total_seconds": 0
   }
 }
