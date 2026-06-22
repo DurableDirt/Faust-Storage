@@ -6625,9 +6625,9 @@
     "total_seconds": 11170
   },
   "follivlxx": {
-    "week_seconds": 116763,
+    "week_seconds": 122503,
     "week_start": 1781833191,
-    "total_seconds": 116763
+    "total_seconds": 122503
   },
   "tippyshippy": {
     "week_seconds": 343,
@@ -8842,6 +8842,11 @@
   "virtual_j1": {
     "week_seconds": 0,
     "week_start": 1782115757,
+    "total_seconds": 0
+  },
+  "kalamarko2": {
+    "week_seconds": 0,
+    "week_start": 1782115791,
     "total_seconds": 0
   }
 }
