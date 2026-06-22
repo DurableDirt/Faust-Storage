@@ -450,9 +450,9 @@
     "total_seconds": 235351
   },
   "mrtnt1925": {
-    "week_seconds": 3628,
+    "week_seconds": 3748,
     "week_start": 1782083960,
-    "total_seconds": 164584
+    "total_seconds": 164704
   },
   "axsld": {
     "week_seconds": 29548,
@@ -3130,9 +3130,9 @@
     "total_seconds": 236528
   },
   "blankestatlas": {
-    "week_seconds": 0,
+    "week_seconds": 778,
     "week_start": 1782163160,
-    "total_seconds": 11936
+    "total_seconds": 12714
   },
   "stashman1780": {
     "week_seconds": 11037,
@@ -3830,9 +3830,9 @@
     "total_seconds": 56729
   },
   "eledion": {
-    "week_seconds": 151840,
+    "week_seconds": 155974,
     "week_start": 1781595185,
-    "total_seconds": 151840
+    "total_seconds": 155974
   },
   "kashev": {
     "week_seconds": 46809,
