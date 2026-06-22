@@ -105,9 +105,9 @@
     "total_seconds": 116462
   },
   "slothinasuit": {
-    "week_seconds": 5310,
+    "week_seconds": 17179,
     "week_start": 1782080360,
-    "total_seconds": 243864
+    "total_seconds": 255733
   },
   "jck20h": {
     "week_seconds": 0,
@@ -8750,8 +8750,8 @@
     "total_seconds": 0
   },
   "notduffy": {
-    "week_seconds": 0,
+    "week_seconds": 691,
     "week_start": 1782099597,
-    "total_seconds": 0
+    "total_seconds": 691
   }
 }
