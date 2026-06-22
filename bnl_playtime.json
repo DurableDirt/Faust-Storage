@@ -555,9 +555,9 @@
     "total_seconds": 158
   },
   "zolo17": {
-    "week_seconds": 1771,
+    "week_seconds": 7248,
     "week_start": 1782087560,
-    "total_seconds": 522337
+    "total_seconds": 527814
   },
   "dutchcringe": {
     "week_seconds": 542,
@@ -8933,5 +8933,10 @@
     "week_seconds": 418,
     "week_start": 1782128741,
     "total_seconds": 418
+  },
+  "brandx907": {
+    "week_seconds": 0,
+    "week_start": 1782129315,
+    "total_seconds": 0
   }
 }
