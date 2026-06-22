@@ -1485,9 +1485,9 @@
     "total_seconds": 2953
   },
   "jpmiii": {
-    "week_seconds": 0,
+    "week_seconds": 1567,
     "week_start": 1782105560,
-    "total_seconds": 37738
+    "total_seconds": 39305
   },
   "benpuma25": {
     "week_seconds": 0,
@@ -7320,9 +7320,9 @@
     "total_seconds": 173
   },
   "naha000": {
-    "week_seconds": 51,
+    "week_seconds": 73,
     "week_start": 1781918745,
-    "total_seconds": 51
+    "total_seconds": 73
   },
   "krayouo": {
     "week_seconds": 3899,
@@ -8920,9 +8920,9 @@
     "total_seconds": 5534
   },
   "solaid": {
-    "week_seconds": 2773,
+    "week_seconds": 4971,
     "week_start": 1782127069,
-    "total_seconds": 2773
+    "total_seconds": 4971
   },
   "chris__mapper": {
     "week_seconds": 2239,
@@ -9370,8 +9370,18 @@
     "total_seconds": 0
   },
   "aabcdp": {
-    "week_seconds": 33,
+    "week_seconds": 138,
     "week_start": 1782171629,
-    "total_seconds": 33
+    "total_seconds": 138
+  },
+  "itbruns": {
+    "week_seconds": 0,
+    "week_start": 1782171781,
+    "total_seconds": 0
+  },
+  "phoenix3718": {
+    "week_seconds": 0,
+    "week_start": 1782171857,
+    "total_seconds": 0
   }
 }
