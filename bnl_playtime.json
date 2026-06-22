@@ -820,9 +820,9 @@
     "total_seconds": 101996
   },
   "freeblade999": {
-    "week_seconds": 64670,
+    "week_seconds": 64717,
     "week_start": 1781483933,
-    "total_seconds": 64670
+    "total_seconds": 64717
   },
   "westburn": {
     "week_seconds": 6,
@@ -7725,9 +7725,9 @@
     "total_seconds": 145
   },
   "carter_t23": {
-    "week_seconds": 9604,
+    "week_seconds": 13740,
     "week_start": 1781973439,
-    "total_seconds": 9604
+    "total_seconds": 13740
   },
   "mr_unwanted": {
     "week_seconds": 733,
