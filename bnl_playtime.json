@@ -2145,9 +2145,9 @@
     "total_seconds": 231726
   },
   "daimnasal": {
-    "week_seconds": 92721,
+    "week_seconds": 92821,
     "week_start": 1781527309,
-    "total_seconds": 92721
+    "total_seconds": 92821
   },
   "azurisdev": {
     "week_seconds": 133,
@@ -8898,5 +8898,10 @@
     "week_seconds": 0,
     "week_start": 1782124080,
     "total_seconds": 0
+  },
+  "jaskowanie": {
+    "week_seconds": 3,
+    "week_start": 1782124652,
+    "total_seconds": 3
   }
 }
