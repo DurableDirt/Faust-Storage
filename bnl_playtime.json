@@ -2240,9 +2240,9 @@
     "total_seconds": 130643
   },
   "zalvvv": {
-    "week_seconds": 67340,
+    "week_seconds": 67347,
     "week_start": 1781529159,
-    "total_seconds": 67340
+    "total_seconds": 67347
   },
   "ambersolberg205": {
     "week_seconds": 47958,
@@ -8823,5 +8823,10 @@
     "week_seconds": 63,
     "week_start": 1782113512,
     "total_seconds": 63
+  },
+  "exoliun": {
+    "week_seconds": 0,
+    "week_start": 1782115345,
+    "total_seconds": 0
   }
 }
