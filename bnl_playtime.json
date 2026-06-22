@@ -4965,9 +4965,9 @@
     "total_seconds": 12989
   },
   "plutouz": {
-    "week_seconds": 2136,
+    "week_seconds": 3570,
     "week_start": 1781680090,
-    "total_seconds": 2136
+    "total_seconds": 3570
   },
   "swordshore": {
     "week_seconds": 785,
@@ -9225,8 +9225,8 @@
     "total_seconds": 0
   },
   "omar040": {
-    "week_seconds": 0,
+    "week_seconds": 326,
     "week_start": 1782160231,
-    "total_seconds": 0
+    "total_seconds": 326
   }
 }
