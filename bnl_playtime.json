@@ -175,9 +175,9 @@
     "total_seconds": 9418
   },
   "therisewarrior16": {
-    "week_seconds": 11258,
+    "week_seconds": 12749,
     "week_start": 1782083960,
-    "total_seconds": 92132
+    "total_seconds": 93623
   },
   "pasteldepapa777": {
     "week_seconds": 0,
@@ -8725,8 +8725,13 @@
     "total_seconds": 0
   },
   "therealjewy": {
-    "week_seconds": 0,
+    "week_seconds": 337,
     "week_start": 1782095270,
+    "total_seconds": 337
+  },
+  "smmdz": {
+    "week_seconds": 0,
+    "week_start": 1782095563,
     "total_seconds": 0
   }
 }
