@@ -2540,9 +2540,9 @@
     "total_seconds": 2689
   },
   "i_waffle_i": {
-    "week_seconds": 0,
+    "week_seconds": 7,
     "week_start": 1782145160,
-    "total_seconds": 6950
+    "total_seconds": 6957
   },
   "milevsky": {
     "week_seconds": 14455,
@@ -4110,9 +4110,9 @@
     "total_seconds": 10991
   },
   "hplaptop": {
-    "week_seconds": 138940,
+    "week_seconds": 139902,
     "week_start": 1781622848,
-    "total_seconds": 138940
+    "total_seconds": 139902
   },
   "kablevz": {
     "week_seconds": 18,
