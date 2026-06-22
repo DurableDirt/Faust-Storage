@@ -810,9 +810,9 @@
     "total_seconds": 110550
   },
   "timantha": {
-    "week_seconds": 6074,
+    "week_seconds": 7227,
     "week_start": 1782091160,
-    "total_seconds": 131886
+    "total_seconds": 133039
   },
   "gnathope": {
     "week_seconds": 0,
@@ -1500,9 +1500,9 @@
     "total_seconds": 3061
   },
   "innatee": {
-    "week_seconds": 0,
+    "week_seconds": 487,
     "week_start": 1782105560,
-    "total_seconds": 150854
+    "total_seconds": 151341
   },
   "arbiteradvit": {
     "week_seconds": 0,
@@ -4225,9 +4225,9 @@
     "total_seconds": 93
   },
   "o_angelbitez": {
-    "week_seconds": 22996,
+    "week_seconds": 23096,
     "week_start": 1781630022,
-    "total_seconds": 22996
+    "total_seconds": 23096
   },
   "power_utter": {
     "week_seconds": 54590,
@@ -8948,5 +8948,10 @@
     "week_seconds": 130,
     "week_start": 1782133223,
     "total_seconds": 130
+  },
+  "t74is2xc": {
+    "week_seconds": 0,
+    "week_start": 1782135186,
+    "total_seconds": 0
   }
 }
