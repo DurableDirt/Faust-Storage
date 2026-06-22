@@ -1885,9 +1885,9 @@
     "total_seconds": 30
   },
   "gidein": {
-    "week_seconds": 12392,
+    "week_seconds": 12629,
     "week_start": 1782127160,
-    "total_seconds": 131336
+    "total_seconds": 131573
   },
   "londara": {
     "week_seconds": 0,
@@ -4295,9 +4295,9 @@
     "total_seconds": 2109
   },
   "asherboy": {
-    "week_seconds": 21754,
+    "week_seconds": 24605,
     "week_start": 1781632460,
-    "total_seconds": 21754
+    "total_seconds": 24605
   },
   "gry_sn": {
     "week_seconds": 606,
@@ -6415,9 +6415,9 @@
     "total_seconds": 12657
   },
   "engineeringbean": {
-    "week_seconds": 11043,
+    "week_seconds": 11156,
     "week_start": 1781816710,
-    "total_seconds": 11043
+    "total_seconds": 11156
   },
   "dezza__": {
     "week_seconds": 913,
@@ -9073,5 +9073,10 @@
     "week_seconds": 450,
     "week_start": 1782146251,
     "total_seconds": 450
+  },
+  "its_raiju_59": {
+    "week_seconds": 0,
+    "week_start": 1782148741,
+    "total_seconds": 0
   }
 }
