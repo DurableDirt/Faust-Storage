@@ -5295,9 +5295,9 @@
     "total_seconds": 306
   },
   "matanic1107": {
-    "week_seconds": 18996,
+    "week_seconds": 20810,
     "week_start": 1781716509,
-    "total_seconds": 18996
+    "total_seconds": 20810
   },
   "pixel5legend": {
     "week_seconds": 112,
@@ -8875,9 +8875,9 @@
     "total_seconds": 4736
   },
   "morningsoda": {
-    "week_seconds": 1917,
+    "week_seconds": 3712,
     "week_start": 1782120503,
-    "total_seconds": 1917
+    "total_seconds": 3712
   },
   "nitando1234": {
     "week_seconds": 5,
@@ -8907,6 +8907,11 @@
   "j00han27": {
     "week_seconds": 0,
     "week_start": 1782125007,
+    "total_seconds": 0
+  },
+  "magicbuilder15": {
+    "week_seconds": 0,
+    "week_start": 1782125532,
     "total_seconds": 0
   }
 }
