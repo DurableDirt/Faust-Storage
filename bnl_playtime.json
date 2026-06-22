@@ -4230,9 +4230,9 @@
     "total_seconds": 25736
   },
   "power_utter": {
-    "week_seconds": 61778,
+    "week_seconds": 68874,
     "week_start": 1781630256,
-    "total_seconds": 61778
+    "total_seconds": 68874
   },
   "pineappleman541": {
     "week_seconds": 24004,
@@ -4465,9 +4465,9 @@
     "total_seconds": 213
   },
   "serenity1331": {
-    "week_seconds": 41192,
+    "week_seconds": 42170,
     "week_start": 1781639827,
-    "total_seconds": 41192
+    "total_seconds": 42170
   },
   "jasupci": {
     "week_seconds": 2693,
@@ -9197,6 +9197,11 @@
   "mrhulk77": {
     "week_seconds": 0,
     "week_start": 1782156653,
+    "total_seconds": 0
+  },
+  "fluixion1": {
+    "week_seconds": 0,
+    "week_start": 1782157236,
     "total_seconds": 0
   }
 }
