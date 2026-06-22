@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 15188,
+    "week_seconds": 17358,
     "week_start": 1782127160,
-    "total_seconds": 79666
+    "total_seconds": 81836
   },
   "hxrl": {
     "week_seconds": 5185,
@@ -3355,9 +3355,9 @@
     "total_seconds": 20460
   },
   "trolstein_pt": {
-    "week_seconds": 11350,
+    "week_seconds": 12169,
     "week_start": 1781563515,
-    "total_seconds": 11350
+    "total_seconds": 12169
   },
   "dropcity": {
     "week_seconds": 4777,
@@ -4510,9 +4510,9 @@
     "total_seconds": 18807
   },
   "n5ther": {
-    "week_seconds": 3022,
+    "week_seconds": 4151,
     "week_start": 1781642942,
-    "total_seconds": 3022
+    "total_seconds": 4151
   },
   "feelzgoodman1": {
     "week_seconds": 4,
@@ -9212,6 +9212,11 @@
   "pokeninja77": {
     "week_seconds": 0,
     "week_start": 1782158885,
+    "total_seconds": 0
+  },
+  "trubactor": {
+    "week_seconds": 0,
+    "week_start": 1782159331,
     "total_seconds": 0
   }
 }
