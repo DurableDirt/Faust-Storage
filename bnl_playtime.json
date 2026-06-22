@@ -695,9 +695,9 @@
     "total_seconds": 40048
   },
   "mr_kalboy": {
-    "week_seconds": 544,
+    "week_seconds": 1157,
     "week_start": 1782087560,
-    "total_seconds": 5118
+    "total_seconds": 5731
   },
   "baro_mortis": {
     "week_seconds": 0,
@@ -8770,8 +8770,8 @@
     "total_seconds": 0
   },
   "jurolssino7": {
-    "week_seconds": 0,
+    "week_seconds": 68,
     "week_start": 1782100893,
-    "total_seconds": 0
+    "total_seconds": 68
   }
 }
