@@ -660,9 +660,9 @@
     "total_seconds": 13445
   },
   "demobottle12": {
-    "week_seconds": 0,
+    "week_seconds": 3440,
     "week_start": 1782087560,
-    "total_seconds": 74935
+    "total_seconds": 78375
   },
   "unique_nullptr": {
     "week_seconds": 0,
@@ -8340,9 +8340,9 @@
     "total_seconds": 15623
   },
   "jwmgregory": {
-    "week_seconds": 2011,
+    "week_seconds": 9979,
     "week_start": 1782056819,
-    "total_seconds": 2011
+    "total_seconds": 9979
   },
   "flutschrobbe": {
     "week_seconds": 1163,
