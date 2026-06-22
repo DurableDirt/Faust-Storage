@@ -320,9 +320,9 @@
     "total_seconds": 114406
   },
   "skormcel": {
-    "week_seconds": 0,
+    "week_seconds": 9786,
     "week_start": 1782083960,
-    "total_seconds": 143130
+    "total_seconds": 152916
   },
   "catgifs": {
     "week_seconds": 0,
@@ -1035,9 +1035,9 @@
     "total_seconds": 6
   },
   "aserdabeast": {
-    "week_seconds": 45037,
+    "week_seconds": 48236,
     "week_start": 1781486788,
-    "total_seconds": 45037
+    "total_seconds": 48236
   },
   "pharomachrus2": {
     "week_seconds": 91,
@@ -8633,5 +8633,10 @@
     "week_seconds": 0,
     "week_start": 1782086452,
     "total_seconds": 0
+  },
+  "jack_attack0406": {
+    "week_seconds": 32,
+    "week_start": 1782086693,
+    "total_seconds": 32
   }
 }
