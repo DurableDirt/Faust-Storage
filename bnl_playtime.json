@@ -4025,9 +4025,9 @@
     "total_seconds": 847
   },
   "tactihawk": {
-    "week_seconds": 52252,
+    "week_seconds": 52276,
     "week_start": 1781616775,
-    "total_seconds": 52252
+    "total_seconds": 52276
   },
   "_1_m": {
     "week_seconds": 5,
@@ -8958,5 +8958,10 @@
     "week_seconds": 16,
     "week_start": 1782135668,
     "total_seconds": 16
+  },
+  "teww_": {
+    "week_seconds": 1,
+    "week_start": 1782137294,
+    "total_seconds": 1
   }
 }
