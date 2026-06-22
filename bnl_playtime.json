@@ -3680,9 +3680,9 @@
     "total_seconds": 30190
   },
   "2lynx2": {
-    "week_seconds": 173330,
+    "week_seconds": 173570,
     "week_start": 1781577764,
-    "total_seconds": 173330
+    "total_seconds": 173570
   },
   "dredgarzomboss": {
     "week_seconds": 896,
@@ -4930,9 +4930,9 @@
     "total_seconds": 51
   },
   "lasady": {
-    "week_seconds": 27723,
+    "week_seconds": 27977,
     "week_start": 1781677070,
-    "total_seconds": 27723
+    "total_seconds": 27977
   },
   "silenthunterx": {
     "week_seconds": 1385,
@@ -8677,6 +8677,11 @@
   "rygysofly": {
     "week_seconds": 0,
     "week_start": 1782090483,
+    "total_seconds": 0
+  },
+  "john_stormlight": {
+    "week_seconds": 0,
+    "week_start": 1782090805,
     "total_seconds": 0
   }
 }
