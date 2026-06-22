@@ -1580,9 +1580,9 @@
     "total_seconds": 101345
   },
   "gobblin": {
-    "week_seconds": 10681,
+    "week_seconds": 11406,
     "week_start": 1782112760,
-    "total_seconds": 77282
+    "total_seconds": 78007
   },
   "vlinar": {
     "week_seconds": 10557,
@@ -2145,9 +2145,9 @@
     "total_seconds": 231726
   },
   "daimnasal": {
-    "week_seconds": 94206,
+    "week_seconds": 94245,
     "week_start": 1781527309,
-    "total_seconds": 94206
+    "total_seconds": 94245
   },
   "azurisdev": {
     "week_seconds": 133,
