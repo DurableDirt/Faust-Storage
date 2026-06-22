@@ -9340,8 +9340,18 @@
     "total_seconds": 0
   },
   "aztection": {
-    "week_seconds": 0,
+    "week_seconds": 135,
     "week_start": 1782169560,
+    "total_seconds": 135
+  },
+  "ninjajackh12": {
+    "week_seconds": 0,
+    "week_start": 1782169713,
+    "total_seconds": 0
+  },
+  "lord_pancakes": {
+    "week_seconds": 0,
+    "week_start": 1782169725,
     "total_seconds": 0
   }
 }
