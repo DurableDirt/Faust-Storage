@@ -1110,9 +1110,9 @@
     "total_seconds": 1460
   },
   "warendrop": {
-    "week_seconds": 0,
+    "week_seconds": 400,
     "week_start": 1782094760,
-    "total_seconds": 158938
+    "total_seconds": 159338
   },
   "boatcat": {
     "week_seconds": 833,
@@ -6485,9 +6485,9 @@
     "total_seconds": 756
   },
   "femboyfangirl": {
-    "week_seconds": 9337,
+    "week_seconds": 13374,
     "week_start": 1781821414,
-    "total_seconds": 9337
+    "total_seconds": 13374
   },
   "klasikrok": {
     "week_seconds": 4899,
