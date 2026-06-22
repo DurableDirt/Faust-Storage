@@ -2415,9 +2415,9 @@
     "total_seconds": 17618
   },
   "sml128": {
-    "week_seconds": 2205,
+    "week_seconds": 2235,
     "week_start": 1782141560,
-    "total_seconds": 87106
+    "total_seconds": 87136
   },
   "malipan": {
     "week_seconds": 0,
@@ -2560,9 +2560,9 @@
     "total_seconds": 131269
   },
   "myng11": {
-    "week_seconds": 949,
+    "week_seconds": 3069,
     "week_start": 1782145160,
-    "total_seconds": 18512
+    "total_seconds": 20632
   },
   "dondindundan": {
     "week_seconds": 0,
@@ -4130,9 +4130,9 @@
     "total_seconds": 28080
   },
   "annatos": {
-    "week_seconds": 41225,
+    "week_seconds": 48334,
     "week_start": 1781623508,
-    "total_seconds": 41225
+    "total_seconds": 48334
   },
   "testedyapper": {
     "week_seconds": 263,
