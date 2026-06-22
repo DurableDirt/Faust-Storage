@@ -8670,9 +8670,9 @@
     "total_seconds": 4959
   },
   "obsidian_mike": {
-    "week_seconds": 24537,
+    "week_seconds": 24653,
     "week_start": 1782089382,
-    "total_seconds": 24537
+    "total_seconds": 24653
   },
   "rygysofly": {
     "week_seconds": 6788,
@@ -8920,9 +8920,9 @@
     "total_seconds": 5534
   },
   "solaid": {
-    "week_seconds": 4971,
+    "week_seconds": 5142,
     "week_start": 1782127069,
-    "total_seconds": 4971
+    "total_seconds": 5142
   },
   "chris__mapper": {
     "week_seconds": 2239,
@@ -9382,6 +9382,11 @@
   "phoenix3718": {
     "week_seconds": 0,
     "week_start": 1782171857,
+    "total_seconds": 0
+  },
+  "synthhated": {
+    "week_seconds": 0,
+    "week_start": 1782172331,
     "total_seconds": 0
   }
 }
