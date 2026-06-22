@@ -4150,9 +4150,9 @@
     "total_seconds": 80071
   },
   "stick_ix_nex": {
-    "week_seconds": 146044,
+    "week_seconds": 151321,
     "week_start": 1781627054,
-    "total_seconds": 146044
+    "total_seconds": 151321
   },
   "dashingyang": {
     "week_seconds": 99827,
@@ -9160,9 +9160,9 @@
     "total_seconds": 3437
   },
   "ebgvie": {
-    "week_seconds": 546,
+    "week_seconds": 4185,
     "week_start": 1782154509,
-    "total_seconds": 546
+    "total_seconds": 4185
   },
   "luc4s_rc": {
     "week_seconds": 100,
@@ -9203,5 +9203,10 @@
     "week_seconds": 546,
     "week_start": 1782157236,
     "total_seconds": 546
+  },
+  "endology332": {
+    "week_seconds": 0,
+    "week_start": 1782158708,
+    "total_seconds": 0
   }
 }
