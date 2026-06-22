@@ -2630,9 +2630,9 @@
     "total_seconds": 81768
   },
   "joldidk": {
-    "week_seconds": 5056,
+    "week_seconds": 9648,
     "week_start": 1782145160,
-    "total_seconds": 75151
+    "total_seconds": 79743
   },
   "hegghogaming": {
     "week_seconds": 12404,
@@ -4110,9 +4110,9 @@
     "total_seconds": 10991
   },
   "hplaptop": {
-    "week_seconds": 124844,
+    "week_seconds": 137169,
     "week_start": 1781622848,
-    "total_seconds": 124844
+    "total_seconds": 137169
   },
   "kablevz": {
     "week_seconds": 18,
@@ -8670,9 +8670,9 @@
     "total_seconds": 4959
   },
   "obsidian_mike": {
-    "week_seconds": 15884,
+    "week_seconds": 16195,
     "week_start": 1782089382,
-    "total_seconds": 15884
+    "total_seconds": 16195
   },
   "rygysofly": {
     "week_seconds": 4523,
@@ -9140,13 +9140,23 @@
     "total_seconds": 5
   },
   "topher3001": {
-    "week_seconds": 0,
+    "week_seconds": 1730,
     "week_start": 1782152372,
-    "total_seconds": 0
+    "total_seconds": 1730
   },
   "bigbraingamr": {
     "week_seconds": 232,
     "week_start": 1782152901,
     "total_seconds": 232
+  },
+  "signedwheat6134": {
+    "week_seconds": 0,
+    "week_start": 1782154087,
+    "total_seconds": 0
+  },
+  "beetlesandrocks": {
+    "week_seconds": 0,
+    "week_start": 1782154105,
+    "total_seconds": 0
   }
 }
