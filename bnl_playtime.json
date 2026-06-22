@@ -1580,9 +1580,9 @@
     "total_seconds": 101345
   },
   "gobblin": {
-    "week_seconds": 11406,
+    "week_seconds": 14131,
     "week_start": 1782112760,
-    "total_seconds": 78007
+    "total_seconds": 80732
   },
   "vlinar": {
     "week_seconds": 10557,
@@ -1795,9 +1795,9 @@
     "total_seconds": 19351
   },
   "lgamant": {
-    "week_seconds": 75,
+    "week_seconds": 1623,
     "week_start": 1782123560,
-    "total_seconds": 42348
+    "total_seconds": 43896
   },
   "emilew": {
     "week_seconds": 0,
