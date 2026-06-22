@@ -640,9 +640,9 @@
     "total_seconds": 90843
   },
   "beepcar": {
-    "week_seconds": 53251,
+    "week_seconds": 53535,
     "week_start": 1782087560,
-    "total_seconds": 217923
+    "total_seconds": 218207
   },
   "moopie50": {
     "week_seconds": 0,
@@ -4930,9 +4930,9 @@
     "total_seconds": 94
   },
   "lasady": {
-    "week_seconds": 34087,
+    "week_seconds": 47184,
     "week_start": 1781677070,
-    "total_seconds": 34087
+    "total_seconds": 47184
   },
   "silenthunterx": {
     "week_seconds": 1385,
