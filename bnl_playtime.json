@@ -4715,9 +4715,9 @@
     "total_seconds": 43693
   },
   "tubbzie": {
-    "week_seconds": 195129,
+    "week_seconds": 195206,
     "week_start": 1781658601,
-    "total_seconds": 195129
+    "total_seconds": 195206
   },
   "fakersfemboy": {
     "week_seconds": 9715,
@@ -8773,5 +8773,10 @@
     "week_seconds": 68,
     "week_start": 1782100893,
     "total_seconds": 68
+  },
+  "rembicko": {
+    "week_seconds": 0,
+    "week_start": 1782103500,
+    "total_seconds": 0
   }
 }
