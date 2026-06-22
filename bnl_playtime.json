@@ -1240,9 +1240,9 @@
     "total_seconds": 14697
   },
   "mtfuji": {
-    "week_seconds": 23047,
+    "week_seconds": 71913,
     "week_start": 1782098360,
-    "total_seconds": 349164
+    "total_seconds": 398030
   },
   "intelligences": {
     "week_seconds": 11357,
@@ -7650,9 +7650,9 @@
     "total_seconds": 1029
   },
   "chronoswilson": {
-    "week_seconds": 21797,
+    "week_seconds": 35109,
     "week_start": 1781964345,
-    "total_seconds": 21797
+    "total_seconds": 35109
   },
   "sabife": {
     "week_seconds": 32,
