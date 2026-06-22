@@ -3235,9 +3235,9 @@
     "total_seconds": 156465
   },
   "yarnnn": {
-    "week_seconds": 74037,
+    "week_seconds": 76093,
     "week_start": 1781559766,
-    "total_seconds": 74037
+    "total_seconds": 76093
   },
   "whenurcrazy": {
     "week_seconds": 6125,
@@ -8638,5 +8638,10 @@
     "week_seconds": 64,
     "week_start": 1782086693,
     "total_seconds": 64
+  },
+  "7_misun": {
+    "week_seconds": 0,
+    "week_start": 1782086796,
+    "total_seconds": 0
   }
 }
