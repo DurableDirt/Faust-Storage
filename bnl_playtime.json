@@ -4450,9 +4450,9 @@
     "total_seconds": 7483
   },
   "xbitzl": {
-    "week_seconds": 19226,
+    "week_seconds": 22126,
     "week_start": 1781639280,
-    "total_seconds": 19226
+    "total_seconds": 22126
   },
   "stevethehouse122": {
     "week_seconds": 574,
@@ -8997,6 +8997,11 @@
   "bluebabydidi": {
     "week_seconds": 0,
     "week_start": 1782140576,
+    "total_seconds": 0
+  },
+  "kronex_hd": {
+    "week_seconds": 0,
+    "week_start": 1782140742,
     "total_seconds": 0
   }
 }
