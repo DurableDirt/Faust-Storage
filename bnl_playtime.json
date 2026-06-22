@@ -905,9 +905,9 @@
     "total_seconds": 33736
   },
   "ifriendiscool": {
-    "week_seconds": 27562,
+    "week_seconds": 27617,
     "week_start": 1782091160,
-    "total_seconds": 172560
+    "total_seconds": 172615
   },
   "ytrewq64": {
     "week_seconds": 0,
@@ -3440,9 +3440,9 @@
     "total_seconds": 86920
   },
   "jromeasfsniper": {
-    "week_seconds": 52412,
+    "week_seconds": 52678,
     "week_start": 1781566212,
-    "total_seconds": 52412
+    "total_seconds": 52678
   },
   "smilers": {
     "week_seconds": 62,
@@ -9312,6 +9312,11 @@
   "darksky1911": {
     "week_seconds": 0,
     "week_start": 1782167677,
+    "total_seconds": 0
+  },
+  "tarekxt": {
+    "week_seconds": 0,
+    "week_start": 1782167733,
     "total_seconds": 0
   }
 }
