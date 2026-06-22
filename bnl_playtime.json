@@ -3520,9 +3520,9 @@
     "total_seconds": 39
   },
   "toxblight": {
-    "week_seconds": 132905,
+    "week_seconds": 146352,
     "week_start": 1781569465,
-    "total_seconds": 132905
+    "total_seconds": 146352
   },
   "faroishere": {
     "week_seconds": 71,
@@ -4685,9 +4685,9 @@
     "total_seconds": 61329
   },
   "clearhercules": {
-    "week_seconds": 61714,
+    "week_seconds": 63399,
     "week_start": 1781657179,
-    "total_seconds": 61714
+    "total_seconds": 63399
   },
   "mavorz911": {
     "week_seconds": 100,
@@ -8665,9 +8665,9 @@
     "total_seconds": 3052
   },
   "jac0byy": {
-    "week_seconds": 2144,
+    "week_seconds": 4507,
     "week_start": 1782088352,
-    "total_seconds": 2144
+    "total_seconds": 4507
   },
   "obsidian_mike": {
     "week_seconds": 583,
@@ -8687,6 +8687,11 @@
   "catdavidman": {
     "week_seconds": 0,
     "week_start": 1782090848,
+    "total_seconds": 0
+  },
+  "unobservedproton": {
+    "week_seconds": 0,
+    "week_start": 1782092889,
     "total_seconds": 0
   }
 }
