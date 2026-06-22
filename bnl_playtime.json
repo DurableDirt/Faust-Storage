@@ -1035,9 +1035,9 @@
     "total_seconds": 6
   },
   "aserdabeast": {
-    "week_seconds": 14610,
+    "week_seconds": 14646,
     "week_start": 1782094760,
-    "total_seconds": 65270
+    "total_seconds": 65306
   },
   "pharomachrus2": {
     "week_seconds": 0,
@@ -2180,9 +2180,9 @@
     "total_seconds": 108730
   },
   "lopsterbisque": {
-    "week_seconds": 2779,
+    "week_seconds": 3090,
     "week_start": 1782134360,
-    "total_seconds": 74474
+    "total_seconds": 74785
   },
   "nunicek17": {
     "week_seconds": 0,
@@ -2915,9 +2915,9 @@
     "total_seconds": 3378
   },
   "emilderking": {
-    "week_seconds": 1448,
+    "week_seconds": 1966,
     "week_start": 1781548787,
-    "total_seconds": 1448
+    "total_seconds": 1966
   },
   "sishi0417": {
     "week_seconds": 25783,
@@ -9108,5 +9108,10 @@
     "week_seconds": 538,
     "week_start": 1782150346,
     "total_seconds": 538
+  },
+  "_rusnaka777": {
+    "week_seconds": 0,
+    "week_start": 1782151102,
+    "total_seconds": 0
   }
 }
