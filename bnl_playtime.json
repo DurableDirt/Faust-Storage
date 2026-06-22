@@ -1650,9 +1650,9 @@
     "total_seconds": 94363
   },
   "virexil": {
-    "week_seconds": 2331,
+    "week_seconds": 2363,
     "week_start": 1782116360,
-    "total_seconds": 36660
+    "total_seconds": 36692
   },
   "voidvin": {
     "week_seconds": 32330,
@@ -2900,9 +2900,9 @@
     "total_seconds": 29
   },
   "zamoradin": {
-    "week_seconds": 0,
+    "week_seconds": 462,
     "week_start": 1782155960,
-    "total_seconds": 7404
+    "total_seconds": 7866
   },
   "emarile": {
     "week_seconds": 0,
@@ -9177,6 +9177,11 @@
   "maxie4321": {
     "week_seconds": 0,
     "week_start": 1782155641,
+    "total_seconds": 0
+  },
+  "purelyvanila": {
+    "week_seconds": 0,
+    "week_start": 1782156020,
     "total_seconds": 0
   }
 }
