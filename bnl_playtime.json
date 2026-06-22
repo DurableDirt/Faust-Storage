@@ -5985,9 +5985,9 @@
     "total_seconds": 21044
   },
   "what777": {
-    "week_seconds": 215488,
+    "week_seconds": 215505,
     "week_start": 1781783211,
-    "total_seconds": 215488
+    "total_seconds": 215505
   },
   "arealfriedwing": {
     "week_seconds": 218,
@@ -8980,9 +8980,9 @@
     "total_seconds": 431
   },
   "snowclimb": {
-    "week_seconds": 1293,
+    "week_seconds": 1353,
     "week_start": 1782139555,
-    "total_seconds": 1293
+    "total_seconds": 1353
   },
   "justqueeck": {
     "week_seconds": 427,
@@ -9003,5 +9003,10 @@
     "week_seconds": 320,
     "week_start": 1782140742,
     "total_seconds": 320
+  },
+  "tyuredo": {
+    "week_seconds": 0,
+    "week_start": 1782141127,
+    "total_seconds": 0
   }
 }
