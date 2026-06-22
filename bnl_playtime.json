@@ -740,9 +740,9 @@
     "total_seconds": 276
   },
   "grepsedawk": {
-    "week_seconds": 42315,
+    "week_seconds": 42350,
     "week_start": 1782087560,
-    "total_seconds": 443471
+    "total_seconds": 443506
   },
   "complexii": {
     "week_seconds": 0,
@@ -5760,9 +5760,9 @@
     "total_seconds": 125
   },
   "_domain": {
-    "week_seconds": 63111,
+    "week_seconds": 63576,
     "week_start": 1781750091,
-    "total_seconds": 63111
+    "total_seconds": 63576
   },
   "bonjour": {
     "week_seconds": 99,
