@@ -35,9 +35,9 @@
     "total_seconds": 46641
   },
   "maxxyrose": {
-    "week_seconds": 27256,
+    "week_seconds": 27291,
     "week_start": 1782080360,
-    "total_seconds": 58132
+    "total_seconds": 58167
   },
   "piotato": {
     "week_seconds": 26158,
@@ -9200,8 +9200,8 @@
     "total_seconds": 0
   },
   "fluixion1": {
-    "week_seconds": 0,
+    "week_seconds": 546,
     "week_start": 1782157236,
-    "total_seconds": 0
+    "total_seconds": 546
   }
 }
