@@ -1095,9 +1095,9 @@
     "total_seconds": 11787
   },
   "magickponch": {
-    "week_seconds": 22569,
+    "week_seconds": 30998,
     "week_start": 1782094760,
-    "total_seconds": 86741
+    "total_seconds": 95170
   },
   "nevergrimm": {
     "week_seconds": 9606,
@@ -9217,6 +9217,11 @@
   "trubactor": {
     "week_seconds": 0,
     "week_start": 1782159331,
+    "total_seconds": 0
+  },
+  "protonstar8": {
+    "week_seconds": 0,
+    "week_start": 1782160091,
     "total_seconds": 0
   }
 }
