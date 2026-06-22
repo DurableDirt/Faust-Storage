@@ -2945,9 +2945,9 @@
     "total_seconds": 20697
   },
   "_excalibur": {
-    "week_seconds": 6687,
+    "week_seconds": 9135,
     "week_start": 1781549873,
-    "total_seconds": 6687
+    "total_seconds": 9135
   },
   "battlebots_boi": {
     "week_seconds": 2858,
@@ -8653,5 +8653,10 @@
     "week_seconds": 106,
     "week_start": 1782087088,
     "total_seconds": 106
+  },
+  "quicksylver": {
+    "week_seconds": 5,
+    "week_start": 1782087786,
+    "total_seconds": 5
   }
 }
