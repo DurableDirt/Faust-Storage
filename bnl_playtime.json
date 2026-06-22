@@ -1825,9 +1825,9 @@
     "total_seconds": 767
   },
   "castorguy": {
-    "week_seconds": 0,
+    "week_seconds": 4592,
     "week_start": 1782123560,
-    "total_seconds": 73064
+    "total_seconds": 77656
   },
   "yinz001": {
     "week_seconds": 0,
@@ -2145,9 +2145,9 @@
     "total_seconds": 231726
   },
   "daimnasal": {
-    "week_seconds": 95561,
+    "week_seconds": 95897,
     "week_start": 1781527309,
-    "total_seconds": 95561
+    "total_seconds": 95897
   },
   "azurisdev": {
     "week_seconds": 133,
@@ -8922,6 +8922,11 @@
   "solaid": {
     "week_seconds": 0,
     "week_start": 1782127069,
+    "total_seconds": 0
+  },
+  "chris__mapper": {
+    "week_seconds": 0,
+    "week_start": 1782128058,
     "total_seconds": 0
   }
 }
