@@ -300,9 +300,9 @@
     "total_seconds": 5859
   },
   "tatsu007": {
-    "week_seconds": 43445,
+    "week_seconds": 61604,
     "week_start": 1782083960,
-    "total_seconds": 419481
+    "total_seconds": 437640
   },
   "olderastory": {
     "week_seconds": 28700,
@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 31128,
+    "week_seconds": 31146,
     "week_start": 1782119960,
-    "total_seconds": 245226
+    "total_seconds": 245244
   },
   "stavros_ell": {
     "week_seconds": 10232,
@@ -9288,5 +9288,10 @@
     "week_seconds": 126,
     "week_start": 1782165726,
     "total_seconds": 126
+  },
+  "fl0pshot": {
+    "week_seconds": 0,
+    "week_start": 1782166633,
+    "total_seconds": 0
   }
 }
