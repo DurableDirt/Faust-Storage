@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 32668,
+    "week_seconds": 32720,
     "week_start": 1782119960,
-    "total_seconds": 246766
+    "total_seconds": 246818
   },
   "stavros_ell": {
     "week_seconds": 10232,
@@ -9280,9 +9280,9 @@
     "total_seconds": 276
   },
   "vai_": {
-    "week_seconds": 0,
+    "week_seconds": 2866,
     "week_start": 1782165618,
-    "total_seconds": 0
+    "total_seconds": 2866
   },
   "mis_misato": {
     "week_seconds": 126,
@@ -9323,5 +9323,10 @@
     "week_seconds": 24,
     "week_start": 1782168161,
     "total_seconds": 24
+  },
+  "az_adm_prime": {
+    "week_seconds": 0,
+    "week_start": 1782168498,
+    "total_seconds": 0
   }
 }
