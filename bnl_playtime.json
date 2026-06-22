@@ -2415,9 +2415,9 @@
     "total_seconds": 17618
   },
   "sml128": {
-    "week_seconds": 1222,
+    "week_seconds": 1439,
     "week_start": 1782141560,
-    "total_seconds": 86123
+    "total_seconds": 86340
   },
   "malipan": {
     "week_seconds": 0,
@@ -2495,9 +2495,9 @@
     "total_seconds": 242607
   },
   "blazelogic": {
-    "week_seconds": 0,
+    "week_seconds": 4399,
     "week_start": 1782141560,
-    "total_seconds": 34063
+    "total_seconds": 38462
   },
   "mariora": {
     "week_seconds": 0,
@@ -8815,9 +8815,9 @@
     "total_seconds": 676
   },
   "cxmplement": {
-    "week_seconds": 1073,
+    "week_seconds": 1092,
     "week_start": 1782112674,
-    "total_seconds": 1073
+    "total_seconds": 1092
   },
   "_andrew_zagarah": {
     "week_seconds": 63,
