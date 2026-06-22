@@ -5000,9 +5000,9 @@
     "total_seconds": 2706
   },
   "dwarfrogue654": {
-    "week_seconds": 39632,
+    "week_seconds": 39988,
     "week_start": 1781686516,
-    "total_seconds": 39632
+    "total_seconds": 39988
   },
   "josse_124": {
     "week_seconds": 15594,
@@ -9257,6 +9257,11 @@
   "aletheiad": {
     "week_seconds": 0,
     "week_start": 1782164335,
+    "total_seconds": 0
+  },
+  "td_xgodx": {
+    "week_seconds": 0,
+    "week_start": 1782164693,
     "total_seconds": 0
   }
 }
