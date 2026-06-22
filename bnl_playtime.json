@@ -2785,9 +2785,9 @@
     "total_seconds": 23847
   },
   "zzumzum": {
-    "week_seconds": 39788,
+    "week_seconds": 44020,
     "week_start": 1781545560,
-    "total_seconds": 39788
+    "total_seconds": 44020
   },
   "sirboss001": {
     "week_seconds": 69642,
@@ -3145,9 +3145,9 @@
     "total_seconds": 7943
   },
   "8donis": {
-    "week_seconds": 12205,
+    "week_seconds": 12632,
     "week_start": 1781555877,
-    "total_seconds": 12205
+    "total_seconds": 12632
   },
   "thaddemus": {
     "week_seconds": 4115,
@@ -9047,6 +9047,11 @@
   "gaford0s": {
     "week_seconds": 0,
     "week_start": 1782144672,
+    "total_seconds": 0
+  },
+  "asadsnake": {
+    "week_seconds": 0,
+    "week_start": 1782145015,
     "total_seconds": 0
   }
 }
