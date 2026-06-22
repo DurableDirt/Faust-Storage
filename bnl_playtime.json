@@ -5985,9 +5985,9 @@
     "total_seconds": 21044
   },
   "what777": {
-    "week_seconds": 214810,
+    "week_seconds": 214822,
     "week_start": 1781783211,
-    "total_seconds": 214810
+    "total_seconds": 214822
   },
   "arealfriedwing": {
     "week_seconds": 218,
@@ -8917,6 +8917,11 @@
   "tophatalexyt": {
     "week_seconds": 0,
     "week_start": 1782125635,
+    "total_seconds": 0
+  },
+  "solaid": {
+    "week_seconds": 0,
+    "week_start": 1782127069,
     "total_seconds": 0
   }
 }
