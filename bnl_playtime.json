@@ -4195,9 +4195,9 @@
     "total_seconds": 200779
   },
   "junerjun": {
-    "week_seconds": 174866,
+    "week_seconds": 175156,
     "week_start": 1781628892,
-    "total_seconds": 174866
+    "total_seconds": 175156
   },
   "cissonius": {
     "week_seconds": 22121,
@@ -5985,9 +5985,9 @@
     "total_seconds": 21044
   },
   "what777": {
-    "week_seconds": 214694,
+    "week_seconds": 214708,
     "week_start": 1781783211,
-    "total_seconds": 214694
+    "total_seconds": 214708
   },
   "arealfriedwing": {
     "week_seconds": 218,
@@ -6055,9 +6055,9 @@
     "total_seconds": 2212
   },
   "exeplex": {
-    "week_seconds": 69078,
+    "week_seconds": 69180,
     "week_start": 1781793159,
-    "total_seconds": 69078
+    "total_seconds": 69180
   },
   "captainspacerat": {
     "week_seconds": 22137,
@@ -8893,5 +8893,10 @@
     "week_seconds": 43,
     "week_start": 1782122398,
     "total_seconds": 43
+  },
+  "faseplay": {
+    "week_seconds": 0,
+    "week_start": 1782124080,
+    "total_seconds": 0
   }
 }
