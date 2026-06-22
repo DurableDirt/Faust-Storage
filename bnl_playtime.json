@@ -305,9 +305,9 @@
     "total_seconds": 437640
   },
   "olderastory": {
-    "week_seconds": 28700,
+    "week_seconds": 32604,
     "week_start": 1782083960,
-    "total_seconds": 132999
+    "total_seconds": 136903
   },
   "willowpox": {
     "week_seconds": 26934,
@@ -650,9 +650,9 @@
     "total_seconds": 20805
   },
   "malafly": {
-    "week_seconds": 0,
+    "week_seconds": 13624,
     "week_start": 1782087560,
-    "total_seconds": 158717
+    "total_seconds": 172341
   },
   "velares": {
     "week_seconds": 0,
@@ -820,9 +820,9 @@
     "total_seconds": 108383
   },
   "freeblade999": {
-    "week_seconds": 4102,
+    "week_seconds": 6103,
     "week_start": 1782091160,
-    "total_seconds": 68819
+    "total_seconds": 70820
   },
   "westburn": {
     "week_seconds": 0,
@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 31146,
+    "week_seconds": 32668,
     "week_start": 1782119960,
-    "total_seconds": 245244
+    "total_seconds": 246766
   },
   "stavros_ell": {
     "week_seconds": 10232,
@@ -2145,9 +2145,9 @@
     "total_seconds": 231726
   },
   "daimnasal": {
-    "week_seconds": 31536,
+    "week_seconds": 31665,
     "week_start": 1782134360,
-    "total_seconds": 128898
+    "total_seconds": 129027
   },
   "azurisdev": {
     "week_seconds": 0,
@@ -4180,9 +4180,9 @@
     "total_seconds": 333
   },
   "novalis76": {
-    "week_seconds": 85531,
+    "week_seconds": 86096,
     "week_start": 1781628482,
-    "total_seconds": 85531
+    "total_seconds": 86096
   },
   "kynthea": {
     "week_seconds": 21430,
