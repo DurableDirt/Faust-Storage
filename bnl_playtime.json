@@ -90,9 +90,9 @@
     "total_seconds": 91847
   },
   "chips_and_salsa_": {
-    "week_seconds": 7170,
+    "week_seconds": 10002,
     "week_start": 1782080360,
-    "total_seconds": 57187
+    "total_seconds": 60019
   },
   "booger_godslayer": {
     "week_seconds": 0,
@@ -6440,9 +6440,9 @@
     "total_seconds": 179
   },
   "dimbrain1038": {
-    "week_seconds": 21736,
+    "week_seconds": 21883,
     "week_start": 1781817177,
-    "total_seconds": 21736
+    "total_seconds": 21883
   },
   "seriousswimmerr": {
     "week_seconds": 127,
@@ -9222,6 +9222,11 @@
   "protonstar8": {
     "week_seconds": 0,
     "week_start": 1782160091,
+    "total_seconds": 0
+  },
+  "omar040": {
+    "week_seconds": 0,
+    "week_start": 1782160231,
     "total_seconds": 0
   }
 }
