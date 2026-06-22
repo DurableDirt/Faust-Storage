@@ -2120,9 +2120,9 @@
     "total_seconds": 89844
   },
   "reffelruz": {
-    "week_seconds": 5998,
+    "week_seconds": 8109,
     "week_start": 1782134360,
-    "total_seconds": 32242
+    "total_seconds": 34353
   },
   "princeundead": {
     "week_seconds": 0,
@@ -9182,6 +9182,11 @@
   "purelyvanila": {
     "week_seconds": 0,
     "week_start": 1782156020,
+    "total_seconds": 0
+  },
+  "dominikoss": {
+    "week_seconds": 0,
+    "week_start": 1782156132,
     "total_seconds": 0
   }
 }
