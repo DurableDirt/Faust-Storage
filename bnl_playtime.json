@@ -3250,9 +3250,9 @@
     "total_seconds": 11169
   },
   "vilyanz": {
-    "week_seconds": 4722,
+    "week_seconds": 10826,
     "week_start": 1782166760,
-    "total_seconds": 9569
+    "total_seconds": 15673
   },
   "mickale": {
     "week_seconds": 0,
@@ -4420,9 +4420,9 @@
     "total_seconds": 2996
   },
   "formidable01": {
-    "week_seconds": 39521,
+    "week_seconds": 42672,
     "week_start": 1781637068,
-    "total_seconds": 39521
+    "total_seconds": 42672
   },
   "spacepaww": {
     "week_seconds": 62815,
@@ -9397,6 +9397,11 @@
   "santone24": {
     "week_seconds": 0,
     "week_start": 1782173019,
+    "total_seconds": 0
+  },
+  "blazer104": {
+    "week_seconds": 0,
+    "week_start": 1782174303,
     "total_seconds": 0
   }
 }
