@@ -1515,9 +1515,9 @@
     "total_seconds": 26810
   },
   "fang_op": {
-    "week_seconds": 19835,
+    "week_seconds": 32886,
     "week_start": 1782109160,
-    "total_seconds": 110949
+    "total_seconds": 124000
   },
   "_jaek": {
     "week_seconds": 34665,
@@ -3830,9 +3830,9 @@
     "total_seconds": 56729
   },
   "eledion": {
-    "week_seconds": 0,
+    "week_seconds": 636,
     "week_start": 1782202760,
-    "total_seconds": 168649
+    "total_seconds": 169285
   },
   "kashev": {
     "week_seconds": 679,
@@ -6835,9 +6835,9 @@
     "total_seconds": 13699
   },
   "coradiabutsmart": {
-    "week_seconds": 42963,
+    "week_seconds": 42979,
     "week_start": 1781861560,
-    "total_seconds": 42963
+    "total_seconds": 42979
   },
   "yarikheit": {
     "week_seconds": 577,
