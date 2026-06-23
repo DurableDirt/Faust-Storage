@@ -6545,9 +6545,9 @@
     "total_seconds": 2479
   },
   "chair2head": {
-    "week_seconds": 37726,
+    "week_seconds": 41381,
     "week_start": 1781826085,
-    "total_seconds": 37726
+    "total_seconds": 41381
   },
   "nagloxd": {
     "week_seconds": 1309,
@@ -9568,5 +9568,10 @@
     "week_seconds": 0,
     "week_start": 1782191231,
     "total_seconds": 0
+  },
+  "lbubteam_2ithy": {
+    "week_seconds": 32,
+    "week_start": 1782191472,
+    "total_seconds": 32
   }
 }
