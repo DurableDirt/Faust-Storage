@@ -3475,9 +3475,9 @@
     "total_seconds": 6079
   },
   "bloxtlemc": {
-    "week_seconds": 1470,
+    "week_seconds": 3850,
     "week_start": 1782173960,
-    "total_seconds": 79942
+    "total_seconds": 82322
   },
   "mdlp_red15": {
     "week_seconds": 0,
@@ -4025,9 +4025,9 @@
     "total_seconds": 847
   },
   "tactihawk": {
-    "week_seconds": 0,
+    "week_seconds": 7599,
     "week_start": 1782224360,
-    "total_seconds": 84101
+    "total_seconds": 91700
   },
   "_1_m": {
     "week_seconds": 0,
