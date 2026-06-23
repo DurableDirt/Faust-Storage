@@ -1610,9 +1610,9 @@
     "total_seconds": 766
   },
   "adeadhead": {
-    "week_seconds": 142140,
+    "week_seconds": 142153,
     "week_start": 1782112760,
-    "total_seconds": 631426
+    "total_seconds": 631439
   },
   "cedarvaliant": {
     "week_seconds": 13639,
@@ -7650,9 +7650,9 @@
     "total_seconds": 1029
   },
   "chronoswilson": {
-    "week_seconds": 44925,
+    "week_seconds": 57863,
     "week_start": 1781964345,
-    "total_seconds": 44925
+    "total_seconds": 57863
   },
   "sabife": {
     "week_seconds": 32,
