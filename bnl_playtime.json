@@ -665,9 +665,9 @@
     "total_seconds": 100958
   },
   "unique_nullptr": {
-    "week_seconds": 98931,
+    "week_seconds": 99399,
     "week_start": 1782087560,
-    "total_seconds": 289140
+    "total_seconds": 289608
   },
   "boatoverbogs": {
     "week_seconds": 0,
@@ -1575,9 +1575,9 @@
     "total_seconds": 284443
   },
   "_2k42_": {
-    "week_seconds": 84388,
+    "week_seconds": 84420,
     "week_start": 1782112760,
-    "total_seconds": 172452
+    "total_seconds": 172484
   },
   "gobblin": {
     "week_seconds": 15805,
