@@ -5630,9 +5630,9 @@
     "total_seconds": 790
   },
   "enforcer15": {
-    "week_seconds": 10085,
+    "week_seconds": 11490,
     "week_start": 1781739819,
-    "total_seconds": 10085
+    "total_seconds": 11490
   },
   "abejaterrenal": {
     "week_seconds": 1140,
@@ -8525,9 +8525,9 @@
     "total_seconds": 6419
   },
   "eliwastaken5": {
-    "week_seconds": 42544,
+    "week_seconds": 42976,
     "week_start": 1782075705,
-    "total_seconds": 42544
+    "total_seconds": 42976
   },
   "agentsquid2012": {
     "week_seconds": 703,
@@ -10025,8 +10025,8 @@
     "total_seconds": 9
   },
   "fanqe": {
-    "week_seconds": 0,
+    "week_seconds": 429,
     "week_start": 1782251669,
-    "total_seconds": 0
+    "total_seconds": 429
   }
 }
