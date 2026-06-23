@@ -4440,9 +4440,9 @@
     "total_seconds": 132
   },
   "shadysauce": {
-    "week_seconds": 42861,
+    "week_seconds": 42890,
     "week_start": 1781638356,
-    "total_seconds": 42861
+    "total_seconds": 42890
   },
   "blackoutknight": {
     "week_seconds": 7732,
@@ -9455,8 +9455,8 @@
     "total_seconds": 0
   },
   "greekyogurrt": {
-    "week_seconds": 46,
+    "week_seconds": 95,
     "week_start": 1782182959,
-    "total_seconds": 46
+    "total_seconds": 95
   }
 }
