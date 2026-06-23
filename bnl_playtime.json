@@ -2985,9 +2985,9 @@
     "total_seconds": 126345
   },
   "nostalgie_": {
-    "week_seconds": 0,
+    "week_seconds": 3519,
     "week_start": 1782159560,
-    "total_seconds": 18733
+    "total_seconds": 22252
   },
   "martini8": {
     "week_seconds": 14069,
@@ -5715,9 +5715,9 @@
     "total_seconds": 7676
   },
   "rurfu": {
-    "week_seconds": 82819,
+    "week_seconds": 82998,
     "week_start": 1781746808,
-    "total_seconds": 82819
+    "total_seconds": 82998
   },
   "binks4362": {
     "week_seconds": 266,
@@ -9682,6 +9682,16 @@
   "omo23536": {
     "week_seconds": 0,
     "week_start": 1782223234,
+    "total_seconds": 0
+  },
+  "pryy": {
+    "week_seconds": 37,
+    "week_start": 1782224497,
+    "total_seconds": 37
+  },
+  "buckyhd": {
+    "week_seconds": 0,
+    "week_start": 1782224507,
     "total_seconds": 0
   }
 }
