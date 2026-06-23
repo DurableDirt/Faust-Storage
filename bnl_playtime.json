@@ -45,9 +45,9 @@
     "total_seconds": 158482
   },
   "lucifer420xx": {
-    "week_seconds": 4137,
+    "week_seconds": 4552,
     "week_start": 1782080360,
-    "total_seconds": 72996
+    "total_seconds": 73411
   },
   "meenos": {
     "week_seconds": 8427,
@@ -9543,5 +9543,10 @@
     "week_seconds": 4,
     "week_start": 1782190483,
     "total_seconds": 4
+  },
+  "post__pacific": {
+    "week_seconds": 0,
+    "week_start": 1782190924,
+    "total_seconds": 0
   }
 }
