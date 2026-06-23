@@ -865,9 +865,9 @@
     "total_seconds": 23
   },
   "anvil": {
-    "week_seconds": 100831,
+    "week_seconds": 100886,
     "week_start": 1782091160,
-    "total_seconds": 123095
+    "total_seconds": 123150
   },
   "deerifius": {
     "week_seconds": 13300,
@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 23503,
+    "week_seconds": 23538,
     "week_start": 1782127160,
-    "total_seconds": 87981
+    "total_seconds": 88016
   },
   "hxrl": {
     "week_seconds": 9200,
@@ -2295,9 +2295,9 @@
     "total_seconds": 142896
   },
   "stun2845": {
-    "week_seconds": 1465,
+    "week_seconds": 1717,
     "week_start": 1782137960,
-    "total_seconds": 16008
+    "total_seconds": 16260
   },
   "zeologue": {
     "week_seconds": 0,
