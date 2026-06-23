@@ -725,9 +725,9 @@
     "total_seconds": 329
   },
   "zzcqmbozz": {
-    "week_seconds": 15683,
+    "week_seconds": 15699,
     "week_start": 1782087560,
-    "total_seconds": 119246
+    "total_seconds": 119262
   },
   "marc_1500": {
     "week_seconds": 23502,
@@ -815,9 +815,9 @@
     "total_seconds": 166604
   },
   "gnathope": {
-    "week_seconds": 18976,
+    "week_seconds": 18983,
     "week_start": 1782091160,
-    "total_seconds": 120972
+    "total_seconds": 120979
   },
   "freeblade999": {
     "week_seconds": 10153,
@@ -9867,6 +9867,11 @@
   "b0cke": {
     "week_seconds": 0,
     "week_start": 1782237578,
+    "total_seconds": 0
+  },
+  "mrgridster": {
+    "week_seconds": 0,
+    "week_start": 1782238394,
     "total_seconds": 0
   }
 }
