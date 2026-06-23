@@ -3630,9 +3630,9 @@
     "total_seconds": 137926
   },
   "realmichael": {
-    "week_seconds": 19520,
+    "week_seconds": 23435,
     "week_start": 1782181160,
-    "total_seconds": 95004
+    "total_seconds": 98919
   },
   "dj121739": {
     "week_seconds": 49861,
@@ -10003,5 +10003,10 @@
     "week_seconds": 141,
     "week_start": 1782250223,
     "total_seconds": 141
+  },
+  "thereack": {
+    "week_seconds": 0,
+    "week_start": 1782250411,
+    "total_seconds": 0
   }
 }
