@@ -2175,9 +2175,9 @@
     "total_seconds": 29
   },
   "mike5905": {
-    "week_seconds": 17418,
+    "week_seconds": 24050,
     "week_start": 1782134360,
-    "total_seconds": 126148
+    "total_seconds": 132780
   },
   "lopsterbisque": {
     "week_seconds": 3090,
@@ -5555,9 +5555,9 @@
     "total_seconds": 642
   },
   "squishywaffle20": {
-    "week_seconds": 75674,
+    "week_seconds": 75710,
     "week_start": 1781735266,
-    "total_seconds": 75674
+    "total_seconds": 75710
   },
   "defunctsnail187": {
     "week_seconds": 1378,
@@ -9960,9 +9960,9 @@
     "total_seconds": 145
   },
   "blueben_427": {
-    "week_seconds": 73,
+    "week_seconds": 3375,
     "week_start": 1782245966,
-    "total_seconds": 73
+    "total_seconds": 3375
   },
   "ducky096": {
     "week_seconds": 15,
@@ -9988,5 +9988,10 @@
     "week_seconds": 192,
     "week_start": 1782249166,
     "total_seconds": 192
+  },
+  "bobicus_iv": {
+    "week_seconds": 0,
+    "week_start": 1782249493,
+    "total_seconds": 0
   }
 }
