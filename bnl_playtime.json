@@ -2735,9 +2735,9 @@
     "total_seconds": 570
   },
   "anttolisa": {
-    "week_seconds": 40766,
+    "week_seconds": 41185,
     "week_start": 1782152360,
-    "total_seconds": 167343
+    "total_seconds": 167762
   },
   "ivona_dies_alot": {
     "week_seconds": 0,
@@ -8585,9 +8585,9 @@
     "total_seconds": 24238
   },
   "gregy165": {
-    "week_seconds": 93846,
+    "week_seconds": 95685,
     "week_start": 1782080413,
-    "total_seconds": 93846
+    "total_seconds": 95685
   },
   "yungsgt": {
     "week_seconds": 1930,
@@ -9913,5 +9913,10 @@
     "week_seconds": 16,
     "week_start": 1782242163,
     "total_seconds": 16
+  },
+  "drakosha1mg": {
+    "week_seconds": 11,
+    "week_start": 1782242514,
+    "total_seconds": 11
   }
 }
