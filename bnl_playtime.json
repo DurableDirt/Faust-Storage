@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 48062,
+    "week_seconds": 48308,
     "week_start": 1782127160,
-    "total_seconds": 112540
+    "total_seconds": 112786
   },
   "hxrl": {
     "week_seconds": 29325,
@@ -10053,5 +10053,10 @@
     "week_seconds": 15,
     "week_start": 1782253895,
     "total_seconds": 15
+  },
+  "theminerking": {
+    "week_seconds": 0,
+    "week_start": 1782253978,
+    "total_seconds": 0
   }
 }
