@@ -9975,13 +9975,18 @@
     "total_seconds": 261
   },
   "blackbird224488": {
-    "week_seconds": 34,
+    "week_seconds": 215,
     "week_start": 1782248928,
-    "total_seconds": 34
+    "total_seconds": 215
   },
   "rab_2010": {
     "week_seconds": 42,
     "week_start": 1782248933,
     "total_seconds": 42
+  },
+  "missioncarp3127": {
+    "week_seconds": 0,
+    "week_start": 1782249166,
+    "total_seconds": 0
   }
 }
