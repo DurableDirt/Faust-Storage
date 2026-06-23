@@ -6825,9 +6825,9 @@
     "total_seconds": 10665
   },
   "vedel2050": {
-    "week_seconds": 21956,
+    "week_seconds": 22883,
     "week_start": 1781860716,
-    "total_seconds": 21956
+    "total_seconds": 22883
   },
   "jobisveryscary67": {
     "week_seconds": 13699,
@@ -9898,5 +9898,10 @@
     "week_seconds": 609,
     "week_start": 1782239039,
     "total_seconds": 609
+  },
+  "profixerio": {
+    "week_seconds": 0,
+    "week_start": 1782240637,
+    "total_seconds": 0
   }
 }
