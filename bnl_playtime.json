@@ -135,9 +135,9 @@
     "total_seconds": 331464
   },
   "donnelpyke2": {
-    "week_seconds": 48132,
+    "week_seconds": 51549,
     "week_start": 1782083960,
-    "total_seconds": 100455
+    "total_seconds": 103872
   },
   "ziqh333": {
     "week_seconds": 0,
@@ -2545,9 +2545,9 @@
     "total_seconds": 6974
   },
   "milevsky": {
-    "week_seconds": 33647,
+    "week_seconds": 33753,
     "week_start": 1782145160,
-    "total_seconds": 177748
+    "total_seconds": 177854
   },
   "wallbeck": {
     "week_seconds": 0,
@@ -6350,9 +6350,9 @@
     "total_seconds": 2515
   },
   "sabreeh": {
-    "week_seconds": 315,
+    "week_seconds": 746,
     "week_start": 1781811826,
-    "total_seconds": 315
+    "total_seconds": 746
   },
   "nemmasis": {
     "week_seconds": 4763,
@@ -10028,5 +10028,10 @@
     "week_seconds": 429,
     "week_start": 1782251669,
     "total_seconds": 429
+  },
+  "enderdragon0221": {
+    "week_seconds": 0,
+    "week_start": 1782252819,
+    "total_seconds": 0
   }
 }
