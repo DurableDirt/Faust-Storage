@@ -750,9 +750,9 @@
     "total_seconds": 3241
   },
   "goosehoss": {
-    "week_seconds": 6141,
+    "week_seconds": 6212,
     "week_start": 1782087560,
-    "total_seconds": 22674
+    "total_seconds": 22745
   },
   "22o1anges": {
     "week_seconds": 3489,
@@ -2415,9 +2415,9 @@
     "total_seconds": 21977
   },
   "sml128": {
-    "week_seconds": 20333,
+    "week_seconds": 26350,
     "week_start": 1782141560,
-    "total_seconds": 105234
+    "total_seconds": 111251
   },
   "malipan": {
     "week_seconds": 9106,
@@ -2515,9 +2515,9 @@
     "total_seconds": 49995
   },
   "disdage": {
-    "week_seconds": 56753,
+    "week_seconds": 60693,
     "week_start": 1782141560,
-    "total_seconds": 106812
+    "total_seconds": 110752
   },
   "thomas2point0": {
     "week_seconds": 0,
@@ -10082,6 +10082,11 @@
   "ashyogurl": {
     "week_seconds": 0,
     "week_start": 1782256157,
+    "total_seconds": 0
+  },
+  "bashjj": {
+    "week_seconds": 0,
+    "week_start": 1782256347,
     "total_seconds": 0
   }
 }
