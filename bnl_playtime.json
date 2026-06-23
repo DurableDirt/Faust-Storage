@@ -10,9 +10,9 @@
     "total_seconds": 4
   },
   "logic_man": {
-    "week_seconds": 37566,
+    "week_seconds": 42868,
     "week_start": 1782080360,
-    "total_seconds": 104444
+    "total_seconds": 109746
   },
   "dragran": {
     "week_seconds": 152918,
@@ -8585,9 +8585,9 @@
     "total_seconds": 24147
   },
   "gregy165": {
-    "week_seconds": 78226,
+    "week_seconds": 84263,
     "week_start": 1782080413,
-    "total_seconds": 78226
+    "total_seconds": 84263
   },
   "yungsgt": {
     "week_seconds": 1930,
@@ -9643,5 +9643,10 @@
     "week_seconds": 74,
     "week_start": 1782212956,
     "total_seconds": 74
+  },
+  "fauxfox2": {
+    "week_seconds": 0,
+    "week_start": 1782215869,
+    "total_seconds": 0
   }
 }
