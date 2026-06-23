@@ -740,9 +740,9 @@
     "total_seconds": 276
   },
   "grepsedawk": {
-    "week_seconds": 117651,
+    "week_seconds": 118630,
     "week_start": 1782087560,
-    "total_seconds": 518807
+    "total_seconds": 519786
   },
   "complexii": {
     "week_seconds": 0,
@@ -4495,9 +4495,9 @@
     "total_seconds": 5025
   },
   "nulldorito": {
-    "week_seconds": 82251,
+    "week_seconds": 92025,
     "week_start": 1781641618,
-    "total_seconds": 82251
+    "total_seconds": 92025
   },
   "moirai_3242": {
     "week_seconds": 61644,
@@ -9588,5 +9588,10 @@
     "week_seconds": 63,
     "week_start": 1782193272,
     "total_seconds": 63
+  },
+  "jackandchippyyt": {
+    "week_seconds": 0,
+    "week_start": 1782196274,
+    "total_seconds": 0
   }
 }
