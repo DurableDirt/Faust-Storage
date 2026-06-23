@@ -9155,9 +9155,9 @@
     "total_seconds": 169
   },
   "beetlesandrocks": {
-    "week_seconds": 19050,
+    "week_seconds": 19573,
     "week_start": 1782154105,
-    "total_seconds": 19050
+    "total_seconds": 19573
   },
   "ebgvie": {
     "week_seconds": 4185,
@@ -9727,6 +9727,11 @@
   "lico_o": {
     "week_seconds": 0,
     "week_start": 1782227662,
+    "total_seconds": 0
+  },
+  "theoutlet125": {
+    "week_seconds": 0,
+    "week_start": 1782227925,
     "total_seconds": 0
   }
 }
