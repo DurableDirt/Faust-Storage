@@ -230,9 +230,9 @@
     "total_seconds": 76
   },
   "the_fella7441": {
-    "week_seconds": 29522,
+    "week_seconds": 30574,
     "week_start": 1782083960,
-    "total_seconds": 92017
+    "total_seconds": 93069
   },
   "hentlol": {
     "week_seconds": 29479,
@@ -9595,8 +9595,13 @@
     "total_seconds": 0
   },
   "baroquoli": {
-    "week_seconds": 0,
+    "week_seconds": 409,
     "week_start": 1782196578,
+    "total_seconds": 409
+  },
+  "frickin_sausage": {
+    "week_seconds": 0,
+    "week_start": 1782196955,
     "total_seconds": 0
   }
 }
