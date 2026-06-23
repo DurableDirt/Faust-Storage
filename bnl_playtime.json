@@ -445,9 +445,9 @@
     "total_seconds": 117395
   },
   "iron600": {
-    "week_seconds": 48956,
+    "week_seconds": 64309,
     "week_start": 1782083960,
-    "total_seconds": 237769
+    "total_seconds": 253122
   },
   "mrtnt1925": {
     "week_seconds": 4695,
@@ -9780,8 +9780,8 @@
     "total_seconds": 0
   },
   "albtv_2025": {
-    "week_seconds": 0,
+    "week_seconds": 718,
     "week_start": 1782230931,
-    "total_seconds": 0
+    "total_seconds": 718
   }
 }
