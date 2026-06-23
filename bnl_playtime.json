@@ -7695,9 +7695,9 @@
     "total_seconds": 2509
   },
   "haxx0r": {
-    "week_seconds": 2526,
+    "week_seconds": 7497,
     "week_start": 1781970394,
-    "total_seconds": 2526
+    "total_seconds": 7497
   },
   "mdubravka": {
     "week_seconds": 24,
@@ -9578,5 +9578,10 @@
     "week_seconds": 113,
     "week_start": 1782192461,
     "total_seconds": 113
+  },
+  "binturemus": {
+    "week_seconds": 0,
+    "week_start": 1782193173,
+    "total_seconds": 0
   }
 }
