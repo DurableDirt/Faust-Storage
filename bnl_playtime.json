@@ -3740,9 +3740,9 @@
     "total_seconds": 4405
   },
   "spenduh": {
-    "week_seconds": 52142,
+    "week_seconds": 52160,
     "week_start": 1781582696,
-    "total_seconds": 52142
+    "total_seconds": 52160
   },
   "chickenjockey500": {
     "week_seconds": 199,
@@ -9440,8 +9440,8 @@
     "total_seconds": 0
   },
   "ep1c_noah": {
-    "week_seconds": 397,
+    "week_seconds": 1580,
     "week_start": 1782179953,
-    "total_seconds": 397
+    "total_seconds": 1580
   }
 }
