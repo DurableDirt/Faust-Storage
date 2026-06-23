@@ -565,9 +565,9 @@
     "total_seconds": 76657
   },
   "graydawn_": {
-    "week_seconds": 60244,
+    "week_seconds": 60449,
     "week_start": 1782087560,
-    "total_seconds": 314798
+    "total_seconds": 315003
   },
   "angie_dovie111": {
     "week_seconds": 52602,
@@ -8235,9 +8235,9 @@
     "total_seconds": 1010
   },
   "pinkfloyd12": {
-    "week_seconds": 3950,
+    "week_seconds": 4023,
     "week_start": 1782040392,
-    "total_seconds": 3950
+    "total_seconds": 4023
   },
   "ch4m3leon": {
     "week_seconds": 36289,
@@ -9697,6 +9697,11 @@
   "xoxpancake": {
     "week_seconds": 0,
     "week_start": 1782224977,
+    "total_seconds": 0
+  },
+  "venomleodex": {
+    "week_seconds": 0,
+    "week_start": 1782225064,
     "total_seconds": 0
   }
 }
