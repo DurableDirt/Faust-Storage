@@ -1170,9 +1170,9 @@
     "total_seconds": 86354
   },
   "opozzumz": {
-    "week_seconds": 23455,
+    "week_seconds": 26416,
     "week_start": 1782094760,
-    "total_seconds": 92057
+    "total_seconds": 95018
   },
   "astralchroma": {
     "week_seconds": 52064,
@@ -9855,9 +9855,9 @@
     "total_seconds": 52
   },
   "kingdd2311": {
-    "week_seconds": 5537,
+    "week_seconds": 9803,
     "week_start": 1782237179,
-    "total_seconds": 5537
+    "total_seconds": 9803
   },
   "stoomer": {
     "week_seconds": 8796,
@@ -10013,5 +10013,10 @@
     "week_seconds": 23,
     "week_start": 1782250559,
     "total_seconds": 23
+  },
+  "seventhplayer": {
+    "week_seconds": 0,
+    "week_start": 1782250759,
+    "total_seconds": 0
   }
 }
