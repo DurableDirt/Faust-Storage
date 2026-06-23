@@ -815,9 +815,9 @@
     "total_seconds": 166604
   },
   "gnathope": {
-    "week_seconds": 16125,
+    "week_seconds": 16233,
     "week_start": 1782091160,
-    "total_seconds": 118121
+    "total_seconds": 118229
   },
   "freeblade999": {
     "week_seconds": 10153,
@@ -1915,9 +1915,9 @@
     "total_seconds": 25576
   },
   "luckluc4243": {
-    "week_seconds": 11782,
+    "week_seconds": 17498,
     "week_start": 1782127160,
-    "total_seconds": 51905
+    "total_seconds": 57621
   },
   "choochtrooper": {
     "week_seconds": 0,
@@ -9753,5 +9753,10 @@
     "week_seconds": 0,
     "week_start": 1782229340,
     "total_seconds": 0
+  },
+  "kikkori": {
+    "week_seconds": 6,
+    "week_start": 1782229376,
+    "total_seconds": 6
   }
 }
