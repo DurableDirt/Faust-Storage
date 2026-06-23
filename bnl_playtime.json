@@ -5985,9 +5985,9 @@
     "total_seconds": 21044
   },
   "what777": {
-    "week_seconds": 238439,
+    "week_seconds": 238456,
     "week_start": 1781783211,
-    "total_seconds": 238439
+    "total_seconds": 238456
   },
   "arealfriedwing": {
     "week_seconds": 218,
@@ -9370,9 +9370,9 @@
     "total_seconds": 451
   },
   "aabcdp": {
-    "week_seconds": 14761,
+    "week_seconds": 14864,
     "week_start": 1782171629,
-    "total_seconds": 14761
+    "total_seconds": 14864
   },
   "itbruns": {
     "week_seconds": 117,
@@ -9497,6 +9497,16 @@
   "aflyinglaundry": {
     "week_seconds": 0,
     "week_start": 1782185828,
+    "total_seconds": 0
+  },
+  "celavetex": {
+    "week_seconds": 0,
+    "week_start": 1782186800,
+    "total_seconds": 0
+  },
+  "h0neych1ps": {
+    "week_seconds": 0,
+    "week_start": 1782186802,
     "total_seconds": 0
   }
 }
