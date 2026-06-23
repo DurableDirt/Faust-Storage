@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 42067,
+    "week_seconds": 42454,
     "week_start": 1782127160,
-    "total_seconds": 106545
+    "total_seconds": 106932
   },
   "hxrl": {
     "week_seconds": 16838,
@@ -9750,9 +9750,9 @@
     "total_seconds": 180
   },
   "bunzichillet": {
-    "week_seconds": 7317,
+    "week_seconds": 8624,
     "week_start": 1782229340,
-    "total_seconds": 7317
+    "total_seconds": 8624
   },
   "kikkori": {
     "week_seconds": 6,
@@ -9887,6 +9887,16 @@
   "danhat": {
     "week_seconds": 0,
     "week_start": 1782238958,
+    "total_seconds": 0
+  },
+  "bensnowm": {
+    "week_seconds": 0,
+    "week_start": 1782239009,
+    "total_seconds": 0
+  },
+  "legality_": {
+    "week_seconds": 0,
+    "week_start": 1782239039,
     "total_seconds": 0
   }
 }
