@@ -4130,9 +4130,9 @@
     "total_seconds": 47806
   },
   "annatos": {
-    "week_seconds": 4580,
+    "week_seconds": 4607,
     "week_start": 1782231560,
-    "total_seconds": 75159
+    "total_seconds": 75186
   },
   "testedyapper": {
     "week_seconds": 0,
@@ -10037,6 +10037,16 @@
   "barney4x4": {
     "week_seconds": 0,
     "week_start": 1782253515,
+    "total_seconds": 0
+  },
+  "ro_por_go": {
+    "week_seconds": 0,
+    "week_start": 1782253623,
+    "total_seconds": 0
+  },
+  "tomtenisse_": {
+    "week_seconds": 0,
+    "week_start": 1782253639,
     "total_seconds": 0
   }
 }
