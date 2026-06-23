@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 26201,
+    "week_seconds": 26211,
     "week_start": 1782127160,
-    "total_seconds": 90679
+    "total_seconds": 90689
   },
   "hxrl": {
     "week_seconds": 11064,
@@ -3815,9 +3815,9 @@
     "total_seconds": 39227
   },
   "refe1k": {
-    "week_seconds": 298,
+    "week_seconds": 2636,
     "week_start": 1782199160,
-    "total_seconds": 15284
+    "total_seconds": 17622
   },
   "toasterbreaker": {
     "week_seconds": 0,
