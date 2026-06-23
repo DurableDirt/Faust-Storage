@@ -6360,9 +6360,9 @@
     "total_seconds": 4763
   },
   "tamerlanee": {
-    "week_seconds": 1532,
+    "week_seconds": 1546,
     "week_start": 1781812130,
-    "total_seconds": 1532
+    "total_seconds": 1546
   },
   "mrtshorts": {
     "week_seconds": 7417,
@@ -9412,6 +9412,11 @@
   "geo00": {
     "week_seconds": 0,
     "week_start": 1782175469,
+    "total_seconds": 0
+  },
+  "exprockyt": {
+    "week_seconds": 0,
+    "week_start": 1782175731,
     "total_seconds": 0
   }
 }
