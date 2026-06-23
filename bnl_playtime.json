@@ -3190,9 +3190,9 @@
     "total_seconds": 322
   },
   "leadattic_": {
-    "week_seconds": 0,
+    "week_seconds": 12835,
     "week_start": 1782163160,
-    "total_seconds": 110718
+    "total_seconds": 123553
   },
   "black__wolf_": {
     "week_seconds": 8432,
@@ -8660,9 +8660,9 @@
     "total_seconds": 5
   },
   "jayce3w": {
-    "week_seconds": 22558,
+    "week_seconds": 24029,
     "week_start": 1782088155,
-    "total_seconds": 22558
+    "total_seconds": 24029
   },
   "jac0byy": {
     "week_seconds": 4959,
@@ -8920,9 +8920,9 @@
     "total_seconds": 5534
   },
   "solaid": {
-    "week_seconds": 5142,
+    "week_seconds": 7793,
     "week_start": 1782127069,
-    "total_seconds": 5142
+    "total_seconds": 7793
   },
   "chris__mapper": {
     "week_seconds": 2239,
@@ -9408,5 +9408,10 @@
     "week_seconds": 260,
     "week_start": 1782174751,
     "total_seconds": 260
+  },
+  "geo00": {
+    "week_seconds": 0,
+    "week_start": 1782175469,
+    "total_seconds": 0
   }
 }
