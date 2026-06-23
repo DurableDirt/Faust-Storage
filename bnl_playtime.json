@@ -3820,68 +3820,68 @@
     "total_seconds": 15284
   },
   "toasterbreaker": {
-    "week_seconds": 4880,
-    "week_start": 1781594791,
+    "week_seconds": 0,
+    "week_start": 1782202760,
     "total_seconds": 4880
   },
   "catgirlpoacher06": {
-    "week_seconds": 56729,
-    "week_start": 1781595089,
+    "week_seconds": 0,
+    "week_start": 1782202760,
     "total_seconds": 56729
   },
   "eledion": {
-    "week_seconds": 168649,
-    "week_start": 1781595185,
+    "week_seconds": 0,
+    "week_start": 1782202760,
     "total_seconds": 168649
   },
   "kashev": {
-    "week_seconds": 46809,
-    "week_start": 1781595224,
+    "week_seconds": 0,
+    "week_start": 1782202760,
     "total_seconds": 46809
   },
   "gracefulmomo_": {
-    "week_seconds": 6777,
-    "week_start": 1781595258,
+    "week_seconds": 0,
+    "week_start": 1782202760,
     "total_seconds": 6777
   },
   "noctillary": {
-    "week_seconds": 14774,
-    "week_start": 1781595268,
+    "week_seconds": 0,
+    "week_start": 1782202760,
     "total_seconds": 14774
   },
   "_executeds": {
-    "week_seconds": 20,
-    "week_start": 1781595724,
+    "week_seconds": 0,
+    "week_start": 1782202760,
     "total_seconds": 20
   },
   "td4n1elmyst1c": {
-    "week_seconds": 7138,
-    "week_start": 1781596600,
+    "week_seconds": 0,
+    "week_start": 1782202760,
     "total_seconds": 7138
   },
   "imperrc": {
-    "week_seconds": 35018,
-    "week_start": 1781596722,
+    "week_seconds": 0,
+    "week_start": 1782202760,
     "total_seconds": 35018
   },
   "linaah": {
-    "week_seconds": 10,
-    "week_start": 1781596744,
+    "week_seconds": 0,
+    "week_start": 1782202760,
     "total_seconds": 10
   },
   "volutionfs": {
-    "week_seconds": 6605,
-    "week_start": 1781596869,
+    "week_seconds": 0,
+    "week_start": 1782202760,
     "total_seconds": 6605
   },
   "alexakhramovich": {
-    "week_seconds": 1195,
-    "week_start": 1781597249,
+    "week_seconds": 0,
+    "week_start": 1782202760,
     "total_seconds": 1195
   },
   "mrfreaky6767": {
-    "week_seconds": 75,
-    "week_start": 1781597327,
+    "week_seconds": 0,
+    "week_start": 1782202760,
     "total_seconds": 75
   },
   "zashabisnes": {
@@ -9515,9 +9515,9 @@
     "total_seconds": 0
   },
   "swit_ch": {
-    "week_seconds": 4749,
+    "week_seconds": 4914,
     "week_start": 1782187654,
-    "total_seconds": 4749
+    "total_seconds": 4914
   },
   "bickersasaurus": {
     "week_seconds": 7158,
@@ -9608,5 +9608,10 @@
     "week_seconds": 133,
     "week_start": 1782202130,
     "total_seconds": 133
+  },
+  "bench430": {
+    "week_seconds": 0,
+    "week_start": 1782202793,
+    "total_seconds": 0
   }
 }
