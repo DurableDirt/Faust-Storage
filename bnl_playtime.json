@@ -840,9 +840,9 @@
     "total_seconds": 20241
   },
   "socialistspectre": {
-    "week_seconds": 31507,
+    "week_seconds": 31581,
     "week_start": 1782091160,
-    "total_seconds": 163956
+    "total_seconds": 164030
   },
   "desmonddotjpeg": {
     "week_seconds": 0,
@@ -9392,6 +9392,11 @@
   "suntaso": {
     "week_seconds": 0,
     "week_start": 1782172887,
+    "total_seconds": 0
+  },
+  "santone24": {
+    "week_seconds": 0,
+    "week_start": 1782173019,
     "total_seconds": 0
   }
 }
