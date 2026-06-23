@@ -9235,9 +9235,9 @@
     "total_seconds": 11518
   },
   "qtq_uwu": {
-    "week_seconds": 20393,
+    "week_seconds": 20574,
     "week_start": 1782162157,
-    "total_seconds": 20393
+    "total_seconds": 20574
   },
   "midnightrblx": {
     "week_seconds": 3681,
@@ -9507,6 +9507,11 @@
   "h0neych1ps": {
     "week_seconds": 0,
     "week_start": 1782186802,
+    "total_seconds": 0
+  },
+  "terravex": {
+    "week_seconds": 0,
+    "week_start": 1782187047,
     "total_seconds": 0
   }
 }
