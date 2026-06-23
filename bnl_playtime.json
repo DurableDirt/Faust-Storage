@@ -7585,9 +7585,9 @@
     "total_seconds": 67
   },
   "backwash": {
-    "week_seconds": 50639,
+    "week_seconds": 56606,
     "week_start": 1781955472,
-    "total_seconds": 50639
+    "total_seconds": 56606
   },
   "huston_x": {
     "week_seconds": 382,
@@ -9095,9 +9095,9 @@
     "total_seconds": 2943
   },
   "coolchacha97": {
-    "week_seconds": 1808,
+    "week_seconds": 1904,
     "week_start": 1782149426,
-    "total_seconds": 1808
+    "total_seconds": 1904
   },
   "mavereich": {
     "week_seconds": 17,
@@ -9425,8 +9425,8 @@
     "total_seconds": 0
   },
   "_k_1_t_": {
-    "week_seconds": 27,
+    "week_seconds": 49,
     "week_start": 1782177794,
-    "total_seconds": 27
+    "total_seconds": 49
   }
 }
