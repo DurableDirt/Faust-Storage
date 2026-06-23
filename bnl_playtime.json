@@ -3310,9 +3310,9 @@
     "total_seconds": 16169
   },
   "sagapocalypse": {
-    "week_seconds": 10080,
+    "week_seconds": 14877,
     "week_start": 1782166760,
-    "total_seconds": 32810
+    "total_seconds": 37607
   },
   "praoubl": {
     "week_seconds": 0,
@@ -5260,9 +5260,9 @@
     "total_seconds": 1093
   },
   "worldbound64": {
-    "week_seconds": 4025,
+    "week_seconds": 6373,
     "week_start": 1781713505,
-    "total_seconds": 4025
+    "total_seconds": 6373
   },
   "bevinator2": {
     "week_seconds": 82754,
@@ -8580,9 +8580,9 @@
     "total_seconds": 9460
   },
   "ni3a": {
-    "week_seconds": 13000,
+    "week_seconds": 23848,
     "week_start": 1782080238,
-    "total_seconds": 13000
+    "total_seconds": 23848
   },
   "gregy165": {
     "week_seconds": 57209,
@@ -9432,6 +9432,11 @@
   "lilximmagrant": {
     "week_seconds": 0,
     "week_start": 1782178808,
+    "total_seconds": 0
+  },
+  "gamecrafted": {
+    "week_seconds": 0,
+    "week_start": 1782178859,
     "total_seconds": 0
   }
 }
