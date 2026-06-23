@@ -6225,9 +6225,9 @@
     "total_seconds": 8420
   },
   "fur": {
-    "week_seconds": 10507,
+    "week_seconds": 10524,
     "week_start": 1781807309,
-    "total_seconds": 10507
+    "total_seconds": 10524
   },
   "nfish2021": {
     "week_seconds": 144,
@@ -9483,5 +9483,10 @@
     "week_seconds": 109,
     "week_start": 1782184946,
     "total_seconds": 109
+  },
+  "trackgod": {
+    "week_seconds": 0,
+    "week_start": 1782185093,
+    "total_seconds": 0
   }
 }
