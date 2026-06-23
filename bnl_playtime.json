@@ -3935,9 +3935,9 @@
     "total_seconds": 27
   },
   "forrestmoss": {
-    "week_seconds": 10527,
+    "week_seconds": 10758,
     "week_start": 1782213560,
-    "total_seconds": 17272
+    "total_seconds": 17503
   },
   "edvinsvanis": {
     "week_seconds": 0,
@@ -4885,9 +4885,9 @@
     "total_seconds": 6201
   },
   "themervlin": {
-    "week_seconds": 82428,
+    "week_seconds": 89419,
     "week_start": 1781671618,
-    "total_seconds": 82428
+    "total_seconds": 89419
   },
   "westerian": {
     "week_seconds": 3272,
@@ -10023,5 +10023,10 @@
     "week_seconds": 9,
     "week_start": 1782250871,
     "total_seconds": 9
+  },
+  "fanqe": {
+    "week_seconds": 0,
+    "week_start": 1782251669,
+    "total_seconds": 0
   }
 }
