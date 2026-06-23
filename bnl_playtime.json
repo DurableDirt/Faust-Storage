@@ -2915,9 +2915,9 @@
     "total_seconds": 3378
   },
   "emilderking": {
-    "week_seconds": 8043,
+    "week_seconds": 8422,
     "week_start": 1782155960,
-    "total_seconds": 12340
+    "total_seconds": 12719
   },
   "sishi0417": {
     "week_seconds": 0,
@@ -4450,9 +4450,9 @@
     "total_seconds": 7732
   },
   "xbitzl": {
-    "week_seconds": 6734,
+    "week_seconds": 6871,
     "week_start": 1782245960,
-    "total_seconds": 44079
+    "total_seconds": 44216
   },
   "stevethehouse122": {
     "week_seconds": 0,
@@ -10018,5 +10018,10 @@
     "week_seconds": 0,
     "week_start": 1782250759,
     "total_seconds": 0
+  },
+  "endertoaster33": {
+    "week_seconds": 9,
+    "week_start": 1782250871,
+    "total_seconds": 9
   }
 }
