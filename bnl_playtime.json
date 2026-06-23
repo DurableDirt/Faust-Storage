@@ -100,9 +100,9 @@
     "total_seconds": 2782
   },
   "fishsticks47": {
-    "week_seconds": 44452,
+    "week_seconds": 44653,
     "week_start": 1782080360,
-    "total_seconds": 144800
+    "total_seconds": 145001
   },
   "slothinasuit": {
     "week_seconds": 66358,
@@ -4150,9 +4150,9 @@
     "total_seconds": 96713
   },
   "stick_ix_nex": {
-    "week_seconds": 0,
+    "week_seconds": 2250,
     "week_start": 1782235160,
-    "total_seconds": 151321
+    "total_seconds": 153571
   },
   "dashingyang": {
     "week_seconds": 0,
@@ -5195,9 +5195,9 @@
     "total_seconds": 11990
   },
   "itzhoover": {
-    "week_seconds": 45160,
+    "week_seconds": 62475,
     "week_start": 1781708110,
-    "total_seconds": 45160
+    "total_seconds": 62475
   },
   "rayunlucke": {
     "week_seconds": 316942,
@@ -9883,5 +9883,10 @@
     "week_seconds": 391,
     "week_start": 1782238497,
     "total_seconds": 391
+  },
+  "danhat": {
+    "week_seconds": 0,
+    "week_start": 1782238958,
+    "total_seconds": 0
   }
 }
