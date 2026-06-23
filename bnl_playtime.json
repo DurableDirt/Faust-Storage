@@ -3830,9 +3830,9 @@
     "total_seconds": 56729
   },
   "eledion": {
-    "week_seconds": 155974,
+    "week_seconds": 163889,
     "week_start": 1781595185,
-    "total_seconds": 155974
+    "total_seconds": 163889
   },
   "kashev": {
     "week_seconds": 46809,
@@ -4475,9 +4475,9 @@
     "total_seconds": 2693
   },
   "raeders": {
-    "week_seconds": 119039,
+    "week_seconds": 119073,
     "week_start": 1781639974,
-    "total_seconds": 119039
+    "total_seconds": 119073
   },
   "alphatrom3041": {
     "week_seconds": 79,
@@ -7710,9 +7710,9 @@
     "total_seconds": 3989
   },
   "gladiatus13": {
-    "week_seconds": 39437,
+    "week_seconds": 39590,
     "week_start": 1781971642,
-    "total_seconds": 39437
+    "total_seconds": 39590
   },
   "dark_phoenixs": {
     "week_seconds": 318,
@@ -7760,9 +7760,9 @@
     "total_seconds": 38
   },
   "bailey00712": {
-    "week_seconds": 37596,
+    "week_seconds": 40797,
     "week_start": 1781977669,
-    "total_seconds": 37596
+    "total_seconds": 40797
   },
   "x_teach_x": {
     "week_seconds": 40422,
@@ -9437,6 +9437,11 @@
   "gamecrafted": {
     "week_seconds": 0,
     "week_start": 1782178859,
+    "total_seconds": 0
+  },
+  "ep1c_noah": {
+    "week_seconds": 0,
+    "week_start": 1782179953,
     "total_seconds": 0
   }
 }
