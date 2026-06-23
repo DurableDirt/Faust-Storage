@@ -1750,9 +1750,9 @@
     "total_seconds": 251616
   },
   "stavros_ell": {
-    "week_seconds": 20834,
+    "week_seconds": 23892,
     "week_start": 1782119960,
-    "total_seconds": 52677
+    "total_seconds": 55735
   },
   "facocero09": {
     "week_seconds": 32731,
@@ -9645,8 +9645,8 @@
     "total_seconds": 74
   },
   "fauxfox2": {
-    "week_seconds": 0,
+    "week_seconds": 51,
     "week_start": 1782215869,
-    "total_seconds": 0
+    "total_seconds": 51
   }
 }
