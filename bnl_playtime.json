@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 45839,
+    "week_seconds": 45919,
     "week_start": 1782127160,
-    "total_seconds": 110317
+    "total_seconds": 110397
   },
   "hxrl": {
     "week_seconds": 16838,
@@ -7040,9 +7040,9 @@
     "total_seconds": 40006
   },
   "goosie1238": {
-    "week_seconds": 39261,
+    "week_seconds": 40794,
     "week_start": 1781889612,
-    "total_seconds": 39261
+    "total_seconds": 40794
   },
   "davosforum": {
     "week_seconds": 25,
@@ -9942,6 +9942,11 @@
   "shreda5": {
     "week_seconds": 0,
     "week_start": 1782244607,
+    "total_seconds": 0
+  },
+  "allaypaps34": {
+    "week_seconds": 0,
+    "week_start": 1782244701,
     "total_seconds": 0
   }
 }
