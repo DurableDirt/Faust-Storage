@@ -9775,9 +9775,9 @@
     "total_seconds": 472
   },
   "bunnygod394": {
-    "week_seconds": 14197,
+    "week_seconds": 19328,
     "week_start": 1782230827,
-    "total_seconds": 14197
+    "total_seconds": 19328
   },
   "albtv_2025": {
     "week_seconds": 718,
@@ -9997,6 +9997,11 @@
   "tsumun": {
     "week_seconds": 0,
     "week_start": 1782250077,
+    "total_seconds": 0
+  },
+  "t4zzer": {
+    "week_seconds": 0,
+    "week_start": 1782250223,
     "total_seconds": 0
   }
 }
