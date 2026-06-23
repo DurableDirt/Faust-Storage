@@ -3435,9 +3435,9 @@
     "total_seconds": 10528
   },
   "huskydog9988": {
-    "week_seconds": 11547,
+    "week_seconds": 13528,
     "week_start": 1782173960,
-    "total_seconds": 101186
+    "total_seconds": 103167
   },
   "jromeasfsniper": {
     "week_seconds": 14011,
@@ -9975,8 +9975,13 @@
     "total_seconds": 0
   },
   "blackbird224488": {
-    "week_seconds": 0,
+    "week_seconds": 34,
     "week_start": 1782248928,
-    "total_seconds": 0
+    "total_seconds": 34
+  },
+  "rab_2010": {
+    "week_seconds": 42,
+    "week_start": 1782248933,
+    "total_seconds": 42
   }
 }
