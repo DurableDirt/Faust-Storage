@@ -4335,9 +4335,9 @@
     "total_seconds": 381
   },
   "zzadamthegoatzz": {
-    "week_seconds": 13939,
+    "week_seconds": 14519,
     "week_start": 1782242360,
-    "total_seconds": 88837
+    "total_seconds": 89417
   },
   "redvictini": {
     "week_seconds": 0,
@@ -4440,9 +4440,9 @@
     "total_seconds": 132
   },
   "shadysauce": {
-    "week_seconds": 0,
+    "week_seconds": 5139,
     "week_start": 1782245960,
-    "total_seconds": 47111
+    "total_seconds": 52250
   },
   "blackoutknight": {
     "week_seconds": 0,
@@ -10057,6 +10057,11 @@
   "theminerking": {
     "week_seconds": 0,
     "week_start": 1782253978,
+    "total_seconds": 0
+  },
+  "b1zz0rd": {
+    "week_seconds": 0,
+    "week_start": 1782254633,
     "total_seconds": 0
   }
 }
