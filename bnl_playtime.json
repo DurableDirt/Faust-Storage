@@ -4025,9 +4025,9 @@
     "total_seconds": 847
   },
   "tactihawk": {
-    "week_seconds": 69698,
+    "week_seconds": 70663,
     "week_start": 1781616775,
-    "total_seconds": 69698
+    "total_seconds": 70663
   },
   "_1_m": {
     "week_seconds": 5,
@@ -9592,6 +9592,11 @@
   "jackandchippyyt": {
     "week_seconds": 0,
     "week_start": 1782196274,
+    "total_seconds": 0
+  },
+  "baroquoli": {
+    "week_seconds": 0,
+    "week_start": 1782196578,
     "total_seconds": 0
   }
 }
