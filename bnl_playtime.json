@@ -3225,9 +3225,9 @@
     "total_seconds": 20468
   },
   "pixitchi_o3o": {
-    "week_seconds": 659,
+    "week_seconds": 1257,
     "week_start": 1782166760,
-    "total_seconds": 10441
+    "total_seconds": 11039
   },
   "solid_pandaman": {
     "week_seconds": 23268,
@@ -9795,8 +9795,8 @@
     "total_seconds": 0
   },
   "lodish": {
-    "week_seconds": 0,
+    "week_seconds": 284,
     "week_start": 1782232871,
-    "total_seconds": 0
+    "total_seconds": 284
   }
 }
