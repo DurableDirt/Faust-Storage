@@ -7400,9 +7400,9 @@
     "total_seconds": 10450
   },
   "_medb_": {
-    "week_seconds": 1795,
+    "week_seconds": 7351,
     "week_start": 1781929242,
-    "total_seconds": 1795
+    "total_seconds": 7351
   },
   "ritalinabuser": {
     "week_seconds": 11242,
@@ -9155,9 +9155,9 @@
     "total_seconds": 169
   },
   "beetlesandrocks": {
-    "week_seconds": 13862,
+    "week_seconds": 17903,
     "week_start": 1782154105,
-    "total_seconds": 13862
+    "total_seconds": 17903
   },
   "ebgvie": {
     "week_seconds": 4185,
@@ -9668,5 +9668,10 @@
     "week_seconds": 9,
     "week_start": 1782220456,
     "total_seconds": 9
+  },
+  "maxdaboss19": {
+    "week_seconds": 0,
+    "week_start": 1782222359,
+    "total_seconds": 0
   }
 }
