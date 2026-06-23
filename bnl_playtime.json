@@ -2950,9 +2950,9 @@
     "total_seconds": 15496
   },
   "battlebots_boi": {
-    "week_seconds": 4634,
+    "week_seconds": 4798,
     "week_start": 1782155960,
-    "total_seconds": 8129
+    "total_seconds": 8293
   },
   "enchanted_cow": {
     "week_seconds": 7825,
@@ -9215,9 +9215,9 @@
     "total_seconds": 1527
   },
   "trubactor": {
-    "week_seconds": 10151,
+    "week_seconds": 10705,
     "week_start": 1782159331,
-    "total_seconds": 10151
+    "total_seconds": 10705
   },
   "protonstar8": {
     "week_seconds": 30104,
@@ -9787,6 +9787,11 @@
   "jesterwizzy": {
     "week_seconds": 0,
     "week_start": 1782232065,
+    "total_seconds": 0
+  },
+  "chucu_": {
+    "week_seconds": 0,
+    "week_start": 1782232319,
     "total_seconds": 0
   }
 }
