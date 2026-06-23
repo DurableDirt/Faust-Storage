@@ -1,8 +1,8 @@
 {
   "durabledirt": {
-    "week_seconds": 0,
+    "week_seconds": 4000,
     "week_start": 1782080360,
-    "total_seconds": 64215
+    "total_seconds": 68215
   },
   "alphaaaaaaaaalph": {
     "week_seconds": 0,
@@ -1690,9 +1690,9 @@
     "total_seconds": 45519
   },
   "solitaire7": {
-    "week_seconds": 31967,
+    "week_seconds": 39579,
     "week_start": 1782116360,
-    "total_seconds": 186919
+    "total_seconds": 194531
   },
   "masqo_": {
     "week_seconds": 0,
@@ -9762,6 +9762,21 @@
   "tarnxshed": {
     "week_seconds": 0,
     "week_start": 1782229541,
+    "total_seconds": 0
+  },
+  "sx65momo": {
+    "week_seconds": 0,
+    "week_start": 1782230744,
+    "total_seconds": 0
+  },
+  "iloveyouihateyou": {
+    "week_seconds": 0,
+    "week_start": 1782230779,
+    "total_seconds": 0
+  },
+  "bunnygod394": {
+    "week_seconds": 0,
+    "week_start": 1782230827,
     "total_seconds": 0
   }
 }
