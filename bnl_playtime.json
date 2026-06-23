@@ -9720,9 +9720,9 @@
     "total_seconds": 0
   },
   "asshcle": {
-    "week_seconds": 36,
+    "week_seconds": 1374,
     "week_start": 1782227239,
-    "total_seconds": 36
+    "total_seconds": 1374
   },
   "lico_o": {
     "week_seconds": 0,
@@ -9738,5 +9738,10 @@
     "week_seconds": 0,
     "week_start": 1782227996,
     "total_seconds": 0
+  },
+  "rocksandtitans": {
+    "week_seconds": 5,
+    "week_start": 1782228594,
+    "total_seconds": 5
   }
 }
