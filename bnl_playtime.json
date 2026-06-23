@@ -9155,9 +9155,9 @@
     "total_seconds": 169
   },
   "beetlesandrocks": {
-    "week_seconds": 18847,
+    "week_seconds": 19050,
     "week_start": 1782154105,
-    "total_seconds": 18847
+    "total_seconds": 19050
   },
   "ebgvie": {
     "week_seconds": 4185,
@@ -9713,5 +9713,10 @@
     "week_seconds": 183,
     "week_start": 1782225511,
     "total_seconds": 183
+  },
+  "ghy_actual": {
+    "week_seconds": 0,
+    "week_start": 1782226154,
+    "total_seconds": 0
   }
 }
