@@ -1765,9 +1765,9 @@
     "total_seconds": 10326
   },
   "bravoocto15": {
-    "week_seconds": 3916,
+    "week_seconds": 5391,
     "week_start": 1782119960,
-    "total_seconds": 24191
+    "total_seconds": 25666
   },
   "wandrumdum": {
     "week_seconds": 25103,
@@ -9700,8 +9700,8 @@
     "total_seconds": 0
   },
   "venomleodex": {
-    "week_seconds": 0,
+    "week_seconds": 111,
     "week_start": 1782225064,
-    "total_seconds": 0
+    "total_seconds": 111
   }
 }
