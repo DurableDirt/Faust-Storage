@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 62352,
+    "week_seconds": 62400,
     "week_start": 1782119960,
-    "total_seconds": 276450
+    "total_seconds": 276498
   },
   "stavros_ell": {
     "week_seconds": 31446,
@@ -4130,9 +4130,9 @@
     "total_seconds": 47806
   },
   "annatos": {
-    "week_seconds": 4190,
+    "week_seconds": 4580,
     "week_start": 1782231560,
-    "total_seconds": 74769
+    "total_seconds": 75159
   },
   "testedyapper": {
     "week_seconds": 0,
@@ -9165,9 +9165,9 @@
     "total_seconds": 4185
   },
   "luc4s_rc": {
-    "week_seconds": 2356,
+    "week_seconds": 2394,
     "week_start": 1782154755,
-    "total_seconds": 2356
+    "total_seconds": 2394
   },
   "matking66": {
     "week_seconds": 11555,
@@ -10033,5 +10033,10 @@
     "week_seconds": 344,
     "week_start": 1782252819,
     "total_seconds": 344
+  },
+  "barney4x4": {
+    "week_seconds": 0,
+    "week_start": 1782253515,
+    "total_seconds": 0
   }
 }
