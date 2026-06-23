@@ -620,9 +620,9 @@
     "total_seconds": 316466
   },
   "justmicwa": {
-    "week_seconds": 9110,
+    "week_seconds": 9591,
     "week_start": 1782087560,
-    "total_seconds": 84661
+    "total_seconds": 85142
   },
   "ceceliarabbit": {
     "week_seconds": 53613,
@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 38292,
+    "week_seconds": 38333,
     "week_start": 1782127160,
-    "total_seconds": 102770
+    "total_seconds": 102811
   },
   "hxrl": {
     "week_seconds": 16838,
@@ -2240,9 +2240,9 @@
     "total_seconds": 165896
   },
   "zalvvv": {
-    "week_seconds": 38802,
+    "week_seconds": 38855,
     "week_start": 1782134360,
-    "total_seconds": 106664
+    "total_seconds": 106717
   },
   "ambersolberg205": {
     "week_seconds": 8072,
@@ -9802,6 +9802,11 @@
   "programmerdan": {
     "week_seconds": 0,
     "week_start": 1782233586,
+    "total_seconds": 0
+  },
+  "bob_da_duck189": {
+    "week_seconds": 0,
+    "week_start": 1782234710,
     "total_seconds": 0
   }
 }
