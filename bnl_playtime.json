@@ -420,9 +420,9 @@
     "total_seconds": 69517
   },
   "hg__80": {
-    "week_seconds": 28127,
+    "week_seconds": 28141,
     "week_start": 1782083960,
-    "total_seconds": 339874
+    "total_seconds": 339888
   },
   "hekghlkegh": {
     "week_seconds": 439,
@@ -9493,5 +9493,10 @@
     "week_seconds": 77,
     "week_start": 1782185657,
     "total_seconds": 77
+  },
+  "aflyinglaundry": {
+    "week_seconds": 0,
+    "week_start": 1782185828,
+    "total_seconds": 0
   }
 }
