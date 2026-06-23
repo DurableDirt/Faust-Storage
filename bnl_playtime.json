@@ -10,9 +10,9 @@
     "total_seconds": 4
   },
   "logic_man": {
-    "week_seconds": 32614,
+    "week_seconds": 37566,
     "week_start": 1782080360,
-    "total_seconds": 99492
+    "total_seconds": 104444
   },
   "dragran": {
     "week_seconds": 92850,
@@ -2145,9 +2145,9 @@
     "total_seconds": 282616
   },
   "daimnasal": {
-    "week_seconds": 33829,
+    "week_seconds": 34594,
     "week_start": 1782134360,
-    "total_seconds": 131191
+    "total_seconds": 131956
   },
   "azurisdev": {
     "week_seconds": 0,
