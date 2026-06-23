@@ -840,9 +840,9 @@
     "total_seconds": 20241
   },
   "socialistspectre": {
-    "week_seconds": 32110,
+    "week_seconds": 32464,
     "week_start": 1782091160,
-    "total_seconds": 164559
+    "total_seconds": 164913
   },
   "desmonddotjpeg": {
     "week_seconds": 0,
@@ -3605,9 +3605,9 @@
     "total_seconds": 24856
   },
   "squidhasthebad": {
-    "week_seconds": 11053,
+    "week_seconds": 11618,
     "week_start": 1781574226,
-    "total_seconds": 11053
+    "total_seconds": 11618
   },
   "nicholas171717": {
     "week_seconds": 1198,
@@ -4680,9 +4680,9 @@
     "total_seconds": 22
   },
   "glog_frogmen": {
-    "week_seconds": 66455,
+    "week_seconds": 66485,
     "week_start": 1781656168,
-    "total_seconds": 66455
+    "total_seconds": 66485
   },
   "clearhercules": {
     "week_seconds": 70165,
@@ -8505,9 +8505,9 @@
     "total_seconds": 2904
   },
   "digkingvg": {
-    "week_seconds": 10472,
+    "week_seconds": 44013,
     "week_start": 1782074995,
-    "total_seconds": 10472
+    "total_seconds": 44013
   },
   "kmshr": {
     "week_seconds": 41174,
@@ -9428,5 +9428,10 @@
     "week_seconds": 49,
     "week_start": 1782177794,
     "total_seconds": 49
+  },
+  "lilximmagrant": {
+    "week_seconds": 0,
+    "week_start": 1782178808,
+    "total_seconds": 0
   }
 }
