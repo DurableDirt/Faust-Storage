@@ -285,9 +285,9 @@
     "total_seconds": 82758
   },
   "mechanicalrift": {
-    "week_seconds": 53559,
+    "week_seconds": 54076,
     "week_start": 1782083960,
-    "total_seconds": 323132
+    "total_seconds": 323649
   },
   "aguscon": {
     "week_seconds": 0,
@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 52100,
+    "week_seconds": 52131,
     "week_start": 1782127160,
-    "total_seconds": 116578
+    "total_seconds": 116609
   },
   "hxrl": {
     "week_seconds": 33655,
@@ -10090,13 +10090,18 @@
     "total_seconds": 376
   },
   "prism222": {
-    "week_seconds": 68,
+    "week_seconds": 100,
     "week_start": 1782257678,
-    "total_seconds": 68
+    "total_seconds": 100
   },
   "navossz": {
     "week_seconds": 0,
     "week_start": 1782257882,
+    "total_seconds": 0
+  },
+  "autismhaver": {
+    "week_seconds": 0,
+    "week_start": 1782257895,
     "total_seconds": 0
   }
 }
