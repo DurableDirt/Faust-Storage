@@ -245,9 +245,9 @@
     "total_seconds": 42451
   },
   "aluminum_foil_": {
-    "week_seconds": 11387,
+    "week_seconds": 11455,
     "week_start": 1782083960,
-    "total_seconds": 172091
+    "total_seconds": 172159
   },
   "mpusa": {
     "week_seconds": 20455,
@@ -1080,9 +1080,9 @@
     "total_seconds": 214
   },
   "orestraya": {
-    "week_seconds": 28260,
+    "week_seconds": 28292,
     "week_start": 1782094760,
-    "total_seconds": 185984
+    "total_seconds": 186016
   },
   "satava": {
     "week_seconds": 9710,
@@ -3035,9 +3035,9 @@
     "total_seconds": 32726
   },
   "thyme13": {
-    "week_seconds": 11100,
+    "week_seconds": 14336,
     "week_start": 1782159560,
-    "total_seconds": 48967
+    "total_seconds": 52203
   },
   "theocomboed": {
     "week_seconds": 0,
