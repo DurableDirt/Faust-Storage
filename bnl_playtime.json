@@ -950,9 +950,9 @@
     "total_seconds": 50010
   },
   "bylethseisner": {
-    "week_seconds": 68118,
+    "week_seconds": 83721,
     "week_start": 1782091160,
-    "total_seconds": 150014
+    "total_seconds": 165617
   },
   "pointy_hii": {
     "week_seconds": 42897,
@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 42842,
+    "week_seconds": 42908,
     "week_start": 1782127160,
-    "total_seconds": 107320
+    "total_seconds": 107386
   },
   "hxrl": {
     "week_seconds": 16838,
@@ -9750,9 +9750,9 @@
     "total_seconds": 180
   },
   "bunzichillet": {
-    "week_seconds": 8926,
+    "week_seconds": 8985,
     "week_start": 1782229340,
-    "total_seconds": 8926
+    "total_seconds": 8985
   },
   "kikkori": {
     "week_seconds": 6,
@@ -9895,8 +9895,8 @@
     "total_seconds": 111
   },
   "legality_": {
-    "week_seconds": 0,
+    "week_seconds": 520,
     "week_start": 1782239039,
-    "total_seconds": 0
+    "total_seconds": 520
   }
 }
