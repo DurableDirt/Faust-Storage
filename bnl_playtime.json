@@ -180,9 +180,9 @@
     "total_seconds": 119271
   },
   "pasteldepapa777": {
-    "week_seconds": 369,
+    "week_seconds": 420,
     "week_start": 1782083960,
-    "total_seconds": 66064
+    "total_seconds": 66115
   },
   "ahrimanne": {
     "week_seconds": 26863,
@@ -2515,9 +2515,9 @@
     "total_seconds": 49995
   },
   "disdage": {
-    "week_seconds": 26155,
+    "week_seconds": 30072,
     "week_start": 1782141560,
-    "total_seconds": 76214
+    "total_seconds": 80131
   },
   "thomas2point0": {
     "week_seconds": 0,
@@ -9423,5 +9423,10 @@
     "week_seconds": 0,
     "week_start": 1782176686,
     "total_seconds": 0
+  },
+  "_k_1_t_": {
+    "week_seconds": 27,
+    "week_start": 1782177794,
+    "total_seconds": 27
   }
 }
