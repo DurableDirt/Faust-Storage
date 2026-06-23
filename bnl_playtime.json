@@ -6665,9 +6665,9 @@
     "total_seconds": 310
   },
   "1kayotic": {
-    "week_seconds": 1380,
+    "week_seconds": 4338,
     "week_start": 1781836459,
-    "total_seconds": 1380
+    "total_seconds": 4338
   },
   "subpepper": {
     "week_seconds": 19471,
@@ -9478,5 +9478,10 @@
     "week_seconds": 33,
     "week_start": 1782184457,
     "total_seconds": 33
+  },
+  "ratcorporation": {
+    "week_seconds": 109,
+    "week_start": 1782184946,
+    "total_seconds": 109
   }
 }
