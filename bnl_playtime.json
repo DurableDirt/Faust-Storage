@@ -285,9 +285,9 @@
     "total_seconds": 82227
   },
   "mechanicalrift": {
-    "week_seconds": 41222,
+    "week_seconds": 49188,
     "week_start": 1782083960,
-    "total_seconds": 310795
+    "total_seconds": 318761
   },
   "aguscon": {
     "week_seconds": 0,
@@ -9972,6 +9972,11 @@
   "luquinhas03": {
     "week_seconds": 0,
     "week_start": 1782248840,
+    "total_seconds": 0
+  },
+  "blackbird224488": {
+    "week_seconds": 0,
+    "week_start": 1782248928,
     "total_seconds": 0
   }
 }
