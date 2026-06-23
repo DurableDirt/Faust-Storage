@@ -4845,9 +4845,9 @@
     "total_seconds": 192
   },
   "jerninja": {
-    "week_seconds": 62041,
+    "week_seconds": 63030,
     "week_start": 1781667856,
-    "total_seconds": 62041
+    "total_seconds": 63030
   },
   "jaybirdino": {
     "week_seconds": 9945,
@@ -10008,5 +10008,10 @@
     "week_seconds": 0,
     "week_start": 1782250411,
     "total_seconds": 0
+  },
+  "33slac": {
+    "week_seconds": 23,
+    "week_start": 1782250559,
+    "total_seconds": 23
   }
 }
