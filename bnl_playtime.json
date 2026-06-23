@@ -90,9 +90,9 @@
     "total_seconds": 93648
   },
   "chips_and_salsa_": {
-    "week_seconds": 21108,
+    "week_seconds": 23949,
     "week_start": 1782080360,
-    "total_seconds": 71125
+    "total_seconds": 73966
   },
   "booger_godslayer": {
     "week_seconds": 0,
@@ -1085,9 +1085,9 @@
     "total_seconds": 217405
   },
   "satava": {
-    "week_seconds": 12730,
+    "week_seconds": 13052,
     "week_start": 1782094760,
-    "total_seconds": 122197
+    "total_seconds": 122519
   },
   "majjcrunsgf": {
     "week_seconds": 13198,
@@ -1700,9 +1700,9 @@
     "total_seconds": 48958
   },
   "eyestrainz": {
-    "week_seconds": 17553,
+    "week_seconds": 17806,
     "week_start": 1782116360,
-    "total_seconds": 79828
+    "total_seconds": 80081
   },
   "snailytrail": {
     "week_seconds": 0,
@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 39305,
+    "week_seconds": 39339,
     "week_start": 1782127160,
-    "total_seconds": 103783
+    "total_seconds": 103817
   },
   "hxrl": {
     "week_seconds": 16838,
@@ -3085,9 +3085,9 @@
     "total_seconds": 24779
   },
   "refwoza": {
-    "week_seconds": 0,
+    "week_seconds": 3,
     "week_start": 1782159560,
-    "total_seconds": 31446
+    "total_seconds": 31449
   },
   "programmergod": {
     "week_seconds": 8756,
@@ -3210,9 +3210,9 @@
     "total_seconds": 210
   },
   "cifec": {
-    "week_seconds": 12618,
+    "week_seconds": 18241,
     "week_start": 1782166760,
-    "total_seconds": 61531
+    "total_seconds": 67154
   },
   "tikrainegedvilas": {
     "week_seconds": 57,
@@ -4335,9 +4335,9 @@
     "total_seconds": 381
   },
   "zzadamthegoatzz": {
-    "week_seconds": 69526,
+    "week_seconds": 71257,
     "week_start": 1781634518,
-    "total_seconds": 69526
+    "total_seconds": 71257
   },
   "redvictini": {
     "week_seconds": 2300,
@@ -9750,9 +9750,9 @@
     "total_seconds": 180
   },
   "bunzichillet": {
-    "week_seconds": 5452,
+    "week_seconds": 5595,
     "week_start": 1782229340,
-    "total_seconds": 5452
+    "total_seconds": 5595
   },
   "kikkori": {
     "week_seconds": 6,
@@ -9827,6 +9827,11 @@
   "dyl_weasel": {
     "week_seconds": 0,
     "week_start": 1782235062,
+    "total_seconds": 0
+  },
+  "reddotaro": {
+    "week_seconds": 0,
+    "week_start": 1782235778,
     "total_seconds": 0
   }
 }
