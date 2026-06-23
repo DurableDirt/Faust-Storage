@@ -1755,9 +1755,9 @@
     "total_seconds": 63289
   },
   "facocero09": {
-    "week_seconds": 32731,
+    "week_seconds": 33520,
     "week_start": 1782119960,
-    "total_seconds": 192300
+    "total_seconds": 193089
   },
   "happyfeet4607": {
     "week_seconds": 0,
@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 40865,
+    "week_seconds": 40917,
     "week_start": 1782127160,
-    "total_seconds": 105343
+    "total_seconds": 105395
   },
   "hxrl": {
     "week_seconds": 16838,
@@ -9858,5 +9858,10 @@
     "week_seconds": 54,
     "week_start": 1782237179,
     "total_seconds": 54
+  },
+  "stoomer": {
+    "week_seconds": 0,
+    "week_start": 1782237412,
+    "total_seconds": 0
   }
 }
