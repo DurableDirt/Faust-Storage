@@ -245,9 +245,9 @@
     "total_seconds": 44826
   },
   "aluminum_foil_": {
-    "week_seconds": 23559,
+    "week_seconds": 24000,
     "week_start": 1782083960,
-    "total_seconds": 184263
+    "total_seconds": 184704
   },
   "mpusa": {
     "week_seconds": 20455,
@@ -9255,9 +9255,9 @@
     "total_seconds": 1192
   },
   "aletheiad": {
-    "week_seconds": 11372,
+    "week_seconds": 15385,
     "week_start": 1782164335,
-    "total_seconds": 11372
+    "total_seconds": 15385
   },
   "td_xgodx": {
     "week_seconds": 1077,
