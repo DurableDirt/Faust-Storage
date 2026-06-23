@@ -965,9 +965,9 @@
     "total_seconds": 123
   },
   "sdorr": {
-    "week_seconds": 40579,
+    "week_seconds": 40950,
     "week_start": 1782091160,
-    "total_seconds": 135653
+    "total_seconds": 136024
   },
   "cynical_darling": {
     "week_seconds": 20658,
@@ -1575,9 +1575,9 @@
     "total_seconds": 284443
   },
   "_2k42_": {
-    "week_seconds": 84712,
+    "week_seconds": 84729,
     "week_start": 1782112760,
-    "total_seconds": 172776
+    "total_seconds": 172793
   },
   "gobblin": {
     "week_seconds": 15805,
@@ -1935,9 +1935,9 @@
     "total_seconds": 22152
   },
   "walkers": {
-    "week_seconds": 69155,
+    "week_seconds": 75327,
     "week_start": 1782127160,
-    "total_seconds": 110392
+    "total_seconds": 116564
   },
   "worthlessbean": {
     "week_seconds": 24371,
