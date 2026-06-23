@@ -9845,9 +9845,9 @@
     "total_seconds": 143
   },
   "katcatfat": {
-    "week_seconds": 295,
+    "week_seconds": 1086,
     "week_start": 1782236401,
-    "total_seconds": 295
+    "total_seconds": 1086
   },
   "xxooooox": {
     "week_seconds": 21,
@@ -9862,6 +9862,11 @@
   "stoomer": {
     "week_seconds": 0,
     "week_start": 1782237412,
+    "total_seconds": 0
+  },
+  "b0cke": {
+    "week_seconds": 0,
+    "week_start": 1782237578,
     "total_seconds": 0
   }
 }
