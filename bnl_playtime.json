@@ -2460,9 +2460,9 @@
     "total_seconds": 446
   },
   "robocookie3_0": {
-    "week_seconds": 11885,
+    "week_seconds": 11924,
     "week_start": 1782141560,
-    "total_seconds": 56493
+    "total_seconds": 56532
   },
   "naginata9": {
     "week_seconds": 0,
@@ -9613,5 +9613,10 @@
     "week_seconds": 315,
     "week_start": 1782202793,
     "total_seconds": 315
+  },
+  "__matex__": {
+    "week_seconds": 0,
+    "week_start": 1782205385,
+    "total_seconds": 0
   }
 }
