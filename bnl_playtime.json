@@ -305,9 +305,9 @@
     "total_seconds": 442116
   },
   "olderastory": {
-    "week_seconds": 33746,
+    "week_seconds": 46452,
     "week_start": 1782083960,
-    "total_seconds": 138045
+    "total_seconds": 150751
   },
   "willowpox": {
     "week_seconds": 26934,
@@ -4495,9 +4495,9 @@
     "total_seconds": 5025
   },
   "nulldorito": {
-    "week_seconds": 69224,
+    "week_seconds": 81089,
     "week_start": 1781641618,
-    "total_seconds": 69224
+    "total_seconds": 81089
   },
   "moirai_3242": {
     "week_seconds": 61644,
@@ -9443,5 +9443,10 @@
     "week_seconds": 1580,
     "week_start": 1782179953,
     "total_seconds": 1580
+  },
+  "chicowhy": {
+    "week_seconds": 0,
+    "week_start": 1782182284,
+    "total_seconds": 0
   }
 }
