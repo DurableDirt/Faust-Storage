@@ -5265,9 +5265,9 @@
     "total_seconds": 6373
   },
   "bevinator2": {
-    "week_seconds": 86505,
+    "week_seconds": 92042,
     "week_start": 1781713828,
-    "total_seconds": 86505
+    "total_seconds": 92042
   },
   "vjdfbkgudfsjh": {
     "week_seconds": 1750,
@@ -5760,9 +5760,9 @@
     "total_seconds": 125
   },
   "_domain": {
-    "week_seconds": 77794,
+    "week_seconds": 80727,
     "week_start": 1781750091,
-    "total_seconds": 77794
+    "total_seconds": 80727
   },
   "bonjour": {
     "week_seconds": 99,
@@ -9585,8 +9585,8 @@
     "total_seconds": 0
   },
   "atrixmo": {
-    "week_seconds": 0,
+    "week_seconds": 63,
     "week_start": 1782193272,
-    "total_seconds": 0
+    "total_seconds": 63
   }
 }
