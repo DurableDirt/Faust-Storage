@@ -715,9 +715,9 @@
     "total_seconds": 24277
   },
   "limtingus1": {
-    "week_seconds": 53288,
+    "week_seconds": 53302,
     "week_start": 1782087560,
-    "total_seconds": 330476
+    "total_seconds": 330490
   },
   "the_montenegrin": {
     "week_seconds": 0,
@@ -9660,8 +9660,8 @@
     "total_seconds": 27
   },
   "sheinuxofire": {
-    "week_seconds": 0,
+    "week_seconds": 141,
     "week_start": 1782220099,
-    "total_seconds": 0
+    "total_seconds": 141
   }
 }
