@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 44184,
+    "week_seconds": 48059,
     "week_start": 1782119960,
-    "total_seconds": 258282
+    "total_seconds": 262157
   },
   "stavros_ell": {
     "week_seconds": 31446,
@@ -9717,6 +9717,11 @@
   "ghy_actual": {
     "week_seconds": 0,
     "week_start": 1782226154,
+    "total_seconds": 0
+  },
+  "asshcle": {
+    "week_seconds": 0,
+    "week_start": 1782227239,
     "total_seconds": 0
   }
 }
