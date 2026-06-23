@@ -2015,9 +2015,9 @@
     "total_seconds": 1814
   },
   "xlamdg96_": {
-    "week_seconds": 4953,
+    "week_seconds": 7284,
     "week_start": 1782130760,
-    "total_seconds": 69794
+    "total_seconds": 72125
   },
   "luxleee_58": {
     "week_seconds": 0,
@@ -4720,9 +4720,9 @@
     "total_seconds": 275730
   },
   "fakersfemboy": {
-    "week_seconds": 23143,
+    "week_seconds": 24223,
     "week_start": 1781658995,
-    "total_seconds": 23143
+    "total_seconds": 24223
   },
   "arkenx": {
     "week_seconds": 12719,
@@ -9573,5 +9573,10 @@
     "week_seconds": 32,
     "week_start": 1782191472,
     "total_seconds": 32
+  },
+  "bbb_demon": {
+    "week_seconds": 0,
+    "week_start": 1782192461,
+    "total_seconds": 0
   }
 }
