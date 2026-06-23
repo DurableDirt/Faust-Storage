@@ -3915,18 +3915,18 @@
     "total_seconds": 17527
   },
   "bruisedbread": {
-    "week_seconds": 36119,
-    "week_start": 1781601586,
+    "week_seconds": 0,
+    "week_start": 1782209960,
     "total_seconds": 36119
   },
   "plumily": {
-    "week_seconds": 99127,
-    "week_start": 1781602124,
+    "week_seconds": 0,
+    "week_start": 1782209960,
     "total_seconds": 99127
   },
   "soul9594": {
-    "week_seconds": 541,
-    "week_start": 1781603032,
+    "week_seconds": 0,
+    "week_start": 1782209960,
     "total_seconds": 541
   },
   "laytonread": {
@@ -6055,9 +6055,9 @@
     "total_seconds": 2212
   },
   "exeplex": {
-    "week_seconds": 92994,
+    "week_seconds": 93029,
     "week_start": 1781793159,
-    "total_seconds": 92994
+    "total_seconds": 93029
   },
   "captainspacerat": {
     "week_seconds": 26626,
