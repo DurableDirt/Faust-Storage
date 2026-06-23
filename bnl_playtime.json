@@ -25,9 +25,9 @@
     "total_seconds": 26
   },
   "holdenvcaulfield": {
-    "week_seconds": 61646,
+    "week_seconds": 61780,
     "week_start": 1782080360,
-    "total_seconds": 188591
+    "total_seconds": 188725
   },
   "harved": {
     "week_seconds": 17983,
@@ -6445,9 +6445,9 @@
     "total_seconds": 30922
   },
   "seriousswimmerr": {
-    "week_seconds": 150,
+    "week_seconds": 252,
     "week_start": 1781817213,
-    "total_seconds": 150
+    "total_seconds": 252
   },
   "_echoforce_": {
     "week_seconds": 89,
@@ -10073,5 +10073,15 @@
     "week_seconds": 377,
     "week_start": 1782254843,
     "total_seconds": 377
+  },
+  "guomengfei0901": {
+    "week_seconds": 0,
+    "week_start": 1782256146,
+    "total_seconds": 0
+  },
+  "ashyogurl": {
+    "week_seconds": 0,
+    "week_start": 1782256157,
+    "total_seconds": 0
   }
 }
