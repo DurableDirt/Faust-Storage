@@ -955,9 +955,9 @@
     "total_seconds": 146528
   },
   "pointy_hii": {
-    "week_seconds": 29293,
+    "week_seconds": 29962,
     "week_start": 1782091160,
-    "total_seconds": 150122
+    "total_seconds": 150791
   },
   "blewo": {
     "week_seconds": 0,
@@ -1090,9 +1090,9 @@
     "total_seconds": 119177
   },
   "majjcrunsgf": {
-    "week_seconds": 12849,
+    "week_seconds": 12968,
     "week_start": 1782094760,
-    "total_seconds": 17354
+    "total_seconds": 17473
   },
   "magickponch": {
     "week_seconds": 30998,
@@ -3705,58 +3705,58 @@
     "total_seconds": 103579
   },
   "killtheinternet": {
-    "week_seconds": 223,
-    "week_start": 1781580193,
+    "week_seconds": 0,
+    "week_start": 1782188360,
     "total_seconds": 223
   },
   "comq1": {
-    "week_seconds": 878,
-    "week_start": 1781580700,
+    "week_seconds": 0,
+    "week_start": 1782188360,
     "total_seconds": 878
   },
   "rheedzs": {
-    "week_seconds": 2069,
-    "week_start": 1781581465,
+    "week_seconds": 0,
+    "week_start": 1782188360,
     "total_seconds": 2069
   },
   "r0mulus1534": {
-    "week_seconds": 624,
-    "week_start": 1781581500,
+    "week_seconds": 0,
+    "week_start": 1782188360,
     "total_seconds": 624
   },
   "perpltxed": {
-    "week_seconds": 240,
-    "week_start": 1781581931,
+    "week_seconds": 0,
+    "week_start": 1782188360,
     "total_seconds": 240
   },
   "salizandar2": {
-    "week_seconds": 82948,
-    "week_start": 1781582088,
+    "week_seconds": 0,
+    "week_start": 1782188360,
     "total_seconds": 82948
   },
   "milkyoreo": {
-    "week_seconds": 4405,
-    "week_start": 1781582150,
+    "week_seconds": 0,
+    "week_start": 1782188360,
     "total_seconds": 4405
   },
   "spenduh": {
-    "week_seconds": 53315,
-    "week_start": 1781582696,
+    "week_seconds": 0,
+    "week_start": 1782188360,
     "total_seconds": 53315
   },
   "chickenjockey500": {
-    "week_seconds": 199,
-    "week_start": 1781582869,
+    "week_seconds": 0,
+    "week_start": 1782188360,
     "total_seconds": 199
   },
   "lorddankdank": {
-    "week_seconds": 789,
-    "week_start": 1781583101,
+    "week_seconds": 0,
+    "week_start": 1782188360,
     "total_seconds": 789
   },
   "aussiedaboss": {
-    "week_seconds": 59757,
-    "week_start": 1781583242,
+    "week_seconds": 0,
+    "week_start": 1782188360,
     "total_seconds": 59757
   },
   "arbidos": {
@@ -9517,6 +9517,11 @@
   "swit_ch": {
     "week_seconds": 0,
     "week_start": 1782187654,
+    "total_seconds": 0
+  },
+  "bickersasaurus": {
+    "week_seconds": 0,
+    "week_start": 1782188376,
     "total_seconds": 0
   }
 }
