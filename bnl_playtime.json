@@ -2790,9 +2790,9 @@
     "total_seconds": 45128
   },
   "sirboss001": {
-    "week_seconds": 8177,
+    "week_seconds": 8488,
     "week_start": 1782152360,
-    "total_seconds": 77819
+    "total_seconds": 78130
   },
   "vortexx_xq": {
     "week_seconds": 0,
@@ -4065,58 +4065,58 @@
     "total_seconds": 161
   },
   "creepymc5898": {
-    "week_seconds": 13070,
-    "week_start": 1781619664,
+    "week_seconds": 0,
+    "week_start": 1782227960,
     "total_seconds": 13070
   },
   "aziumthal1": {
-    "week_seconds": 64132,
-    "week_start": 1781619812,
+    "week_seconds": 0,
+    "week_start": 1782227960,
     "total_seconds": 64132
   },
   "evil_david": {
-    "week_seconds": 15715,
-    "week_start": 1781620313,
+    "week_seconds": 0,
+    "week_start": 1782227960,
     "total_seconds": 15715
   },
   "kazzuyaa": {
-    "week_seconds": 18748,
-    "week_start": 1781620614,
+    "week_seconds": 0,
+    "week_start": 1782227960,
     "total_seconds": 18748
   },
   "patar15": {
-    "week_seconds": 144,
-    "week_start": 1781620645,
+    "week_seconds": 0,
+    "week_start": 1782227960,
     "total_seconds": 144
   },
   "lowku": {
-    "week_seconds": 4,
-    "week_start": 1781620765,
+    "week_seconds": 0,
+    "week_start": 1782227960,
     "total_seconds": 4
   },
   "boiled_lobster": {
-    "week_seconds": 9751,
-    "week_start": 1781621955,
+    "week_seconds": 0,
+    "week_start": 1782227960,
     "total_seconds": 9751
   },
   "femboysilly": {
-    "week_seconds": 5783,
-    "week_start": 1781622017,
+    "week_seconds": 0,
+    "week_start": 1782227960,
     "total_seconds": 5783
   },
   "rcgetteau": {
-    "week_seconds": 10991,
-    "week_start": 1781622546,
+    "week_seconds": 0,
+    "week_start": 1782227960,
     "total_seconds": 10991
   },
   "hplaptop": {
-    "week_seconds": 141480,
-    "week_start": 1781622848,
+    "week_seconds": 0,
+    "week_start": 1782227960,
     "total_seconds": 141480
   },
   "kablevz": {
-    "week_seconds": 18,
-    "week_start": 1781623073,
+    "week_seconds": 0,
+    "week_start": 1782227960,
     "total_seconds": 18
   },
   "nino_lestr": {
@@ -9730,8 +9730,13 @@
     "total_seconds": 0
   },
   "theoutlet125": {
-    "week_seconds": 0,
+    "week_seconds": 40,
     "week_start": 1782227925,
+    "total_seconds": 40
+  },
+  "kriscool28": {
+    "week_seconds": 0,
+    "week_start": 1782227996,
     "total_seconds": 0
   }
 }
