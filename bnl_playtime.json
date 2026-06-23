@@ -3310,9 +3310,9 @@
     "total_seconds": 16169
   },
   "sagapocalypse": {
-    "week_seconds": 32011,
+    "week_seconds": 33507,
     "week_start": 1782166760,
-    "total_seconds": 54741
+    "total_seconds": 56237
   },
   "praoubl": {
     "week_seconds": 7018,
@@ -9938,5 +9938,10 @@
     "week_seconds": 30,
     "week_start": 1782242977,
     "total_seconds": 30
+  },
+  "shreda5": {
+    "week_seconds": 0,
+    "week_start": 1782244607,
+    "total_seconds": 0
   }
 }
