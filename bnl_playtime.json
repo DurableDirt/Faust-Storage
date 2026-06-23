@@ -2415,9 +2415,9 @@
     "total_seconds": 17618
   },
   "sml128": {
-    "week_seconds": 12297,
+    "week_seconds": 12548,
     "week_start": 1782141560,
-    "total_seconds": 97198
+    "total_seconds": 97449
   },
   "malipan": {
     "week_seconds": 3447,
@@ -9215,9 +9215,9 @@
     "total_seconds": 1527
   },
   "trubactor": {
-    "week_seconds": 10705,
+    "week_seconds": 14110,
     "week_start": 1782159331,
-    "total_seconds": 10705
+    "total_seconds": 14110
   },
   "protonstar8": {
     "week_seconds": 30104,
