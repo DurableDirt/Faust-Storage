@@ -310,9 +310,9 @@
     "total_seconds": 150845
   },
   "willowpox": {
-    "week_seconds": 26934,
+    "week_seconds": 29884,
     "week_start": 1782083960,
-    "total_seconds": 167752
+    "total_seconds": 170702
   },
   "ian21652": {
     "week_seconds": 32869,
@@ -9692,6 +9692,11 @@
   "buckyhd": {
     "week_seconds": 0,
     "week_start": 1782224507,
+    "total_seconds": 0
+  },
+  "xoxpancake": {
+    "week_seconds": 0,
+    "week_start": 1782224977,
     "total_seconds": 0
   }
 }
