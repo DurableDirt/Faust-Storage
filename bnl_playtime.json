@@ -865,9 +865,9 @@
     "total_seconds": 23
   },
   "anvil": {
-    "week_seconds": 68575,
+    "week_seconds": 100831,
     "week_start": 1782091160,
-    "total_seconds": 90839
+    "total_seconds": 123095
   },
   "deerifius": {
     "week_seconds": 13300,
@@ -1625,9 +1625,9 @@
     "total_seconds": 6042
   },
   "mryellowtail": {
-    "week_seconds": 14188,
+    "week_seconds": 47254,
     "week_start": 1782112760,
-    "total_seconds": 140354
+    "total_seconds": 173420
   },
   "alternativchik": {
     "week_seconds": 0,
@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 23386,
+    "week_seconds": 23503,
     "week_start": 1782127160,
-    "total_seconds": 87864
+    "total_seconds": 87981
   },
   "hxrl": {
     "week_seconds": 9200,
