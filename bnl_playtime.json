@@ -3475,9 +3475,9 @@
     "total_seconds": 6079
   },
   "bloxtlemc": {
-    "week_seconds": 3850,
+    "week_seconds": 4020,
     "week_start": 1782173960,
-    "total_seconds": 82322
+    "total_seconds": 82492
   },
   "mdlp_red15": {
     "week_seconds": 0,
@@ -8435,9 +8435,9 @@
     "total_seconds": 337
   },
   "marshallark16": {
-    "week_seconds": 11855,
+    "week_seconds": 11960,
     "week_start": 1782068046,
-    "total_seconds": 11855
+    "total_seconds": 11960
   },
   "speedyfire1000": {
     "week_seconds": 9997,
