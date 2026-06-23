@@ -2140,9 +2140,9 @@
     "total_seconds": 125097
   },
   "sqopenspellbook": {
-    "week_seconds": 0,
+    "week_seconds": 50829,
     "week_start": 1782134360,
-    "total_seconds": 231726
+    "total_seconds": 282555
   },
   "daimnasal": {
     "week_seconds": 31665,
@@ -4680,9 +4680,9 @@
     "total_seconds": 22
   },
   "glog_frogmen": {
-    "week_seconds": 71193,
+    "week_seconds": 71230,
     "week_start": 1781656168,
-    "total_seconds": 71193
+    "total_seconds": 71230
   },
   "clearhercules": {
     "week_seconds": 70165,
