@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 51919,
+    "week_seconds": 51967,
     "week_start": 1782127160,
-    "total_seconds": 116397
+    "total_seconds": 116445
   },
   "hxrl": {
     "week_seconds": 33655,
@@ -10090,8 +10090,8 @@
     "total_seconds": 376
   },
   "prism222": {
-    "week_seconds": 0,
+    "week_seconds": 48,
     "week_start": 1782257678,
-    "total_seconds": 0
+    "total_seconds": 48
   }
 }
