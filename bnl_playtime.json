@@ -1575,9 +1575,9 @@
     "total_seconds": 284443
   },
   "_2k42_": {
-    "week_seconds": 84609,
+    "week_seconds": 84610,
     "week_start": 1782112760,
-    "total_seconds": 172673
+    "total_seconds": 172674
   },
   "gobblin": {
     "week_seconds": 15805,
@@ -8435,9 +8435,9 @@
     "total_seconds": 337
   },
   "marshallark16": {
-    "week_seconds": 13274,
+    "week_seconds": 14287,
     "week_start": 1782068046,
-    "total_seconds": 13274
+    "total_seconds": 14287
   },
   "speedyfire1000": {
     "week_seconds": 12400,
