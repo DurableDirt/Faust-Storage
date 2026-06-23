@@ -20,8 +20,8 @@
     "hits": 161
   },
   "sml128": {
-    "last_seen": 1782241581,
-    "hits": 4795
+    "last_seen": 1782241726,
+    "hits": 4797
   },
   "rodragonlux": {
     "last_seen": 1782063239,
@@ -56,12 +56,12 @@
     "hits": 157
   },
   "sigmaflash": {
-    "last_seen": 1781824495,
-    "hits": 56
+    "last_seen": 1782241731,
+    "hits": 65
   },
   "tolerant6000": {
-    "last_seen": 1782241644,
-    "hits": 575
+    "last_seen": 1782241711,
+    "hits": 583
   },
   "vitalcoin3800": {
     "last_seen": 1782240996,
@@ -90,5 +90,9 @@
   "mrextrat1": {
     "last_seen": 1782225141,
     "hits": 284
+  },
+  "ja_c0b": {
+    "last_seen": 1782241732,
+    "hits": 4
   }
 }
