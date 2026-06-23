@@ -1575,9 +1575,9 @@
     "total_seconds": 284443
   },
   "_2k42_": {
-    "week_seconds": 84516,
+    "week_seconds": 84546,
     "week_start": 1782112760,
-    "total_seconds": 172580
+    "total_seconds": 172610
   },
   "gobblin": {
     "week_seconds": 15805,
@@ -1665,9 +1665,9 @@
     "total_seconds": 9402
   },
   "polysemic": {
-    "week_seconds": 3212,
+    "week_seconds": 9325,
     "week_start": 1782116360,
-    "total_seconds": 80519
+    "total_seconds": 86632
   },
   "wuli": {
     "week_seconds": 16992,
@@ -2900,9 +2900,9 @@
     "total_seconds": 29
   },
   "zamoradin": {
-    "week_seconds": 4445,
+    "week_seconds": 5682,
     "week_start": 1782155960,
-    "total_seconds": 11849
+    "total_seconds": 13086
   },
   "emarile": {
     "week_seconds": 0,
@@ -4230,9 +4230,9 @@
     "total_seconds": 25736
   },
   "power_utter": {
-    "week_seconds": 19,
+    "week_seconds": 184,
     "week_start": 1782235160,
-    "total_seconds": 72919
+    "total_seconds": 73084
   },
   "pineappleman541": {
     "week_seconds": 0,
@@ -4800,9 +4800,9 @@
     "total_seconds": 25
   },
   "vadimblin": {
-    "week_seconds": 78217,
+    "week_seconds": 78560,
     "week_start": 1781663064,
-    "total_seconds": 78217
+    "total_seconds": 78560
   },
   "yummyspacebar": {
     "week_seconds": 17623,
@@ -9915,8 +9915,8 @@
     "total_seconds": 16
   },
   "drakosha1mg": {
-    "week_seconds": 11,
+    "week_seconds": 42,
     "week_start": 1782242514,
-    "total_seconds": 11
+    "total_seconds": 42
   }
 }
