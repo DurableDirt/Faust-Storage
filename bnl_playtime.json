@@ -3830,9 +3830,9 @@
     "total_seconds": 56729
   },
   "eledion": {
-    "week_seconds": 15693,
+    "week_seconds": 15718,
     "week_start": 1782202760,
-    "total_seconds": 184342
+    "total_seconds": 184367
   },
   "kashev": {
     "week_seconds": 4991,
@@ -8515,9 +8515,9 @@
     "total_seconds": 60040
   },
   "burgithebest39": {
-    "week_seconds": 1760,
+    "week_seconds": 3346,
     "week_start": 1782075487,
-    "total_seconds": 1760
+    "total_seconds": 3346
   },
   "coopernicus3116": {
     "week_seconds": 6419,
@@ -9675,8 +9675,8 @@
     "total_seconds": 0
   },
   "wrightyryan": {
-    "week_seconds": 0,
+    "week_seconds": 257,
     "week_start": 1782222490,
-    "total_seconds": 0
+    "total_seconds": 257
   }
 }
