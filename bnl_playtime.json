@@ -4235,9 +4235,9 @@
     "total_seconds": 72900
   },
   "pineappleman541": {
-    "week_seconds": 24020,
+    "week_seconds": 24046,
     "week_start": 1781630307,
-    "total_seconds": 24020
+    "total_seconds": 24046
   },
   "gabrox5": {
     "week_seconds": 1443,
@@ -9648,5 +9648,10 @@
     "week_seconds": 519,
     "week_start": 1782215869,
     "total_seconds": 519
+  },
+  "maverickpoint": {
+    "week_seconds": 0,
+    "week_start": 1782218158,
+    "total_seconds": 0
   }
 }
