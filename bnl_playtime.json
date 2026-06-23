@@ -9335,9 +9335,9 @@
     "total_seconds": 134
   },
   "kase8009": {
-    "week_seconds": 0,
+    "week_seconds": 3944,
     "week_start": 1782168943,
-    "total_seconds": 0
+    "total_seconds": 3944
   },
   "aztection": {
     "week_seconds": 648,
@@ -9387,6 +9387,11 @@
   "synthhated": {
     "week_seconds": 0,
     "week_start": 1782172331,
+    "total_seconds": 0
+  },
+  "suntaso": {
+    "week_seconds": 0,
+    "week_start": 1782172887,
     "total_seconds": 0
   }
 }
