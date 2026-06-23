@@ -245,9 +245,9 @@
     "total_seconds": 42451
   },
   "aluminum_foil_": {
-    "week_seconds": 11542,
+    "week_seconds": 11591,
     "week_start": 1782083960,
-    "total_seconds": 172246
+    "total_seconds": 172295
   },
   "mpusa": {
     "week_seconds": 20455,
@@ -560,9 +560,9 @@
     "total_seconds": 578176
   },
   "dutchcringe": {
-    "week_seconds": 1308,
+    "week_seconds": 1721,
     "week_start": 1782087560,
-    "total_seconds": 75977
+    "total_seconds": 76390
   },
   "graydawn_": {
     "week_seconds": 51473,
@@ -9462,6 +9462,11 @@
   "rustbucket23": {
     "week_seconds": 0,
     "week_start": 1782183791,
+    "total_seconds": 0
+  },
+  "forgeix": {
+    "week_seconds": 0,
+    "week_start": 1782183991,
     "total_seconds": 0
   }
 }
