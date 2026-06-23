@@ -730,9 +730,9 @@
     "total_seconds": 112727
   },
   "marc_1500": {
-    "week_seconds": 11307,
+    "week_seconds": 12549,
     "week_start": 1782087560,
-    "total_seconds": 99558
+    "total_seconds": 100800
   },
   "zipjaw3979": {
     "week_seconds": 0,
@@ -3440,9 +3440,9 @@
     "total_seconds": 89639
   },
   "jromeasfsniper": {
-    "week_seconds": 0,
+    "week_seconds": 8251,
     "week_start": 1782173960,
-    "total_seconds": 52678
+    "total_seconds": 60929
   },
   "smilers": {
     "week_seconds": 0,
@@ -9415,8 +9415,8 @@
     "total_seconds": 381
   },
   "exprockyt": {
-    "week_seconds": 0,
+    "week_seconds": 215,
     "week_start": 1782175731,
-    "total_seconds": 0
+    "total_seconds": 215
   }
 }
