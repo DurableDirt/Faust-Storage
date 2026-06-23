@@ -9095,9 +9095,9 @@
     "total_seconds": 8559
   },
   "coolchacha97": {
-    "week_seconds": 2258,
+    "week_seconds": 2306,
     "week_start": 1782149426,
-    "total_seconds": 2258
+    "total_seconds": 2306
   },
   "mavereich": {
     "week_seconds": 17,
@@ -9792,6 +9792,11 @@
   "chucu_": {
     "week_seconds": 0,
     "week_start": 1782232319,
+    "total_seconds": 0
+  },
+  "lodish": {
+    "week_seconds": 0,
+    "week_start": 1782232871,
     "total_seconds": 0
   }
 }
