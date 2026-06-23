@@ -270,9 +270,9 @@
     "total_seconds": 56711
   },
   "dasonishere2": {
-    "week_seconds": 39442,
+    "week_seconds": 39467,
     "week_start": 1782083960,
-    "total_seconds": 217076
+    "total_seconds": 217101
   },
   "peyt1212": {
     "week_seconds": 0,
@@ -740,9 +740,9 @@
     "total_seconds": 276
   },
   "grepsedawk": {
-    "week_seconds": 155917,
+    "week_seconds": 156005,
     "week_start": 1782087560,
-    "total_seconds": 557073
+    "total_seconds": 557161
   },
   "complexii": {
     "week_seconds": 0,
@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 38589,
+    "week_seconds": 38660,
     "week_start": 1782127160,
-    "total_seconds": 103067
+    "total_seconds": 103138
   },
   "hxrl": {
     "week_seconds": 16838,
@@ -2220,9 +2220,9 @@
     "total_seconds": 75
   },
   "falphaeus": {
-    "week_seconds": 4573,
+    "week_seconds": 4606,
     "week_start": 1782134360,
-    "total_seconds": 115277
+    "total_seconds": 115310
   },
   "dorthit_0194a8au": {
     "week_seconds": 0,
@@ -4390,9 +4390,9 @@
     "total_seconds": 3356
   },
   "thebiodino": {
-    "week_seconds": 43890,
+    "week_seconds": 44090,
     "week_start": 1781636020,
-    "total_seconds": 43890
+    "total_seconds": 44090
   },
   "plrog": {
     "week_seconds": 8941,
@@ -5190,9 +5190,9 @@
     "total_seconds": 46161
   },
   "ahmad_elayyen": {
-    "week_seconds": 11708,
+    "week_seconds": 11990,
     "week_start": 1781707844,
-    "total_seconds": 11708
+    "total_seconds": 11990
   },
   "itzhoover": {
     "week_seconds": 45160,
@@ -9680,9 +9680,9 @@
     "total_seconds": 257
   },
   "omo23536": {
-    "week_seconds": 7923,
+    "week_seconds": 7937,
     "week_start": 1782223234,
-    "total_seconds": 7923
+    "total_seconds": 7937
   },
   "pryy": {
     "week_seconds": 37,
@@ -9817,6 +9817,16 @@
   "davidssoncrew": {
     "week_seconds": 0,
     "week_start": 1782234999,
+    "total_seconds": 0
+  },
+  "swiftnesmc": {
+    "week_seconds": 0,
+    "week_start": 1782235042,
+    "total_seconds": 0
+  },
+  "dyl_weasel": {
+    "week_seconds": 0,
+    "week_start": 1782235062,
     "total_seconds": 0
   }
 }
