@@ -1575,9 +1575,9 @@
     "total_seconds": 287154
   },
   "_2k42_": {
-    "week_seconds": 84745,
+    "week_seconds": 84766,
     "week_start": 1782112760,
-    "total_seconds": 172809
+    "total_seconds": 172830
   },
   "gobblin": {
     "week_seconds": 15805,
@@ -7155,9 +7155,9 @@
     "total_seconds": 399
   },
   "wizedragon": {
-    "week_seconds": 187,
+    "week_seconds": 190,
     "week_start": 1781900648,
-    "total_seconds": 187
+    "total_seconds": 190
   },
   "seaxo": {
     "week_seconds": 1867,
