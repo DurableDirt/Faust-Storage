@@ -1575,9 +1575,9 @@
     "total_seconds": 284443
   },
   "_2k42_": {
-    "week_seconds": 84453,
+    "week_seconds": 84485,
     "week_start": 1782112760,
-    "total_seconds": 172517
+    "total_seconds": 172549
   },
   "gobblin": {
     "week_seconds": 15805,
@@ -4800,9 +4800,9 @@
     "total_seconds": 25
   },
   "vadimblin": {
-    "week_seconds": 75705,
+    "week_seconds": 78217,
     "week_start": 1781663064,
-    "total_seconds": 75705
+    "total_seconds": 78217
   },
   "yummyspacebar": {
     "week_seconds": 17623,
@@ -8435,9 +8435,9 @@
     "total_seconds": 337
   },
   "marshallark16": {
-    "week_seconds": 11520,
+    "week_seconds": 11855,
     "week_start": 1782068046,
-    "total_seconds": 11520
+    "total_seconds": 11855
   },
   "speedyfire1000": {
     "week_seconds": 9997,
