@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 52344,
+    "week_seconds": 52365,
     "week_start": 1782127160,
-    "total_seconds": 116822
+    "total_seconds": 116843
   },
   "hxrl": {
     "week_seconds": 33655,
@@ -5295,9 +5295,9 @@
     "total_seconds": 306
   },
   "matanic1107": {
-    "week_seconds": 31956,
+    "week_seconds": 32999,
     "week_start": 1781716509,
-    "total_seconds": 31956
+    "total_seconds": 32999
   },
   "pixel5legend": {
     "week_seconds": 112,
