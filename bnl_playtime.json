@@ -2245,9 +2245,9 @@
     "total_seconds": 88239
   },
   "ambersolberg205": {
-    "week_seconds": 5939,
+    "week_seconds": 8028,
     "week_start": 1782134360,
-    "total_seconds": 53897
+    "total_seconds": 55986
   },
   "scottytohoty420": {
     "week_seconds": 0,
@@ -9458,5 +9458,10 @@
     "week_seconds": 95,
     "week_start": 1782182959,
     "total_seconds": 95
+  },
+  "rustbucket23": {
+    "week_seconds": 0,
+    "week_start": 1782183791,
+    "total_seconds": 0
   }
 }
