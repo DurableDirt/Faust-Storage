@@ -9533,5 +9533,15 @@
     "week_seconds": 0,
     "week_start": 1782190370,
     "total_seconds": 0
+  },
+  "jakkeroffer": {
+    "week_seconds": 12,
+    "week_start": 1782190482,
+    "total_seconds": 12
+  },
+  "mreclipse18": {
+    "week_seconds": 4,
+    "week_start": 1782190483,
+    "total_seconds": 4
   }
 }
