@@ -1575,9 +1575,9 @@
     "total_seconds": 284443
   },
   "_2k42_": {
-    "week_seconds": 84627,
+    "week_seconds": 84651,
     "week_start": 1782112760,
-    "total_seconds": 172691
+    "total_seconds": 172715
   },
   "gobblin": {
     "week_seconds": 15805,
@@ -2995,9 +2995,9 @@
     "total_seconds": 111837
   },
   "theoneofthevoid": {
-    "week_seconds": 3978,
+    "week_seconds": 8247,
     "week_start": 1782159560,
-    "total_seconds": 31464
+    "total_seconds": 35733
   },
   "t0ast_realtoast": {
     "week_seconds": 0,
