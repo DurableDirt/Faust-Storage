@@ -1,8 +1,8 @@
 {
   "durabledirt": {
-    "week_seconds": 4000,
+    "week_seconds": 5414,
     "week_start": 1782080360,
-    "total_seconds": 68215
+    "total_seconds": 69629
   },
   "alphaaaaaaaaalph": {
     "week_seconds": 0,
@@ -640,9 +640,9 @@
     "total_seconds": 90843
   },
   "beepcar": {
-    "week_seconds": 89465,
+    "week_seconds": 89647,
     "week_start": 1782087560,
-    "total_seconds": 254137
+    "total_seconds": 254319
   },
   "moopie50": {
     "week_seconds": 0,
