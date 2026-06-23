@@ -8585,9 +8585,9 @@
     "total_seconds": 24238
   },
   "gregy165": {
-    "week_seconds": 98141,
+    "week_seconds": 103000,
     "week_start": 1782080413,
-    "total_seconds": 98141
+    "total_seconds": 103000
   },
   "yungsgt": {
     "week_seconds": 1930,
@@ -9992,6 +9992,11 @@
   "bobicus_iv": {
     "week_seconds": 0,
     "week_start": 1782249493,
+    "total_seconds": 0
+  },
+  "tsumun": {
+    "week_seconds": 0,
+    "week_start": 1782250077,
     "total_seconds": 0
   }
 }
