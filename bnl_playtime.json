@@ -60,9 +60,9 @@
     "total_seconds": 49459
   },
   "mitthraw91": {
-    "week_seconds": 120690,
+    "week_seconds": 124349,
     "week_start": 1782080360,
-    "total_seconds": 504324
+    "total_seconds": 507983
   },
   "rainsinger": {
     "week_seconds": 16995,
@@ -640,9 +640,9 @@
     "total_seconds": 90843
   },
   "beepcar": {
-    "week_seconds": 94426,
+    "week_seconds": 94685,
     "week_start": 1782087560,
-    "total_seconds": 259098
+    "total_seconds": 259357
   },
   "moopie50": {
     "week_seconds": 0,
@@ -4845,9 +4845,9 @@
     "total_seconds": 192
   },
   "jerninja": {
-    "week_seconds": 57138,
+    "week_seconds": 57180,
     "week_start": 1781667856,
-    "total_seconds": 57138
+    "total_seconds": 57180
   },
   "jaybirdino": {
     "week_seconds": 9945,
@@ -7935,9 +7935,9 @@
     "total_seconds": 1764
   },
   "sturdyshelf": {
-    "week_seconds": 5805,
+    "week_seconds": 9033,
     "week_start": 1781994385,
-    "total_seconds": 5805
+    "total_seconds": 9033
   },
   "darth0tter": {
     "week_seconds": 12566,
@@ -9255,9 +9255,9 @@
     "total_seconds": 1192
   },
   "aletheiad": {
-    "week_seconds": 7877,
+    "week_seconds": 8103,
     "week_start": 1782164335,
-    "total_seconds": 7877
+    "total_seconds": 8103
   },
   "td_xgodx": {
     "week_seconds": 1077,
@@ -9853,5 +9853,10 @@
     "week_seconds": 21,
     "week_start": 1782237118,
     "total_seconds": 21
+  },
+  "kingdd2311": {
+    "week_seconds": 0,
+    "week_start": 1782237179,
+    "total_seconds": 0
   }
 }
