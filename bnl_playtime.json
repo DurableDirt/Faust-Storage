@@ -4275,9 +4275,9 @@
     "total_seconds": 103
   },
   "dark_ffc": {
-    "week_seconds": 23769,
+    "week_seconds": 26039,
     "week_start": 1781631753,
-    "total_seconds": 23769
+    "total_seconds": 26039
   },
   "legodanielgo67": {
     "week_seconds": 131,
@@ -9487,6 +9487,11 @@
   "trackgod": {
     "week_seconds": 0,
     "week_start": 1782185093,
+    "total_seconds": 0
+  },
+  "shadowslayer_999": {
+    "week_seconds": 0,
+    "week_start": 1782185657,
     "total_seconds": 0
   }
 }
