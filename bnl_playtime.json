@@ -1525,9 +1525,9 @@
     "total_seconds": 198370
   },
   "deuteriumoxide1": {
-    "week_seconds": 0,
+    "week_seconds": 4431,
     "week_start": 1782109160,
-    "total_seconds": 94651
+    "total_seconds": 99082
   },
   "xlader161": {
     "week_seconds": 0,
@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 61693,
+    "week_seconds": 61783,
     "week_start": 1782127160,
-    "total_seconds": 126171
+    "total_seconds": 126261
   },
   "hxrl": {
     "week_seconds": 33655,
