@@ -8750,9 +8750,9 @@
     "total_seconds": 14410
   },
   "notduffy": {
-    "week_seconds": 11040,
+    "week_seconds": 11331,
     "week_start": 1782099597,
-    "total_seconds": 11040
+    "total_seconds": 11331
   },
   "hairystoochie": {
     "week_seconds": 662,
@@ -10228,5 +10228,10 @@
     "week_seconds": 167,
     "week_start": 1782278067,
     "total_seconds": 167
+  },
+  "deutbar_nudeln": {
+    "week_seconds": 0,
+    "week_start": 1782280257,
+    "total_seconds": 0
   }
 }
