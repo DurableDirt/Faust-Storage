@@ -2790,9 +2790,9 @@
     "total_seconds": 46718
   },
   "sirboss001": {
-    "week_seconds": 9595,
+    "week_seconds": 20281,
     "week_start": 1782152360,
-    "total_seconds": 79237
+    "total_seconds": 89923
   },
   "vortexx_xq": {
     "week_seconds": 0,
@@ -4785,9 +4785,9 @@
     "total_seconds": 8666
   },
   "unreadi": {
-    "week_seconds": 15537,
+    "week_seconds": 17232,
     "week_start": 1782267560,
-    "total_seconds": 27982
+    "total_seconds": 29677
   },
   "tolypevelleda": {
     "week_seconds": 0,
@@ -10203,5 +10203,10 @@
     "week_seconds": 29,
     "week_start": 1782276562,
     "total_seconds": 29
+  },
+  "kerplounk": {
+    "week_seconds": 0,
+    "week_start": 1782276901,
+    "total_seconds": 0
   }
 }
