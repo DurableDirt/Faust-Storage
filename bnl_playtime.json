@@ -1365,9 +1365,9 @@
     "total_seconds": 21389
   },
   "rammyls": {
-    "week_seconds": 29869,
+    "week_seconds": 38870,
     "week_start": 1782101960,
-    "total_seconds": 151334
+    "total_seconds": 160335
   },
   "adelover01": {
     "week_seconds": 68337,
@@ -1490,9 +1490,9 @@
     "total_seconds": 44058
   },
   "benpuma25": {
-    "week_seconds": 4147,
+    "week_seconds": 10535,
     "week_start": 1782105560,
-    "total_seconds": 28696
+    "total_seconds": 35084
   },
   "naglafer": {
     "week_seconds": 0,
@@ -8865,9 +8865,9 @@
     "total_seconds": 13025
   },
   "fash5": {
-    "week_seconds": 944,
+    "week_seconds": 4648,
     "week_start": 1782117911,
-    "total_seconds": 944
+    "total_seconds": 4648
   },
   "cerreckter": {
     "week_seconds": 4736,
@@ -10245,8 +10245,8 @@
     "total_seconds": 929
   },
   "teslacar5": {
-    "week_seconds": 0,
+    "week_seconds": 792,
     "week_start": 1782285199,
-    "total_seconds": 0
+    "total_seconds": 792
   }
 }
