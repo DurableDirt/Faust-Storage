@@ -530,9 +530,9 @@
     "total_seconds": 342744
   },
   "hexayn": {
-    "week_seconds": 5665,
+    "week_seconds": 5795,
     "week_start": 1782087560,
-    "total_seconds": 6639
+    "total_seconds": 6769
   },
   "destaroos": {
     "week_seconds": 0,
@@ -595,9 +595,9 @@
     "total_seconds": 29383
   },
   "webchat427": {
-    "week_seconds": 801,
+    "week_seconds": 5059,
     "week_start": 1782087560,
-    "total_seconds": 89432
+    "total_seconds": 93690
   },
   "1stampy": {
     "week_seconds": 0,
@@ -1225,9 +1225,9 @@
     "total_seconds": 1392
   },
   "_oceanstar": {
-    "week_seconds": 32256,
+    "week_seconds": 33280,
     "week_start": 1782098360,
-    "total_seconds": 167530
+    "total_seconds": 168554
   },
   "kahina": {
     "week_seconds": 65045,
@@ -10658,5 +10658,10 @@
     "week_seconds": 3,
     "week_start": 1782340418,
     "total_seconds": 3
+  },
+  "darthvader2025": {
+    "week_seconds": 6,
+    "week_start": 1782340463,
+    "total_seconds": 6
   }
 }
