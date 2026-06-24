@@ -1285,9 +1285,9 @@
     "total_seconds": 36801
   },
   "darkwingz17": {
-    "week_seconds": 42661,
+    "week_seconds": 43771,
     "week_start": 1782098360,
-    "total_seconds": 76330
+    "total_seconds": 77440
   },
   "tomete13": {
     "week_seconds": 0,
@@ -10445,8 +10445,8 @@
     "total_seconds": 4
   },
   "artembdr": {
-    "week_seconds": 0,
+    "week_seconds": 165,
     "week_start": 1782319742,
-    "total_seconds": 0
+    "total_seconds": 165
   }
 }
