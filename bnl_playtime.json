@@ -9855,9 +9855,9 @@
     "total_seconds": 52
   },
   "kingdd2311": {
-    "week_seconds": 45370,
+    "week_seconds": 45434,
     "week_start": 1782237179,
-    "total_seconds": 45370
+    "total_seconds": 45434
   },
   "stoomer": {
     "week_seconds": 8796,
@@ -10270,9 +10270,9 @@
     "total_seconds": 3147
   },
   "dobrava": {
-    "week_seconds": 10921,
+    "week_seconds": 10986,
     "week_start": 1782291325,
-    "total_seconds": 10921
+    "total_seconds": 10986
   },
   "_noxisss_": {
     "week_seconds": 6,
@@ -10338,5 +10338,10 @@
     "week_seconds": 144,
     "week_start": 1782306668,
     "total_seconds": 144
+  },
+  "lukayt0": {
+    "week_seconds": 0,
+    "week_start": 1782307596,
+    "total_seconds": 0
   }
 }
