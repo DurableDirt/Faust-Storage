@@ -75,9 +75,9 @@
     "total_seconds": 173894
   },
   "40mm": {
-    "week_seconds": 99128,
+    "week_seconds": 104945,
     "week_start": 1782080360,
-    "total_seconds": 185492
+    "total_seconds": 191309
   },
   "lynx2007": {
     "week_seconds": 18560,
@@ -10515,9 +10515,9 @@
     "total_seconds": 5
   },
   "kitchendroop": {
-    "week_seconds": 0,
+    "week_seconds": 2034,
     "week_start": 1782328874,
-    "total_seconds": 0
+    "total_seconds": 2034
   },
   "sopamaster1st": {
     "week_seconds": 0,
@@ -10533,5 +10533,10 @@
     "week_seconds": 154,
     "week_start": 1782330690,
     "total_seconds": 154
+  },
+  "roverfv_": {
+    "week_seconds": 0,
+    "week_start": 1782330886,
+    "total_seconds": 0
   }
 }
