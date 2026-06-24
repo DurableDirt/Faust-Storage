@@ -3145,9 +3145,9 @@
     "total_seconds": 7943
   },
   "8donis": {
-    "week_seconds": 4249,
+    "week_seconds": 4251,
     "week_start": 1782163160,
-    "total_seconds": 16881
+    "total_seconds": 16883
   },
   "thaddemus": {
     "week_seconds": 0,
@@ -10400,8 +10400,8 @@
     "total_seconds": 113
   },
   "moonghost44": {
-    "week_seconds": 0,
+    "week_seconds": 130,
     "week_start": 1782314820,
-    "total_seconds": 0
+    "total_seconds": 130
   }
 }
