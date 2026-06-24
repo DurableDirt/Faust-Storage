@@ -10500,8 +10500,13 @@
     "total_seconds": 0
   },
   "exlusiv": {
-    "week_seconds": 0,
+    "week_seconds": 79,
     "week_start": 1782327101,
+    "total_seconds": 79
+  },
+  "xdastank": {
+    "week_seconds": 0,
+    "week_start": 1782327151,
     "total_seconds": 0
   }
 }
