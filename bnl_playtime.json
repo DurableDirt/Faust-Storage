@@ -315,9 +315,9 @@
     "total_seconds": 207249
   },
   "ian21652": {
-    "week_seconds": 74874,
+    "week_seconds": 81027,
     "week_start": 1782083960,
-    "total_seconds": 189280
+    "total_seconds": 195433
   },
   "skormcel": {
     "week_seconds": 9786,
@@ -6760,9 +6760,9 @@
     "total_seconds": 1009
   },
   "cervanthes": {
-    "week_seconds": 7759,
+    "week_seconds": 8731,
     "week_start": 1781852809,
-    "total_seconds": 7759
+    "total_seconds": 8731
   },
   "gabrielmaennl5": {
     "week_seconds": 82766,
@@ -10528,5 +10528,10 @@
     "week_seconds": 47,
     "week_start": 1782329956,
     "total_seconds": 47
+  },
+  "hugihuginn": {
+    "week_seconds": 0,
+    "week_start": 1782330690,
+    "total_seconds": 0
   }
 }
