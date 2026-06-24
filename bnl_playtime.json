@@ -2340,9 +2340,9 @@
     "total_seconds": 6462
   },
   "shyguy_wph": {
-    "week_seconds": 0,
+    "week_seconds": 100,
     "week_start": 1782137960,
-    "total_seconds": 64140
+    "total_seconds": 64240
   },
   "crimsonfang3139": {
     "week_seconds": 0,
@@ -9840,9 +9840,9 @@
     "total_seconds": 3832
   },
   "rockhawck": {
-    "week_seconds": 143,
+    "week_seconds": 265,
     "week_start": 1782235991,
-    "total_seconds": 143
+    "total_seconds": 265
   },
   "katcatfat": {
     "week_seconds": 1086,
