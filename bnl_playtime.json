@@ -2015,9 +2015,9 @@
     "total_seconds": 4245
   },
   "xlamdg96_": {
-    "week_seconds": 28001,
+    "week_seconds": 28585,
     "week_start": 1782130760,
-    "total_seconds": 92842
+    "total_seconds": 93426
   },
   "luxleee_58": {
     "week_seconds": 0,
@@ -10153,5 +10153,10 @@
     "week_seconds": 134,
     "week_start": 1782266007,
     "total_seconds": 134
+  },
+  "udonnoodler": {
+    "week_seconds": 5,
+    "week_start": 1782266515,
+    "total_seconds": 5
   }
 }
