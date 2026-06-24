@@ -640,9 +640,9 @@
     "total_seconds": 90843
   },
   "beepcar": {
-    "week_seconds": 137082,
+    "week_seconds": 137297,
     "week_start": 1782087560,
-    "total_seconds": 301754
+    "total_seconds": 301969
   },
   "moopie50": {
     "week_seconds": 6443,
@@ -1050,9 +1050,9 @@
     "total_seconds": 226131
   },
   "rodragonlux": {
-    "week_seconds": 9686,
+    "week_seconds": 10303,
     "week_start": 1782094760,
-    "total_seconds": 25817
+    "total_seconds": 26434
   },
   "arkane9975": {
     "week_seconds": 0,
@@ -10448,5 +10448,10 @@
     "week_seconds": 165,
     "week_start": 1782319742,
     "total_seconds": 165
+  },
+  "ultraolek2000": {
+    "week_seconds": 0,
+    "week_start": 1782320683,
+    "total_seconds": 0
   }
 }
