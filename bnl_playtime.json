@@ -1515,9 +1515,9 @@
     "total_seconds": 30642
   },
   "fang_op": {
-    "week_seconds": 51347,
+    "week_seconds": 52501,
     "week_start": 1782109160,
-    "total_seconds": 142461
+    "total_seconds": 143615
   },
   "_jaek": {
     "week_seconds": 60050,
@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 67523,
+    "week_seconds": 67608,
     "week_start": 1782127160,
-    "total_seconds": 132001
+    "total_seconds": 132086
   },
   "hxrl": {
     "week_seconds": 33655,
@@ -10333,5 +10333,10 @@
     "week_seconds": 20,
     "week_start": 1782304050,
     "total_seconds": 20
+  },
+  "ct55552560": {
+    "week_seconds": 0,
+    "week_start": 1782306668,
+    "total_seconds": 0
   }
 }
