@@ -1575,9 +1575,9 @@
     "total_seconds": 287435
   },
   "_2k42_": {
-    "week_seconds": 85246,
+    "week_seconds": 85278,
     "week_start": 1782112760,
-    "total_seconds": 173310
+    "total_seconds": 173342
   },
   "gobblin": {
     "week_seconds": 15805,
@@ -3780,9 +3780,9 @@
     "total_seconds": 103322
   },
   "nukinmouse01": {
-    "week_seconds": 0,
+    "week_seconds": 1437,
     "week_start": 1782191960,
-    "total_seconds": 79
+    "total_seconds": 1516
   },
   "kelly2506": {
     "week_seconds": 73896,
@@ -4915,23 +4915,23 @@
     "total_seconds": 277
   },
   "gr31ch3n": {
-    "week_seconds": 2136,
-    "week_start": 1781674567,
+    "week_seconds": 0,
+    "week_start": 1782281960,
     "total_seconds": 2136
   },
   "imaginationmc": {
-    "week_seconds": 2225,
-    "week_start": 1781676118,
+    "week_seconds": 0,
+    "week_start": 1782281960,
     "total_seconds": 2225
   },
   "geometricsquare": {
-    "week_seconds": 94,
-    "week_start": 1781676503,
+    "week_seconds": 0,
+    "week_start": 1782281960,
     "total_seconds": 94
   },
   "lasady": {
-    "week_seconds": 92214,
-    "week_start": 1781677070,
+    "week_seconds": 0,
+    "week_start": 1782281960,
     "total_seconds": 92214
   },
   "silenthunterx": {
