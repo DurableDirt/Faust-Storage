@@ -440,9 +440,9 @@
     "total_seconds": 40004
   },
   "screamteam2005": {
-    "week_seconds": 49196,
+    "week_seconds": 49767,
     "week_start": 1782083960,
-    "total_seconds": 120687
+    "total_seconds": 121258
   },
   "iron600": {
     "week_seconds": 85382,
@@ -10393,5 +10393,10 @@
     "week_seconds": 219,
     "week_start": 1782313000,
     "total_seconds": 219
+  },
+  "yapseler": {
+    "week_seconds": 0,
+    "week_start": 1782314497,
+    "total_seconds": 0
   }
 }
