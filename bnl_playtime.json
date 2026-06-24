@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 62367,
+    "week_seconds": 62428,
     "week_start": 1782127160,
-    "total_seconds": 126845
+    "total_seconds": 126906
   },
   "hxrl": {
     "week_seconds": 33655,
@@ -9020,9 +9020,9 @@
     "total_seconds": 10828
   },
   "zetm4n": {
-    "week_seconds": 26446,
+    "week_seconds": 26574,
     "week_start": 1782142049,
-    "total_seconds": 26446
+    "total_seconds": 26574
   },
   "silvercrayon945": {
     "week_seconds": 904,
@@ -10317,6 +10317,11 @@
   "cubefunmc": {
     "week_seconds": 0,
     "week_start": 1782299651,
+    "total_seconds": 0
+  },
+  "johannnaaa1899": {
+    "week_seconds": 0,
+    "week_start": 1782301220,
     "total_seconds": 0
   }
 }
