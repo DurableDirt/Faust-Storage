@@ -60,9 +60,9 @@
     "total_seconds": 53180
   },
   "mitthraw91": {
-    "week_seconds": 155126,
+    "week_seconds": 155647,
     "week_start": 1782080360,
-    "total_seconds": 538760
+    "total_seconds": 539281
   },
   "rainsinger": {
     "week_seconds": 16995,
@@ -8405,9 +8405,9 @@
     "total_seconds": 611
   },
   "timmtim": {
-    "week_seconds": 61,
+    "week_seconds": 1205,
     "week_start": 1782063957,
-    "total_seconds": 61
+    "total_seconds": 1205
   },
   "actualmouse": {
     "week_seconds": 3277,
@@ -10188,5 +10188,10 @@
     "week_seconds": 0,
     "week_start": 1782274133,
     "total_seconds": 0
+  },
+  "jebel": {
+    "week_seconds": 5,
+    "week_start": 1782275369,
+    "total_seconds": 5
   }
 }
