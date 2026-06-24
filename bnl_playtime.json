@@ -15,9 +15,9 @@
     "total_seconds": 109746
   },
   "dragran": {
-    "week_seconds": 202436,
+    "week_seconds": 203789,
     "week_start": 1782080360,
-    "total_seconds": 591846
+    "total_seconds": 593199
   },
   "turkishflavour": {
     "week_seconds": 0,
@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 55221,
+    "week_seconds": 55312,
     "week_start": 1782127160,
-    "total_seconds": 119699
+    "total_seconds": 119790
   },
   "hxrl": {
     "week_seconds": 33655,
@@ -3960,9 +3960,9 @@
     "total_seconds": 5834
   },
   "therewalker": {
-    "week_seconds": 25070,
+    "week_seconds": 40462,
     "week_start": 1782217160,
-    "total_seconds": 272249
+    "total_seconds": 287641
   },
   "elpaconcio": {
     "week_seconds": 0,
@@ -10123,5 +10123,10 @@
     "week_seconds": 598,
     "week_start": 1782260428,
     "total_seconds": 598
+  },
+  "nyx4207": {
+    "week_seconds": 0,
+    "week_start": 1782261174,
+    "total_seconds": 0
   }
 }
