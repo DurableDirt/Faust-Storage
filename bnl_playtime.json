@@ -470,9 +470,9 @@
     "total_seconds": 83187
   },
   "anotnot": {
-    "week_seconds": 133515,
+    "week_seconds": 135060,
     "week_start": 1782087560,
-    "total_seconds": 412497
+    "total_seconds": 414042
   },
   "tntfortress": {
     "week_seconds": 0,
@@ -8670,9 +8670,9 @@
     "total_seconds": 4959
   },
   "obsidian_mike": {
-    "week_seconds": 47014,
+    "week_seconds": 55896,
     "week_start": 1782089382,
-    "total_seconds": 47014
+    "total_seconds": 55896
   },
   "rygysofly": {
     "week_seconds": 6788,
@@ -10120,8 +10120,8 @@
     "total_seconds": 9
   },
   "red_steel": {
-    "week_seconds": 0,
+    "week_seconds": 598,
     "week_start": 1782260428,
-    "total_seconds": 0
+    "total_seconds": 598
   }
 }
