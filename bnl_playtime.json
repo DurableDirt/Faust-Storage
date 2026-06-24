@@ -7915,9 +7915,9 @@
     "total_seconds": 858
   },
   "kameleoniasty": {
-    "week_seconds": 46248,
+    "week_seconds": 47319,
     "week_start": 1781992882,
-    "total_seconds": 46248
+    "total_seconds": 47319
   },
   "rowsd": {
     "week_seconds": 168,
@@ -8450,9 +8450,9 @@
     "total_seconds": 1402
   },
   "irregularrock": {
-    "week_seconds": 68351,
+    "week_seconds": 69478,
     "week_start": 1782069163,
-    "total_seconds": 68351
+    "total_seconds": 69478
   },
   "aceofcopper": {
     "week_seconds": 18605,
@@ -10597,6 +10597,11 @@
   "serrenblaze": {
     "week_seconds": 0,
     "week_start": 1782333837,
+    "total_seconds": 0
+  },
+  "p4r4d0x3": {
+    "week_seconds": 0,
+    "week_start": 1782334107,
     "total_seconds": 0
   }
 }
