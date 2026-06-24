@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 61271,
+    "week_seconds": 61348,
     "week_start": 1782127160,
-    "total_seconds": 125749
+    "total_seconds": 125826
   },
   "hxrl": {
     "week_seconds": 33655,
@@ -10278,5 +10278,10 @@
     "week_seconds": 6,
     "week_start": 1782292024,
     "total_seconds": 6
+  },
+  "wafersmc": {
+    "week_seconds": 0,
+    "week_start": 1782293596,
+    "total_seconds": 0
   }
 }
