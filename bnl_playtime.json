@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 72426,
+    "week_seconds": 72822,
     "week_start": 1782127160,
-    "total_seconds": 136904
+    "total_seconds": 137300
   },
   "hxrl": {
     "week_seconds": 33655,
@@ -10380,9 +10380,9 @@
     "total_seconds": 2037
   },
   "qurain": {
-    "week_seconds": 0,
+    "week_seconds": 4860,
     "week_start": 1782312669,
-    "total_seconds": 0
+    "total_seconds": 4860
   },
   "greyydev": {
     "week_seconds": 6,
