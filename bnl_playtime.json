@@ -2545,9 +2545,9 @@
     "total_seconds": 6974
   },
   "milevsky": {
-    "week_seconds": 33753,
+    "week_seconds": 37454,
     "week_start": 1782145160,
-    "total_seconds": 177854
+    "total_seconds": 181555
   },
   "wallbeck": {
     "week_seconds": 0,
@@ -5485,9 +5485,9 @@
     "total_seconds": 27991
   },
   "lycoros": {
-    "week_seconds": 0,
+    "week_seconds": 3440,
     "week_start": 1782335960,
-    "total_seconds": 92920
+    "total_seconds": 96360
   },
   "sobn": {
     "week_seconds": 0,
@@ -7880,9 +7880,9 @@
     "total_seconds": 63
   },
   "crozdumonde": {
-    "week_seconds": 5529,
+    "week_seconds": 15378,
     "week_start": 1781988779,
-    "total_seconds": 5529
+    "total_seconds": 15378
   },
   "gingerhotpot": {
     "week_seconds": 19286,
