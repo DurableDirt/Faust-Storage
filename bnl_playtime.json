@@ -1575,9 +1575,9 @@
     "total_seconds": 287435
   },
   "_2k42_": {
-    "week_seconds": 84988,
+    "week_seconds": 85020,
     "week_start": 1782112760,
-    "total_seconds": 173052
+    "total_seconds": 173084
   },
   "gobblin": {
     "week_seconds": 15805,
@@ -7535,9 +7535,9 @@
     "total_seconds": 226
   },
   "ahong0327": {
-    "week_seconds": 7067,
+    "week_seconds": 7091,
     "week_start": 1781949400,
-    "total_seconds": 7067
+    "total_seconds": 7091
   },
   "rocker_x": {
     "week_seconds": 65,
