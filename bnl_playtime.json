@@ -3945,9 +3945,9 @@
     "total_seconds": 136
   },
   "chaudmoi": {
-    "week_seconds": 93,
+    "week_seconds": 193,
     "week_start": 1782217160,
-    "total_seconds": 65602
+    "total_seconds": 65702
   },
   "fealsom_": {
     "week_seconds": 706,
@@ -10490,8 +10490,13 @@
     "total_seconds": 110
   },
   "turda985": {
-    "week_seconds": 0,
+    "week_seconds": 262,
     "week_start": 1782326489,
+    "total_seconds": 262
+  },
+  "lucianopm24": {
+    "week_seconds": 0,
+    "week_start": 1782326774,
     "total_seconds": 0
   }
 }
