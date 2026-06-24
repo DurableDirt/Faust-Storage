@@ -1815,9 +1815,9 @@
     "total_seconds": 4975
   },
   "airdav": {
-    "week_seconds": 3839,
+    "week_seconds": 5355,
     "week_start": 1782123560,
-    "total_seconds": 22203
+    "total_seconds": 23719
   },
   "ch0rk": {
     "week_seconds": 0,
@@ -10353,5 +10353,10 @@
     "week_seconds": 485,
     "week_start": 1782308447,
     "total_seconds": 485
+  },
+  "shembdi2012": {
+    "week_seconds": 0,
+    "week_start": 1782310897,
+    "total_seconds": 0
   }
 }
