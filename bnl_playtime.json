@@ -2115,9 +2115,9 @@
     "total_seconds": 208287
   },
   "trizzzx": {
-    "week_seconds": 70819,
+    "week_seconds": 74320,
     "week_start": 1782134360,
-    "total_seconds": 152699
+    "total_seconds": 156200
   },
   "reffelruz": {
     "week_seconds": 10064,
@@ -3195,9 +3195,9 @@
     "total_seconds": 227125
   },
   "black__wolf_": {
-    "week_seconds": 59709,
+    "week_seconds": 59714,
     "week_start": 1782163160,
-    "total_seconds": 137249
+    "total_seconds": 137254
   },
   "060__": {
     "week_seconds": 492,
@@ -3580,9 +3580,9 @@
     "total_seconds": 287739
   },
   "frozenfrosty30": {
-    "week_seconds": 7320,
+    "week_seconds": 7326,
     "week_start": 1782181160,
-    "total_seconds": 46838
+    "total_seconds": 46844
   },
   "jgirls": {
     "week_seconds": 0,
@@ -10633,5 +10633,10 @@
     "week_seconds": 5,
     "week_start": 1782336962,
     "total_seconds": 5
+  },
+  "sunsett_mc": {
+    "week_seconds": 0,
+    "week_start": 1782337351,
+    "total_seconds": 0
   }
 }
