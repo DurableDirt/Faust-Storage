@@ -4960,9 +4960,9 @@
     "total_seconds": 1844
   },
   "xlaser2014": {
-    "week_seconds": 358,
+    "week_seconds": 699,
     "week_start": 1782285560,
-    "total_seconds": 13347
+    "total_seconds": 13688
   },
   "plutouz": {
     "week_seconds": 0,
@@ -8950,9 +8950,9 @@
     "total_seconds": 130
   },
   "t74is2xc": {
-    "week_seconds": 5223,
+    "week_seconds": 5254,
     "week_start": 1782135186,
-    "total_seconds": 5223
+    "total_seconds": 5254
   },
   "realmousesheriff": {
     "week_seconds": 16,
@@ -10297,6 +10297,11 @@
   "aa2ups": {
     "week_seconds": 0,
     "week_start": 1782296434,
+    "total_seconds": 0
+  },
+  "magentascreaming": {
+    "week_seconds": 0,
+    "week_start": 1782296804,
     "total_seconds": 0
   }
 }
