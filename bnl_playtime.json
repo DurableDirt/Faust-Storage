@@ -10268,5 +10268,10 @@
     "week_seconds": 0,
     "week_start": 1782290784,
     "total_seconds": 0
+  },
+  "dobrava": {
+    "week_seconds": 19,
+    "week_start": 1782291325,
+    "total_seconds": 19
   }
 }
