@@ -1230,9 +1230,9 @@
     "total_seconds": 167530
   },
   "kahina": {
-    "week_seconds": 61021,
+    "week_seconds": 65045,
     "week_start": 1782098360,
-    "total_seconds": 181226
+    "total_seconds": 185250
   },
   "grantwellson": {
     "week_seconds": 0,
@@ -1775,9 +1775,9 @@
     "total_seconds": 159463
   },
   "badwaffles_": {
-    "week_seconds": 77,
+    "week_seconds": 2291,
     "week_start": 1782119960,
-    "total_seconds": 10792
+    "total_seconds": 13006
   },
   "nanajshi": {
     "week_seconds": 148,
@@ -10548,5 +10548,15 @@
     "week_seconds": 29,
     "week_start": 1782331075,
     "total_seconds": 29
+  },
+  "momomomi2014": {
+    "week_seconds": 0,
+    "week_start": 1782331193,
+    "total_seconds": 0
+  },
+  "nepsu_1": {
+    "week_seconds": 0,
+    "week_start": 1782331227,
+    "total_seconds": 0
   }
 }
