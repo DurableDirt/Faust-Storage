@@ -905,9 +905,9 @@
     "total_seconds": 33736
   },
   "ifriendiscool": {
-    "week_seconds": 84105,
+    "week_seconds": 84333,
     "week_start": 1782091160,
-    "total_seconds": 229103
+    "total_seconds": 229331
   },
   "ytrewq64": {
     "week_seconds": 5601,
@@ -10508,5 +10508,10 @@
     "week_seconds": 195,
     "week_start": 1782327151,
     "total_seconds": 195
+  },
+  "germanlike": {
+    "week_seconds": 5,
+    "week_start": 1782328615,
+    "total_seconds": 5
   }
 }
