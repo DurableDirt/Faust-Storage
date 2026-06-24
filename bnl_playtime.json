@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 63406,
+    "week_seconds": 63469,
     "week_start": 1782127160,
-    "total_seconds": 127884
+    "total_seconds": 127947
   },
   "hxrl": {
     "week_seconds": 33655,
@@ -1935,9 +1935,9 @@
     "total_seconds": 22152
   },
   "walkers": {
-    "week_seconds": 75327,
+    "week_seconds": 80004,
     "week_start": 1782127160,
-    "total_seconds": 116564
+    "total_seconds": 121241
   },
   "worthlessbean": {
     "week_seconds": 26147,
@@ -8585,9 +8585,9 @@
     "total_seconds": 24238
   },
   "gregy165": {
-    "week_seconds": 121715,
+    "week_seconds": 121820,
     "week_start": 1782080413,
-    "total_seconds": 121715
+    "total_seconds": 121820
   },
   "yungsgt": {
     "week_seconds": 1930,
@@ -10323,5 +10323,10 @@
     "week_seconds": 0,
     "week_start": 1782301220,
     "total_seconds": 0
+  },
+  "orbitalboy": {
+    "week_seconds": 52,
+    "week_start": 1782302317,
+    "total_seconds": 52
   }
 }
