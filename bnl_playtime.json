@@ -345,9 +345,9 @@
     "total_seconds": 4571
   },
   "lightning62": {
-    "week_seconds": 16350,
+    "week_seconds": 17404,
     "week_start": 1782083960,
-    "total_seconds": 16355
+    "total_seconds": 17409
   },
   "stee1heart": {
     "week_seconds": 0,
@@ -920,9 +920,9 @@
     "total_seconds": 12871
   },
   "way2muchprada": {
-    "week_seconds": 7398,
+    "week_seconds": 8293,
     "week_start": 1782091160,
-    "total_seconds": 85874
+    "total_seconds": 86769
   },
   "thugfork": {
     "week_seconds": 0,
@@ -2590,9 +2590,9 @@
     "total_seconds": 19551
   },
   "dant481heman": {
-    "week_seconds": 14916,
+    "week_seconds": 16661,
     "week_start": 1782145160,
-    "total_seconds": 129681
+    "total_seconds": 131426
   },
   "aredstonegod378": {
     "week_seconds": 0,
@@ -3325,9 +3325,9 @@
     "total_seconds": 436
   },
   "noneavailable": {
-    "week_seconds": 31955,
+    "week_seconds": 34821,
     "week_start": 1782170360,
-    "total_seconds": 63019
+    "total_seconds": 65885
   },
   "diegochotocho": {
     "week_seconds": 0,
@@ -4305,9 +4305,9 @@
     "total_seconds": 606
   },
   "l1zz3": {
-    "week_seconds": 13136,
+    "week_seconds": 18790,
     "week_start": 1782238760,
-    "total_seconds": 71555
+    "total_seconds": 77209
   },
   "toastisnear": {
     "week_seconds": 25808,
@@ -5195,9 +5195,9 @@
     "total_seconds": 11990
   },
   "itzhoover": {
-    "week_seconds": 4384,
+    "week_seconds": 4968,
     "week_start": 1782314360,
-    "total_seconds": 80549
+    "total_seconds": 81133
   },
   "rayunlucke": {
     "week_seconds": 16148,
@@ -5985,9 +5985,9 @@
     "total_seconds": 21044
   },
   "what777": {
-    "week_seconds": 239973,
+    "week_seconds": 263211,
     "week_start": 1781783211,
-    "total_seconds": 239973
+    "total_seconds": 263211
   },
   "arealfriedwing": {
     "week_seconds": 333,
@@ -6335,9 +6335,9 @@
     "total_seconds": 900
   },
   "asomb": {
-    "week_seconds": 62362,
+    "week_seconds": 63377,
     "week_start": 1781810836,
-    "total_seconds": 62362
+    "total_seconds": 63377
   },
   "kampuchea": {
     "week_seconds": 17795,
@@ -10573,5 +10573,10 @@
     "week_seconds": 42,
     "week_start": 1782332392,
     "total_seconds": 42
+  },
+  "superpro359": {
+    "week_seconds": 0,
+    "week_start": 1782332836,
+    "total_seconds": 0
   }
 }
