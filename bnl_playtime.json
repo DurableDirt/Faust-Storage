@@ -10288,5 +10288,15 @@
     "week_seconds": 6,
     "week_start": 1782294091,
     "total_seconds": 6
+  },
+  "wolfius_maximus": {
+    "week_seconds": 8,
+    "week_start": 1782296416,
+    "total_seconds": 8
+  },
+  "aa2ups": {
+    "week_seconds": 0,
+    "week_start": 1782296434,
+    "total_seconds": 0
   }
 }
