@@ -400,9 +400,9 @@
     "total_seconds": 6615
   },
   "uprisingmax": {
-    "week_seconds": 40941,
+    "week_seconds": 52655,
     "week_start": 1782083960,
-    "total_seconds": 136210
+    "total_seconds": 147924
   },
   "freshoxygenair": {
     "week_seconds": 0,
@@ -5525,9 +5525,9 @@
     "total_seconds": 9589
   },
   "ikea_fridge": {
-    "week_seconds": 19162,
+    "week_seconds": 19168,
     "week_start": 1781734021,
-    "total_seconds": 19162
+    "total_seconds": 19168
   },
   "booltonian": {
     "week_seconds": 9809,
