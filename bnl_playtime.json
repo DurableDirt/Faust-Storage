@@ -1950,9 +1950,9 @@
     "total_seconds": 5211
   },
   "teato": {
-    "week_seconds": 44551,
+    "week_seconds": 56694,
     "week_start": 1782127160,
-    "total_seconds": 144164
+    "total_seconds": 156307
   },
   "thebigbeast2711": {
     "week_seconds": 0,
@@ -10127,6 +10127,11 @@
   "nyx4207": {
     "week_seconds": 0,
     "week_start": 1782261174,
+    "total_seconds": 0
+  },
+  "dith3r": {
+    "week_seconds": 0,
+    "week_start": 1782262939,
     "total_seconds": 0
   }
 }
