@@ -60,9 +60,9 @@
     "total_seconds": 53180
   },
   "mitthraw91": {
-    "week_seconds": 192008,
+    "week_seconds": 193566,
     "week_start": 1782080360,
-    "total_seconds": 575642
+    "total_seconds": 577200
   },
   "rainsinger": {
     "week_seconds": 16995,
@@ -10513,5 +10513,10 @@
     "week_seconds": 5,
     "week_start": 1782328615,
     "total_seconds": 5
+  },
+  "kitchendroop": {
+    "week_seconds": 0,
+    "week_start": 1782328874,
+    "total_seconds": 0
   }
 }
