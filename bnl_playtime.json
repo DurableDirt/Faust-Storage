@@ -8655,9 +8655,9 @@
     "total_seconds": 1276
   },
   "quicksylver": {
-    "week_seconds": 44,
+    "week_seconds": 9120,
     "week_start": 1782087786,
-    "total_seconds": 44
+    "total_seconds": 9120
   },
   "jayce3w": {
     "week_seconds": 36722,
@@ -9220,9 +9220,9 @@
     "total_seconds": 25881
   },
   "protonstar8": {
-    "week_seconds": 48011,
+    "week_seconds": 49472,
     "week_start": 1782160091,
-    "total_seconds": 48011
+    "total_seconds": 49472
   },
   "omar040": {
     "week_seconds": 326,
@@ -10168,5 +10168,10 @@
     "week_seconds": 20,
     "week_start": 1782267071,
     "total_seconds": 20
+  },
+  "emperadorpaulett": {
+    "week_seconds": 0,
+    "week_start": 1782271255,
+    "total_seconds": 0
   }
 }
