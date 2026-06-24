@@ -840,9 +840,9 @@
     "total_seconds": 20241
   },
   "socialistspectre": {
-    "week_seconds": 58974,
+    "week_seconds": 60045,
     "week_start": 1782091160,
-    "total_seconds": 191423
+    "total_seconds": 192494
   },
   "desmonddotjpeg": {
     "week_seconds": 3406,
@@ -3675,9 +3675,9 @@
     "total_seconds": 3957
   },
   "swampbog": {
-    "week_seconds": 9972,
+    "week_seconds": 17253,
     "week_start": 1782184760,
-    "total_seconds": 85166
+    "total_seconds": 92447
   },
   "2lynx2": {
     "week_seconds": 28039,
@@ -10193,5 +10193,10 @@
     "week_seconds": 5,
     "week_start": 1782275369,
     "total_seconds": 5
+  },
+  "dosiem": {
+    "week_seconds": 0,
+    "week_start": 1782275835,
+    "total_seconds": 0
   }
 }
