@@ -265,9 +265,9 @@
     "total_seconds": 8439
   },
   "slushhi": {
-    "week_seconds": 9182,
+    "week_seconds": 10708,
     "week_start": 1782083960,
-    "total_seconds": 56711
+    "total_seconds": 58237
   },
   "dasonishere2": {
     "week_seconds": 48471,
@@ -10182,6 +10182,11 @@
   "nogegg": {
     "week_seconds": 0,
     "week_start": 1782273312,
+    "total_seconds": 0
+  },
+  "panzer442": {
+    "week_seconds": 0,
+    "week_start": 1782274133,
     "total_seconds": 0
   }
 }
