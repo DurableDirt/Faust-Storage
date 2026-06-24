@@ -10180,9 +10180,9 @@
     "total_seconds": 2071
   },
   "nogegg": {
-    "week_seconds": 2308,
+    "week_seconds": 12898,
     "week_start": 1782273312,
-    "total_seconds": 2308
+    "total_seconds": 12898
   },
   "panzer442": {
     "week_seconds": 1398,
@@ -10248,5 +10248,10 @@
     "week_seconds": 792,
     "week_start": 1782285199,
     "total_seconds": 792
+  },
+  "theciaiswatching": {
+    "week_seconds": 0,
+    "week_start": 1782286307,
+    "total_seconds": 0
   }
 }
