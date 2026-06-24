@@ -1245,9 +1245,9 @@
     "total_seconds": 461300
   },
   "intelligences": {
-    "week_seconds": 24495,
+    "week_seconds": 24527,
     "week_start": 1782098360,
-    "total_seconds": 40896
+    "total_seconds": 40928
   },
   "drippydippy": {
     "week_seconds": 0,
@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 54592,
+    "week_seconds": 54638,
     "week_start": 1782127160,
-    "total_seconds": 119070
+    "total_seconds": 119116
   },
   "hxrl": {
     "week_seconds": 33655,
