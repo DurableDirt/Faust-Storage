@@ -40,9 +40,9 @@
     "total_seconds": 75377
   },
   "piotato": {
-    "week_seconds": 84257,
+    "week_seconds": 93526,
     "week_start": 1782080360,
-    "total_seconds": 191560
+    "total_seconds": 200829
   },
   "lucifer420xx": {
     "week_seconds": 4552,
@@ -10132,6 +10132,11 @@
   "dith3r": {
     "week_seconds": 0,
     "week_start": 1782262939,
+    "total_seconds": 0
+  },
+  "carlito600145": {
+    "week_seconds": 0,
+    "week_start": 1782263192,
     "total_seconds": 0
   }
 }
