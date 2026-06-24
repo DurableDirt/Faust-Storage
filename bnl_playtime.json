@@ -640,9 +640,9 @@
     "total_seconds": 90843
   },
   "beepcar": {
-    "week_seconds": 125957,
+    "week_seconds": 132113,
     "week_start": 1782087560,
-    "total_seconds": 290629
+    "total_seconds": 296785
   },
   "moopie50": {
     "week_seconds": 6443,
@@ -1535,9 +1535,9 @@
     "total_seconds": 59486
   },
   "trinityx45": {
-    "week_seconds": 59,
+    "week_seconds": 553,
     "week_start": 1782109160,
-    "total_seconds": 3675
+    "total_seconds": 4169
   },
   "hab_pepper": {
     "week_seconds": 20196,
@@ -10395,13 +10395,18 @@
     "total_seconds": 219
   },
   "yapseler": {
-    "week_seconds": 113,
+    "week_seconds": 550,
     "week_start": 1782314497,
-    "total_seconds": 113
+    "total_seconds": 550
   },
   "moonghost44": {
     "week_seconds": 130,
     "week_start": 1782314820,
     "total_seconds": 130
+  },
+  "cookie_cooker": {
+    "week_seconds": 0,
+    "week_start": 1782315302,
+    "total_seconds": 0
   }
 }
