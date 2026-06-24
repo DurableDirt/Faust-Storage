@@ -6995,9 +6995,9 @@
     "total_seconds": 2759
   },
   "tolerant6000": {
-    "week_seconds": 40648,
+    "week_seconds": 43791,
     "week_start": 1781884493,
-    "total_seconds": 40648
+    "total_seconds": 43791
   },
   "jarltalos": {
     "week_seconds": 2676,
@@ -7265,9 +7265,9 @@
     "total_seconds": 47655
   },
   "swiftyscissors": {
-    "week_seconds": 244361,
+    "week_seconds": 245498,
     "week_start": 1781913623,
-    "total_seconds": 244361
+    "total_seconds": 245498
   },
   "beinbean13": {
     "week_seconds": 1919,
@@ -10478,5 +10478,10 @@
     "week_seconds": 134,
     "week_start": 1782323764,
     "total_seconds": 134
+  },
+  "dinner12": {
+    "week_seconds": 0,
+    "week_start": 1782325250,
+    "total_seconds": 0
   }
 }
