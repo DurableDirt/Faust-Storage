@@ -9855,9 +9855,9 @@
     "total_seconds": 52
   },
   "kingdd2311": {
-    "week_seconds": 51615,
+    "week_seconds": 52711,
     "week_start": 1782237179,
-    "total_seconds": 51615
+    "total_seconds": 52711
   },
   "stoomer": {
     "week_seconds": 8796,
@@ -10488,5 +10488,10 @@
     "week_seconds": 110,
     "week_start": 1782325313,
     "total_seconds": 110
+  },
+  "turda985": {
+    "week_seconds": 0,
+    "week_start": 1782326489,
+    "total_seconds": 0
   }
 }
