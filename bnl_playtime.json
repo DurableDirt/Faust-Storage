@@ -625,9 +625,9 @@
     "total_seconds": 90728
   },
   "ceceliarabbit": {
-    "week_seconds": 60981,
+    "week_seconds": 61033,
     "week_start": 1782087560,
-    "total_seconds": 138292
+    "total_seconds": 138344
   },
   "retrocitrus": {
     "week_seconds": 77573,
@@ -10307,6 +10307,11 @@
   "vindicatr": {
     "week_seconds": 0,
     "week_start": 1782297150,
+    "total_seconds": 0
+  },
+  "neta_li": {
+    "week_seconds": 0,
+    "week_start": 1782297802,
     "total_seconds": 0
   }
 }
