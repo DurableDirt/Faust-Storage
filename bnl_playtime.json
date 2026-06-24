@@ -1825,9 +1825,9 @@
     "total_seconds": 767
   },
   "castorguy": {
-    "week_seconds": 51671,
+    "week_seconds": 55228,
     "week_start": 1782123560,
-    "total_seconds": 124735
+    "total_seconds": 128292
   },
   "yinz001": {
     "week_seconds": 4606,
@@ -2325,9 +2325,9 @@
     "total_seconds": 6991
   },
   "bluechickpro": {
-    "week_seconds": 8574,
+    "week_seconds": 10203,
     "week_start": 1782137960,
-    "total_seconds": 41153
+    "total_seconds": 42782
   },
   "xa_n": {
     "week_seconds": 326,
@@ -2740,9 +2740,9 @@
     "total_seconds": 180389
   },
   "ivona_dies_alot": {
-    "week_seconds": 11404,
+    "week_seconds": 11566,
     "week_start": 1782152360,
-    "total_seconds": 37291
+    "total_seconds": 37453
   },
   "maarslange": {
     "week_seconds": 0,
@@ -3100,9 +3100,9 @@
     "total_seconds": 21
   },
   "borito185": {
-    "week_seconds": 6088,
+    "week_seconds": 6309,
     "week_start": 1782159560,
-    "total_seconds": 19159
+    "total_seconds": 19380
   },
   "crow9225": {
     "week_seconds": 26862,
@@ -8660,9 +8660,9 @@
     "total_seconds": 9120
   },
   "jayce3w": {
-    "week_seconds": 36722,
+    "week_seconds": 37059,
     "week_start": 1782088155,
-    "total_seconds": 36722
+    "total_seconds": 37059
   },
   "jac0byy": {
     "week_seconds": 4959,
@@ -10355,8 +10355,13 @@
     "total_seconds": 485
   },
   "shembdi2012": {
-    "week_seconds": 0,
+    "week_seconds": 176,
     "week_start": 1782310897,
+    "total_seconds": 176
+  },
+  "windacks": {
+    "week_seconds": 0,
+    "week_start": 1782311074,
     "total_seconds": 0
   }
 }
