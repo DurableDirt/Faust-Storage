@@ -1,8 +1,8 @@
 {
   "durabledirt": {
-    "week_seconds": 9650,
+    "week_seconds": 9679,
     "week_start": 1782080360,
-    "total_seconds": 73865
+    "total_seconds": 73894
   },
   "alphaaaaaaaaalph": {
     "week_seconds": 0,
@@ -3535,9 +3535,9 @@
     "total_seconds": 197668
   },
   "theboatsmith": {
-    "week_seconds": 95,
+    "week_seconds": 259,
     "week_start": 1782177560,
-    "total_seconds": 16783
+    "total_seconds": 16947
   },
   "vonfarkle": {
     "week_seconds": 0,
@@ -10582,6 +10582,11 @@
   "impishswede": {
     "week_seconds": 0,
     "week_start": 1782333017,
+    "total_seconds": 0
+  },
+  "trainiac72": {
+    "week_seconds": 0,
+    "week_start": 1782333390,
     "total_seconds": 0
   }
 }
