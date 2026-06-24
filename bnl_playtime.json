@@ -2050,9 +2050,9 @@
     "total_seconds": 42514
   },
   "busy_donut": {
-    "week_seconds": 1937,
+    "week_seconds": 7654,
     "week_start": 1782130760,
-    "total_seconds": 30186
+    "total_seconds": 35903
   },
   "spearitz": {
     "week_seconds": 0,
@@ -4465,9 +4465,9 @@
     "total_seconds": 213
   },
   "serenity1331": {
-    "week_seconds": 3456,
+    "week_seconds": 5842,
     "week_start": 1782245960,
-    "total_seconds": 61223
+    "total_seconds": 63609
   },
   "jasupci": {
     "week_seconds": 0,
