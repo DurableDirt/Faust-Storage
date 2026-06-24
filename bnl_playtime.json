@@ -4775,9 +4775,9 @@
     "total_seconds": 874
   },
   "beefclapper420": {
-    "week_seconds": 3151,
+    "week_seconds": 3185,
     "week_start": 1782267560,
-    "total_seconds": 107493
+    "total_seconds": 107527
   },
   "holisticjalapeno": {
     "week_seconds": 0,
@@ -9725,9 +9725,9 @@
     "total_seconds": 5446
   },
   "lico_o": {
-    "week_seconds": 2302,
+    "week_seconds": 2823,
     "week_start": 1782227662,
-    "total_seconds": 2302
+    "total_seconds": 2823
   },
   "theoutlet125": {
     "week_seconds": 40,
@@ -10398,5 +10398,10 @@
     "week_seconds": 96,
     "week_start": 1782314497,
     "total_seconds": 96
+  },
+  "moonghost44": {
+    "week_seconds": 0,
+    "week_start": 1782314820,
+    "total_seconds": 0
   }
 }
