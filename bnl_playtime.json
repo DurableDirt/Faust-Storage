@@ -1385,9 +1385,9 @@
     "total_seconds": 10352
   },
   "sommdummy": {
-    "week_seconds": 41870,
+    "week_seconds": 42120,
     "week_start": 1782101960,
-    "total_seconds": 61578
+    "total_seconds": 61828
   },
   "alphg": {
     "week_seconds": 41531,
@@ -2145,9 +2145,9 @@
     "total_seconds": 282616
   },
   "daimnasal": {
-    "week_seconds": 38293,
+    "week_seconds": 38301,
     "week_start": 1782134360,
-    "total_seconds": 135655
+    "total_seconds": 135663
   },
   "azurisdev": {
     "week_seconds": 0,
