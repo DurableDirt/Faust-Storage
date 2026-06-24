@@ -10415,9 +10415,9 @@
     "total_seconds": 59
   },
   "gggrrreeeggg865": {
-    "week_seconds": 0,
+    "week_seconds": 3071,
     "week_start": 1782316608,
-    "total_seconds": 0
+    "total_seconds": 3071
   },
   "ivanovic24": {
     "week_seconds": 0,
@@ -10433,5 +10433,15 @@
     "week_seconds": 0,
     "week_start": 1782319467,
     "total_seconds": 0
+  },
+  "vyrnir": {
+    "week_seconds": 6,
+    "week_start": 1782319671,
+    "total_seconds": 6
+  },
+  "tomkx_26": {
+    "week_seconds": 4,
+    "week_start": 1782319673,
+    "total_seconds": 4
   }
 }
