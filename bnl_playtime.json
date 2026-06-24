@@ -1690,9 +1690,9 @@
     "total_seconds": 45519
   },
   "solitaire7": {
-    "week_seconds": 73169,
+    "week_seconds": 73314,
     "week_start": 1782116360,
-    "total_seconds": 228121
+    "total_seconds": 228266
   },
   "masqo_": {
     "week_seconds": 703,
@@ -9855,9 +9855,9 @@
     "total_seconds": 52
   },
   "kingdd2311": {
-    "week_seconds": 53126,
+    "week_seconds": 54417,
     "week_start": 1782237179,
-    "total_seconds": 53126
+    "total_seconds": 54417
   },
   "stoomer": {
     "week_seconds": 8796,
@@ -10535,8 +10535,13 @@
     "total_seconds": 154
   },
   "roverfv_": {
-    "week_seconds": 0,
+    "week_seconds": 104,
     "week_start": 1782330886,
+    "total_seconds": 104
+  },
+  "uphii97": {
+    "week_seconds": 0,
+    "week_start": 1782330968,
     "total_seconds": 0
   }
 }
