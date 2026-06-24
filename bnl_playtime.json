@@ -640,9 +640,9 @@
     "total_seconds": 90843
   },
   "beepcar": {
-    "week_seconds": 135903,
+    "week_seconds": 136160,
     "week_start": 1782087560,
-    "total_seconds": 300575
+    "total_seconds": 300832
   },
   "moopie50": {
     "week_seconds": 6443,
@@ -5870,9 +5870,9 @@
     "total_seconds": 98209
   },
   "peakman2": {
-    "week_seconds": 6814,
+    "week_seconds": 7684,
     "week_start": 1781759832,
-    "total_seconds": 6814
+    "total_seconds": 7684
   },
   "jacob43246769": {
     "week_seconds": 1695,
