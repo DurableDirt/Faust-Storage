@@ -40,9 +40,9 @@
     "total_seconds": 75377
   },
   "piotato": {
-    "week_seconds": 93526,
+    "week_seconds": 94554,
     "week_start": 1782080360,
-    "total_seconds": 200829
+    "total_seconds": 201857
   },
   "lucifer420xx": {
     "week_seconds": 4552,
@@ -1690,9 +1690,9 @@
     "total_seconds": 45519
   },
   "solitaire7": {
-    "week_seconds": 45952,
+    "week_seconds": 52332,
     "week_start": 1782116360,
-    "total_seconds": 200904
+    "total_seconds": 207284
   },
   "masqo_": {
     "week_seconds": 703,
@@ -10142,6 +10142,11 @@
   "freddy_bear_2031": {
     "week_seconds": 0,
     "week_start": 1782263908,
+    "total_seconds": 0
+  },
+  "_mrbl3u": {
+    "week_seconds": 0,
+    "week_start": 1782264362,
     "total_seconds": 0
   }
 }
