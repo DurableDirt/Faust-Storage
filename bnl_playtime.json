@@ -1025,9 +1025,9 @@
     "total_seconds": 101919
   },
   "hikariidesu": {
-    "week_seconds": 87638,
+    "week_seconds": 87720,
     "week_start": 1782094760,
-    "total_seconds": 170973
+    "total_seconds": 171055
   },
   "jebate": {
     "week_seconds": 0,
@@ -2555,9 +2555,9 @@
     "total_seconds": 1116
   },
   "yunfi": {
-    "week_seconds": 44341,
+    "week_seconds": 60692,
     "week_start": 1782145160,
-    "total_seconds": 173614
+    "total_seconds": 189965
   },
   "myng11": {
     "week_seconds": 10468,
@@ -5760,9 +5760,9 @@
     "total_seconds": 125
   },
   "_domain": {
-    "week_seconds": 97442,
+    "week_seconds": 97445,
     "week_start": 1781750091,
-    "total_seconds": 97442
+    "total_seconds": 97445
   },
   "bonjour": {
     "week_seconds": 99,
