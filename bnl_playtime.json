@@ -810,9 +810,9 @@
     "total_seconds": 120720
   },
   "timantha": {
-    "week_seconds": 58489,
+    "week_seconds": 58796,
     "week_start": 1782091160,
-    "total_seconds": 184301
+    "total_seconds": 184608
   },
   "gnathope": {
     "week_seconds": 27992,
@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 69286,
+    "week_seconds": 69329,
     "week_start": 1782127160,
-    "total_seconds": 133764
+    "total_seconds": 133807
   },
   "hxrl": {
     "week_seconds": 33655,
@@ -4960,9 +4960,9 @@
     "total_seconds": 1844
   },
   "xlaser2014": {
-    "week_seconds": 2477,
+    "week_seconds": 11478,
     "week_start": 1782285560,
-    "total_seconds": 15466
+    "total_seconds": 24467
   },
   "plutouz": {
     "week_seconds": 0,
@@ -5985,9 +5985,9 @@
     "total_seconds": 21044
   },
   "what777": {
-    "week_seconds": 239835,
+    "week_seconds": 239872,
     "week_start": 1781783211,
-    "total_seconds": 239835
+    "total_seconds": 239872
   },
   "arealfriedwing": {
     "week_seconds": 333,
@@ -10347,6 +10347,11 @@
   "sickeningmaemae": {
     "week_seconds": 0,
     "week_start": 1782307675,
+    "total_seconds": 0
+  },
+  "nolat2428": {
+    "week_seconds": 0,
+    "week_start": 1782308447,
     "total_seconds": 0
   }
 }
