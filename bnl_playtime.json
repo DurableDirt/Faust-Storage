@@ -2290,9 +2290,9 @@
     "total_seconds": 64087
   },
   "smagz24": {
-    "week_seconds": 88076,
+    "week_seconds": 88109,
     "week_start": 1782137960,
-    "total_seconds": 180824
+    "total_seconds": 180857
   },
   "stun2845": {
     "week_seconds": 1717,
@@ -8520,9 +8520,9 @@
     "total_seconds": 3346
   },
   "coopernicus3116": {
-    "week_seconds": 22117,
+    "week_seconds": 28133,
     "week_start": 1782075574,
-    "total_seconds": 22117
+    "total_seconds": 28133
   },
   "eliwastaken5": {
     "week_seconds": 43684,
@@ -10173,5 +10173,10 @@
     "week_seconds": 1049,
     "week_start": 1782271255,
     "total_seconds": 1049
+  },
+  "mariachiband1234": {
+    "week_seconds": 0,
+    "week_start": 1782272541,
+    "total_seconds": 0
   }
 }
