@@ -325,9 +325,9 @@
     "total_seconds": 152916
   },
   "catgifs": {
-    "week_seconds": 27489,
+    "week_seconds": 30809,
     "week_start": 1782083960,
-    "total_seconds": 40223
+    "total_seconds": 43543
   },
   "demboiiiii": {
     "week_seconds": 0,
@@ -10198,5 +10198,10 @@
     "week_seconds": 0,
     "week_start": 1782275835,
     "total_seconds": 0
+  },
+  "kitekgaming": {
+    "week_seconds": 29,
+    "week_start": 1782276562,
+    "total_seconds": 29
   }
 }
