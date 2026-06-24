@@ -6055,9 +6055,9 @@
     "total_seconds": 2212
   },
   "exeplex": {
-    "week_seconds": 125536,
+    "week_seconds": 132092,
     "week_start": 1781793159,
-    "total_seconds": 125536
+    "total_seconds": 132092
   },
   "captainspacerat": {
     "week_seconds": 44600,
@@ -8670,9 +8670,9 @@
     "total_seconds": 4959
   },
   "obsidian_mike": {
-    "week_seconds": 83882,
+    "week_seconds": 88007,
     "week_start": 1782089382,
-    "total_seconds": 83882
+    "total_seconds": 88007
   },
   "rygysofly": {
     "week_seconds": 6788,
@@ -10373,5 +10373,10 @@
     "week_seconds": 90,
     "week_start": 1782311997,
     "total_seconds": 90
+  },
+  "rikardasas": {
+    "week_seconds": 0,
+    "week_start": 1782312566,
+    "total_seconds": 0
   }
 }
