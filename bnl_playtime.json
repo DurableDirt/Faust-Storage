@@ -3130,9 +3130,9 @@
     "total_seconds": 306968
   },
   "blankestatlas": {
-    "week_seconds": 8034,
+    "week_seconds": 23258,
     "week_start": 1782163160,
-    "total_seconds": 19970
+    "total_seconds": 35194
   },
   "stashman1780": {
     "week_seconds": 34342,
@@ -10217,6 +10217,11 @@
   "jakers808": {
     "week_seconds": 0,
     "week_start": 1782277840,
+    "total_seconds": 0
+  },
+  "fentyfolder": {
+    "week_seconds": 0,
+    "week_start": 1782278040,
     "total_seconds": 0
   }
 }
