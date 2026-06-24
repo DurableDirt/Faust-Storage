@@ -1170,9 +1170,9 @@
     "total_seconds": 104664
   },
   "opozzumz": {
-    "week_seconds": 43892,
+    "week_seconds": 44033,
     "week_start": 1782094760,
-    "total_seconds": 112494
+    "total_seconds": 112635
   },
   "astralchroma": {
     "week_seconds": 62614,
@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 74289,
+    "week_seconds": 76807,
     "week_start": 1782119960,
-    "total_seconds": 288387
+    "total_seconds": 290905
   },
   "stavros_ell": {
     "week_seconds": 44486,
@@ -4685,9 +4685,9 @@
     "total_seconds": 76948
   },
   "clearhercules": {
-    "week_seconds": 0,
+    "week_seconds": 260,
     "week_start": 1782263960,
-    "total_seconds": 79626
+    "total_seconds": 79886
   },
   "mavorz911": {
     "week_seconds": 0,
@@ -10463,5 +10463,15 @@
     "week_seconds": 24,
     "week_start": 1782322184,
     "total_seconds": 24
+  },
+  "beacha34": {
+    "week_seconds": 0,
+    "week_start": 1782322644,
+    "total_seconds": 0
+  },
+  "promax7934": {
+    "week_seconds": 0,
+    "week_start": 1782322683,
+    "total_seconds": 0
   }
 }
