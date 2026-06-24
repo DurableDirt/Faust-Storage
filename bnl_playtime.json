@@ -3915,9 +3915,9 @@
     "total_seconds": 19983
   },
   "bruisedbread": {
-    "week_seconds": 22440,
+    "week_seconds": 25006,
     "week_start": 1782209960,
-    "total_seconds": 58559
+    "total_seconds": 61125
   },
   "plumily": {
     "week_seconds": 0,
@@ -10283,5 +10283,10 @@
     "week_seconds": 0,
     "week_start": 1782293596,
     "total_seconds": 0
+  },
+  "kertissun": {
+    "week_seconds": 6,
+    "week_start": 1782294091,
+    "total_seconds": 6
   }
 }
