@@ -4785,9 +4785,9 @@
     "total_seconds": 8666
   },
   "unreadi": {
-    "week_seconds": 19920,
+    "week_seconds": 24152,
     "week_start": 1782267560,
-    "total_seconds": 32365
+    "total_seconds": 36597
   },
   "tolypevelleda": {
     "week_seconds": 0,
@@ -4940,9 +4940,9 @@
     "total_seconds": 1385
   },
   "the_player_101": {
-    "week_seconds": 11333,
+    "week_seconds": 11401,
     "week_start": 1781677646,
-    "total_seconds": 11333
+    "total_seconds": 11401
   },
   "3ncrypted_p4sty": {
     "week_seconds": 6878,
@@ -10238,5 +10238,10 @@
     "week_seconds": 13,
     "week_start": 1782280729,
     "total_seconds": 13
+  },
+  "dangerdoggoo": {
+    "week_seconds": 0,
+    "week_start": 1782284206,
+    "total_seconds": 0
   }
 }
