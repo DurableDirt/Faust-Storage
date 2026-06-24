@@ -3170,9 +3170,9 @@
     "total_seconds": 83120
   },
   "rosalinopossum": {
-    "week_seconds": 17547,
+    "week_seconds": 25091,
     "week_start": 1782163160,
-    "total_seconds": 82729
+    "total_seconds": 90273
   },
   "baby_yodayt": {
     "week_seconds": 0,
@@ -9255,9 +9255,9 @@
     "total_seconds": 1192
   },
   "aletheiad": {
-    "week_seconds": 15411,
+    "week_seconds": 15856,
     "week_start": 1782164335,
-    "total_seconds": 15411
+    "total_seconds": 15856
   },
   "td_xgodx": {
     "week_seconds": 1077,
@@ -10107,6 +10107,11 @@
   "starryknighttt": {
     "week_seconds": 0,
     "week_start": 1782259146,
+    "total_seconds": 0
+  },
+  "rt6yhjyuvy6": {
+    "week_seconds": 0,
+    "week_start": 1782260135,
     "total_seconds": 0
   }
 }
