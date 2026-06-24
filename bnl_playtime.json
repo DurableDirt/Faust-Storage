@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 67699,
+    "week_seconds": 67749,
     "week_start": 1782127160,
-    "total_seconds": 132177
+    "total_seconds": 132227
   },
   "hxrl": {
     "week_seconds": 33655,
@@ -6835,9 +6835,9 @@
     "total_seconds": 13699
   },
   "coradiabutsmart": {
-    "week_seconds": 69631,
+    "week_seconds": 69648,
     "week_start": 1781861560,
-    "total_seconds": 69631
+    "total_seconds": 69648
   },
   "yarikheit": {
     "week_seconds": 577,
@@ -10335,8 +10335,8 @@
     "total_seconds": 20
   },
   "ct55552560": {
-    "week_seconds": 0,
+    "week_seconds": 144,
     "week_start": 1782306668,
-    "total_seconds": 0
+    "total_seconds": 144
   }
 }
