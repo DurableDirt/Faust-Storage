@@ -245,9 +245,9 @@
     "total_seconds": 46945
   },
   "aluminum_foil_": {
-    "week_seconds": 38190,
+    "week_seconds": 52284,
     "week_start": 1782083960,
-    "total_seconds": 198894
+    "total_seconds": 212988
   },
   "mpusa": {
     "week_seconds": 24625,
@@ -5905,9 +5905,9 @@
     "total_seconds": 6840
   },
   "socruler": {
-    "week_seconds": 100088,
+    "week_seconds": 100650,
     "week_start": 1781767852,
-    "total_seconds": 100088
+    "total_seconds": 100650
   },
   "br_brine": {
     "week_seconds": 9990,
