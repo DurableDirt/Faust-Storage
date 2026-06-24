@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 63926,
+    "week_seconds": 63968,
     "week_start": 1782127160,
-    "total_seconds": 128404
+    "total_seconds": 128446
   },
   "hxrl": {
     "week_seconds": 33655,
@@ -10325,8 +10325,8 @@
     "total_seconds": 0
   },
   "orbitalboy": {
-    "week_seconds": 182,
+    "week_seconds": 469,
     "week_start": 1782302317,
-    "total_seconds": 182
+    "total_seconds": 469
   }
 }
