@@ -940,9 +940,9 @@
     "total_seconds": 209475
   },
   "x1025": {
-    "week_seconds": 117243,
+    "week_seconds": 134310,
     "week_start": 1782091160,
-    "total_seconds": 502269
+    "total_seconds": 519336
   },
   "xcios": {
     "week_seconds": 7963,
@@ -1575,9 +1575,9 @@
     "total_seconds": 287435
   },
   "_2k42_": {
-    "week_seconds": 85063,
+    "week_seconds": 85075,
     "week_start": 1782112760,
-    "total_seconds": 173127
+    "total_seconds": 173139
   },
   "gobblin": {
     "week_seconds": 15805,
@@ -3735,9 +3735,9 @@
     "total_seconds": 106410
   },
   "milkyoreo": {
-    "week_seconds": 3463,
+    "week_seconds": 3496,
     "week_start": 1782188360,
-    "total_seconds": 7868
+    "total_seconds": 7901
   },
   "spenduh": {
     "week_seconds": 3407,
