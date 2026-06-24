@@ -740,9 +740,9 @@
     "total_seconds": 276
   },
   "grepsedawk": {
-    "week_seconds": 251222,
+    "week_seconds": 253556,
     "week_start": 1782087560,
-    "total_seconds": 652378
+    "total_seconds": 654712
   },
   "complexii": {
     "week_seconds": 20504,
@@ -2075,9 +2075,9 @@
     "total_seconds": 125757
   },
   "thomasdetrein0_0": {
-    "week_seconds": 66943,
+    "week_seconds": 69978,
     "week_start": 1782130760,
-    "total_seconds": 146556
+    "total_seconds": 149591
   },
   "ice_cream_guy": {
     "week_seconds": 8424,
@@ -10635,8 +10635,8 @@
     "total_seconds": 5
   },
   "sunsett_mc": {
-    "week_seconds": 0,
+    "week_seconds": 11,
     "week_start": 1782337351,
-    "total_seconds": 0
+    "total_seconds": 11
   }
 }
