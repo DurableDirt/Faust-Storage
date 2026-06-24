@@ -1730,9 +1730,9 @@
     "total_seconds": 3139
   },
   "tacofromii": {
-    "week_seconds": 44943,
+    "week_seconds": 44968,
     "week_start": 1782119960,
-    "total_seconds": 159377
+    "total_seconds": 159402
   },
   "mayaafox": {
     "week_seconds": 0,
@@ -5385,9 +5385,9 @@
     "total_seconds": 92
   },
   "korbyr": {
-    "week_seconds": 310,
+    "week_seconds": 3022,
     "week_start": 1782328760,
-    "total_seconds": 111016
+    "total_seconds": 113728
   },
   "macnothehazmart": {
     "week_seconds": 0,
@@ -10638,5 +10638,10 @@
     "week_seconds": 11,
     "week_start": 1782337351,
     "total_seconds": 11
+  },
+  "jially_fih": {
+    "week_seconds": 0,
+    "week_start": 1782337620,
+    "total_seconds": 0
   }
 }
