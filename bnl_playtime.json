@@ -1575,9 +1575,9 @@
     "total_seconds": 287154
   },
   "_2k42_": {
-    "week_seconds": 84828,
+    "week_seconds": 84859,
     "week_start": 1782112760,
-    "total_seconds": 172892
+    "total_seconds": 172923
   },
   "gobblin": {
     "week_seconds": 15805,
@@ -6545,9 +6545,9 @@
     "total_seconds": 2479
   },
   "chair2head": {
-    "week_seconds": 49938,
+    "week_seconds": 50552,
     "week_start": 1781826085,
-    "total_seconds": 49938
+    "total_seconds": 50552
   },
   "nagloxd": {
     "week_seconds": 1309,
