@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 65065,
+    "week_seconds": 65119,
     "week_start": 1782127160,
-    "total_seconds": 129543
+    "total_seconds": 129597
   },
   "hxrl": {
     "week_seconds": 33655,
@@ -2200,9 +2200,9 @@
     "total_seconds": 40237
   },
   "pandyteddyyt": {
-    "week_seconds": 15181,
+    "week_seconds": 19107,
     "week_start": 1782134360,
-    "total_seconds": 65320
+    "total_seconds": 69246
   },
   "britzsin": {
     "week_seconds": 0,
@@ -10330,8 +10330,8 @@
     "total_seconds": 469
   },
   "elibabus": {
-    "week_seconds": 0,
+    "week_seconds": 20,
     "week_start": 1782304050,
-    "total_seconds": 0
+    "total_seconds": 20
   }
 }
