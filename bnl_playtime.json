@@ -620,9 +620,9 @@
     "total_seconds": 316466
   },
   "justmicwa": {
-    "week_seconds": 24610,
+    "week_seconds": 27052,
     "week_start": 1782087560,
-    "total_seconds": 100161
+    "total_seconds": 102603
   },
   "ceceliarabbit": {
     "week_seconds": 77326,
@@ -6760,9 +6760,9 @@
     "total_seconds": 1009
   },
   "cervanthes": {
-    "week_seconds": 8916,
+    "week_seconds": 9483,
     "week_start": 1781852809,
-    "total_seconds": 8916
+    "total_seconds": 9483
   },
   "gabrielmaennl5": {
     "week_seconds": 82766,
@@ -10557,6 +10557,11 @@
   "nepsu_1": {
     "week_seconds": 0,
     "week_start": 1782331227,
+    "total_seconds": 0
+  },
+  "brodjax": {
+    "week_seconds": 0,
+    "week_start": 1782331639,
     "total_seconds": 0
   }
 }
