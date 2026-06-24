@@ -1575,9 +1575,9 @@
     "total_seconds": 287435
   },
   "_2k42_": {
-    "week_seconds": 85020,
+    "week_seconds": 85030,
     "week_start": 1782112760,
-    "total_seconds": 173084
+    "total_seconds": 173094
   },
   "gobblin": {
     "week_seconds": 15805,
@@ -3180,9 +3180,9 @@
     "total_seconds": 54
   },
   "1stev0": {
-    "week_seconds": 24943,
+    "week_seconds": 33564,
     "week_start": 1782163160,
-    "total_seconds": 245468
+    "total_seconds": 254089
   },
   "jonandr5735": {
     "week_seconds": 0,
