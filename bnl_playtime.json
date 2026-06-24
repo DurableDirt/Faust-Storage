@@ -470,9 +470,9 @@
     "total_seconds": 95116
   },
   "anotnot": {
-    "week_seconds": 164904,
+    "week_seconds": 166767,
     "week_start": 1782087560,
-    "total_seconds": 443886
+    "total_seconds": 445749
   },
   "tntfortress": {
     "week_seconds": 0,
@@ -3535,9 +3535,9 @@
     "total_seconds": 197668
   },
   "theboatsmith": {
-    "week_seconds": 0,
+    "week_seconds": 67,
     "week_start": 1782177560,
-    "total_seconds": 16688
+    "total_seconds": 16755
   },
   "vonfarkle": {
     "week_seconds": 0,
@@ -10570,8 +10570,8 @@
     "total_seconds": 297
   },
   "zkwss_": {
-    "week_seconds": 0,
+    "week_seconds": 42,
     "week_start": 1782332392,
-    "total_seconds": 0
+    "total_seconds": 42
   }
 }
