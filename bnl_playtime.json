@@ -2555,9 +2555,9 @@
     "total_seconds": 1116
   },
   "yunfi": {
-    "week_seconds": 62565,
+    "week_seconds": 62578,
     "week_start": 1782145160,
-    "total_seconds": 191838
+    "total_seconds": 191851
   },
   "myng11": {
     "week_seconds": 10575,
@@ -5165,9 +5165,9 @@
     "total_seconds": 10765
   },
   "wailifly": {
-    "week_seconds": 0,
+    "week_seconds": 5341,
     "week_start": 1782314360,
-    "total_seconds": 44220
+    "total_seconds": 49561
   },
   "lenerin": {
     "week_seconds": 0,
@@ -5195,9 +5195,9 @@
     "total_seconds": 11990
   },
   "itzhoover": {
-    "week_seconds": 2647,
+    "week_seconds": 2785,
     "week_start": 1782314360,
-    "total_seconds": 78812
+    "total_seconds": 78950
   },
   "rayunlucke": {
     "week_seconds": 0,
@@ -10475,8 +10475,8 @@
     "total_seconds": 827
   },
   "theiowangod": {
-    "week_seconds": 0,
+    "week_seconds": 134,
     "week_start": 1782323764,
-    "total_seconds": 0
+    "total_seconds": 134
   }
 }
