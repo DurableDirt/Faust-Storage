@@ -315,9 +315,9 @@
     "total_seconds": 207249
   },
   "ian21652": {
-    "week_seconds": 68849,
+    "week_seconds": 68965,
     "week_start": 1782083960,
-    "total_seconds": 183255
+    "total_seconds": 183371
   },
   "skormcel": {
     "week_seconds": 9786,
@@ -1515,9 +1515,9 @@
     "total_seconds": 30642
   },
   "fang_op": {
-    "week_seconds": 56261,
+    "week_seconds": 58112,
     "week_start": 1782109160,
-    "total_seconds": 147375
+    "total_seconds": 149226
   },
   "_jaek": {
     "week_seconds": 60050,
@@ -4345,9 +4345,9 @@
     "total_seconds": 2300
   },
   "koentinius": {
-    "week_seconds": 1462,
+    "week_seconds": 2508,
     "week_start": 1782242360,
-    "total_seconds": 159673
+    "total_seconds": 160719
   },
   "hoax_mncrft": {
     "week_seconds": 0,
@@ -10390,8 +10390,8 @@
     "total_seconds": 6
   },
   "eltoneckervig": {
-    "week_seconds": 215,
+    "week_seconds": 219,
     "week_start": 1782313000,
-    "total_seconds": 215
+    "total_seconds": 219
   }
 }
