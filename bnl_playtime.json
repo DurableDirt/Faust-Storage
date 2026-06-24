@@ -665,9 +665,9 @@
     "total_seconds": 104446
   },
   "unique_nullptr": {
-    "week_seconds": 118580,
+    "week_seconds": 118876,
     "week_start": 1782087560,
-    "total_seconds": 308789
+    "total_seconds": 309085
   },
   "boatoverbogs": {
     "week_seconds": 0,
@@ -10417,6 +10417,11 @@
   "gggrrreeeggg865": {
     "week_seconds": 0,
     "week_start": 1782316608,
+    "total_seconds": 0
+  },
+  "ivanovic24": {
+    "week_seconds": 0,
+    "week_start": 1782317690,
     "total_seconds": 0
   }
 }
