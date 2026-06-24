@@ -2050,9 +2050,9 @@
     "total_seconds": 40319
   },
   "busy_donut": {
-    "week_seconds": 0,
+    "week_seconds": 1227,
     "week_start": 1782130760,
-    "total_seconds": 28249
+    "total_seconds": 29476
   },
   "spearitz": {
     "week_seconds": 0,
@@ -8185,9 +8185,9 @@
     "total_seconds": 23522
   },
   "archikf": {
-    "week_seconds": 7353,
+    "week_seconds": 7441,
     "week_start": 1782028493,
-    "total_seconds": 7353
+    "total_seconds": 7441
   },
   "wildsid3": {
     "week_seconds": 17,
