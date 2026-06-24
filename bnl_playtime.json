@@ -1035,9 +1035,9 @@
     "total_seconds": 6
   },
   "aserdabeast": {
-    "week_seconds": 79859,
+    "week_seconds": 80036,
     "week_start": 1782094760,
-    "total_seconds": 130519
+    "total_seconds": 130696
   },
   "pharomachrus2": {
     "week_seconds": 0,
@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 76807,
+    "week_seconds": 79368,
     "week_start": 1782119960,
-    "total_seconds": 290905
+    "total_seconds": 293466
   },
   "stavros_ell": {
     "week_seconds": 44486,
@@ -1905,9 +1905,9 @@
     "total_seconds": 138888
   },
   "hxrl": {
-    "week_seconds": 33908,
+    "week_seconds": 37279,
     "week_start": 1782127160,
-    "total_seconds": 157534
+    "total_seconds": 160905
   },
   "ech0o_o0": {
     "week_seconds": 19516,
@@ -10482,6 +10482,11 @@
   "dinner12": {
     "week_seconds": 0,
     "week_start": 1782325250,
+    "total_seconds": 0
+  },
+  "dragon_king4567": {
+    "week_seconds": 0,
+    "week_start": 1782325313,
     "total_seconds": 0
   }
 }
