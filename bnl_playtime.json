@@ -845,9 +845,9 @@
     "total_seconds": 191423
   },
   "desmonddotjpeg": {
-    "week_seconds": 1440,
+    "week_seconds": 3406,
     "week_start": 1782091160,
-    "total_seconds": 1804
+    "total_seconds": 3770
   },
   "tgkpur": {
     "week_seconds": 3716,
@@ -10180,9 +10180,9 @@
     "total_seconds": 1606
   },
   "nogegg": {
-    "week_seconds": 0,
+    "week_seconds": 1285,
     "week_start": 1782273312,
-    "total_seconds": 0
+    "total_seconds": 1285
   },
   "panzer442": {
     "week_seconds": 0,
