@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 61783,
+    "week_seconds": 61887,
     "week_start": 1782127160,
-    "total_seconds": 126261
+    "total_seconds": 126365
   },
   "hxrl": {
     "week_seconds": 33655,
@@ -2145,9 +2145,9 @@
     "total_seconds": 282616
   },
   "daimnasal": {
-    "week_seconds": 37967,
+    "week_seconds": 38213,
     "week_start": 1782134360,
-    "total_seconds": 135329
+    "total_seconds": 135575
   },
   "azurisdev": {
     "week_seconds": 0,
