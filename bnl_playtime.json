@@ -5905,9 +5905,9 @@
     "total_seconds": 6840
   },
   "socruler": {
-    "week_seconds": 81186,
+    "week_seconds": 93298,
     "week_start": 1781767852,
-    "total_seconds": 81186
+    "total_seconds": 93298
   },
   "br_brine": {
     "week_seconds": 9990,
@@ -10220,8 +10220,13 @@
     "total_seconds": 0
   },
   "fentyfolder": {
-    "week_seconds": 0,
+    "week_seconds": 13,
     "week_start": 1782278040,
+    "total_seconds": 13
+  },
+  "joshhillman": {
+    "week_seconds": 0,
+    "week_start": 1782278067,
     "total_seconds": 0
   }
 }
