@@ -245,9 +245,9 @@
     "total_seconds": 46945
   },
   "aluminum_foil_": {
-    "week_seconds": 24488,
+    "week_seconds": 30762,
     "week_start": 1782083960,
-    "total_seconds": 185192
+    "total_seconds": 191466
   },
   "mpusa": {
     "week_seconds": 24625,
@@ -1575,9 +1575,9 @@
     "total_seconds": 287154
   },
   "_2k42_": {
-    "week_seconds": 84932,
+    "week_seconds": 84961,
     "week_start": 1782112760,
-    "total_seconds": 172996
+    "total_seconds": 173025
   },
   "gobblin": {
     "week_seconds": 15805,
