@@ -2360,9 +2360,9 @@
     "total_seconds": 11383
   },
   "creaptor1": {
-    "week_seconds": 35436,
+    "week_seconds": 45103,
     "week_start": 1782137960,
-    "total_seconds": 103520
+    "total_seconds": 113187
   },
   "thisismynameatm": {
     "week_seconds": 1324,
@@ -10377,6 +10377,11 @@
   "rikardasas": {
     "week_seconds": 0,
     "week_start": 1782312566,
+    "total_seconds": 0
+  },
+  "qurain": {
+    "week_seconds": 0,
+    "week_start": 1782312669,
     "total_seconds": 0
   }
 }
