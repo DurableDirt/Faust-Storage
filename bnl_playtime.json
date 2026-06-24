@@ -9020,9 +9020,9 @@
     "total_seconds": 10828
   },
   "zetm4n": {
-    "week_seconds": 26386,
+    "week_seconds": 26446,
     "week_start": 1782142049,
-    "total_seconds": 26386
+    "total_seconds": 26446
   },
   "silvercrayon945": {
     "week_seconds": 904,
@@ -10303,5 +10303,10 @@
     "week_seconds": 21,
     "week_start": 1782296804,
     "total_seconds": 21
+  },
+  "vindicatr": {
+    "week_seconds": 0,
+    "week_start": 1782297150,
+    "total_seconds": 0
   }
 }
