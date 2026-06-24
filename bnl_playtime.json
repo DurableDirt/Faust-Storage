@@ -8505,9 +8505,9 @@
     "total_seconds": 9410
   },
   "digkingvg": {
-    "week_seconds": 63236,
+    "week_seconds": 71791,
     "week_start": 1782074995,
-    "total_seconds": 63236
+    "total_seconds": 71791
   },
   "kmshr": {
     "week_seconds": 78920,
@@ -9980,9 +9980,9 @@
     "total_seconds": 215
   },
   "rab_2010": {
-    "week_seconds": 20332,
+    "week_seconds": 20895,
     "week_start": 1782248933,
-    "total_seconds": 20332
+    "total_seconds": 20895
   },
   "missioncarp3127": {
     "week_seconds": 192,
@@ -10673,5 +10673,10 @@
     "week_seconds": 0,
     "week_start": 1782341757,
     "total_seconds": 0
+  },
+  "artmis_x": {
+    "week_seconds": 26,
+    "week_start": 1782341811,
+    "total_seconds": 26
   }
 }
