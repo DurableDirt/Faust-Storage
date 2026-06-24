@@ -2360,9 +2360,9 @@
     "total_seconds": 11383
   },
   "creaptor1": {
-    "week_seconds": 45103,
+    "week_seconds": 47200,
     "week_start": 1782137960,
-    "total_seconds": 113187
+    "total_seconds": 115284
   },
   "thisismynameatm": {
     "week_seconds": 1324,
@@ -10345,9 +10345,9 @@
     "total_seconds": 1331
   },
   "sickeningmaemae": {
-    "week_seconds": 3675,
+    "week_seconds": 3705,
     "week_start": 1782307675,
-    "total_seconds": 3675
+    "total_seconds": 3705
   },
   "nolat2428": {
     "week_seconds": 485,
@@ -10422,6 +10422,11 @@
   "ivanovic24": {
     "week_seconds": 0,
     "week_start": 1782317690,
+    "total_seconds": 0
+  },
+  "apex4534": {
+    "week_seconds": 0,
+    "week_start": 1782319160,
     "total_seconds": 0
   }
 }
