@@ -105,9 +105,9 @@
     "total_seconds": 153722
   },
   "slothinasuit": {
-    "week_seconds": 87377,
+    "week_seconds": 89243,
     "week_start": 1782080360,
-    "total_seconds": 325931
+    "total_seconds": 327797
   },
   "jck20h": {
     "week_seconds": 0,
@@ -665,9 +665,9 @@
     "total_seconds": 101151
   },
   "unique_nullptr": {
-    "week_seconds": 108610,
+    "week_seconds": 118517,
     "week_start": 1782087560,
-    "total_seconds": 298819
+    "total_seconds": 308726
   },
   "boatoverbogs": {
     "week_seconds": 0,
@@ -1510,9 +1510,9 @@
     "total_seconds": 29829
   },
   "t0mcat1": {
-    "week_seconds": 7700,
+    "week_seconds": 8219,
     "week_start": 1782105560,
-    "total_seconds": 26810
+    "total_seconds": 27329
   },
   "fang_op": {
     "week_seconds": 48610,
@@ -10158,5 +10158,10 @@
     "week_seconds": 5,
     "week_start": 1782266515,
     "total_seconds": 5
+  },
+  "redeyereed_": {
+    "week_seconds": 0,
+    "week_start": 1782266782,
+    "total_seconds": 0
   }
 }
