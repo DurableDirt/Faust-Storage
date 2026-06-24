@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 44591,
+    "week_seconds": 44695,
     "week_start": 1782087560,
-    "total_seconds": 259324
+    "total_seconds": 259428
   },
   "matilda4k9": {
     "week_seconds": 0,
@@ -965,9 +965,9 @@
     "total_seconds": 123
   },
   "sdorr": {
-    "week_seconds": 40950,
+    "week_seconds": 46921,
     "week_start": 1782091160,
-    "total_seconds": 136024
+    "total_seconds": 141995
   },
   "cynical_darling": {
     "week_seconds": 20658,
@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 54114,
+    "week_seconds": 54592,
     "week_start": 1782127160,
-    "total_seconds": 118592
+    "total_seconds": 119070
   },
   "hxrl": {
     "week_seconds": 33655,
@@ -9165,9 +9165,9 @@
     "total_seconds": 4185
   },
   "luc4s_rc": {
-    "week_seconds": 4663,
+    "week_seconds": 9063,
     "week_start": 1782154755,
-    "total_seconds": 4663
+    "total_seconds": 9063
   },
   "matking66": {
     "week_seconds": 11555,
@@ -10113,5 +10113,15 @@
     "week_seconds": 26,
     "week_start": 1782260135,
     "total_seconds": 26
+  },
+  "himydhim": {
+    "week_seconds": 9,
+    "week_start": 1782260413,
+    "total_seconds": 9
+  },
+  "red_steel": {
+    "week_seconds": 0,
+    "week_start": 1782260428,
+    "total_seconds": 0
   }
 }
