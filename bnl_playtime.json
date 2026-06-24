@@ -75,9 +75,9 @@
     "total_seconds": 173894
   },
   "40mm": {
-    "week_seconds": 104945,
+    "week_seconds": 104977,
     "week_start": 1782080360,
-    "total_seconds": 191309
+    "total_seconds": 191341
   },
   "lynx2007": {
     "week_seconds": 18560,
@@ -10590,8 +10590,8 @@
     "total_seconds": 114
   },
   "acerrisnothere": {
-    "week_seconds": 0,
+    "week_seconds": 58,
     "week_start": 1782333681,
-    "total_seconds": 0
+    "total_seconds": 58
   }
 }
