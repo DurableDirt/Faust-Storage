@@ -640,9 +640,9 @@
     "total_seconds": 90843
   },
   "beepcar": {
-    "week_seconds": 133793,
+    "week_seconds": 134303,
     "week_start": 1782087560,
-    "total_seconds": 298465
+    "total_seconds": 298975
   },
   "moopie50": {
     "week_seconds": 6443,
@@ -1515,9 +1515,9 @@
     "total_seconds": 30642
   },
   "fang_op": {
-    "week_seconds": 58112,
+    "week_seconds": 62070,
     "week_start": 1782109160,
-    "total_seconds": 149226
+    "total_seconds": 153184
   },
   "_jaek": {
     "week_seconds": 60050,
