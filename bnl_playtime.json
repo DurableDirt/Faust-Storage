@@ -80,9 +80,9 @@
     "total_seconds": 195390
   },
   "lynx2007": {
-    "week_seconds": 20490,
+    "week_seconds": 21530,
     "week_start": 1782080360,
-    "total_seconds": 110398
+    "total_seconds": 111438
   },
   "cunningwind6139": {
     "week_seconds": 13311,
@@ -280,9 +280,9 @@
     "total_seconds": 6198
   },
   "ansgardd": {
-    "week_seconds": 23080,
+    "week_seconds": 23201,
     "week_start": 1782083960,
-    "total_seconds": 104408
+    "total_seconds": 104529
   },
   "mechanicalrift": {
     "week_seconds": 73100,
@@ -1080,9 +1080,9 @@
     "total_seconds": 214
   },
   "orestraya": {
-    "week_seconds": 96723,
+    "week_seconds": 96753,
     "week_start": 1782094760,
-    "total_seconds": 254447
+    "total_seconds": 254477
   },
   "satava": {
     "week_seconds": 19648,
@@ -7865,9 +7865,9 @@
     "total_seconds": 347
   },
   "fatrabi": {
-    "week_seconds": 12820,
+    "week_seconds": 13090,
     "week_start": 1781988256,
-    "total_seconds": 12820
+    "total_seconds": 13090
   },
   "real_wemboo": {
     "week_seconds": 1147,
@@ -7980,9 +7980,9 @@
     "total_seconds": 11191
   },
   "thatonenapp": {
-    "week_seconds": 17445,
+    "week_seconds": 18119,
     "week_start": 1782000617,
-    "total_seconds": 17445
+    "total_seconds": 18119
   },
   "gamer_time69": {
     "week_seconds": 147,
@@ -9680,9 +9680,9 @@
     "total_seconds": 257
   },
   "omo23536": {
-    "week_seconds": 19286,
+    "week_seconds": 20188,
     "week_start": 1782223234,
-    "total_seconds": 19286
+    "total_seconds": 20188
   },
   "pryy": {
     "week_seconds": 37,
@@ -10687,6 +10687,11 @@
   "abugonline": {
     "week_seconds": 0,
     "week_start": 1782345497,
+    "total_seconds": 0
+  },
+  "jaxsokda": {
+    "week_seconds": 0,
+    "week_start": 1782345564,
     "total_seconds": 0
   }
 }
