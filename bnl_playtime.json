@@ -1615,9 +1615,9 @@
     "total_seconds": 696238
   },
   "cedarvaliant": {
-    "week_seconds": 33167,
+    "week_seconds": 34199,
     "week_start": 1782112760,
-    "total_seconds": 68465
+    "total_seconds": 69497
   },
   "jejames27": {
     "week_seconds": 0,
@@ -10873,5 +10873,10 @@
     "week_seconds": 87,
     "week_start": 1782368525,
     "total_seconds": 87
+  },
+  "cosmictho": {
+    "week_seconds": 0,
+    "week_start": 1782370473,
+    "total_seconds": 0
   }
 }
