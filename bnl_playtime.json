@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 85906,
+    "week_seconds": 90872,
     "week_start": 1782127160,
-    "total_seconds": 150384
+    "total_seconds": 155350
   },
   "hxrl": {
     "week_seconds": 48710,
@@ -2860,9 +2860,9 @@
     "total_seconds": 870
   },
   "puremaster11": {
-    "week_seconds": 7273,
+    "week_seconds": 8681,
     "week_start": 1782152360,
-    "total_seconds": 9229
+    "total_seconds": 10637
   },
   "torqale": {
     "week_seconds": 23,
@@ -10933,5 +10933,10 @@
     "week_seconds": 28,
     "week_start": 1782379678,
     "total_seconds": 28
+  },
+  "p1n3_4pple": {
+    "week_seconds": 0,
+    "week_start": 1782381085,
+    "total_seconds": 0
   }
 }
