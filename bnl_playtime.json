@@ -400,9 +400,9 @@
     "total_seconds": 6615
   },
   "uprisingmax": {
-    "week_seconds": 57844,
+    "week_seconds": 58575,
     "week_start": 1782083960,
-    "total_seconds": 153113
+    "total_seconds": 153844
   },
   "freshoxygenair": {
     "week_seconds": 0,
@@ -3325,9 +3325,9 @@
     "total_seconds": 436
   },
   "noneavailable": {
-    "week_seconds": 41105,
+    "week_seconds": 43638,
     "week_start": 1782170360,
-    "total_seconds": 72169
+    "total_seconds": 74702
   },
   "diegochotocho": {
     "week_seconds": 0,
