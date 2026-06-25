@@ -725,9 +725,9 @@
     "total_seconds": 329
   },
   "zzcqmbozz": {
-    "week_seconds": 42916,
+    "week_seconds": 42985,
     "week_start": 1782087560,
-    "total_seconds": 146479
+    "total_seconds": 146548
   },
   "marc_1500": {
     "week_seconds": 70405,
@@ -11313,5 +11313,10 @@
     "week_seconds": 53,
     "week_start": 1782423531,
     "total_seconds": 53
+  },
+  "moisthercules35": {
+    "week_seconds": 0,
+    "week_start": 1782425337,
+    "total_seconds": 0
   }
 }
