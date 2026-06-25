@@ -75,9 +75,9 @@
     "total_seconds": 174806
   },
   "40mm": {
-    "week_seconds": 112615,
+    "week_seconds": 113067,
     "week_start": 1782080360,
-    "total_seconds": 198979
+    "total_seconds": 199431
   },
   "lynx2007": {
     "week_seconds": 35218,
@@ -10928,5 +10928,10 @@
     "week_seconds": 8,
     "week_start": 1782378239,
     "total_seconds": 8
+  },
+  "gldenpotato": {
+    "week_seconds": 28,
+    "week_start": 1782379678,
+    "total_seconds": 28
   }
 }
