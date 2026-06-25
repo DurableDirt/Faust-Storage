@@ -1580,9 +1580,9 @@
     "total_seconds": 202715
   },
   "gobblin": {
-    "week_seconds": 23826,
+    "week_seconds": 24861,
     "week_start": 1782112760,
-    "total_seconds": 90427
+    "total_seconds": 91462
   },
   "vlinar": {
     "week_seconds": 43856,
@@ -3775,9 +3775,9 @@
     "total_seconds": 3463
   },
   "walleyefish": {
-    "week_seconds": 64533,
+    "week_seconds": 64712,
     "week_start": 1782191960,
-    "total_seconds": 143971
+    "total_seconds": 144150
   },
   "nukinmouse01": {
     "week_seconds": 1437,
@@ -5685,9 +5685,9 @@
     "total_seconds": 251
   },
   "darkhelmet12e4": {
-    "week_seconds": 7993,
+    "week_seconds": 8596,
     "week_start": 1782350360,
-    "total_seconds": 15146
+    "total_seconds": 15749
   },
   "tycoon672": {
     "week_seconds": 0,
