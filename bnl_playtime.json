@@ -725,9 +725,9 @@
     "total_seconds": 329
   },
   "zzcqmbozz": {
-    "week_seconds": 42909,
+    "week_seconds": 42916,
     "week_start": 1782087560,
-    "total_seconds": 146472
+    "total_seconds": 146479
   },
   "marc_1500": {
     "week_seconds": 69239,
@@ -3135,9 +3135,9 @@
     "total_seconds": 48985
   },
   "stashman1780": {
-    "week_seconds": 81815,
+    "week_seconds": 92380,
     "week_start": 1782163160,
-    "total_seconds": 259077
+    "total_seconds": 269642
   },
   "cokebrothers12": {
     "week_seconds": 0,
@@ -7010,9 +7010,9 @@
     "total_seconds": 73
   },
   "pfp_nexl": {
-    "week_seconds": 81522,
+    "week_seconds": 82455,
     "week_start": 1781884734,
-    "total_seconds": 81522
+    "total_seconds": 82455
   },
   "blizardxace": {
     "week_seconds": 278,
@@ -11213,5 +11213,10 @@
     "week_seconds": 187,
     "week_start": 1782416421,
     "total_seconds": 187
+  },
+  "warmerpenguin": {
+    "week_seconds": 0,
+    "week_start": 1782416901,
+    "total_seconds": 0
   }
 }
