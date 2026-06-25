@@ -3775,9 +3775,9 @@
     "total_seconds": 3463
   },
   "walleyefish": {
-    "week_seconds": 56481,
+    "week_seconds": 56551,
     "week_start": 1782191960,
-    "total_seconds": 135919
+    "total_seconds": 135989
   },
   "nukinmouse01": {
     "week_seconds": 1437,
@@ -4815,9 +4815,9 @@
     "total_seconds": 63699
   },
   "arowshot": {
-    "week_seconds": 0,
+    "week_seconds": 12,
     "week_start": 1782271160,
-    "total_seconds": 27256
+    "total_seconds": 27268
   },
   "nuggy1313": {
     "week_seconds": 0,
@@ -10885,8 +10885,8 @@
     "total_seconds": 948
   },
   "frugal_drone": {
-    "week_seconds": 0,
+    "week_seconds": 456,
     "week_start": 1782371487,
-    "total_seconds": 0
+    "total_seconds": 456
   }
 }
