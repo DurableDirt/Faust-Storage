@@ -4505,9 +4505,9 @@
     "total_seconds": 61644
   },
   "emilpop2": {
-    "week_seconds": 18420,
+    "week_seconds": 19925,
     "week_start": 1782249560,
-    "total_seconds": 39522
+    "total_seconds": 41027
   },
   "n5ther": {
     "week_seconds": 1167,
@@ -7880,9 +7880,9 @@
     "total_seconds": 63
   },
   "crozdumonde": {
-    "week_seconds": 15378,
+    "week_seconds": 20692,
     "week_start": 1781988779,
-    "total_seconds": 15378
+    "total_seconds": 20692
   },
   "gingerhotpot": {
     "week_seconds": 19286,
@@ -11333,5 +11333,15 @@
     "week_seconds": 299,
     "week_start": 1782425652,
     "total_seconds": 299
+  },
+  "hongkongfrickyou": {
+    "week_seconds": 0,
+    "week_start": 1782426208,
+    "total_seconds": 0
+  },
+  "rosyrory": {
+    "week_seconds": 0,
+    "week_start": 1782426216,
+    "total_seconds": 0
   }
 }
