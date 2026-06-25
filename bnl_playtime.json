@@ -6545,9 +6545,9 @@
     "total_seconds": 2479
   },
   "chair2head": {
-    "week_seconds": 66577,
+    "week_seconds": 71604,
     "week_start": 1781826085,
-    "total_seconds": 66577
+    "total_seconds": 71604
   },
   "nagloxd": {
     "week_seconds": 1309,
@@ -11263,5 +11263,10 @@
     "week_seconds": 626,
     "week_start": 1782420274,
     "total_seconds": 626
+  },
+  "altria___": {
+    "week_seconds": 0,
+    "week_start": 1782420970,
+    "total_seconds": 0
   }
 }
