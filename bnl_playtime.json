@@ -1080,9 +1080,9 @@
     "total_seconds": 214
   },
   "orestraya": {
-    "week_seconds": 98755,
+    "week_seconds": 98787,
     "week_start": 1782094760,
-    "total_seconds": 256479
+    "total_seconds": 256511
   },
   "satava": {
     "week_seconds": 19648,
@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 81238,
+    "week_seconds": 81274,
     "week_start": 1782127160,
-    "total_seconds": 145716
+    "total_seconds": 145752
   },
   "hxrl": {
     "week_seconds": 48710,
