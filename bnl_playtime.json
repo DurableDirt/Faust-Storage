@@ -1080,9 +1080,9 @@
     "total_seconds": 214
   },
   "orestraya": {
-    "week_seconds": 98502,
+    "week_seconds": 98535,
     "week_start": 1782094760,
-    "total_seconds": 256226
+    "total_seconds": 256259
   },
   "satava": {
     "week_seconds": 19648,
@@ -10360,9 +10360,9 @@
     "total_seconds": 176
   },
   "windacks": {
-    "week_seconds": 14250,
+    "week_seconds": 14309,
     "week_start": 1782311074,
-    "total_seconds": 14250
+    "total_seconds": 14309
   },
   "vetements21": {
     "week_seconds": 5,
