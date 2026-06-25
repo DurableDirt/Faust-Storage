@@ -1905,9 +1905,9 @@
     "total_seconds": 165547
   },
   "hxrl": {
-    "week_seconds": 54476,
+    "week_seconds": 54920,
     "week_start": 1782127160,
-    "total_seconds": 178102
+    "total_seconds": 178546
   },
   "ech0o_o0": {
     "week_seconds": 24970,
@@ -4195,9 +4195,9 @@
     "total_seconds": 319677
   },
   "junerjun": {
-    "week_seconds": 47726,
+    "week_seconds": 52593,
     "week_start": 1782235160,
-    "total_seconds": 232559
+    "total_seconds": 237426
   },
   "cissonius": {
     "week_seconds": 18917,
@@ -11277,6 +11277,11 @@
   "duskenfloof": {
     "week_seconds": 0,
     "week_start": 1782422093,
+    "total_seconds": 0
+  },
+  "47loken": {
+    "week_seconds": 0,
+    "week_start": 1782422294,
     "total_seconds": 0
   }
 }
