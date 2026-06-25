@@ -4110,9 +4110,9 @@
     "total_seconds": 10991
   },
   "hplaptop": {
-    "week_seconds": 19983,
+    "week_seconds": 27966,
     "week_start": 1782227960,
-    "total_seconds": 161463
+    "total_seconds": 169446
   },
   "kablevz": {
     "week_seconds": 0,
@@ -10757,6 +10757,11 @@
   "elpeach9": {
     "week_seconds": 0,
     "week_start": 1782353640,
+    "total_seconds": 0
+  },
+  "reidm_w": {
+    "week_seconds": 0,
+    "week_start": 1782353760,
     "total_seconds": 0
   }
 }
