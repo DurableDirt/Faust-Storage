@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 81820,
+    "week_seconds": 81980,
     "week_start": 1782127160,
-    "total_seconds": 146298
+    "total_seconds": 146458
   },
   "hxrl": {
     "week_seconds": 48710,
@@ -4800,9 +4800,9 @@
     "total_seconds": 25
   },
   "vadimblin": {
-    "week_seconds": 16274,
+    "week_seconds": 16298,
     "week_start": 1782271160,
-    "total_seconds": 98006
+    "total_seconds": 98030
   },
   "yummyspacebar": {
     "week_seconds": 0,
