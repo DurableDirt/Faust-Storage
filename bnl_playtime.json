@@ -2415,9 +2415,9 @@
     "total_seconds": 22123
   },
   "sml128": {
-    "week_seconds": 40208,
+    "week_seconds": 40253,
     "week_start": 1782141560,
-    "total_seconds": 125109
+    "total_seconds": 125154
   },
   "malipan": {
     "week_seconds": 19707,
@@ -6765,9 +6765,9 @@
     "total_seconds": 10191
   },
   "gabrielmaennl5": {
-    "week_seconds": 103408,
+    "week_seconds": 103466,
     "week_start": 1781854830,
-    "total_seconds": 103408
+    "total_seconds": 103466
   },
   "big_shadow0": {
     "week_seconds": 13707,
@@ -11052,6 +11052,11 @@
   "patronumcz": {
     "week_seconds": 0,
     "week_start": 1782401064,
+    "total_seconds": 0
+  },
+  "wordedmeteor450": {
+    "week_seconds": 0,
+    "week_start": 1782401567,
     "total_seconds": 0
   }
 }
