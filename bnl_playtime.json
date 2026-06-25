@@ -470,9 +470,9 @@
     "total_seconds": 96440
   },
   "anotnot": {
-    "week_seconds": 186585,
+    "week_seconds": 200127,
     "week_start": 1782087560,
-    "total_seconds": 465567
+    "total_seconds": 479109
   },
   "tntfortress": {
     "week_seconds": 0,
@@ -5185,9 +5185,9 @@
     "total_seconds": 118
   },
   "shafiahaz2478": {
-    "week_seconds": 3132,
+    "week_seconds": 5074,
     "week_start": 1782314360,
-    "total_seconds": 52935
+    "total_seconds": 54877
   },
   "ahmad_elayyen": {
     "week_seconds": 0,
@@ -10847,6 +10847,16 @@
   "minesidy": {
     "week_seconds": 0,
     "week_start": 1782366041,
+    "total_seconds": 0
+  },
+  "alabastro1": {
+    "week_seconds": 0,
+    "week_start": 1782367616,
+    "total_seconds": 0
+  },
+  "djzammo": {
+    "week_seconds": 0,
+    "week_start": 1782367617,
     "total_seconds": 0
   }
 }
