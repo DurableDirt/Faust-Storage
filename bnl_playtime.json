@@ -5555,9 +5555,9 @@
     "total_seconds": 642
   },
   "squishywaffle20": {
-    "week_seconds": 31246,
+    "week_seconds": 33061,
     "week_start": 1782343160,
-    "total_seconds": 129270
+    "total_seconds": 131085
   },
   "defunctsnail187": {
     "week_seconds": 0,
@@ -11258,5 +11258,10 @@
     "week_seconds": 8,
     "week_start": 1782419324,
     "total_seconds": 8
+  },
+  "oakkoala": {
+    "week_seconds": 0,
+    "week_start": 1782420274,
+    "total_seconds": 0
   }
 }
