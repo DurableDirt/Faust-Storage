@@ -3765,9 +3765,9 @@
     "total_seconds": 37727
   },
   "fallen_screw": {
-    "week_seconds": 9727,
+    "week_seconds": 11142,
     "week_start": 1782191960,
-    "total_seconds": 144387
+    "total_seconds": 145802
   },
   "porterpore9": {
     "week_seconds": 0,
@@ -4785,9 +4785,9 @@
     "total_seconds": 8666
   },
   "unreadi": {
-    "week_seconds": 41542,
+    "week_seconds": 41567,
     "week_start": 1782267560,
-    "total_seconds": 53987
+    "total_seconds": 54012
   },
   "tolypevelleda": {
     "week_seconds": 0,
@@ -10830,8 +10830,8 @@
     "total_seconds": 0
   },
   "mrgrace221": {
-    "week_seconds": 0,
+    "week_seconds": 131,
     "week_start": 1782364272,
-    "total_seconds": 0
+    "total_seconds": 131
   }
 }
