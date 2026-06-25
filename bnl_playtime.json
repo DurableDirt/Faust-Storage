@@ -70,9 +70,9 @@
     "total_seconds": 110684
   },
   "jindosh": {
-    "week_seconds": 44418,
+    "week_seconds": 45330,
     "week_start": 1782080360,
-    "total_seconds": 173894
+    "total_seconds": 174806
   },
   "40mm": {
     "week_seconds": 109026,
@@ -10705,9 +10705,9 @@
     "total_seconds": 150
   },
   "swordmaster7777": {
-    "week_seconds": 0,
+    "week_seconds": 5041,
     "week_start": 1782347427,
-    "total_seconds": 0
+    "total_seconds": 5041
   },
   "exemptmine": {
     "week_seconds": 101,
@@ -10743,5 +10743,10 @@
     "week_seconds": 0,
     "week_start": 1782351930,
     "total_seconds": 0
+  },
+  "puretrounce": {
+    "week_seconds": 5,
+    "week_start": 1782352467,
+    "total_seconds": 5
   }
 }
