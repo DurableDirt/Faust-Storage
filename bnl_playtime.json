@@ -285,9 +285,9 @@
     "total_seconds": 104529
   },
   "mechanicalrift": {
-    "week_seconds": 73100,
+    "week_seconds": 87288,
     "week_start": 1782083960,
-    "total_seconds": 342673
+    "total_seconds": 356861
   },
   "aguscon": {
     "week_seconds": 0,
@@ -450,9 +450,9 @@
     "total_seconds": 274195
   },
   "mrtnt1925": {
-    "week_seconds": 49496,
+    "week_seconds": 53872,
     "week_start": 1782083960,
-    "total_seconds": 210452
+    "total_seconds": 214828
   },
   "axsld": {
     "week_seconds": 52229,
@@ -940,9 +940,9 @@
     "total_seconds": 212490
   },
   "x1025": {
-    "week_seconds": 179000,
+    "week_seconds": 183145,
     "week_start": 1782091160,
-    "total_seconds": 564026
+    "total_seconds": 568171
   },
   "xcios": {
     "week_seconds": 15758,
@@ -8010,9 +8010,9 @@
     "total_seconds": 72
   },
   "_banished": {
-    "week_seconds": 23170,
+    "week_seconds": 27045,
     "week_start": 1782003743,
-    "total_seconds": 23170
+    "total_seconds": 27045
   },
   "thetingler67": {
     "week_seconds": 171,
@@ -10748,5 +10748,10 @@
     "week_seconds": 5,
     "week_start": 1782352467,
     "total_seconds": 5
+  },
+  "imidrisg": {
+    "week_seconds": 4,
+    "week_start": 1782353332,
+    "total_seconds": 4
   }
 }
