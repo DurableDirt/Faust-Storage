@@ -75,9 +75,9 @@
     "total_seconds": 174806
   },
   "40mm": {
-    "week_seconds": 117275,
+    "week_seconds": 118611,
     "week_start": 1782080360,
-    "total_seconds": 203639
+    "total_seconds": 204975
   },
   "lynx2007": {
     "week_seconds": 35218,
@@ -1470,9 +1470,9 @@
     "total_seconds": 81903
   },
   "szepess": {
-    "week_seconds": 3919,
+    "week_seconds": 4034,
     "week_start": 1782105560,
-    "total_seconds": 3931
+    "total_seconds": 4046
   },
   "red___medic": {
     "week_seconds": 0,
