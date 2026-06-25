@@ -690,9 +690,9 @@
     "total_seconds": 15506
   },
   "supposed": {
-    "week_seconds": 5029,
+    "week_seconds": 5059,
     "week_start": 1782087560,
-    "total_seconds": 45077
+    "total_seconds": 45107
   },
   "mr_kalboy": {
     "week_seconds": 4368,
@@ -10693,5 +10693,10 @@
     "week_seconds": 81,
     "week_start": 1782345564,
     "total_seconds": 81
+  },
+  "viljarnator": {
+    "week_seconds": 0,
+    "week_start": 1782345973,
+    "total_seconds": 0
   }
 }
