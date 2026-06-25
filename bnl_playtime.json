@@ -8585,9 +8585,9 @@
     "total_seconds": 33238
   },
   "gregy165": {
-    "week_seconds": 133526,
+    "week_seconds": 133580,
     "week_start": 1782080413,
-    "total_seconds": 133526
+    "total_seconds": 133580
   },
   "yungsgt": {
     "week_seconds": 1930,
@@ -10987,6 +10987,11 @@
   "vaiiss": {
     "week_seconds": 0,
     "week_start": 1782392466,
+    "total_seconds": 0
+  },
+  "sushisoys4uce": {
+    "week_seconds": 0,
+    "week_start": 1782392919,
     "total_seconds": 0
   }
 }
