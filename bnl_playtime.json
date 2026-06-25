@@ -10710,8 +10710,8 @@
     "total_seconds": 0
   },
   "exemptmine": {
-    "week_seconds": 7,
+    "week_seconds": 101,
     "week_start": 1782347541,
-    "total_seconds": 7
+    "total_seconds": 101
   }
 }
