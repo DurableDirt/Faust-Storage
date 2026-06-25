@@ -190,9 +190,9 @@
     "total_seconds": 188599
   },
   "princess__bow": {
-    "week_seconds": 62678,
+    "week_seconds": 81442,
     "week_start": 1782083960,
-    "total_seconds": 145916
+    "total_seconds": 164680
   },
   "262i": {
     "week_seconds": 50938,
@@ -10762,6 +10762,11 @@
   "reidm_w": {
     "week_seconds": 0,
     "week_start": 1782353760,
+    "total_seconds": 0
+  },
+  "itschupster": {
+    "week_seconds": 0,
+    "week_start": 1782354174,
     "total_seconds": 0
   }
 }
