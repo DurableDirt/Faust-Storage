@@ -9425,9 +9425,9 @@
     "total_seconds": 1237
   },
   "_k_1_t_": {
-    "week_seconds": 49,
+    "week_seconds": 116,
     "week_start": 1782177794,
-    "total_seconds": 49
+    "total_seconds": 116
   },
   "lilximmagrant": {
     "week_seconds": 10267,
@@ -11322,6 +11322,11 @@
   "cocctail": {
     "week_seconds": 0,
     "week_start": 1782425430,
+    "total_seconds": 0
+  },
+  "zozzcarti": {
+    "week_seconds": 0,
+    "week_start": 1782425512,
     "total_seconds": 0
   }
 }
