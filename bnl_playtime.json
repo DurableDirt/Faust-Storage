@@ -30,9 +30,9 @@
     "total_seconds": 211812
   },
   "harved": {
-    "week_seconds": 34764,
+    "week_seconds": 39657,
     "week_start": 1782080360,
-    "total_seconds": 63422
+    "total_seconds": 68315
   },
   "maxxyrose": {
     "week_seconds": 44768,
@@ -905,9 +905,9 @@
     "total_seconds": 33736
   },
   "ifriendiscool": {
-    "week_seconds": 108567,
+    "week_seconds": 109825,
     "week_start": 1782091160,
-    "total_seconds": 253565
+    "total_seconds": 254823
   },
   "ytrewq64": {
     "week_seconds": 7595,
@@ -10863,5 +10863,10 @@
     "week_seconds": 5,
     "week_start": 1782367679,
     "total_seconds": 5
+  },
+  "reevoze_": {
+    "week_seconds": 0,
+    "week_start": 1782368347,
+    "total_seconds": 0
   }
 }
