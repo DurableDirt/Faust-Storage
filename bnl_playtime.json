@@ -1795,9 +1795,9 @@
     "total_seconds": 61022
   },
   "lgamant": {
-    "week_seconds": 9638,
+    "week_seconds": 12001,
     "week_start": 1782123560,
-    "total_seconds": 51911
+    "total_seconds": 54274
   },
   "emilew": {
     "week_seconds": 0,
@@ -10965,8 +10965,13 @@
     "total_seconds": 705
   },
   "feduck": {
-    "week_seconds": 0,
+    "week_seconds": 87,
     "week_start": 1782390685,
+    "total_seconds": 87
+  },
+  "russian_coconut": {
+    "week_seconds": 0,
+    "week_start": 1782390791,
     "total_seconds": 0
   }
 }
