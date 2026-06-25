@@ -6365,9 +6365,9 @@
     "total_seconds": 1546
   },
   "mrtshorts": {
-    "week_seconds": 4736,
+    "week_seconds": 7163,
     "week_start": 1782418760,
-    "total_seconds": 14659
+    "total_seconds": 17086
   },
   "reqwium": {
     "week_seconds": 0,
@@ -11310,8 +11310,8 @@
     "total_seconds": 132
   },
   "brooksy09": {
-    "week_seconds": 0,
+    "week_seconds": 53,
     "week_start": 1782423531,
-    "total_seconds": 0
+    "total_seconds": 53
   }
 }
