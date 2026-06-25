@@ -1580,9 +1580,9 @@
     "total_seconds": 202715
   },
   "gobblin": {
-    "week_seconds": 22624,
+    "week_seconds": 23825,
     "week_start": 1782112760,
-    "total_seconds": 89225
+    "total_seconds": 90426
   },
   "vlinar": {
     "week_seconds": 43856,
@@ -1650,9 +1650,9 @@
     "total_seconds": 94363
   },
   "virexil": {
-    "week_seconds": 6096,
+    "week_seconds": 6408,
     "week_start": 1782116360,
-    "total_seconds": 40425
+    "total_seconds": 40737
   },
   "voidvin": {
     "week_seconds": 96178,
@@ -3775,9 +3775,9 @@
     "total_seconds": 3463
   },
   "walleyefish": {
-    "week_seconds": 61429,
+    "week_seconds": 61642,
     "week_start": 1782191960,
-    "total_seconds": 140867
+    "total_seconds": 141080
   },
   "nukinmouse01": {
     "week_seconds": 1437,
