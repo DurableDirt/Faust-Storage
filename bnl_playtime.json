@@ -280,9 +280,9 @@
     "total_seconds": 6198
   },
   "ansgardd": {
-    "week_seconds": 23253,
+    "week_seconds": 23633,
     "week_start": 1782083960,
-    "total_seconds": 104581
+    "total_seconds": 104961
   },
   "mechanicalrift": {
     "week_seconds": 88751,
@@ -3325,9 +3325,9 @@
     "total_seconds": 436
   },
   "noneavailable": {
-    "week_seconds": 44976,
+    "week_seconds": 47631,
     "week_start": 1782170360,
-    "total_seconds": 76040
+    "total_seconds": 78695
   },
   "diegochotocho": {
     "week_seconds": 0,
@@ -4775,9 +4775,9 @@
     "total_seconds": 874
   },
   "beefclapper420": {
-    "week_seconds": 31642,
+    "week_seconds": 32043,
     "week_start": 1782267560,
-    "total_seconds": 135984
+    "total_seconds": 136385
   },
   "holisticjalapeno": {
     "week_seconds": 0,
@@ -7040,9 +7040,9 @@
     "total_seconds": 48076
   },
   "goosie1238": {
-    "week_seconds": 44130,
+    "week_seconds": 45521,
     "week_start": 1781889612,
-    "total_seconds": 44130
+    "total_seconds": 45521
   },
   "davosforum": {
     "week_seconds": 25,
@@ -11218,5 +11218,10 @@
     "week_seconds": 144,
     "week_start": 1782416901,
     "total_seconds": 144
+  },
+  "im_hydracito13": {
+    "week_seconds": 0,
+    "week_start": 1782417227,
+    "total_seconds": 0
   }
 }
