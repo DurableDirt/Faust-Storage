@@ -1100,9 +1100,9 @@
     "total_seconds": 128945
   },
   "nevergrimm": {
-    "week_seconds": 56174,
+    "week_seconds": 56210,
     "week_start": 1782094760,
-    "total_seconds": 110725
+    "total_seconds": 110761
   },
   "lagiacrus": {
     "week_seconds": 9147,
@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 80807,
+    "week_seconds": 80831,
     "week_start": 1782127160,
-    "total_seconds": 145285
+    "total_seconds": 145309
   },
   "hxrl": {
     "week_seconds": 48710,
@@ -3535,9 +3535,9 @@
     "total_seconds": 197668
   },
   "theboatsmith": {
-    "week_seconds": 10009,
+    "week_seconds": 10044,
     "week_start": 1782177560,
-    "total_seconds": 26697
+    "total_seconds": 26732
   },
   "vonfarkle": {
     "week_seconds": 0,
@@ -10703,5 +10703,10 @@
     "week_seconds": 150,
     "week_start": 1782346571,
     "total_seconds": 150
+  },
+  "swordmaster7777": {
+    "week_seconds": 0,
+    "week_start": 1782347427,
+    "total_seconds": 0
   }
 }
