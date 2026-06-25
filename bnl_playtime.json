@@ -1570,9 +1570,9 @@
     "total_seconds": 18705
   },
   "physicsgamer": {
-    "week_seconds": 66905,
+    "week_seconds": 73346,
     "week_start": 1782109160,
-    "total_seconds": 297009
+    "total_seconds": 303450
   },
   "_2k42_": {
     "week_seconds": 114651,
@@ -3775,9 +3775,9 @@
     "total_seconds": 3463
   },
   "walleyefish": {
-    "week_seconds": 58214,
+    "week_seconds": 58226,
     "week_start": 1782191960,
-    "total_seconds": 137652
+    "total_seconds": 137664
   },
   "nukinmouse01": {
     "week_seconds": 1437,
@@ -6945,9 +6945,9 @@
     "total_seconds": 55
   },
   "dominater1230": {
-    "week_seconds": 45723,
+    "week_seconds": 46092,
     "week_start": 1781878237,
-    "total_seconds": 45723
+    "total_seconds": 46092
   },
   "jonmerisyt": {
     "week_seconds": 145,
@@ -10903,5 +10903,10 @@
     "week_seconds": 84,
     "week_start": 1782372386,
     "total_seconds": 84
+  },
+  "c4m6753": {
+    "week_seconds": 0,
+    "week_start": 1782373711,
+    "total_seconds": 0
   }
 }
