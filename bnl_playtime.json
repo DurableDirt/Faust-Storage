@@ -1205,9 +1205,9 @@
     "total_seconds": 16
   },
   "xenol_wolf": {
-    "week_seconds": 18341,
+    "week_seconds": 24638,
     "week_start": 1782098360,
-    "total_seconds": 56778
+    "total_seconds": 63075
   },
   "ephlibian": {
     "week_seconds": 220353,
@@ -5525,9 +5525,9 @@
     "total_seconds": 9589
   },
   "ikea_fridge": {
-    "week_seconds": 0,
+    "week_seconds": 6,
     "week_start": 1782339560,
-    "total_seconds": 19312
+    "total_seconds": 19318
   },
   "booltonian": {
     "week_seconds": 0,
@@ -10803,5 +10803,10 @@
     "week_seconds": 228,
     "week_start": 1782358912,
     "total_seconds": 228
+  },
+  "eggsnihilo": {
+    "week_seconds": 0,
+    "week_start": 1782359833,
+    "total_seconds": 0
   }
 }
