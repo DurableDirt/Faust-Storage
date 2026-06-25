@@ -1085,9 +1085,9 @@
     "total_seconds": 272479
   },
   "satava": {
-    "week_seconds": 20519,
+    "week_seconds": 21059,
     "week_start": 1782094760,
-    "total_seconds": 129986
+    "total_seconds": 130526
   },
   "majjcrunsgf": {
     "week_seconds": 26425,
@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 104989,
+    "week_seconds": 106242,
     "week_start": 1782119960,
-    "total_seconds": 319087
+    "total_seconds": 320340
   },
   "stavros_ell": {
     "week_seconds": 44648,
@@ -10977,6 +10977,11 @@
   "nocturnaldaedra": {
     "week_seconds": 0,
     "week_start": 1782390841,
+    "total_seconds": 0
+  },
+  "c0rdexmc": {
+    "week_seconds": 0,
+    "week_start": 1782391033,
     "total_seconds": 0
   }
 }
