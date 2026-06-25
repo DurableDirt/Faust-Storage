@@ -1170,9 +1170,9 @@
     "total_seconds": 108417
   },
   "opozzumz": {
-    "week_seconds": 59298,
+    "week_seconds": 59623,
     "week_start": 1782094760,
-    "total_seconds": 127900
+    "total_seconds": 128225
   },
   "astralchroma": {
     "week_seconds": 99212,
@@ -10845,9 +10845,9 @@
     "total_seconds": 0
   },
   "minesidy": {
-    "week_seconds": 0,
+    "week_seconds": 2470,
     "week_start": 1782366041,
-    "total_seconds": 0
+    "total_seconds": 2470
   },
   "alabastro1": {
     "week_seconds": 0,
@@ -10867,6 +10867,11 @@
   "reevoze_": {
     "week_seconds": 0,
     "week_start": 1782368347,
+    "total_seconds": 0
+  },
+  "yoongwinam": {
+    "week_seconds": 0,
+    "week_start": 1782368525,
     "total_seconds": 0
   }
 }
