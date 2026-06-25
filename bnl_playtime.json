@@ -4715,9 +4715,9 @@
     "total_seconds": 43693
   },
   "tubbzie": {
-    "week_seconds": 77391,
+    "week_seconds": 77731,
     "week_start": 1782263960,
-    "total_seconds": 385839
+    "total_seconds": 386179
   },
   "fakersfemboy": {
     "week_seconds": 3070,
@@ -5385,9 +5385,9 @@
     "total_seconds": 92
   },
   "korbyr": {
-    "week_seconds": 8247,
+    "week_seconds": 12824,
     "week_start": 1782328760,
-    "total_seconds": 118953
+    "total_seconds": 123530
   },
   "macnothehazmart": {
     "week_seconds": 10794,
@@ -10782,6 +10782,16 @@
   "ajmoody": {
     "week_seconds": 0,
     "week_start": 1782357897,
+    "total_seconds": 0
+  },
+  "chiknnooget": {
+    "week_seconds": 66,
+    "week_start": 1782357968,
+    "total_seconds": 66
+  },
+  "gooseberry__jam": {
+    "week_seconds": 0,
+    "week_start": 1782358028,
     "total_seconds": 0
   }
 }
