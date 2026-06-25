@@ -7405,9 +7405,9 @@
     "total_seconds": 18300
   },
   "ritalinabuser": {
-    "week_seconds": 43208,
+    "week_seconds": 44446,
     "week_start": 1781929833,
-    "total_seconds": 43208
+    "total_seconds": 44446
   },
   "rlly_riley": {
     "week_seconds": 244,
@@ -11148,5 +11148,10 @@
     "week_seconds": 17,
     "week_start": 1782409476,
     "total_seconds": 17
+  },
+  "ethan285431": {
+    "week_seconds": 0,
+    "week_start": 1782409546,
+    "total_seconds": 0
   }
 }
