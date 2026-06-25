@@ -3580,9 +3580,9 @@
     "total_seconds": 373143
   },
   "frozenfrosty30": {
-    "week_seconds": 10745,
+    "week_seconds": 10759,
     "week_start": 1782181160,
-    "total_seconds": 50263
+    "total_seconds": 50277
   },
   "jgirls": {
     "week_seconds": 0,
@@ -11330,8 +11330,8 @@
     "total_seconds": 0
   },
   "tenmarble170": {
-    "week_seconds": 0,
+    "week_seconds": 299,
     "week_start": 1782425652,
-    "total_seconds": 0
+    "total_seconds": 299
   }
 }
