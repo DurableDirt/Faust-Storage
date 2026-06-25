@@ -105,9 +105,9 @@
     "total_seconds": 153831
   },
   "slothinasuit": {
-    "week_seconds": 124646,
+    "week_seconds": 126527,
     "week_start": 1782080360,
-    "total_seconds": 363200
+    "total_seconds": 365081
   },
   "jck20h": {
     "week_seconds": 0,
@@ -10997,6 +10997,11 @@
   "zephyx36": {
     "week_seconds": 0,
     "week_start": 1782395342,
+    "total_seconds": 0
+  },
+  "aqzw12345": {
+    "week_seconds": 0,
+    "week_start": 1782395694,
     "total_seconds": 0
   }
 }
