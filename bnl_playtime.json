@@ -740,9 +740,9 @@
     "total_seconds": 276
   },
   "grepsedawk": {
-    "week_seconds": 275583,
+    "week_seconds": 275796,
     "week_start": 1782087560,
-    "total_seconds": 676739
+    "total_seconds": 676952
   },
   "complexii": {
     "week_seconds": 20504,
@@ -980,9 +980,9 @@
     "total_seconds": 4077
   },
   "shadedoom": {
-    "week_seconds": 68134,
+    "week_seconds": 68185,
     "week_start": 1782091160,
-    "total_seconds": 114035
+    "total_seconds": 114086
   },
   "ms_enchanted": {
     "week_seconds": 7337,
@@ -8720,9 +8720,9 @@
     "total_seconds": 22744
   },
   "catra_meowmeow": {
-    "week_seconds": 23374,
+    "week_seconds": 31377,
     "week_start": 1782094968,
-    "total_seconds": 23374
+    "total_seconds": 31377
   },
   "therealjewy": {
     "week_seconds": 4164,
@@ -10810,8 +10810,8 @@
     "total_seconds": 0
   },
   "mwer": {
-    "week_seconds": 0,
+    "week_seconds": 52,
     "week_start": 1782360271,
-    "total_seconds": 0
+    "total_seconds": 52
   }
 }
