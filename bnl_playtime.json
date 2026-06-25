@@ -525,9 +525,9 @@
     "total_seconds": 7709
   },
   "shadno": {
-    "week_seconds": 78325,
+    "week_seconds": 81424,
     "week_start": 1782087560,
-    "total_seconds": 342792
+    "total_seconds": 345891
   },
   "hexayn": {
     "week_seconds": 8774,
@@ -7380,9 +7380,9 @@
     "total_seconds": 219
   },
   "fleourah": {
-    "week_seconds": 105816,
+    "week_seconds": 107989,
     "week_start": 1781925675,
-    "total_seconds": 105816
+    "total_seconds": 107989
   },
   "roronoa_francis7": {
     "week_seconds": 197,
@@ -10980,8 +10980,8 @@
     "total_seconds": 0
   },
   "c0rdexmc": {
-    "week_seconds": 0,
+    "week_seconds": 97,
     "week_start": 1782391033,
-    "total_seconds": 0
+    "total_seconds": 97
   }
 }
