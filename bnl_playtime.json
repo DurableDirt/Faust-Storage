@@ -400,9 +400,9 @@
     "total_seconds": 6615
   },
   "uprisingmax": {
-    "week_seconds": 58575,
+    "week_seconds": 66182,
     "week_start": 1782083960,
-    "total_seconds": 153844
+    "total_seconds": 161451
   },
   "freshoxygenair": {
     "week_seconds": 0,
@@ -4790,9 +4790,9 @@
     "total_seconds": 54012
   },
   "tolypevelleda": {
-    "week_seconds": 1,
+    "week_seconds": 2,
     "week_start": 1782267560,
-    "total_seconds": 15156
+    "total_seconds": 15157
   },
   "vexinity_": {
     "week_seconds": 0,
