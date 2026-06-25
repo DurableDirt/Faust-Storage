@@ -3830,9 +3830,9 @@
     "total_seconds": 56729
   },
   "eledion": {
-    "week_seconds": 45132,
+    "week_seconds": 47912,
     "week_start": 1782202760,
-    "total_seconds": 213781
+    "total_seconds": 216561
   },
   "kashev": {
     "week_seconds": 26043,
@@ -11122,6 +11122,11 @@
   "itssimplyplazma": {
     "week_seconds": 0,
     "week_start": 1782408052,
+    "total_seconds": 0
+  },
+  "infinitybazaar": {
+    "week_seconds": 0,
+    "week_start": 1782408265,
     "total_seconds": 0
   }
 }
