@@ -11125,9 +11125,9 @@
     "total_seconds": 0
   },
   "infinitybazaar": {
-    "week_seconds": 789,
+    "week_seconds": 878,
     "week_start": 1782408265,
-    "total_seconds": 789
+    "total_seconds": 878
   },
   "lucario9182": {
     "week_seconds": 950,
@@ -11168,5 +11168,10 @@
     "week_seconds": 78,
     "week_start": 1782410702,
     "total_seconds": 78
+  },
+  "diamondez1": {
+    "week_seconds": 0,
+    "week_start": 1782411196,
+    "total_seconds": 0
   }
 }
