@@ -2415,9 +2415,9 @@
     "total_seconds": 22123
   },
   "sml128": {
-    "week_seconds": 48371,
+    "week_seconds": 54346,
     "week_start": 1782141560,
-    "total_seconds": 133272
+    "total_seconds": 139247
   },
   "malipan": {
     "week_seconds": 22593,
@@ -2555,9 +2555,9 @@
     "total_seconds": 1116
   },
   "yunfi": {
-    "week_seconds": 102893,
+    "week_seconds": 102926,
     "week_start": 1782145160,
-    "total_seconds": 232166
+    "total_seconds": 232199
   },
   "myng11": {
     "week_seconds": 13512,
@@ -3165,9 +3165,9 @@
     "total_seconds": 68
   },
   "metropolitan_": {
-    "week_seconds": 57201,
+    "week_seconds": 59559,
     "week_start": 1782163160,
-    "total_seconds": 115768
+    "total_seconds": 118126
   },
   "rosalinopossum": {
     "week_seconds": 69254,
@@ -11292,6 +11292,11 @@
   "octalele": {
     "week_seconds": 0,
     "week_start": 1782422580,
+    "total_seconds": 0
+  },
+  "honkous": {
+    "week_seconds": 0,
+    "week_start": 1782422751,
     "total_seconds": 0
   }
 }
