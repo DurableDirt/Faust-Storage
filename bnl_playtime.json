@@ -3775,9 +3775,9 @@
     "total_seconds": 3463
   },
   "walleyefish": {
-    "week_seconds": 56860,
+    "week_seconds": 56950,
     "week_start": 1782191960,
-    "total_seconds": 136298
+    "total_seconds": 136388
   },
   "nukinmouse01": {
     "week_seconds": 1437,
@@ -6945,9 +6945,9 @@
     "total_seconds": 55
   },
   "dominater1230": {
-    "week_seconds": 42300,
+    "week_seconds": 44879,
     "week_start": 1781878237,
-    "total_seconds": 42300
+    "total_seconds": 44879
   },
   "jonmerisyt": {
     "week_seconds": 145,
@@ -10897,6 +10897,11 @@
   "unwornmink17795": {
     "week_seconds": 0,
     "week_start": 1782372268,
+    "total_seconds": 0
+  },
+  "fillodefen": {
+    "week_seconds": 0,
+    "week_start": 1782372386,
     "total_seconds": 0
   }
 }
