@@ -1585,9 +1585,9 @@
     "total_seconds": 89225
   },
   "vlinar": {
-    "week_seconds": 40243,
+    "week_seconds": 43856,
     "week_start": 1782112760,
-    "total_seconds": 108652
+    "total_seconds": 112265
   },
   "nevicilia": {
     "week_seconds": 0,
@@ -3775,9 +3775,9 @@
     "total_seconds": 3463
   },
   "walleyefish": {
-    "week_seconds": 59857,
+    "week_seconds": 59910,
     "week_start": 1782191960,
-    "total_seconds": 139295
+    "total_seconds": 139348
   },
   "nukinmouse01": {
     "week_seconds": 1437,
@@ -10908,5 +10908,10 @@
     "week_seconds": 33,
     "week_start": 1782373711,
     "total_seconds": 33
+  },
+  "tvthetv": {
+    "week_seconds": 0,
+    "week_start": 1782375405,
+    "total_seconds": 0
   }
 }
