@@ -4490,9 +4490,9 @@
     "total_seconds": 2548
   },
   "fervescent": {
-    "week_seconds": 787,
+    "week_seconds": 977,
     "week_start": 1782245960,
-    "total_seconds": 5812
+    "total_seconds": 6002
   },
   "nulldorito": {
     "week_seconds": 38657,
@@ -10490,9 +10490,9 @@
     "total_seconds": 110
   },
   "turda985": {
-    "week_seconds": 6201,
+    "week_seconds": 6205,
     "week_start": 1782326489,
-    "total_seconds": 6201
+    "total_seconds": 6205
   },
   "lucianopm24": {
     "week_seconds": 5467,
@@ -11065,9 +11065,9 @@
     "total_seconds": 567
   },
   "orca5675": {
-    "week_seconds": 1249,
+    "week_seconds": 1674,
     "week_start": 1782404347,
-    "total_seconds": 1249
+    "total_seconds": 1674
   },
   "bato_dambaev": {
     "week_seconds": 342,
@@ -11087,6 +11087,11 @@
   "megagantuar": {
     "week_seconds": 0,
     "week_start": 1782405450,
+    "total_seconds": 0
+  },
+  "shobies": {
+    "week_seconds": 0,
+    "week_start": 1782406045,
     "total_seconds": 0
   }
 }
