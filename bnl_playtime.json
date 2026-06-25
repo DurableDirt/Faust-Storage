@@ -10490,9 +10490,9 @@
     "total_seconds": 110
   },
   "turda985": {
-    "week_seconds": 6221,
+    "week_seconds": 6250,
     "week_start": 1782326489,
-    "total_seconds": 6221
+    "total_seconds": 6250
   },
   "lucianopm24": {
     "week_seconds": 5467,
@@ -11108,5 +11108,10 @@
     "week_seconds": 115,
     "week_start": 1782406946,
     "total_seconds": 115
+  },
+  "legoman2040": {
+    "week_seconds": 8,
+    "week_start": 1782407608,
+    "total_seconds": 8
   }
 }
