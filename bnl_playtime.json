@@ -2295,9 +2295,9 @@
     "total_seconds": 237529
   },
   "stun2845": {
-    "week_seconds": 1982,
+    "week_seconds": 4138,
     "week_start": 1782137960,
-    "total_seconds": 16525
+    "total_seconds": 18681
   },
   "zeologue": {
     "week_seconds": 0,
@@ -11058,5 +11058,10 @@
     "week_seconds": 105,
     "week_start": 1782401567,
     "total_seconds": 105
+  },
+  "gingerbuddie": {
+    "week_seconds": 0,
+    "week_start": 1782402207,
+    "total_seconds": 0
   }
 }
