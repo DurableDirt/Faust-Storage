@@ -3030,9 +3030,9 @@
     "total_seconds": 4361
   },
   "capollie": {
-    "week_seconds": 11903,
+    "week_seconds": 13568,
     "week_start": 1782159560,
-    "total_seconds": 44629
+    "total_seconds": 46294
   },
   "thyme13": {
     "week_seconds": 36721,
@@ -3435,9 +3435,9 @@
     "total_seconds": 10528
   },
   "huskydog9988": {
-    "week_seconds": 41643,
+    "week_seconds": 46288,
     "week_start": 1782173960,
-    "total_seconds": 131282
+    "total_seconds": 135927
   },
   "jromeasfsniper": {
     "week_seconds": 14011,
@@ -11327,6 +11327,11 @@
   "zozzcarti": {
     "week_seconds": 0,
     "week_start": 1782425512,
+    "total_seconds": 0
+  },
+  "tenmarble170": {
+    "week_seconds": 0,
+    "week_start": 1782425652,
     "total_seconds": 0
   }
 }
