@@ -2460,9 +2460,9 @@
     "total_seconds": 446
   },
   "robocookie3_0": {
-    "week_seconds": 62529,
+    "week_seconds": 63501,
     "week_start": 1782141560,
-    "total_seconds": 107137
+    "total_seconds": 108109
   },
   "naginata9": {
     "week_seconds": 0,
@@ -7380,9 +7380,9 @@
     "total_seconds": 219
   },
   "fleourah": {
-    "week_seconds": 107989,
+    "week_seconds": 108079,
     "week_start": 1781925675,
-    "total_seconds": 107989
+    "total_seconds": 108079
   },
   "roronoa_francis7": {
     "week_seconds": 197,
@@ -10983,5 +10983,10 @@
     "week_seconds": 97,
     "week_start": 1782391033,
     "total_seconds": 97
+  },
+  "vaiiss": {
+    "week_seconds": 0,
+    "week_start": 1782392466,
+    "total_seconds": 0
   }
 }
