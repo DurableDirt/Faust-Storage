@@ -1170,9 +1170,9 @@
     "total_seconds": 104664
   },
   "opozzumz": {
-    "week_seconds": 54459,
+    "week_seconds": 54481,
     "week_start": 1782094760,
-    "total_seconds": 123061
+    "total_seconds": 123083
   },
   "astralchroma": {
     "week_seconds": 93500,
@@ -9370,9 +9370,9 @@
     "total_seconds": 451
   },
   "aabcdp": {
-    "week_seconds": 32328,
+    "week_seconds": 51035,
     "week_start": 1782171629,
-    "total_seconds": 32328
+    "total_seconds": 51035
   },
   "itbruns": {
     "week_seconds": 117,
@@ -10778,5 +10778,10 @@
     "week_seconds": 707,
     "week_start": 1782356043,
     "total_seconds": 707
+  },
+  "ajmoody": {
+    "week_seconds": 0,
+    "week_start": 1782357897,
+    "total_seconds": 0
   }
 }
