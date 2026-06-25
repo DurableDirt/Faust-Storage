@@ -715,9 +715,9 @@
     "total_seconds": 24277
   },
   "limtingus1": {
-    "week_seconds": 141567,
+    "week_seconds": 142497,
     "week_start": 1782087560,
-    "total_seconds": 418755
+    "total_seconds": 419685
   },
   "the_montenegrin": {
     "week_seconds": 0,
@@ -10605,9 +10605,9 @@
     "total_seconds": 8935
   },
   "crazydev22": {
-    "week_seconds": 959,
+    "week_seconds": 1025,
     "week_start": 1782334191,
-    "total_seconds": 959
+    "total_seconds": 1025
   },
   "_drowz_33": {
     "week_seconds": 4290,
@@ -10952,6 +10952,11 @@
   "thecaspergod": {
     "week_seconds": 0,
     "week_start": 1782385645,
+    "total_seconds": 0
+  },
+  "toaxbis": {
+    "week_seconds": 0,
+    "week_start": 1782386198,
     "total_seconds": 0
   }
 }
