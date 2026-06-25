@@ -1080,9 +1080,9 @@
     "total_seconds": 214
   },
   "orestraya": {
-    "week_seconds": 104333,
+    "week_seconds": 106765,
     "week_start": 1782094760,
-    "total_seconds": 262057
+    "total_seconds": 264489
   },
   "satava": {
     "week_seconds": 19648,
@@ -10905,8 +10905,8 @@
     "total_seconds": 84
   },
   "c4m6753": {
-    "week_seconds": 0,
+    "week_seconds": 33,
     "week_start": 1782373711,
-    "total_seconds": 0
+    "total_seconds": 33
   }
 }
