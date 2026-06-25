@@ -1080,9 +1080,9 @@
     "total_seconds": 214
   },
   "orestraya": {
-    "week_seconds": 98535,
+    "week_seconds": 98689,
     "week_start": 1782094760,
-    "total_seconds": 256259
+    "total_seconds": 256413
   },
   "satava": {
     "week_seconds": 19648,
@@ -3615,9 +3615,9 @@
     "total_seconds": 1198
   },
   "luminous15": {
-    "week_seconds": 59182,
+    "week_seconds": 59224,
     "week_start": 1782181160,
-    "total_seconds": 128480
+    "total_seconds": 128522
   },
   "frostythorgrim": {
     "week_seconds": 0,
