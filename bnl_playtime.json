@@ -260,9 +260,9 @@
     "total_seconds": 178566
   },
   "mrjeremyfisher": {
-    "week_seconds": 10273,
+    "week_seconds": 12331,
     "week_start": 1782083960,
-    "total_seconds": 14796
+    "total_seconds": 16854
   },
   "slushhi": {
     "week_seconds": 10708,
@@ -10698,5 +10698,10 @@
     "week_seconds": 160,
     "week_start": 1782345973,
     "total_seconds": 160
+  },
+  "pr3nce": {
+    "week_seconds": 0,
+    "week_start": 1782346571,
+    "total_seconds": 0
   }
 }
