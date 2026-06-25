@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 80831,
+    "week_seconds": 80984,
     "week_start": 1782127160,
-    "total_seconds": 145309
+    "total_seconds": 145462
   },
   "hxrl": {
     "week_seconds": 48710,
@@ -9360,9 +9360,9 @@
     "total_seconds": 14678
   },
   "gladius_03_": {
-    "week_seconds": 50053,
+    "week_seconds": 56331,
     "week_start": 1782171338,
-    "total_seconds": 50053
+    "total_seconds": 56331
   },
   "theforeverronin": {
     "week_seconds": 451,
@@ -10708,5 +10708,10 @@
     "week_seconds": 0,
     "week_start": 1782347427,
     "total_seconds": 0
+  },
+  "exemptmine": {
+    "week_seconds": 7,
+    "week_start": 1782347541,
+    "total_seconds": 7
   }
 }
