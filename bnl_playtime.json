@@ -5645,9 +5645,9 @@
     "total_seconds": 174
   },
   "skippydx": {
-    "week_seconds": 1733,
+    "week_seconds": 2052,
     "week_start": 1782346760,
-    "total_seconds": 92022
+    "total_seconds": 92341
   },
   "ultraman2": {
     "week_seconds": 0,
@@ -10948,5 +10948,10 @@
     "week_seconds": 68,
     "week_start": 1782384457,
     "total_seconds": 68
+  },
+  "thecaspergod": {
+    "week_seconds": 0,
+    "week_start": 1782385645,
+    "total_seconds": 0
   }
 }
