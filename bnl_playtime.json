@@ -11115,9 +11115,9 @@
     "total_seconds": 14
   },
   "aliensarecool_1": {
-    "week_seconds": 0,
+    "week_seconds": 5189,
     "week_start": 1782407979,
-    "total_seconds": 0
+    "total_seconds": 5189
   },
   "itssimplyplazma": {
     "week_seconds": 3889,
@@ -11182,6 +11182,11 @@
   "bumbusl": {
     "week_seconds": 0,
     "week_start": 1782412872,
+    "total_seconds": 0
+  },
+  "rdmsh": {
+    "week_seconds": 0,
+    "week_start": 1782413146,
     "total_seconds": 0
   }
 }
