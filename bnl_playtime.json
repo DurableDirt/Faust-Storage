@@ -3190,9 +3190,9 @@
     "total_seconds": 322
   },
   "leadattic_": {
-    "week_seconds": 116407,
+    "week_seconds": 166313,
     "week_start": 1782163160,
-    "total_seconds": 227125
+    "total_seconds": 277031
   },
   "black__wolf_": {
     "week_seconds": 59714,
@@ -7395,9 +7395,9 @@
     "total_seconds": 517
   },
   "popiahrei": {
-    "week_seconds": 12356,
+    "week_seconds": 12451,
     "week_start": 1781928456,
-    "total_seconds": 12356
+    "total_seconds": 12451
   },
   "_medb_": {
     "week_seconds": 12270,
@@ -10695,8 +10695,8 @@
     "total_seconds": 81
   },
   "viljarnator": {
-    "week_seconds": 0,
+    "week_seconds": 160,
     "week_start": 1782345973,
-    "total_seconds": 0
+    "total_seconds": 160
   }
 }
