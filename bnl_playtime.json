@@ -5835,9 +5835,9 @@
     "total_seconds": 10
   },
   "gaperzo": {
-    "week_seconds": 0,
+    "week_seconds": 999,
     "week_start": 1782361160,
-    "total_seconds": 19670
+    "total_seconds": 20669
   },
   "knkayen": {
     "week_seconds": 0,
@@ -9770,9 +9770,9 @@
     "total_seconds": 3051
   },
   "iloveyouihateyou": {
-    "week_seconds": 1125,
+    "week_seconds": 1174,
     "week_start": 1782230779,
-    "total_seconds": 1125
+    "total_seconds": 1174
   },
   "bunnygod394": {
     "week_seconds": 23825,
