@@ -1580,9 +1580,9 @@
     "total_seconds": 202715
   },
   "gobblin": {
-    "week_seconds": 23825,
+    "week_seconds": 23826,
     "week_start": 1782112760,
-    "total_seconds": 90426
+    "total_seconds": 90427
   },
   "vlinar": {
     "week_seconds": 43856,
@@ -3775,9 +3775,9 @@
     "total_seconds": 3463
   },
   "walleyefish": {
-    "week_seconds": 61903,
+    "week_seconds": 61970,
     "week_start": 1782191960,
-    "total_seconds": 141341
+    "total_seconds": 141408
   },
   "nukinmouse01": {
     "week_seconds": 1437,
