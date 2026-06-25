@@ -2085,9 +2085,9 @@
     "total_seconds": 46730
   },
   "strocraft": {
-    "week_seconds": 67481,
+    "week_seconds": 73735,
     "week_start": 1782130760,
-    "total_seconds": 205284
+    "total_seconds": 211538
   },
   "m4xoff": {
     "week_seconds": 9199,
@@ -5185,9 +5185,9 @@
     "total_seconds": 118
   },
   "shafiahaz2478": {
-    "week_seconds": 5248,
+    "week_seconds": 5546,
     "week_start": 1782314360,
-    "total_seconds": 55051
+    "total_seconds": 55349
   },
   "ahmad_elayyen": {
     "week_seconds": 7751,
@@ -11157,6 +11157,11 @@
   "bruno_v12": {
     "week_seconds": 0,
     "week_start": 1782409805,
+    "total_seconds": 0
+  },
+  "postnutclaritee": {
+    "week_seconds": 0,
+    "week_start": 1782410005,
     "total_seconds": 0
   }
 }
