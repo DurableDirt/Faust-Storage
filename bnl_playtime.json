@@ -1115,9 +1115,9 @@
     "total_seconds": 202900
   },
   "boatcat": {
-    "week_seconds": 23133,
+    "week_seconds": 36794,
     "week_start": 1782094760,
-    "total_seconds": 208662
+    "total_seconds": 222323
   },
   "dbeatzxd": {
     "week_seconds": 7087,
@@ -4275,9 +4275,9 @@
     "total_seconds": 103
   },
   "dark_ffc": {
-    "week_seconds": 39207,
+    "week_seconds": 40012,
     "week_start": 1782238760,
-    "total_seconds": 65246
+    "total_seconds": 66051
   },
   "legodanielgo67": {
     "week_seconds": 0,
@@ -10793,5 +10793,15 @@
     "week_seconds": 133,
     "week_start": 1782358028,
     "total_seconds": 133
+  },
+  "seldomsh0ck": {
+    "week_seconds": 0,
+    "week_start": 1782358904,
+    "total_seconds": 0
+  },
+  "bobasrty": {
+    "week_seconds": 36,
+    "week_start": 1782358912,
+    "total_seconds": 36
   }
 }
