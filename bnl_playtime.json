@@ -1170,9 +1170,9 @@
     "total_seconds": 108417
   },
   "opozzumz": {
-    "week_seconds": 56340,
+    "week_seconds": 56365,
     "week_start": 1782094760,
-    "total_seconds": 124942
+    "total_seconds": 124967
   },
   "astralchroma": {
     "week_seconds": 95493,
@@ -3735,9 +3735,9 @@
     "total_seconds": 124853
   },
   "milkyoreo": {
-    "week_seconds": 4068,
+    "week_seconds": 5412,
     "week_start": 1782188360,
-    "total_seconds": 8473
+    "total_seconds": 9817
   },
   "spenduh": {
     "week_seconds": 3966,
@@ -10833,5 +10833,10 @@
     "week_seconds": 131,
     "week_start": 1782364272,
     "total_seconds": 131
+  },
+  "lowtierloot": {
+    "week_seconds": 0,
+    "week_start": 1782365050,
+    "total_seconds": 0
   }
 }
