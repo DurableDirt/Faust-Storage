@@ -1515,9 +1515,9 @@
     "total_seconds": 31009
   },
   "fang_op": {
-    "week_seconds": 69036,
+    "week_seconds": 69066,
     "week_start": 1782109160,
-    "total_seconds": 160150
+    "total_seconds": 160180
   },
   "_jaek": {
     "week_seconds": 75858,
@@ -2145,9 +2145,9 @@
     "total_seconds": 282616
   },
   "daimnasal": {
-    "week_seconds": 42041,
+    "week_seconds": 42178,
     "week_start": 1782134360,
-    "total_seconds": 139403
+    "total_seconds": 139540
   },
   "azurisdev": {
     "week_seconds": 0,
