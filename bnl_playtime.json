@@ -2705,9 +2705,9 @@
     "total_seconds": 3322
   },
   "alzucats": {
-    "week_seconds": 6796,
+    "week_seconds": 6959,
     "week_start": 1782148760,
-    "total_seconds": 144493
+    "total_seconds": 144656
   },
   "jushuhh": {
     "week_seconds": 78383,
@@ -11362,6 +11362,11 @@
   "mrnub12": {
     "week_seconds": 0,
     "week_start": 1782428502,
+    "total_seconds": 0
+  },
+  "finntastic4387": {
+    "week_seconds": 0,
+    "week_start": 1782428602,
     "total_seconds": 0
   }
 }
