@@ -230,9 +230,9 @@
     "total_seconds": 76
   },
   "the_fella7441": {
-    "week_seconds": 62774,
+    "week_seconds": 63777,
     "week_start": 1782083960,
-    "total_seconds": 125269
+    "total_seconds": 126272
   },
   "hentlol": {
     "week_seconds": 68803,
@@ -10858,5 +10858,10 @@
     "week_seconds": 0,
     "week_start": 1782367617,
     "total_seconds": 0
+  },
+  "brave_monkey08": {
+    "week_seconds": 5,
+    "week_start": 1782367679,
+    "total_seconds": 5
   }
 }
