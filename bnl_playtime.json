@@ -385,9 +385,9 @@
     "total_seconds": 21360
   },
   "opriva": {
-    "week_seconds": 8021,
+    "week_seconds": 8071,
     "week_start": 1782083960,
-    "total_seconds": 141743
+    "total_seconds": 141793
   },
   "kokomiology": {
     "week_seconds": 69718,
@@ -1170,9 +1170,9 @@
     "total_seconds": 104664
   },
   "opozzumz": {
-    "week_seconds": 53314,
+    "week_seconds": 54256,
     "week_start": 1782094760,
-    "total_seconds": 121916
+    "total_seconds": 122858
   },
   "astralchroma": {
     "week_seconds": 73443,
@@ -2950,9 +2950,9 @@
     "total_seconds": 15496
   },
   "battlebots_boi": {
-    "week_seconds": 11835,
+    "week_seconds": 12407,
     "week_start": 1782155960,
-    "total_seconds": 15330
+    "total_seconds": 15902
   },
   "enchanted_cow": {
     "week_seconds": 10708,
@@ -8385,9 +8385,9 @@
     "total_seconds": 3166
   },
   "charmfulpeace": {
-    "week_seconds": 19481,
+    "week_seconds": 23730,
     "week_start": 1782061205,
-    "total_seconds": 19481
+    "total_seconds": 23730
   },
   "daboys273playz": {
     "week_seconds": 544,
@@ -10738,5 +10738,10 @@
     "week_seconds": 26,
     "week_start": 1782351455,
     "total_seconds": 26
+  },
+  "purpleangelwings": {
+    "week_seconds": 0,
+    "week_start": 1782351930,
+    "total_seconds": 0
   }
 }
