@@ -185,9 +185,9 @@
     "total_seconds": 67657
   },
   "ahrimanne": {
-    "week_seconds": 45486,
+    "week_seconds": 45552,
     "week_start": 1782083960,
-    "total_seconds": 197113
+    "total_seconds": 197179
   },
   "princess__bow": {
     "week_seconds": 81442,
@@ -450,9 +450,9 @@
     "total_seconds": 295030
   },
   "mrtnt1925": {
-    "week_seconds": 69328,
+    "week_seconds": 74421,
     "week_start": 1782083960,
-    "total_seconds": 230284
+    "total_seconds": 235377
   },
   "axsld": {
     "week_seconds": 53177,
@@ -1690,9 +1690,9 @@
     "total_seconds": 45519
   },
   "solitaire7": {
-    "week_seconds": 107253,
+    "week_seconds": 112590,
     "week_start": 1782116360,
-    "total_seconds": 262205
+    "total_seconds": 267542
   },
   "masqo_": {
     "week_seconds": 1065,
@@ -8450,9 +8450,9 @@
     "total_seconds": 1402
   },
   "irregularrock": {
-    "week_seconds": 86884,
+    "week_seconds": 90945,
     "week_start": 1782069163,
-    "total_seconds": 86884
+    "total_seconds": 90945
   },
   "aceofcopper": {
     "week_seconds": 18605,
@@ -11348,5 +11348,10 @@
     "week_seconds": 616,
     "week_start": 1782426863,
     "total_seconds": 616
+  },
+  "gragonthepsycho": {
+    "week_seconds": 0,
+    "week_start": 1782427766,
+    "total_seconds": 0
   }
 }
