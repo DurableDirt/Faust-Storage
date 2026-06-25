@@ -90,9 +90,9 @@
     "total_seconds": 100649
   },
   "chips_and_salsa_": {
-    "week_seconds": 45938,
+    "week_seconds": 49243,
     "week_start": 1782080360,
-    "total_seconds": 95955
+    "total_seconds": 99260
   },
   "booger_godslayer": {
     "week_seconds": 0,
@@ -6075,38 +6075,38 @@
     "total_seconds": 9449
   },
   "martink2": {
-    "week_seconds": 8084,
-    "week_start": 1781796539,
+    "week_seconds": 0,
+    "week_start": 1782404360,
     "total_seconds": 8084
   },
   "emieliooo": {
-    "week_seconds": 578,
-    "week_start": 1781797428,
+    "week_seconds": 0,
+    "week_start": 1782404360,
     "total_seconds": 578
   },
   "ggiulid": {
-    "week_seconds": 2952,
-    "week_start": 1781797474,
+    "week_seconds": 0,
+    "week_start": 1782404360,
     "total_seconds": 2952
   },
   "bootsiebear": {
-    "week_seconds": 116,
-    "week_start": 1781798068,
+    "week_seconds": 0,
+    "week_start": 1782404360,
     "total_seconds": 116
   },
   "diurdi": {
-    "week_seconds": 180030,
-    "week_start": 1781798130,
+    "week_seconds": 0,
+    "week_start": 1782404360,
     "total_seconds": 180030
   },
   "dj10_": {
-    "week_seconds": 11633,
-    "week_start": 1781798150,
+    "week_seconds": 0,
+    "week_start": 1782404360,
     "total_seconds": 11633
   },
   "moqqi2k": {
-    "week_seconds": 1954,
-    "week_start": 1781798591,
+    "week_seconds": 0,
+    "week_start": 1782404360,
     "total_seconds": 1954
   },
   "adamjn_": {
@@ -11067,6 +11067,11 @@
   "orca5675": {
     "week_seconds": 0,
     "week_start": 1782404347,
+    "total_seconds": 0
+  },
+  "bato_dambaev": {
+    "week_seconds": 0,
+    "week_start": 1782404395,
     "total_seconds": 0
   }
 }
