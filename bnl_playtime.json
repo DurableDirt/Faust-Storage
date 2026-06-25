@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 90897,
+    "week_seconds": 91438,
     "week_start": 1782127160,
-    "total_seconds": 155375
+    "total_seconds": 155916
   },
   "hxrl": {
     "week_seconds": 48710,
@@ -10958,5 +10958,10 @@
     "week_seconds": 377,
     "week_start": 1782386198,
     "total_seconds": 377
+  },
+  "foxo_oxo": {
+    "week_seconds": 0,
+    "week_start": 1782387485,
+    "total_seconds": 0
   }
 }
