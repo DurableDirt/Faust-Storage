@@ -695,9 +695,9 @@
     "total_seconds": 45107
   },
   "mr_kalboy": {
-    "week_seconds": 4368,
+    "week_seconds": 4426,
     "week_start": 1782087560,
-    "total_seconds": 8942
+    "total_seconds": 9000
   },
   "baro_mortis": {
     "week_seconds": 12459,
@@ -6225,9 +6225,9 @@
     "total_seconds": 8420
   },
   "fur": {
-    "week_seconds": 17701,
+    "week_seconds": 17724,
     "week_start": 1781807309,
-    "total_seconds": 17701
+    "total_seconds": 17724
   },
   "nfish2021": {
     "week_seconds": 144,
