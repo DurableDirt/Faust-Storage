@@ -6725,9 +6725,9 @@
     "total_seconds": 309
   },
   "notshawnfrog": {
-    "week_seconds": 60,
+    "week_seconds": 246,
     "week_start": 1781846298,
-    "total_seconds": 60
+    "total_seconds": 246
   },
   "monkeyanjing": {
     "week_seconds": 3013,
@@ -10730,9 +10730,9 @@
     "total_seconds": 3
   },
   "the_6pyrotechnic": {
-    "week_seconds": 9657,
+    "week_seconds": 12269,
     "week_start": 1782350569,
-    "total_seconds": 9657
+    "total_seconds": 12269
   },
   "gamer10161": {
     "week_seconds": 269,
@@ -11187,6 +11187,11 @@
   "rdmsh": {
     "week_seconds": 0,
     "week_start": 1782413146,
+    "total_seconds": 0
+  },
+  "dragonterio": {
+    "week_seconds": 0,
+    "week_start": 1782415343,
     "total_seconds": 0
   }
 }
