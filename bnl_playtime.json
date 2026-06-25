@@ -450,9 +450,9 @@
     "total_seconds": 284671
   },
   "mrtnt1925": {
-    "week_seconds": 57364,
+    "week_seconds": 57907,
     "week_start": 1782083960,
-    "total_seconds": 218320
+    "total_seconds": 218863
   },
   "axsld": {
     "week_seconds": 52229,
@@ -1340,9 +1340,9 @@
     "total_seconds": 78554
   },
   "misprint293": {
-    "week_seconds": 68468,
+    "week_seconds": 70476,
     "week_start": 1782098360,
-    "total_seconds": 185803
+    "total_seconds": 187811
   },
   "choripancaliente": {
     "week_seconds": 18255,
@@ -4475,9 +4475,9 @@
     "total_seconds": 2693
   },
   "raeders": {
-    "week_seconds": 15026,
+    "week_seconds": 17904,
     "week_start": 1782245960,
-    "total_seconds": 146432
+    "total_seconds": 149310
   },
   "alphatrom3041": {
     "week_seconds": 0,
@@ -11033,5 +11033,10 @@
     "week_seconds": 456,
     "week_start": 1782398476,
     "total_seconds": 456
+  },
+  "__chi_yu__": {
+    "week_seconds": 0,
+    "week_start": 1782399992,
+    "total_seconds": 0
   }
 }
