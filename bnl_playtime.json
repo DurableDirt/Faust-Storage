@@ -1700,9 +1700,9 @@
     "total_seconds": 48958
   },
   "eyestrainz": {
-    "week_seconds": 30893,
+    "week_seconds": 31026,
     "week_start": 1782116360,
-    "total_seconds": 93168
+    "total_seconds": 93301
   },
   "snailytrail": {
     "week_seconds": 0,
@@ -2905,9 +2905,9 @@
     "total_seconds": 13302
   },
   "emarile": {
-    "week_seconds": 5372,
+    "week_seconds": 5538,
     "week_start": 1782155960,
-    "total_seconds": 13703
+    "total_seconds": 13869
   },
   "jcool640": {
     "week_seconds": 0,
@@ -11018,5 +11018,10 @@
     "week_seconds": 846,
     "week_start": 1782396204,
     "total_seconds": 846
+  },
+  "ozh420": {
+    "week_seconds": 0,
+    "week_start": 1782397638,
+    "total_seconds": 0
   }
 }
