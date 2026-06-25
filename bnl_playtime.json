@@ -1145,9 +1145,9 @@
     "total_seconds": 21487
   },
   "hitmehn": {
-    "week_seconds": 223961,
+    "week_seconds": 232110,
     "week_start": 1782094760,
-    "total_seconds": 558019
+    "total_seconds": 566168
   },
   "moahbalin": {
     "week_seconds": 900,
@@ -11140,8 +11140,8 @@
     "total_seconds": 0
   },
   "ivbi": {
-    "week_seconds": 0,
+    "week_seconds": 33,
     "week_start": 1782408806,
-    "total_seconds": 0
+    "total_seconds": 33
   }
 }
