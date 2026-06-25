@@ -1690,9 +1690,9 @@
     "total_seconds": 45519
   },
   "solitaire7": {
-    "week_seconds": 83854,
+    "week_seconds": 88030,
     "week_start": 1782116360,
-    "total_seconds": 238806
+    "total_seconds": 242982
   },
   "masqo_": {
     "week_seconds": 703,
@@ -6705,9 +6705,9 @@
     "total_seconds": 116879
   },
   "heartsii": {
-    "week_seconds": 258086,
+    "week_seconds": 258314,
     "week_start": 1781841865,
-    "total_seconds": 258086
+    "total_seconds": 258314
   },
   "muddy443m": {
     "week_seconds": 10774,
@@ -10880,13 +10880,18 @@
     "total_seconds": 210
   },
   "acordantaquarist": {
-    "week_seconds": 948,
+    "week_seconds": 1118,
     "week_start": 1782370783,
-    "total_seconds": 948
+    "total_seconds": 1118
   },
   "frugal_drone": {
     "week_seconds": 456,
     "week_start": 1782371487,
     "total_seconds": 456
+  },
+  "therealgeko": {
+    "week_seconds": 0,
+    "week_start": 1782372165,
+    "total_seconds": 0
   }
 }
