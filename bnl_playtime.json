@@ -11283,5 +11283,10 @@
     "week_seconds": 0,
     "week_start": 1782422294,
     "total_seconds": 0
+  },
+  "genius_flint": {
+    "week_seconds": 3,
+    "week_start": 1782422412,
+    "total_seconds": 3
   }
 }
