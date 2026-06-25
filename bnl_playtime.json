@@ -465,9 +465,9 @@
     "total_seconds": 122678
   },
   "kaelon_othfryeli": {
-    "week_seconds": 13253,
+    "week_seconds": 13455,
     "week_start": 1782087560,
-    "total_seconds": 96440
+    "total_seconds": 96642
   },
   "anotnot": {
     "week_seconds": 200127,
@@ -5190,9 +5190,9 @@
     "total_seconds": 55051
   },
   "ahmad_elayyen": {
-    "week_seconds": 5416,
+    "week_seconds": 7751,
     "week_start": 1782314360,
-    "total_seconds": 17406
+    "total_seconds": 19741
   },
   "itzhoover": {
     "week_seconds": 4968,
@@ -10972,6 +10972,11 @@
   "russian_coconut": {
     "week_seconds": 0,
     "week_start": 1782390791,
+    "total_seconds": 0
+  },
+  "nocturnaldaedra": {
+    "week_seconds": 0,
+    "week_start": 1782390841,
     "total_seconds": 0
   }
 }
