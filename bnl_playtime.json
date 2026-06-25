@@ -2145,9 +2145,9 @@
     "total_seconds": 282616
   },
   "daimnasal": {
-    "week_seconds": 42703,
+    "week_seconds": 42800,
     "week_start": 1782134360,
-    "total_seconds": 140065
+    "total_seconds": 140162
   },
   "azurisdev": {
     "week_seconds": 0,
@@ -2420,9 +2420,9 @@
     "total_seconds": 125109
   },
   "malipan": {
-    "week_seconds": 19281,
+    "week_seconds": 19445,
     "week_start": 1782141560,
-    "total_seconds": 44323
+    "total_seconds": 44487
   },
   "nojabro10": {
     "week_seconds": 490,
@@ -11008,5 +11008,10 @@
     "week_seconds": 0,
     "week_start": 1782395793,
     "total_seconds": 0
+  },
+  "alan_wake1977": {
+    "week_seconds": 6,
+    "week_start": 1782395956,
+    "total_seconds": 6
   }
 }
