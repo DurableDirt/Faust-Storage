@@ -2145,9 +2145,9 @@
     "total_seconds": 282616
   },
   "daimnasal": {
-    "week_seconds": 42210,
+    "week_seconds": 42226,
     "week_start": 1782134360,
-    "total_seconds": 139572
+    "total_seconds": 139588
   },
   "azurisdev": {
     "week_seconds": 0,
@@ -5195,9 +5195,9 @@
     "total_seconds": 19741
   },
   "itzhoover": {
-    "week_seconds": 4968,
+    "week_seconds": 5856,
     "week_start": 1782314360,
-    "total_seconds": 81133
+    "total_seconds": 82021
   },
   "rayunlucke": {
     "week_seconds": 60298,
@@ -10992,6 +10992,11 @@
   "sushisoys4uce": {
     "week_seconds": 0,
     "week_start": 1782392919,
+    "total_seconds": 0
+  },
+  "zephyx36": {
+    "week_seconds": 0,
+    "week_start": 1782395342,
     "total_seconds": 0
   }
 }
