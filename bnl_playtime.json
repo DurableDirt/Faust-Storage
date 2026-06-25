@@ -7190,9 +7190,9 @@
     "total_seconds": 896
   },
   "2eez": {
-    "week_seconds": 11844,
+    "week_seconds": 11923,
     "week_start": 1781903680,
-    "total_seconds": 11844
+    "total_seconds": 11923
   },
   "ekstramocny": {
     "week_seconds": 290,
@@ -9980,9 +9980,9 @@
     "total_seconds": 215
   },
   "rab_2010": {
-    "week_seconds": 29196,
+    "week_seconds": 29809,
     "week_start": 1782248933,
-    "total_seconds": 29196
+    "total_seconds": 29809
   },
   "missioncarp3127": {
     "week_seconds": 192,
@@ -11303,5 +11303,10 @@
     "week_seconds": 64,
     "week_start": 1782423048,
     "total_seconds": 64
+  },
+  "barelyharley": {
+    "week_seconds": 0,
+    "week_start": 1782423185,
+    "total_seconds": 0
   }
 }
