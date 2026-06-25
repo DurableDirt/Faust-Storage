@@ -55,9 +55,9 @@
     "total_seconds": 179472
   },
   "jadenjb": {
-    "week_seconds": 15936,
+    "week_seconds": 16505,
     "week_start": 1782080360,
-    "total_seconds": 53180
+    "total_seconds": 53749
   },
   "mitthraw91": {
     "week_seconds": 242437,
@@ -2075,9 +2075,9 @@
     "total_seconds": 135580
   },
   "thomasdetrein0_0": {
-    "week_seconds": 102690,
+    "week_seconds": 103172,
     "week_start": 1782130760,
-    "total_seconds": 182303
+    "total_seconds": 182785
   },
   "ice_cream_guy": {
     "week_seconds": 11171,
@@ -8435,9 +8435,9 @@
     "total_seconds": 4507
   },
   "marshallark16": {
-    "week_seconds": 31163,
+    "week_seconds": 32478,
     "week_start": 1782068046,
-    "total_seconds": 31163
+    "total_seconds": 32478
   },
   "speedyfire1000": {
     "week_seconds": 17979,
@@ -11253,5 +11253,10 @@
     "week_seconds": 0,
     "week_start": 1782419175,
     "total_seconds": 0
+  },
+  "the_bl4ze": {
+    "week_seconds": 8,
+    "week_start": 1782419324,
+    "total_seconds": 8
   }
 }
