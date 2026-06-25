@@ -4630,9 +4630,9 @@
     "total_seconds": 20
   },
   "requalre": {
-    "week_seconds": 40958,
+    "week_seconds": 47284,
     "week_start": 1782260360,
-    "total_seconds": 146866
+    "total_seconds": 153192
   },
   "yourlocalangela": {
     "week_seconds": 0,
@@ -4680,9 +4680,9 @@
     "total_seconds": 22
   },
   "glog_frogmen": {
-    "week_seconds": 10962,
+    "week_seconds": 14996,
     "week_start": 1782263960,
-    "total_seconds": 87910
+    "total_seconds": 91944
   },
   "clearhercules": {
     "week_seconds": 10782,
@@ -4785,9 +4785,9 @@
     "total_seconds": 8666
   },
   "unreadi": {
-    "week_seconds": 40133,
+    "week_seconds": 41542,
     "week_start": 1782267560,
-    "total_seconds": 52578
+    "total_seconds": 53987
   },
   "tolypevelleda": {
     "week_seconds": 0,
@@ -10827,6 +10827,11 @@
   "fneet": {
     "week_seconds": 0,
     "week_start": 1782362802,
+    "total_seconds": 0
+  },
+  "mrgrace221": {
+    "week_seconds": 0,
+    "week_start": 1782364272,
     "total_seconds": 0
   }
 }
