@@ -165,9 +165,9 @@
     "total_seconds": 96882
   },
   "nobodypanicc": {
-    "week_seconds": 77624,
+    "week_seconds": 83288,
     "week_start": 1782083960,
-    "total_seconds": 173055
+    "total_seconds": 178719
   },
   "snw": {
     "week_seconds": 35220,
@@ -1655,9 +1655,9 @@
     "total_seconds": 43351
   },
   "voidvin": {
-    "week_seconds": 103255,
+    "week_seconds": 103274,
     "week_start": 1782116360,
-    "total_seconds": 206778
+    "total_seconds": 206797
   },
   "lordofthepig449": {
     "week_seconds": 15072,
@@ -11037,6 +11037,11 @@
   "__chi_yu__": {
     "week_seconds": 0,
     "week_start": 1782399992,
+    "total_seconds": 0
+  },
+  "juleslebatteur": {
+    "week_seconds": 0,
+    "week_start": 1782400151,
     "total_seconds": 0
   }
 }
