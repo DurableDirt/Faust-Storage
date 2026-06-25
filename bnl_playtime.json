@@ -820,9 +820,9 @@
     "total_seconds": 139584
   },
   "freeblade999": {
-    "week_seconds": 18016,
+    "week_seconds": 26815,
     "week_start": 1782091160,
-    "total_seconds": 82733
+    "total_seconds": 91532
   },
   "westburn": {
     "week_seconds": 0,
@@ -6595,9 +6595,9 @@
     "total_seconds": 55880
   },
   "blkwaterr": {
-    "week_seconds": 129859,
+    "week_seconds": 129903,
     "week_start": 1781829672,
-    "total_seconds": 129859
+    "total_seconds": 129903
   },
   "nimph356": {
     "week_seconds": 8652,
@@ -10772,6 +10772,11 @@
   "_redsnapper": {
     "week_seconds": 0,
     "week_start": 1782355227,
+    "total_seconds": 0
+  },
+  "dimathedawg": {
+    "week_seconds": 0,
+    "week_start": 1782356043,
     "total_seconds": 0
   }
 }
