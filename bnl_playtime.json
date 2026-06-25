@@ -2420,9 +2420,9 @@
     "total_seconds": 125109
   },
   "malipan": {
-    "week_seconds": 19241,
+    "week_seconds": 19281,
     "week_start": 1782141560,
-    "total_seconds": 44283
+    "total_seconds": 44323
   },
   "nojabro10": {
     "week_seconds": 490,
@@ -6180,9 +6180,9 @@
     "total_seconds": 49
   },
   "pinkphantxm": {
-    "week_seconds": 115632,
+    "week_seconds": 115638,
     "week_start": 1781805402,
-    "total_seconds": 115632
+    "total_seconds": 115638
   },
   "supersameee": {
     "week_seconds": 2,
@@ -11002,6 +11002,11 @@
   "aqzw12345": {
     "week_seconds": 0,
     "week_start": 1782395694,
+    "total_seconds": 0
+  },
+  "sjsc1": {
+    "week_seconds": 0,
+    "week_start": 1782395793,
     "total_seconds": 0
   }
 }
