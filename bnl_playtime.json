@@ -1170,9 +1170,9 @@
     "total_seconds": 108417
   },
   "opozzumz": {
-    "week_seconds": 56649,
+    "week_seconds": 56769,
     "week_start": 1782094760,
-    "total_seconds": 125251
+    "total_seconds": 125371
   },
   "astralchroma": {
     "week_seconds": 95493,
@@ -1500,9 +1500,9 @@
     "total_seconds": 3061
   },
   "innatee": {
-    "week_seconds": 25678,
+    "week_seconds": 26728,
     "week_start": 1782105560,
-    "total_seconds": 176532
+    "total_seconds": 177582
   },
   "arbiteradvit": {
     "week_seconds": 22833,
@@ -10837,6 +10837,11 @@
   "lowtierloot": {
     "week_seconds": 0,
     "week_start": 1782365050,
+    "total_seconds": 0
+  },
+  "theduckyluke": {
+    "week_seconds": 0,
+    "week_start": 1782365507,
     "total_seconds": 0
   }
 }
