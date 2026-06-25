@@ -5260,9 +5260,9 @@
     "total_seconds": 1093
   },
   "worldbound64": {
-    "week_seconds": 0,
+    "week_seconds": 1416,
     "week_start": 1782321560,
-    "total_seconds": 8974
+    "total_seconds": 10390
   },
   "bevinator2": {
     "week_seconds": 23064,
@@ -11260,8 +11260,8 @@
     "total_seconds": 8
   },
   "oakkoala": {
-    "week_seconds": 124,
+    "week_seconds": 626,
     "week_start": 1782420274,
-    "total_seconds": 124
+    "total_seconds": 626
   }
 }
