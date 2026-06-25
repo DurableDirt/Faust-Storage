@@ -2050,9 +2050,9 @@
     "total_seconds": 53397
   },
   "busy_donut": {
-    "week_seconds": 7654,
+    "week_seconds": 10309,
     "week_start": 1782130760,
-    "total_seconds": 35903
+    "total_seconds": 38558
   },
   "spearitz": {
     "week_seconds": 0,
@@ -8010,9 +8010,9 @@
     "total_seconds": 72
   },
   "_banished": {
-    "week_seconds": 28605,
+    "week_seconds": 30338,
     "week_start": 1782003743,
-    "total_seconds": 28605
+    "total_seconds": 30338
   },
   "thetingler67": {
     "week_seconds": 171,
@@ -11248,5 +11248,10 @@
     "week_seconds": 1,
     "week_start": 1782418504,
     "total_seconds": 1
+  },
+  "cryptacity": {
+    "week_seconds": 0,
+    "week_start": 1782419175,
+    "total_seconds": 0
   }
 }
