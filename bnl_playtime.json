@@ -485,9 +485,9 @@
     "total_seconds": 5060
   },
   "lemonrelic": {
-    "week_seconds": 2297,
+    "week_seconds": 3182,
     "week_start": 1782087560,
-    "total_seconds": 8539
+    "total_seconds": 9424
   },
   "lord_allaire": {
     "week_seconds": 0,
@@ -11200,9 +11200,9 @@
     "total_seconds": 73
   },
   "belinovski": {
-    "week_seconds": 0,
+    "week_seconds": 4217,
     "week_start": 1782415671,
-    "total_seconds": 0
+    "total_seconds": 4217
   },
   "trefg149": {
     "week_seconds": 37,
