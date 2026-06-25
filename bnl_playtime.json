@@ -740,9 +740,9 @@
     "total_seconds": 276
   },
   "grepsedawk": {
-    "week_seconds": 296830,
+    "week_seconds": 327105,
     "week_start": 1782087560,
-    "total_seconds": 697986
+    "total_seconds": 728261
   },
   "complexii": {
     "week_seconds": 20504,
@@ -11177,6 +11177,11 @@
   "loyalty4": {
     "week_seconds": 0,
     "week_start": 1782412223,
+    "total_seconds": 0
+  },
+  "bumbusl": {
+    "week_seconds": 0,
+    "week_start": 1782412872,
     "total_seconds": 0
   }
 }
