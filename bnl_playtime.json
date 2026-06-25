@@ -75,9 +75,9 @@
     "total_seconds": 174806
   },
   "40mm": {
-    "week_seconds": 112581,
+    "week_seconds": 112615,
     "week_start": 1782080360,
-    "total_seconds": 198945
+    "total_seconds": 198979
   },
   "lynx2007": {
     "week_seconds": 35218,
@@ -5910,13 +5910,13 @@
     "total_seconds": 105978
   },
   "br_brine": {
-    "week_seconds": 9990,
-    "week_start": 1781772668,
+    "week_seconds": 0,
+    "week_start": 1782379160,
     "total_seconds": 9990
   },
   "jisaku": {
-    "week_seconds": 615,
-    "week_start": 1781774053,
+    "week_seconds": 0,
+    "week_start": 1782379160,
     "total_seconds": 615
   },
   "gamergoodplay": {
