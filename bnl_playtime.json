@@ -285,9 +285,9 @@
     "total_seconds": 114651
   },
   "mechanicalrift": {
-    "week_seconds": 98243,
+    "week_seconds": 100626,
     "week_start": 1782083960,
-    "total_seconds": 367816
+    "total_seconds": 370199
   },
   "aguscon": {
     "week_seconds": 0,
@@ -1170,9 +1170,9 @@
     "total_seconds": 117011
   },
   "opozzumz": {
-    "week_seconds": 71001,
+    "week_seconds": 71024,
     "week_start": 1782094760,
-    "total_seconds": 139603
+    "total_seconds": 139626
   },
   "astralchroma": {
     "week_seconds": 109144,
@@ -11365,8 +11365,13 @@
     "total_seconds": 2164
   },
   "finntastic4387": {
-    "week_seconds": 0,
+    "week_seconds": 2162,
     "week_start": 1782428602,
+    "total_seconds": 2162
+  },
+  "yateultimatum69": {
+    "week_seconds": 0,
+    "week_start": 1782430747,
     "total_seconds": 0
   }
 }
