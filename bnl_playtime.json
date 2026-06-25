@@ -385,9 +385,9 @@
     "total_seconds": 21360
   },
   "opriva": {
-    "week_seconds": 10695,
+    "week_seconds": 12105,
     "week_start": 1782083960,
-    "total_seconds": 144417
+    "total_seconds": 145827
   },
   "kokomiology": {
     "week_seconds": 77659,
@@ -11357,6 +11357,11 @@
   "con928": {
     "week_seconds": 0,
     "week_start": 1782428322,
+    "total_seconds": 0
+  },
+  "mrnub12": {
+    "week_seconds": 0,
+    "week_start": 1782428502,
     "total_seconds": 0
   }
 }
