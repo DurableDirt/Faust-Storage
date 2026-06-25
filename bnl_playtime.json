@@ -2515,9 +2515,9 @@
     "total_seconds": 49995
   },
   "disdage": {
-    "week_seconds": 86262,
+    "week_seconds": 86482,
     "week_start": 1782141560,
-    "total_seconds": 136321
+    "total_seconds": 136541
   },
   "thomas2point0": {
     "week_seconds": 0,
@@ -7260,9 +7260,9 @@
     "total_seconds": 105
   },
   "prettyparfait": {
-    "week_seconds": 52309,
+    "week_seconds": 55311,
     "week_start": 1781913607,
-    "total_seconds": 52309
+    "total_seconds": 55311
   },
   "swiftyscissors": {
     "week_seconds": 248558,
