@@ -2260,9 +2260,9 @@
     "total_seconds": 63963
   },
   "nekroz09": {
-    "week_seconds": 24300,
+    "week_seconds": 25203,
     "week_start": 1782137960,
-    "total_seconds": 48233
+    "total_seconds": 49136
   },
   "pergyskeel": {
     "week_seconds": 101656,
@@ -11073,5 +11073,10 @@
     "week_seconds": 0,
     "week_start": 1782404395,
     "total_seconds": 0
+  },
+  "alext240": {
+    "week_seconds": 15,
+    "week_start": 1782404514,
+    "total_seconds": 15
   }
 }
