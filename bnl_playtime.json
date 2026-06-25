@@ -640,9 +640,9 @@
     "total_seconds": 90843
   },
   "beepcar": {
-    "week_seconds": 163186,
+    "week_seconds": 163770,
     "week_start": 1782087560,
-    "total_seconds": 327858
+    "total_seconds": 328442
   },
   "moopie50": {
     "week_seconds": 6443,
@@ -10813,5 +10813,10 @@
     "week_seconds": 52,
     "week_start": 1782360271,
     "total_seconds": 52
+  },
+  "darkbunnystudios": {
+    "week_seconds": 0,
+    "week_start": 1782360566,
+    "total_seconds": 0
   }
 }
