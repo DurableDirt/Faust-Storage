@@ -2415,9 +2415,9 @@
     "total_seconds": 22123
   },
   "sml128": {
-    "week_seconds": 40253,
+    "week_seconds": 44337,
     "week_start": 1782141560,
-    "total_seconds": 125154
+    "total_seconds": 129238
   },
   "malipan": {
     "week_seconds": 19707,
@@ -10490,9 +10490,9 @@
     "total_seconds": 110
   },
   "turda985": {
-    "week_seconds": 5296,
+    "week_seconds": 6185,
     "week_start": 1782326489,
-    "total_seconds": 5296
+    "total_seconds": 6185
   },
   "lucianopm24": {
     "week_seconds": 5467,
