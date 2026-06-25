@@ -2385,9 +2385,9 @@
     "total_seconds": 734
   },
   "theonenamedbeezz": {
-    "week_seconds": 35494,
+    "week_seconds": 36888,
     "week_start": 1782141560,
-    "total_seconds": 105214
+    "total_seconds": 106608
   },
   "benjamin12chief": {
     "week_seconds": 0,
@@ -2970,9 +2970,9 @@
     "total_seconds": 2391
   },
   "_aperson1": {
-    "week_seconds": 57870,
+    "week_seconds": 58911,
     "week_start": 1782155960,
-    "total_seconds": 99182
+    "total_seconds": 100223
   },
   "joshaya787": {
     "week_seconds": 6751,
@@ -11150,8 +11150,13 @@
     "total_seconds": 17
   },
   "ethan285431": {
-    "week_seconds": 0,
+    "week_seconds": 229,
     "week_start": 1782409546,
+    "total_seconds": 229
+  },
+  "bruno_v12": {
+    "week_seconds": 0,
+    "week_start": 1782409805,
     "total_seconds": 0
   }
 }
