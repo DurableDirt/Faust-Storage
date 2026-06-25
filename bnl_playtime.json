@@ -1170,9 +1170,9 @@
     "total_seconds": 108417
   },
   "opozzumz": {
-    "week_seconds": 66528,
+    "week_seconds": 66947,
     "week_start": 1782094760,
-    "total_seconds": 135130
+    "total_seconds": 135549
   },
   "astralchroma": {
     "week_seconds": 99212,
@@ -2295,9 +2295,9 @@
     "total_seconds": 241192
   },
   "stun2845": {
-    "week_seconds": 4138,
+    "week_seconds": 17284,
     "week_start": 1782137960,
-    "total_seconds": 18681
+    "total_seconds": 31827
   },
   "zeologue": {
     "week_seconds": 0,
@@ -11193,5 +11193,10 @@
     "week_seconds": 84,
     "week_start": 1782415343,
     "total_seconds": 84
+  },
+  "ottf": {
+    "week_seconds": 0,
+    "week_start": 1782415479,
+    "total_seconds": 0
   }
 }
