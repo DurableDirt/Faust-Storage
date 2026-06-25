@@ -2560,9 +2560,9 @@
     "total_seconds": 217785
   },
   "myng11": {
-    "week_seconds": 10575,
+    "week_seconds": 13512,
     "week_start": 1782145160,
-    "total_seconds": 28138
+    "total_seconds": 31075
   },
   "dondindundan": {
     "week_seconds": 0,
@@ -11172,6 +11172,11 @@
   "diamondez1": {
     "week_seconds": 0,
     "week_start": 1782411196,
+    "total_seconds": 0
+  },
+  "loyalty4": {
+    "week_seconds": 0,
+    "week_start": 1782412223,
     "total_seconds": 0
   }
 }
