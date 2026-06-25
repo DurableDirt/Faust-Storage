@@ -7760,9 +7760,9 @@
     "total_seconds": 38
   },
   "bailey00712": {
-    "week_seconds": 42350,
+    "week_seconds": 42381,
     "week_start": 1781977669,
-    "total_seconds": 42350
+    "total_seconds": 42381
   },
   "x_teach_x": {
     "week_seconds": 113015,
@@ -9065,9 +9065,9 @@
     "total_seconds": 7547
   },
   "bewarethebears": {
-    "week_seconds": 4352,
+    "week_seconds": 7649,
     "week_start": 1782146192,
-    "total_seconds": 4352
+    "total_seconds": 7649
   },
   "e_mac_": {
     "week_seconds": 37220,
@@ -11050,9 +11050,9 @@
     "total_seconds": 4293
   },
   "patronumcz": {
-    "week_seconds": 3211,
+    "week_seconds": 5157,
     "week_start": 1782401064,
-    "total_seconds": 3211
+    "total_seconds": 5157
   },
   "wordedmeteor450": {
     "week_seconds": 105,
@@ -11103,5 +11103,10 @@
     "week_seconds": 88,
     "week_start": 1782406797,
     "total_seconds": 88
+  },
+  "partialknight1": {
+    "week_seconds": 0,
+    "week_start": 1782406946,
+    "total_seconds": 0
   }
 }
