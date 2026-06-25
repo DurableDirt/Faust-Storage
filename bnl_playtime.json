@@ -8580,9 +8580,9 @@
     "total_seconds": 9460
   },
   "ni3a": {
-    "week_seconds": 33228,
+    "week_seconds": 33238,
     "week_start": 1782080238,
-    "total_seconds": 33228
+    "total_seconds": 33238
   },
   "gregy165": {
     "week_seconds": 133151,
@@ -10800,8 +10800,8 @@
     "total_seconds": 0
   },
   "bobasrty": {
-    "week_seconds": 201,
+    "week_seconds": 228,
     "week_start": 1782358912,
-    "total_seconds": 201
+    "total_seconds": 228
   }
 }
