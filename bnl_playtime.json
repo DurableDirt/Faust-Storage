@@ -1650,9 +1650,9 @@
     "total_seconds": 94363
   },
   "virexil": {
-    "week_seconds": 9166,
+    "week_seconds": 9187,
     "week_start": 1782116360,
-    "total_seconds": 43495
+    "total_seconds": 43516
   },
   "voidvin": {
     "week_seconds": 109513,
@@ -4790,9 +4790,9 @@
     "total_seconds": 54012
   },
   "tolypevelleda": {
-    "week_seconds": 0,
+    "week_seconds": 1,
     "week_start": 1782267560,
-    "total_seconds": 15155
+    "total_seconds": 15156
   },
   "vexinity_": {
     "week_seconds": 0,
@@ -11208,5 +11208,10 @@
     "week_seconds": 37,
     "week_start": 1782416041,
     "total_seconds": 37
+  },
+  "ziemniok132": {
+    "week_seconds": 0,
+    "week_start": 1782416421,
+    "total_seconds": 0
   }
 }
