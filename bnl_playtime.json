@@ -285,9 +285,9 @@
     "total_seconds": 114651
   },
   "mechanicalrift": {
-    "week_seconds": 98235,
+    "week_seconds": 98243,
     "week_start": 1782083960,
-    "total_seconds": 367808
+    "total_seconds": 367816
   },
   "aguscon": {
     "week_seconds": 0,
@@ -2245,9 +2245,9 @@
     "total_seconds": 127724
   },
   "ambersolberg205": {
-    "week_seconds": 46949,
+    "week_seconds": 47405,
     "week_start": 1782134360,
-    "total_seconds": 94907
+    "total_seconds": 95363
   },
   "scottytohoty420": {
     "week_seconds": 0,
@@ -11353,5 +11353,10 @@
     "week_seconds": 128,
     "week_start": 1782427766,
     "total_seconds": 128
+  },
+  "con928": {
+    "week_seconds": 0,
+    "week_start": 1782428322,
+    "total_seconds": 0
   }
 }
