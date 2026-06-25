@@ -660,9 +660,9 @@
     "total_seconds": 19306
   },
   "demobottle12": {
-    "week_seconds": 31133,
+    "week_seconds": 32080,
     "week_start": 1782087560,
-    "total_seconds": 106068
+    "total_seconds": 107015
   },
   "unique_nullptr": {
     "week_seconds": 151508,
@@ -11298,5 +11298,10 @@
     "week_seconds": 224,
     "week_start": 1782422751,
     "total_seconds": 224
+  },
+  "g3neralbuttnaked": {
+    "week_seconds": 0,
+    "week_start": 1782423048,
+    "total_seconds": 0
   }
 }
