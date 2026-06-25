@@ -1580,9 +1580,9 @@
     "total_seconds": 194757
   },
   "gobblin": {
-    "week_seconds": 20288,
+    "week_seconds": 22624,
     "week_start": 1782112760,
-    "total_seconds": 86889
+    "total_seconds": 89225
   },
   "vlinar": {
     "week_seconds": 40243,
@@ -2980,9 +2980,9 @@
     "total_seconds": 81332
   },
   "dester32": {
-    "week_seconds": 35,
+    "week_seconds": 6355,
     "week_start": 1782159560,
-    "total_seconds": 126345
+    "total_seconds": 132665
   },
   "nostalgie_": {
     "week_seconds": 15760,
@@ -7935,9 +7935,9 @@
     "total_seconds": 1764
   },
   "sturdyshelf": {
-    "week_seconds": 20595,
+    "week_seconds": 22100,
     "week_start": 1781994385,
-    "total_seconds": 20595
+    "total_seconds": 22100
   },
   "darth0tter": {
     "week_seconds": 12566,
