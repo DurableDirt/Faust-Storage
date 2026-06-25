@@ -11185,9 +11185,9 @@
     "total_seconds": 7919
   },
   "rdmsh": {
-    "week_seconds": 0,
+    "week_seconds": 9428,
     "week_start": 1782413146,
-    "total_seconds": 0
+    "total_seconds": 9428
   },
   "dragonterio": {
     "week_seconds": 84,
@@ -11288,5 +11288,10 @@
     "week_seconds": 3,
     "week_start": 1782422412,
     "total_seconds": 3
+  },
+  "octalele": {
+    "week_seconds": 0,
+    "week_start": 1782422580,
+    "total_seconds": 0
   }
 }
