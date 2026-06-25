@@ -105,9 +105,9 @@
     "total_seconds": 153831
   },
   "slothinasuit": {
-    "week_seconds": 129270,
+    "week_seconds": 130818,
     "week_start": 1782080360,
-    "total_seconds": 367824
+    "total_seconds": 369372
   },
   "jck20h": {
     "week_seconds": 0,
@@ -11047,6 +11047,11 @@
   "wifflemyswiffle": {
     "week_seconds": 0,
     "week_start": 1782400771,
+    "total_seconds": 0
+  },
+  "patronumcz": {
+    "week_seconds": 0,
+    "week_start": 1782401064,
     "total_seconds": 0
   }
 }
