@@ -640,9 +640,9 @@
     "total_seconds": 90843
   },
   "beepcar": {
-    "week_seconds": 156735,
+    "week_seconds": 157100,
     "week_start": 1782087560,
-    "total_seconds": 321407
+    "total_seconds": 321772
   },
   "moopie50": {
     "week_seconds": 6443,
@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 83739,
+    "week_seconds": 83781,
     "week_start": 1782127160,
-    "total_seconds": 148217
+    "total_seconds": 148259
   },
   "hxrl": {
     "week_seconds": 48710,
@@ -4785,9 +4785,9 @@
     "total_seconds": 8666
   },
   "unreadi": {
-    "week_seconds": 31141,
+    "week_seconds": 31570,
     "week_start": 1782267560,
-    "total_seconds": 43586
+    "total_seconds": 44015
   },
   "tolypevelleda": {
     "week_seconds": 0,
@@ -10722,6 +10722,16 @@
   "bronx16": {
     "week_seconds": 0,
     "week_start": 1782350073,
+    "total_seconds": 0
+  },
+  "toxuble": {
+    "week_seconds": 3,
+    "week_start": 1782350553,
+    "total_seconds": 3
+  },
+  "the_6pyrotechnic": {
+    "week_seconds": 0,
+    "week_start": 1782350569,
     "total_seconds": 0
   }
 }
