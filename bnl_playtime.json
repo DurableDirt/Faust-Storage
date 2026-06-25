@@ -15,9 +15,9 @@
     "total_seconds": 138279
   },
   "dragran": {
-    "week_seconds": 286048,
+    "week_seconds": 305669,
     "week_start": 1782080360,
-    "total_seconds": 675458
+    "total_seconds": 695079
   },
   "turkishflavour": {
     "week_seconds": 0,
@@ -3035,9 +3035,9 @@
     "total_seconds": 42972
   },
   "thyme13": {
-    "week_seconds": 32976,
+    "week_seconds": 36721,
     "week_start": 1782159560,
-    "total_seconds": 70843
+    "total_seconds": 74588
   },
   "theocomboed": {
     "week_seconds": 0,
@@ -11270,8 +11270,13 @@
     "total_seconds": 437
   },
   "drippy_david": {
-    "week_seconds": 0,
+    "week_seconds": 87,
     "week_start": 1782422044,
+    "total_seconds": 87
+  },
+  "duskenfloof": {
+    "week_seconds": 0,
+    "week_start": 1782422093,
     "total_seconds": 0
   }
 }
