@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 81023,
+    "week_seconds": 81121,
     "week_start": 1782127160,
-    "total_seconds": 145501
+    "total_seconds": 145599
   },
   "hxrl": {
     "week_seconds": 48710,
@@ -3615,9 +3615,9 @@
     "total_seconds": 1198
   },
   "luminous15": {
-    "week_seconds": 59224,
+    "week_seconds": 59264,
     "week_start": 1782181160,
-    "total_seconds": 128522
+    "total_seconds": 128562
   },
   "frostythorgrim": {
     "week_seconds": 0,
@@ -5645,9 +5645,9 @@
     "total_seconds": 174
   },
   "skippydx": {
-    "week_seconds": 0,
+    "week_seconds": 300,
     "week_start": 1782346760,
-    "total_seconds": 90289
+    "total_seconds": 90589
   },
   "ultraman2": {
     "week_seconds": 0,
