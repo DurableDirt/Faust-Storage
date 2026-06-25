@@ -4190,9 +4190,9 @@
     "total_seconds": 32072
   },
   "dervogel67": {
-    "week_seconds": 73037,
+    "week_seconds": 73898,
     "week_start": 1782235160,
-    "total_seconds": 313631
+    "total_seconds": 314492
   },
   "junerjun": {
     "week_seconds": 43520,
@@ -10963,5 +10963,10 @@
     "week_seconds": 705,
     "week_start": 1782387485,
     "total_seconds": 705
+  },
+  "feduck": {
+    "week_seconds": 0,
+    "week_start": 1782390685,
+    "total_seconds": 0
   }
 }
