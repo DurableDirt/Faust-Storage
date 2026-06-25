@@ -6705,9 +6705,9 @@
     "total_seconds": 116879
   },
   "heartsii": {
-    "week_seconds": 261402,
+    "week_seconds": 263568,
     "week_start": 1781841865,
-    "total_seconds": 261402
+    "total_seconds": 263568
   },
   "muddy443m": {
     "week_seconds": 10774,
@@ -10912,6 +10912,11 @@
   "tvthetv": {
     "week_seconds": 0,
     "week_start": 1782375405,
+    "total_seconds": 0
+  },
+  "kyoko_ko": {
+    "week_seconds": 0,
+    "week_start": 1782377917,
     "total_seconds": 0
   }
 }
