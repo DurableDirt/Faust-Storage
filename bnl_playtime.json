@@ -1165,9 +1165,9 @@
     "total_seconds": 97264
   },
   "nateoneandonly": {
-    "week_seconds": 49914,
+    "week_seconds": 58508,
     "week_start": 1782094760,
-    "total_seconds": 108417
+    "total_seconds": 117011
   },
   "opozzumz": {
     "week_seconds": 68699,
@@ -2075,9 +2075,9 @@
     "total_seconds": 135580
   },
   "thomasdetrein0_0": {
-    "week_seconds": 105628,
+    "week_seconds": 105763,
     "week_start": 1782130760,
-    "total_seconds": 185241
+    "total_seconds": 185376
   },
   "ice_cream_guy": {
     "week_seconds": 13984,
@@ -11308,5 +11308,10 @@
     "week_seconds": 132,
     "week_start": 1782423185,
     "total_seconds": 132
+  },
+  "brooksy09": {
+    "week_seconds": 0,
+    "week_start": 1782423531,
+    "total_seconds": 0
   }
 }
