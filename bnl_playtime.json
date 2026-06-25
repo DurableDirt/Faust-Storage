@@ -1910,9 +1910,9 @@
     "total_seconds": 172336
   },
   "ech0o_o0": {
-    "week_seconds": 24233,
+    "week_seconds": 24970,
     "week_start": 1782127160,
-    "total_seconds": 42781
+    "total_seconds": 43518
   },
   "luckluc4243": {
     "week_seconds": 44768,
@@ -2040,9 +2040,9 @@
     "total_seconds": 10801
   },
   "el_shap0": {
-    "week_seconds": 94081,
+    "week_seconds": 94883,
     "week_start": 1782130760,
-    "total_seconds": 271345
+    "total_seconds": 272147
   },
   "nareik01": {
     "week_seconds": 13078,
@@ -3775,9 +3775,9 @@
     "total_seconds": 3463
   },
   "walleyefish": {
-    "week_seconds": 65895,
+    "week_seconds": 66056,
     "week_start": 1782191960,
-    "total_seconds": 145333
+    "total_seconds": 145494
   },
   "nukinmouse01": {
     "week_seconds": 1437,
@@ -10943,5 +10943,10 @@
     "week_seconds": 0,
     "week_start": 1782383804,
     "total_seconds": 0
+  },
+  "mrkababog": {
+    "week_seconds": 34,
+    "week_start": 1782384457,
+    "total_seconds": 34
   }
 }
