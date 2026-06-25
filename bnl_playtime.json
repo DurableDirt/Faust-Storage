@@ -9960,9 +9960,9 @@
     "total_seconds": 145
   },
   "blueben_427": {
-    "week_seconds": 19069,
+    "week_seconds": 19650,
     "week_start": 1782245966,
-    "total_seconds": 19069
+    "total_seconds": 19650
   },
   "ducky096": {
     "week_seconds": 101,
@@ -11117,6 +11117,11 @@
   "aliensarecool_1": {
     "week_seconds": 0,
     "week_start": 1782407979,
+    "total_seconds": 0
+  },
+  "itssimplyplazma": {
+    "week_seconds": 0,
+    "week_start": 1782408052,
     "total_seconds": 0
   }
 }
