@@ -75,9 +75,9 @@
     "total_seconds": 174806
   },
   "40mm": {
-    "week_seconds": 109026,
+    "week_seconds": 111971,
     "week_start": 1782080360,
-    "total_seconds": 195390
+    "total_seconds": 198335
   },
   "lynx2007": {
     "week_seconds": 35218,
@@ -3830,9 +3830,9 @@
     "total_seconds": 56729
   },
   "eledion": {
-    "week_seconds": 38499,
+    "week_seconds": 39121,
     "week_start": 1782202760,
-    "total_seconds": 207148
+    "total_seconds": 207770
   },
   "kashev": {
     "week_seconds": 22096,
@@ -3905,9 +3905,9 @@
     "total_seconds": 206
   },
   "kinghasantheone": {
-    "week_seconds": 47062,
+    "week_seconds": 48846,
     "week_start": 1782206360,
-    "total_seconds": 279533
+    "total_seconds": 281317
   },
   "stefanmakker": {
     "week_seconds": 3429,
