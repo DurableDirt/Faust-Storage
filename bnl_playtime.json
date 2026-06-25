@@ -4960,9 +4960,9 @@
     "total_seconds": 1844
   },
   "xlaser2014": {
-    "week_seconds": 23563,
+    "week_seconds": 23749,
     "week_start": 1782285560,
-    "total_seconds": 36552
+    "total_seconds": 36738
   },
   "plutouz": {
     "week_seconds": 17706,
@@ -10960,8 +10960,8 @@
     "total_seconds": 377
   },
   "foxo_oxo": {
-    "week_seconds": 411,
+    "week_seconds": 705,
     "week_start": 1782387485,
-    "total_seconds": 411
+    "total_seconds": 705
   }
 }
