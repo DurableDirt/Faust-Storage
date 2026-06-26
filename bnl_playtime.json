@@ -25,9 +25,9 @@
     "total_seconds": 26
   },
   "holdenvcaulfield": {
-    "week_seconds": 99725,
+    "week_seconds": 99876,
     "week_start": 1782080360,
-    "total_seconds": 226670
+    "total_seconds": 226821
   },
   "harved": {
     "week_seconds": 52183,
@@ -1775,9 +1775,9 @@
     "total_seconds": 213240
   },
   "badwaffles_": {
-    "week_seconds": 24638,
+    "week_seconds": 27064,
     "week_start": 1782119960,
-    "total_seconds": 35353
+    "total_seconds": 37779
   },
   "nanajshi": {
     "week_seconds": 3408,
@@ -5795,9 +5795,9 @@
     "total_seconds": 19369
   },
   "bigboyzoc": {
-    "week_seconds": 0,
+    "week_seconds": 141,
     "week_start": 1782357560,
-    "total_seconds": 16165
+    "total_seconds": 16306
   },
   "lil_fayth": {
     "week_seconds": 29140,
@@ -12147,6 +12147,11 @@
   "limpoporeal": {
     "week_seconds": 0,
     "week_start": 1782517436,
+    "total_seconds": 0
+  },
+  "pigmelons23": {
+    "week_seconds": 0,
+    "week_start": 1782517510,
     "total_seconds": 0
   }
 }
