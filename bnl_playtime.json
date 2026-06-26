@@ -155,9 +155,9 @@
     "total_seconds": 55236
   },
   "lightningboi4": {
-    "week_seconds": 118871,
+    "week_seconds": 120128,
     "week_start": 1782083960,
-    "total_seconds": 270584
+    "total_seconds": 271841
   },
   "aaroni_macaroni": {
     "week_seconds": 39040,
@@ -8750,9 +8750,9 @@
     "total_seconds": 14410
   },
   "notduffy": {
-    "week_seconds": 42382,
+    "week_seconds": 42490,
     "week_start": 1782099597,
-    "total_seconds": 42382
+    "total_seconds": 42490
   },
   "hairystoochie": {
     "week_seconds": 662,
@@ -11517,6 +11517,11 @@
   "proordie": {
     "week_seconds": 0,
     "week_start": 1782449183,
+    "total_seconds": 0
+  },
+  "wizardofarcania": {
+    "week_seconds": 0,
+    "week_start": 1782449403,
     "total_seconds": 0
   }
 }
