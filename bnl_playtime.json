@@ -530,9 +530,9 @@
     "total_seconds": 357468
   },
   "hexayn": {
-    "week_seconds": 26033,
+    "week_seconds": 28433,
     "week_start": 1782087560,
-    "total_seconds": 27007
+    "total_seconds": 29407
   },
   "destaroos": {
     "week_seconds": 0,
@@ -1340,9 +1340,9 @@
     "total_seconds": 78554
   },
   "misprint293": {
-    "week_seconds": 100800,
+    "week_seconds": 106621,
     "week_start": 1782098360,
-    "total_seconds": 218135
+    "total_seconds": 223956
   },
   "choripancaliente": {
     "week_seconds": 22224,
@@ -11973,5 +11973,10 @@
     "week_seconds": 200,
     "week_start": 1782505754,
     "total_seconds": 200
+  },
+  "maemagpie": {
+    "week_seconds": 29,
+    "week_start": 1782506555,
+    "total_seconds": 29
   }
 }
