@@ -5985,9 +5985,9 @@
     "total_seconds": 32184
   },
   "what777": {
-    "week_seconds": 36578,
+    "week_seconds": 48901,
     "week_start": 1782389960,
-    "total_seconds": 347517
+    "total_seconds": 359840
   },
   "arealfriedwing": {
     "week_seconds": 0,
@@ -9530,9 +9530,9 @@
     "total_seconds": 1726
   },
   "normaldudewithmc": {
-    "week_seconds": 16099,
+    "week_seconds": 16392,
     "week_start": 1782190370,
-    "total_seconds": 16099
+    "total_seconds": 16392
   },
   "jakkeroffer": {
     "week_seconds": 12,
@@ -11387,6 +11387,11 @@
   "rustyoldqrow": {
     "week_seconds": 0,
     "week_start": 1782432968,
+    "total_seconds": 0
+  },
+  "ben9075897": {
+    "week_seconds": 0,
+    "week_start": 1782433833,
     "total_seconds": 0
   }
 }
