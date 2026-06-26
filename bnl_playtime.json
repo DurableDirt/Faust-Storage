@@ -2370,9 +2370,9 @@
     "total_seconds": 62814
   },
   "jaxkats": {
-    "week_seconds": 101078,
+    "week_seconds": 101515,
     "week_start": 1782137960,
-    "total_seconds": 202107
+    "total_seconds": 202544
   },
   "technogameryt": {
     "week_seconds": 0,
@@ -3255,9 +3255,9 @@
     "total_seconds": 25123
   },
   "mickale": {
-    "week_seconds": 5464,
+    "week_seconds": 6221,
     "week_start": 1782166760,
-    "total_seconds": 12861
+    "total_seconds": 13618
   },
   "primalrex_3": {
     "week_seconds": 6258,
@@ -8035,9 +8035,9 @@
     "total_seconds": 28984
   },
   "jhop11": {
-    "week_seconds": 71645,
+    "week_seconds": 87440,
     "week_start": 1782005227,
-    "total_seconds": 71645
+    "total_seconds": 87440
   },
   "toasterbaths_": {
     "week_seconds": 684,
@@ -11408,5 +11408,10 @@
     "week_seconds": 776,
     "week_start": 1782435319,
     "total_seconds": 776
+  },
+  "mangmanog": {
+    "week_seconds": 0,
+    "week_start": 1782436338,
+    "total_seconds": 0
   }
 }
