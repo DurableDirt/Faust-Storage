@@ -2200,9 +2200,9 @@
     "total_seconds": 40237
   },
   "pandyteddyyt": {
-    "week_seconds": 42943,
+    "week_seconds": 43255,
     "week_start": 1782134360,
-    "total_seconds": 93082
+    "total_seconds": 93394
   },
   "britzsin": {
     "week_seconds": 0,
@@ -4785,9 +4785,9 @@
     "total_seconds": 8666
   },
   "unreadi": {
-    "week_seconds": 46477,
+    "week_seconds": 46731,
     "week_start": 1782267560,
-    "total_seconds": 58922
+    "total_seconds": 59176
   },
   "tolypevelleda": {
     "week_seconds": 12217,
@@ -11608,5 +11608,10 @@
     "week_seconds": 71,
     "week_start": 1782467747,
     "total_seconds": 71
+  },
+  "bbmz": {
+    "week_seconds": 5,
+    "week_start": 1782469300,
+    "total_seconds": 5
   }
 }
