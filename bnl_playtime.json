@@ -465,9 +465,9 @@
     "total_seconds": 122700
   },
   "kaelon_othfryeli": {
-    "week_seconds": 46643,
+    "week_seconds": 46669,
     "week_start": 1782087560,
-    "total_seconds": 129830
+    "total_seconds": 129856
   },
   "anotnot": {
     "week_seconds": 263609,
@@ -625,9 +625,9 @@
     "total_seconds": 109906
   },
   "ceceliarabbit": {
-    "week_seconds": 133742,
+    "week_seconds": 133763,
     "week_start": 1782087560,
-    "total_seconds": 211053
+    "total_seconds": 211074
   },
   "retrocitrus": {
     "week_seconds": 93924,
@@ -665,9 +665,9 @@
     "total_seconds": 108229
   },
   "unique_nullptr": {
-    "week_seconds": 184984,
+    "week_seconds": 185015,
     "week_start": 1782087560,
-    "total_seconds": 375193
+    "total_seconds": 375224
   },
   "boatoverbogs": {
     "week_seconds": 0,
@@ -2075,9 +2075,9 @@
     "total_seconds": 147452
   },
   "thomasdetrein0_0": {
-    "week_seconds": 135740,
+    "week_seconds": 135969,
     "week_start": 1782130760,
-    "total_seconds": 215353
+    "total_seconds": 215582
   },
   "ice_cream_guy": {
     "week_seconds": 38968,
@@ -2150,9 +2150,9 @@
     "total_seconds": 142603
   },
   "azurisdev": {
-    "week_seconds": 905,
+    "week_seconds": 1009,
     "week_start": 1782134360,
-    "total_seconds": 1038
+    "total_seconds": 1142
   },
   "dryna1825": {
     "week_seconds": 0,
@@ -2330,9 +2330,9 @@
     "total_seconds": 53186
   },
   "xa_n": {
-    "week_seconds": 12569,
+    "week_seconds": 12668,
     "week_start": 1782137960,
-    "total_seconds": 29526
+    "total_seconds": 29625
   },
   "leander2714": {
     "week_seconds": 795,
@@ -3405,9 +3405,9 @@
     "total_seconds": 6050
   },
   "ripuhh": {
-    "week_seconds": 5691,
+    "week_seconds": 5748,
     "week_start": 1782170360,
-    "total_seconds": 12516
+    "total_seconds": 12573
   },
   "hedrone": {
     "week_seconds": 1079,
@@ -3630,9 +3630,9 @@
     "total_seconds": 137926
   },
   "realmichael": {
-    "week_seconds": 41231,
+    "week_seconds": 41253,
     "week_start": 1782181160,
-    "total_seconds": 116715
+    "total_seconds": 116737
   },
   "dj121739": {
     "week_seconds": 207087,
@@ -4420,9 +4420,9 @@
     "total_seconds": 9813
   },
   "formidable01": {
-    "week_seconds": 26315,
+    "week_seconds": 26340,
     "week_start": 1782242360,
-    "total_seconds": 68987
+    "total_seconds": 69012
   },
   "spacepaww": {
     "week_seconds": 5200,
@@ -6445,9 +6445,9 @@
     "total_seconds": 43299
   },
   "seriousswimmerr": {
-    "week_seconds": 6124,
+    "week_seconds": 6155,
     "week_start": 1782422360,
-    "total_seconds": 6508
+    "total_seconds": 6539
   },
   "_echoforce_": {
     "week_seconds": 0,
@@ -6705,9 +6705,9 @@
     "total_seconds": 209485
   },
   "heartsii": {
-    "week_seconds": 41787,
+    "week_seconds": 42037,
     "week_start": 1782447560,
-    "total_seconds": 328406
+    "total_seconds": 328656
   },
   "muddy443m": {
     "week_seconds": 0,
@@ -6760,9 +6760,9 @@
     "total_seconds": 1011
   },
   "cervanthes": {
-    "week_seconds": 3883,
+    "week_seconds": 3930,
     "week_start": 1782458360,
-    "total_seconds": 14074
+    "total_seconds": 14121
   },
   "gabrielmaennl5": {
     "week_seconds": 1439,
@@ -8740,9 +8740,9 @@
     "total_seconds": 16685
   },
   "thepagol": {
-    "week_seconds": 915,
+    "week_seconds": 1044,
     "week_start": 1782099159,
-    "total_seconds": 915
+    "total_seconds": 1044
   },
   "poolpartycolin": {
     "week_seconds": 14410,
@@ -12035,13 +12035,33 @@
     "total_seconds": 0
   },
   "greenjump": {
-    "week_seconds": 0,
+    "week_seconds": 57,
     "week_start": 1782511480,
-    "total_seconds": 0
+    "total_seconds": 57
   },
   "derekrocks2016": {
     "week_seconds": 0,
     "week_start": 1782511485,
+    "total_seconds": 0
+  },
+  "zinc3200": {
+    "week_seconds": 0,
+    "week_start": 1782511511,
+    "total_seconds": 0
+  },
+  "tybug2": {
+    "week_seconds": 0,
+    "week_start": 1782511521,
+    "total_seconds": 0
+  },
+  "gentle__giant": {
+    "week_seconds": 0,
+    "week_start": 1782511527,
+    "total_seconds": 0
+  },
+  "jonah_cool": {
+    "week_seconds": 0,
+    "week_start": 1782511537,
     "total_seconds": 0
   }
 }
