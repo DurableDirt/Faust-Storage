@@ -2360,9 +2360,9 @@
     "total_seconds": 11383
   },
   "creaptor1": {
-    "week_seconds": 82597,
+    "week_seconds": 85358,
     "week_start": 1782137960,
-    "total_seconds": 150681
+    "total_seconds": 153442
   },
   "thisismynameatm": {
     "week_seconds": 7696,
@@ -2710,9 +2710,9 @@
     "total_seconds": 150845
   },
   "jushuhh": {
-    "week_seconds": 83261,
+    "week_seconds": 96649,
     "week_start": 1782148760,
-    "total_seconds": 197771
+    "total_seconds": 211159
   },
   "landopotato712": {
     "week_seconds": 14046,
@@ -11722,6 +11722,11 @@
   "sunset_waltz": {
     "week_seconds": 0,
     "week_start": 1782482677,
+    "total_seconds": 0
+  },
+  "opakaiser": {
+    "week_seconds": 0,
+    "week_start": 1782482953,
     "total_seconds": 0
   }
 }
