@@ -8030,9 +8030,9 @@
     "total_seconds": 1655
   },
   "xspee": {
-    "week_seconds": 30116,
+    "week_seconds": 34084,
     "week_start": 1782004906,
-    "total_seconds": 30116
+    "total_seconds": 34084
   },
   "jhop11": {
     "week_seconds": 90844,
@@ -11513,5 +11513,10 @@
     "week_seconds": 198,
     "week_start": 1782448414,
     "total_seconds": 198
+  },
+  "proordie": {
+    "week_seconds": 0,
+    "week_start": 1782449183,
+    "total_seconds": 0
   }
 }
