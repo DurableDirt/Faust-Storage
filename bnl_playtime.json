@@ -1515,9 +1515,9 @@
     "total_seconds": 31009
   },
   "fang_op": {
-    "week_seconds": 80341,
+    "week_seconds": 80374,
     "week_start": 1782109160,
-    "total_seconds": 171455
+    "total_seconds": 171488
   },
   "_jaek": {
     "week_seconds": 153613,
@@ -5525,9 +5525,9 @@
     "total_seconds": 9589
   },
   "ikea_fridge": {
-    "week_seconds": 90,
+    "week_seconds": 127,
     "week_start": 1782339560,
-    "total_seconds": 19402
+    "total_seconds": 19439
   },
   "booltonian": {
     "week_seconds": 17737,
@@ -11780,8 +11780,8 @@
     "total_seconds": 0
   },
   "theoverlordrat": {
-    "week_seconds": 0,
+    "week_seconds": 388,
     "week_start": 1782489513,
-    "total_seconds": 0
+    "total_seconds": 388
   }
 }
