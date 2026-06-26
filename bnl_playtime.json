@@ -9230,9 +9230,9 @@
     "total_seconds": 326
   },
   "saren_solaris": {
-    "week_seconds": 11518,
+    "week_seconds": 11540,
     "week_start": 1782161821,
-    "total_seconds": 11518
+    "total_seconds": 11540
   },
   "qtq_uwu": {
     "week_seconds": 20574,
@@ -11783,5 +11783,10 @@
     "week_seconds": 388,
     "week_start": 1782489513,
     "total_seconds": 388
+  },
+  "poland__": {
+    "week_seconds": 9,
+    "week_start": 1782490001,
+    "total_seconds": 9
   }
 }
