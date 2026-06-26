@@ -545,9 +545,9 @@
     "total_seconds": 58268
   },
   "shoomsi": {
-    "week_seconds": 34157,
+    "week_seconds": 34488,
     "week_start": 1782087560,
-    "total_seconds": 110592
+    "total_seconds": 110923
   },
   "snivelbaby": {
     "week_seconds": 0,
@@ -11628,5 +11628,10 @@
     "week_seconds": 615,
     "week_start": 1782471231,
     "total_seconds": 615
+  },
+  "iamlucdee": {
+    "week_seconds": 17,
+    "week_start": 1782472144,
+    "total_seconds": 17
   }
 }
