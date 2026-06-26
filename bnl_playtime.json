@@ -1175,9 +1175,9 @@
     "total_seconds": 158439
   },
   "astralchroma": {
-    "week_seconds": 133040,
+    "week_seconds": 133041,
     "week_start": 1782094760,
-    "total_seconds": 312326
+    "total_seconds": 312327
   },
   "kingstell": {
     "week_seconds": 3245,
@@ -3905,9 +3905,9 @@
     "total_seconds": 206
   },
   "kinghasantheone": {
-    "week_seconds": 91988,
+    "week_seconds": 91991,
     "week_start": 1782206360,
-    "total_seconds": 324459
+    "total_seconds": 324462
   },
   "stefanmakker": {
     "week_seconds": 15114,
@@ -11983,5 +11983,10 @@
     "week_seconds": 360,
     "week_start": 1782507282,
     "total_seconds": 360
+  },
+  "kitamiblueheart": {
+    "week_seconds": 2,
+    "week_start": 1782510416,
+    "total_seconds": 2
   }
 }
