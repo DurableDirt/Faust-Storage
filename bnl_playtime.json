@@ -1155,9 +1155,9 @@
     "total_seconds": 1024
   },
   "fumpkle": {
-    "week_seconds": 12888,
+    "week_seconds": 13227,
     "week_start": 1782094760,
-    "total_seconds": 36603
+    "total_seconds": 36942
   },
   "toonylinksr": {
     "week_seconds": 45831,
@@ -2235,9 +2235,9 @@
     "total_seconds": 191
   },
   "viperth": {
-    "week_seconds": 32351,
+    "week_seconds": 32379,
     "week_start": 1782134360,
-    "total_seconds": 172108
+    "total_seconds": 172136
   },
   "zalvvv": {
     "week_seconds": 59862,
@@ -7650,9 +7650,9 @@
     "total_seconds": 1029
   },
   "chronoswilson": {
-    "week_seconds": 111436,
+    "week_seconds": 117680,
     "week_start": 1781964345,
-    "total_seconds": 111436
+    "total_seconds": 117680
   },
   "sabife": {
     "week_seconds": 32,
@@ -11823,5 +11823,10 @@
     "week_seconds": 184,
     "week_start": 1782494214,
     "total_seconds": 184
+  },
+  "pickledclowdz": {
+    "week_seconds": 0,
+    "week_start": 1782494671,
+    "total_seconds": 0
   }
 }
