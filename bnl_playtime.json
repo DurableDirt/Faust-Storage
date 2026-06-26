@@ -2145,9 +2145,9 @@
     "total_seconds": 282616
   },
   "daimnasal": {
-    "week_seconds": 43508,
+    "week_seconds": 43616,
     "week_start": 1782134360,
-    "total_seconds": 140870
+    "total_seconds": 140978
   },
   "azurisdev": {
     "week_seconds": 0,
@@ -7570,9 +7570,9 @@
     "total_seconds": 344
   },
   "swivee": {
-    "week_seconds": 29684,
+    "week_seconds": 30019,
     "week_start": 1781954376,
-    "total_seconds": 29684
+    "total_seconds": 30019
   },
   "vonkedev": {
     "week_seconds": 4834,
