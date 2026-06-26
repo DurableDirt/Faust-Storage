@@ -2555,9 +2555,9 @@
     "total_seconds": 1116
   },
   "yunfi": {
-    "week_seconds": 122992,
+    "week_seconds": 124557,
     "week_start": 1782145160,
-    "total_seconds": 252265
+    "total_seconds": 253830
   },
   "myng11": {
     "week_seconds": 23374,
@@ -4565,9 +4565,9 @@
     "total_seconds": 13707
   },
   "anyone000000001": {
-    "week_seconds": 261,
+    "week_seconds": 1644,
     "week_start": 1782253160,
-    "total_seconds": 14646
+    "total_seconds": 16029
   },
   "soulsyvi": {
     "week_seconds": 0,
@@ -12097,6 +12097,11 @@
   "aeryrion": {
     "week_seconds": 0,
     "week_start": 1782512769,
+    "total_seconds": 0
+  },
+  "drypan420": {
+    "week_seconds": 0,
+    "week_start": 1782512910,
     "total_seconds": 0
   }
 }
