@@ -2590,9 +2590,9 @@
     "total_seconds": 20535
   },
   "dant481heman": {
-    "week_seconds": 31598,
+    "week_seconds": 32754,
     "week_start": 1782145160,
-    "total_seconds": 146363
+    "total_seconds": 147519
   },
   "aredstonegod378": {
     "week_seconds": 0,
@@ -7010,9 +7010,9 @@
     "total_seconds": 73
   },
   "pfp_nexl": {
-    "week_seconds": 91366,
+    "week_seconds": 91533,
     "week_start": 1781884734,
-    "total_seconds": 91366
+    "total_seconds": 91533
   },
   "blizardxace": {
     "week_seconds": 278,
@@ -11758,5 +11758,10 @@
     "week_seconds": 5,
     "week_start": 1782487413,
     "total_seconds": 5
+  },
+  "cyberrwolffxd": {
+    "week_seconds": 0,
+    "week_start": 1782487529,
+    "total_seconds": 0
   }
 }
