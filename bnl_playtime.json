@@ -1340,9 +1340,9 @@
     "total_seconds": 78554
   },
   "misprint293": {
-    "week_seconds": 88867,
+    "week_seconds": 89092,
     "week_start": 1782098360,
-    "total_seconds": 206202
+    "total_seconds": 206427
   },
   "choripancaliente": {
     "week_seconds": 22224,
@@ -11658,5 +11658,10 @@
     "week_seconds": 18,
     "week_start": 1782477002,
     "total_seconds": 18
+  },
+  "caeyrles": {
+    "week_seconds": 0,
+    "week_start": 1782477558,
+    "total_seconds": 0
   }
 }
