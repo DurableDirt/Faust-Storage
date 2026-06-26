@@ -60,9 +60,9 @@
     "total_seconds": 53749
   },
   "mitthraw91": {
-    "week_seconds": 301460,
+    "week_seconds": 304775,
     "week_start": 1782080360,
-    "total_seconds": 685094
+    "total_seconds": 688409
   },
   "rainsinger": {
     "week_seconds": 27841,
@@ -80,9 +80,9 @@
     "total_seconds": 233119
   },
   "lynx2007": {
-    "week_seconds": 49896,
+    "week_seconds": 49929,
     "week_start": 1782080360,
-    "total_seconds": 139804
+    "total_seconds": 139837
   },
   "cunningwind6139": {
     "week_seconds": 18037,
@@ -155,9 +155,9 @@
     "total_seconds": 55236
   },
   "lightningboi4": {
-    "week_seconds": 137246,
+    "week_seconds": 138757,
     "week_start": 1782083960,
-    "total_seconds": 288959
+    "total_seconds": 290470
   },
   "aaroni_macaroni": {
     "week_seconds": 45025,
@@ -6180,9 +6180,9 @@
     "total_seconds": 49
   },
   "pinkphantxm": {
-    "week_seconds": 20192,
+    "week_seconds": 24931,
     "week_start": 1782411560,
-    "total_seconds": 137343
+    "total_seconds": 142082
   },
   "supersameee": {
     "week_seconds": 0,
@@ -8030,9 +8030,9 @@
     "total_seconds": 1655
   },
   "xspee": {
-    "week_seconds": 41467,
+    "week_seconds": 47472,
     "week_start": 1782004906,
-    "total_seconds": 41467
+    "total_seconds": 47472
   },
   "jhop11": {
     "week_seconds": 90844,
@@ -11892,6 +11892,11 @@
   "loophole_py": {
     "week_seconds": 0,
     "week_start": 1782498424,
+    "total_seconds": 0
+  },
+  "earyx": {
+    "week_seconds": 0,
+    "week_start": 1782498998,
     "total_seconds": 0
   }
 }
