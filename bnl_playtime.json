@@ -4160,9 +4160,9 @@
     "total_seconds": 111819
   },
   "gunslingerzach": {
-    "week_seconds": 30460,
+    "week_seconds": 33718,
     "week_start": 1782235160,
-    "total_seconds": 137231
+    "total_seconds": 140489
   },
   "marrog20": {
     "week_seconds": 0,
@@ -11427,6 +11427,16 @@
   "marck2210": {
     "week_seconds": 0,
     "week_start": 1782438355,
+    "total_seconds": 0
+  },
+  "bermudablue": {
+    "week_seconds": 0,
+    "week_start": 1782440296,
+    "total_seconds": 0
+  },
+  "gremilky": {
+    "week_seconds": 0,
+    "week_start": 1782440341,
     "total_seconds": 0
   }
 }
