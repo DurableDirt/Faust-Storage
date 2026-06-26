@@ -70,9 +70,9 @@
     "total_seconds": 118414
   },
   "jindosh": {
-    "week_seconds": 46979,
+    "week_seconds": 47076,
     "week_start": 1782080360,
-    "total_seconds": 176455
+    "total_seconds": 176552
   },
   "40mm": {
     "week_seconds": 120119,
@@ -2245,9 +2245,9 @@
     "total_seconds": 127724
   },
   "ambersolberg205": {
-    "week_seconds": 52178,
+    "week_seconds": 52538,
     "week_start": 1782134360,
-    "total_seconds": 100136
+    "total_seconds": 100496
   },
   "scottytohoty420": {
     "week_seconds": 0,
@@ -3615,9 +3615,9 @@
     "total_seconds": 1198
   },
   "luminous15": {
-    "week_seconds": 74562,
+    "week_seconds": 75916,
     "week_start": 1782181160,
-    "total_seconds": 143860
+    "total_seconds": 145214
   },
   "frostythorgrim": {
     "week_seconds": 0,
@@ -11500,8 +11500,8 @@
     "total_seconds": 57
   },
   "olfer": {
-    "week_seconds": 0,
+    "week_seconds": 48,
     "week_start": 1782447750,
-    "total_seconds": 0
+    "total_seconds": 48
   }
 }
