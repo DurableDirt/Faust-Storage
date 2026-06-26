@@ -11810,9 +11810,9 @@
     "total_seconds": 62
   },
   "president_wolfe": {
-    "week_seconds": 832,
+    "week_seconds": 1621,
     "week_start": 1782493029,
-    "total_seconds": 832
+    "total_seconds": 1621
   },
   "20mii13": {
     "week_seconds": 384,
@@ -11852,6 +11852,11 @@
   "kubajakub303": {
     "week_seconds": 0,
     "week_start": 1782495906,
+    "total_seconds": 0
+  },
+  "thebreadone": {
+    "week_seconds": 0,
+    "week_start": 1782496024,
     "total_seconds": 0
   }
 }
