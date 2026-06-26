@@ -6995,9 +6995,9 @@
     "total_seconds": 2759
   },
   "tolerant6000": {
-    "week_seconds": 44931,
+    "week_seconds": 44962,
     "week_start": 1781884493,
-    "total_seconds": 44931
+    "total_seconds": 44962
   },
   "jarltalos": {
     "week_seconds": 2676,
@@ -11728,5 +11728,10 @@
     "week_seconds": 1421,
     "week_start": 1782482953,
     "total_seconds": 1421
+  },
+  "jircon_gamer": {
+    "week_seconds": 0,
+    "week_start": 1782486191,
+    "total_seconds": 0
   }
 }
