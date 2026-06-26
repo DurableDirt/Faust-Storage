@@ -6730,8 +6730,8 @@
     "total_seconds": 3605
   },
   "monkeyanjing": {
-    "week_seconds": 3013,
-    "week_start": 1781847850,
+    "week_seconds": 0,
+    "week_start": 1782454760,
     "total_seconds": 3013
   },
   "arkenstine": {
@@ -11535,9 +11535,9 @@
     "total_seconds": 4273
   },
   "oknelson": {
-    "week_seconds": 0,
+    "week_seconds": 3785,
     "week_start": 1782450980,
-    "total_seconds": 0
+    "total_seconds": 3785
   },
   "youngmars1714": {
     "week_seconds": 0,
