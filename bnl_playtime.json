@@ -155,9 +155,9 @@
     "total_seconds": 55236
   },
   "lightningboi4": {
-    "week_seconds": 148616,
+    "week_seconds": 148793,
     "week_start": 1782083960,
-    "total_seconds": 300329
+    "total_seconds": 300506
   },
   "aaroni_macaroni": {
     "week_seconds": 46918,
@@ -1045,9 +1045,9 @@
     "total_seconds": 91
   },
   "endville360": {
-    "week_seconds": 84057,
+    "week_seconds": 84221,
     "week_start": 1782094760,
-    "total_seconds": 241381
+    "total_seconds": 241545
   },
   "rodragonlux": {
     "week_seconds": 43673,
@@ -1580,9 +1580,9 @@
     "total_seconds": 206049
   },
   "gobblin": {
-    "week_seconds": 28387,
+    "week_seconds": 28551,
     "week_start": 1782112760,
-    "total_seconds": 94988
+    "total_seconds": 95152
   },
   "vlinar": {
     "week_seconds": 54852,
@@ -1775,9 +1775,9 @@
     "total_seconds": 212655
   },
   "badwaffles_": {
-    "week_seconds": 24150,
+    "week_seconds": 24321,
     "week_start": 1782119960,
-    "total_seconds": 34865
+    "total_seconds": 35036
   },
   "nanajshi": {
     "week_seconds": 3408,
@@ -2485,9 +2485,9 @@
     "total_seconds": 75915
   },
   "emperorashina": {
-    "week_seconds": 73183,
+    "week_seconds": 73256,
     "week_start": 1782141560,
-    "total_seconds": 166289
+    "total_seconds": 166362
   },
   "sailorwillis": {
     "week_seconds": 232567,
@@ -2930,9 +2930,9 @@
     "total_seconds": 76103
   },
   "lolle0": {
-    "week_seconds": 14003,
+    "week_seconds": 14050,
     "week_start": 1782155960,
-    "total_seconds": 41548
+    "total_seconds": 41595
   },
   "catmit446": {
     "week_seconds": 0,
@@ -7235,9 +7235,9 @@
     "total_seconds": 147
   },
   "s4nta": {
-    "week_seconds": 58474,
+    "week_seconds": 58522,
     "week_start": 1781910389,
-    "total_seconds": 58474
+    "total_seconds": 58522
   },
   "iangreyrat": {
     "week_seconds": 645,
@@ -7585,9 +7585,9 @@
     "total_seconds": 67
   },
   "backwash": {
-    "week_seconds": 65033,
+    "week_seconds": 65066,
     "week_start": 1781955472,
-    "total_seconds": 65033
+    "total_seconds": 65066
   },
   "huston_x": {
     "week_seconds": 382,
@@ -11940,9 +11940,9 @@
     "total_seconds": 4358
   },
   "toontasker": {
-    "week_seconds": 371,
+    "week_seconds": 410,
     "week_start": 1782501802,
-    "total_seconds": 371
+    "total_seconds": 410
   },
   "coolmanabdul": {
     "week_seconds": 3976,
@@ -12123,5 +12123,10 @@
     "week_seconds": 216,
     "week_start": 1782513618,
     "total_seconds": 216
+  },
+  "heerr0": {
+    "week_seconds": 0,
+    "week_start": 1782513881,
+    "total_seconds": 0
   }
 }
