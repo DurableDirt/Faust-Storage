@@ -185,9 +185,9 @@
     "total_seconds": 67788
   },
   "ahrimanne": {
-    "week_seconds": 56740,
+    "week_seconds": 60279,
     "week_start": 1782083960,
-    "total_seconds": 208367
+    "total_seconds": 211906
   },
   "princess__bow": {
     "week_seconds": 94809,
@@ -4225,9 +4225,9 @@
     "total_seconds": 93
   },
   "o_angelbitez": {
-    "week_seconds": 7112,
+    "week_seconds": 7148,
     "week_start": 1782235160,
-    "total_seconds": 32848
+    "total_seconds": 32884
   },
   "power_utter": {
     "week_seconds": 12345,
@@ -6705,9 +6705,9 @@
     "total_seconds": 209485
   },
   "heartsii": {
-    "week_seconds": 27861,
+    "week_seconds": 28083,
     "week_start": 1782447560,
-    "total_seconds": 314480
+    "total_seconds": 314702
   },
   "muddy443m": {
     "week_seconds": 0,
@@ -11672,6 +11672,11 @@
   "thedane03": {
     "week_seconds": 0,
     "week_start": 1782478010,
+    "total_seconds": 0
+  },
+  "byakuguan": {
+    "week_seconds": 0,
+    "week_start": 1782478251,
     "total_seconds": 0
   }
 }
