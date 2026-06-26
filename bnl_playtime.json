@@ -5950,9 +5950,9 @@
     "total_seconds": 19741
   },
   "bluzstone": {
-    "week_seconds": 0,
+    "week_seconds": 1657,
     "week_start": 1782386360,
-    "total_seconds": 4060
+    "total_seconds": 5717
   },
   "bakrinii": {
     "week_seconds": 0,
@@ -11400,8 +11400,8 @@
     "total_seconds": 316
   },
   "obs3rver_7": {
-    "week_seconds": 0,
+    "week_seconds": 84,
     "week_start": 1782435089,
-    "total_seconds": 0
+    "total_seconds": 84
   }
 }
