@@ -5620,9 +5620,9 @@
     "total_seconds": 6293
   },
   "furiousminer": {
-    "week_seconds": 4,
+    "week_seconds": 7,
     "week_start": 1782346760,
-    "total_seconds": 7
+    "total_seconds": 10
   },
   "bigbooteabertha": {
     "week_seconds": 0,
@@ -11050,9 +11050,9 @@
     "total_seconds": 4293
   },
   "patronumcz": {
-    "week_seconds": 7352,
+    "week_seconds": 7757,
     "week_start": 1782401064,
-    "total_seconds": 7352
+    "total_seconds": 7757
   },
   "wordedmeteor450": {
     "week_seconds": 105,
