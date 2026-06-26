@@ -3680,9 +3680,9 @@
     "total_seconds": 113873
   },
   "2lynx2": {
-    "week_seconds": 69075,
+    "week_seconds": 70260,
     "week_start": 1782184760,
-    "total_seconds": 280103
+    "total_seconds": 281288
   },
   "dredgarzomboss": {
     "week_seconds": 0,
@@ -11693,5 +11693,10 @@
     "week_seconds": 4,
     "week_start": 1782480047,
     "total_seconds": 4
+  },
+  "rustingssz": {
+    "week_seconds": 0,
+    "week_start": 1782480241,
+    "total_seconds": 0
   }
 }
