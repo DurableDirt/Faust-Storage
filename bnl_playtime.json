@@ -9680,9 +9680,9 @@
     "total_seconds": 615
   },
   "omo23536": {
-    "week_seconds": 38002,
+    "week_seconds": 42062,
     "week_start": 1782223234,
-    "total_seconds": 38002
+    "total_seconds": 42062
   },
   "pryy": {
     "week_seconds": 37,
@@ -11803,5 +11803,10 @@
     "week_seconds": 1766,
     "week_start": 1782490581,
     "total_seconds": 1766
+  },
+  "foxy_l0rd": {
+    "week_seconds": 62,
+    "week_start": 1782492899,
+    "total_seconds": 62
   }
 }
