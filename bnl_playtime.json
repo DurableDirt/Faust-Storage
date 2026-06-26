@@ -75,9 +75,9 @@
     "total_seconds": 177084
   },
   "40mm": {
-    "week_seconds": 136448,
+    "week_seconds": 136809,
     "week_start": 1782080360,
-    "total_seconds": 222812
+    "total_seconds": 223173
   },
   "lynx2007": {
     "week_seconds": 49828,
@@ -2360,9 +2360,9 @@
     "total_seconds": 11383
   },
   "creaptor1": {
-    "week_seconds": 87010,
+    "week_seconds": 87065,
     "week_start": 1782137960,
-    "total_seconds": 155094
+    "total_seconds": 155149
   },
   "thisismynameatm": {
     "week_seconds": 7696,
@@ -4645,9 +4645,9 @@
     "total_seconds": 26956
   },
   "itsalreadygold": {
-    "week_seconds": 4856,
+    "week_seconds": 4871,
     "week_start": 1782260360,
-    "total_seconds": 9938
+    "total_seconds": 9953
   },
   "glinnor": {
     "week_seconds": 0,
