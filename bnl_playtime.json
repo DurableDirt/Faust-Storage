@@ -2050,9 +2050,9 @@
     "total_seconds": 53397
   },
   "busy_donut": {
-    "week_seconds": 18757,
+    "week_seconds": 21135,
     "week_start": 1782130760,
-    "total_seconds": 47006
+    "total_seconds": 49384
   },
   "spearitz": {
     "week_seconds": 0,
@@ -3615,9 +3615,9 @@
     "total_seconds": 1198
   },
   "luminous15": {
-    "week_seconds": 77793,
+    "week_seconds": 77797,
     "week_start": 1782181160,
-    "total_seconds": 147091
+    "total_seconds": 147095
   },
   "frostythorgrim": {
     "week_seconds": 0,
