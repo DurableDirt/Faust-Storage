@@ -510,9 +510,9 @@
     "total_seconds": 60
   },
   "bidav": {
-    "week_seconds": 128304,
+    "week_seconds": 130827,
     "week_start": 1782087560,
-    "total_seconds": 343037
+    "total_seconds": 345560
   },
   "matilda4k9": {
     "week_seconds": 0,
@@ -11527,6 +11527,11 @@
   "srgd": {
     "week_seconds": 0,
     "week_start": 1782449670,
+    "total_seconds": 0
+  },
+  "_laelia": {
+    "week_seconds": 0,
+    "week_start": 1782449688,
     "total_seconds": 0
   }
 }
