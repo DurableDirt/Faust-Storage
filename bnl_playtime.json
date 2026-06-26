@@ -1160,9 +1160,9 @@
     "total_seconds": 37891
   },
   "toonylinksr": {
-    "week_seconds": 46370,
+    "week_seconds": 47042,
     "week_start": 1782094760,
-    "total_seconds": 97803
+    "total_seconds": 98475
   },
   "nateoneandonly": {
     "week_seconds": 62299,
@@ -1520,9 +1520,9 @@
     "total_seconds": 171582
   },
   "_jaek": {
-    "week_seconds": 166249,
+    "week_seconds": 167126,
     "week_start": 1782109160,
-    "total_seconds": 304569
+    "total_seconds": 305446
   },
   "deuteriumoxide1": {
     "week_seconds": 4431,
@@ -11847,6 +11847,11 @@
   "jrbrother6956": {
     "week_seconds": 0,
     "week_start": 1782495685,
+    "total_seconds": 0
+  },
+  "kubajakub303": {
+    "week_seconds": 0,
+    "week_start": 1782495906,
     "total_seconds": 0
   }
 }
