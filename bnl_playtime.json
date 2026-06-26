@@ -3730,9 +3730,9 @@
     "total_seconds": 240
   },
   "salizandar2": {
-    "week_seconds": 55651,
+    "week_seconds": 56534,
     "week_start": 1782188360,
-    "total_seconds": 138599
+    "total_seconds": 139482
   },
   "milkyoreo": {
     "week_seconds": 5412,
@@ -4225,9 +4225,9 @@
     "total_seconds": 93
   },
   "o_angelbitez": {
-    "week_seconds": 6976,
+    "week_seconds": 7025,
     "week_start": 1782235160,
-    "total_seconds": 32712
+    "total_seconds": 32761
   },
   "power_utter": {
     "week_seconds": 12345,
@@ -11668,5 +11668,10 @@
     "week_seconds": 38,
     "week_start": 1782477585,
     "total_seconds": 38
+  },
+  "thedane03": {
+    "week_seconds": 0,
+    "week_start": 1782478010,
+    "total_seconds": 0
   }
 }
