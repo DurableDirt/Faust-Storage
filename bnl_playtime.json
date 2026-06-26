@@ -385,9 +385,9 @@
     "total_seconds": 21360
   },
   "opriva": {
-    "week_seconds": 12785,
+    "week_seconds": 14108,
     "week_start": 1782083960,
-    "total_seconds": 146507
+    "total_seconds": 147830
   },
   "kokomiology": {
     "week_seconds": 77659,
@@ -3135,9 +3135,9 @@
     "total_seconds": 49123
   },
   "stashman1780": {
-    "week_seconds": 106194,
+    "week_seconds": 106288,
     "week_start": 1782163160,
-    "total_seconds": 283456
+    "total_seconds": 283550
   },
   "cokebrothers12": {
     "week_seconds": 0,
@@ -11443,5 +11443,10 @@
     "week_seconds": 0,
     "week_start": 1782440957,
     "total_seconds": 0
+  },
+  "hectonite": {
+    "week_seconds": 19,
+    "week_start": 1782442304,
+    "total_seconds": 19
   }
 }
