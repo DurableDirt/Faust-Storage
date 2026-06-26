@@ -4180,9 +4180,9 @@
     "total_seconds": 333
   },
   "novalis76": {
-    "week_seconds": 55721,
+    "week_seconds": 57797,
     "week_start": 1782235160,
-    "total_seconds": 161849
+    "total_seconds": 163925
   },
   "kynthea": {
     "week_seconds": 14367,
@@ -4225,9 +4225,9 @@
     "total_seconds": 93
   },
   "o_angelbitez": {
-    "week_seconds": 11784,
+    "week_seconds": 11920,
     "week_start": 1782235160,
-    "total_seconds": 37520
+    "total_seconds": 37656
   },
   "power_utter": {
     "week_seconds": 12345,
@@ -11927,6 +11927,11 @@
   "emma2143": {
     "week_seconds": 0,
     "week_start": 1782500725,
+    "total_seconds": 0
+  },
+  "cloneexplorer7": {
+    "week_seconds": 0,
+    "week_start": 1782500926,
     "total_seconds": 0
   }
 }
