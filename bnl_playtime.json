@@ -5595,9 +5595,9 @@
     "total_seconds": 10810
   },
   "totunapiano": {
-    "week_seconds": 0,
+    "week_seconds": 3018,
     "week_start": 1782343160,
-    "total_seconds": 1395
+    "total_seconds": 4413
   },
   "tgttag": {
     "week_seconds": 0,
@@ -11903,5 +11903,15 @@
     "week_seconds": 160,
     "week_start": 1782499306,
     "total_seconds": 160
+  },
+  "itsyaboiraeden": {
+    "week_seconds": 0,
+    "week_start": 1782499559,
+    "total_seconds": 0
+  },
+  "fatpotato123456": {
+    "week_seconds": 0,
+    "week_start": 1782499562,
+    "total_seconds": 0
   }
 }
