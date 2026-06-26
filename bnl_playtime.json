@@ -640,9 +640,9 @@
     "total_seconds": 90843
   },
   "beepcar": {
-    "week_seconds": 201231,
+    "week_seconds": 201440,
     "week_start": 1782087560,
-    "total_seconds": 365903
+    "total_seconds": 366112
   },
   "moopie50": {
     "week_seconds": 6443,
@@ -11430,9 +11430,9 @@
     "total_seconds": 3508
   },
   "bermudablue": {
-    "week_seconds": 0,
+    "week_seconds": 5855,
     "week_start": 1782440296,
-    "total_seconds": 0
+    "total_seconds": 5855
   },
   "gremilky": {
     "week_seconds": 2482,
