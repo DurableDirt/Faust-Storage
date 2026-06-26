@@ -2050,9 +2050,9 @@
     "total_seconds": 53397
   },
   "busy_donut": {
-    "week_seconds": 12617,
+    "week_seconds": 15983,
     "week_start": 1782130760,
-    "total_seconds": 40866
+    "total_seconds": 44232
   },
   "spearitz": {
     "week_seconds": 0,
@@ -3680,9 +3680,9 @@
     "total_seconds": 113873
   },
   "2lynx2": {
-    "week_seconds": 74543,
+    "week_seconds": 76624,
     "week_start": 1782184760,
-    "total_seconds": 285571
+    "total_seconds": 287652
   },
   "dredgarzomboss": {
     "week_seconds": 0,
@@ -11792,6 +11792,11 @@
   "babsibread": {
     "week_seconds": 0,
     "week_start": 1782490255,
+    "total_seconds": 0
+  },
+  "sirkarde619": {
+    "week_seconds": 0,
+    "week_start": 1782490392,
     "total_seconds": 0
   }
 }
