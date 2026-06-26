@@ -280,9 +280,9 @@
     "total_seconds": 6198
   },
   "ansgardd": {
-    "week_seconds": 36676,
+    "week_seconds": 40861,
     "week_start": 1782083960,
-    "total_seconds": 118004
+    "total_seconds": 122189
   },
   "mechanicalrift": {
     "week_seconds": 132529,
@@ -11685,8 +11685,8 @@
     "total_seconds": 0
   },
   "littleloud": {
-    "week_seconds": 0,
+    "week_seconds": 264,
     "week_start": 1782478817,
-    "total_seconds": 0
+    "total_seconds": 264
   }
 }
