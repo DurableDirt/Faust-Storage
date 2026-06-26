@@ -2995,9 +2995,9 @@
     "total_seconds": 128041
   },
   "theoneofthevoid": {
-    "week_seconds": 15862,
+    "week_seconds": 19409,
     "week_start": 1782159560,
-    "total_seconds": 43348
+    "total_seconds": 46895
   },
   "t0ast_realtoast": {
     "week_seconds": 0,
@@ -6960,9 +6960,9 @@
     "total_seconds": 10096
   },
   "pikachu17tim": {
-    "week_seconds": 38705,
+    "week_seconds": 39318,
     "week_start": 1781881881,
-    "total_seconds": 38705
+    "total_seconds": 39318
   },
   "arosinas": {
     "week_seconds": 11,
@@ -11717,6 +11717,11 @@
   "notpicked": {
     "week_seconds": 0,
     "week_start": 1782482473,
+    "total_seconds": 0
+  },
+  "sunset_waltz": {
+    "week_seconds": 0,
+    "week_start": 1782482677,
     "total_seconds": 0
   }
 }
