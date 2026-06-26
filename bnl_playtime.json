@@ -4225,9 +4225,9 @@
     "total_seconds": 93
   },
   "o_angelbitez": {
-    "week_seconds": 7422,
+    "week_seconds": 7457,
     "week_start": 1782235160,
-    "total_seconds": 33158
+    "total_seconds": 33193
   },
   "power_utter": {
     "week_seconds": 12345,
@@ -7650,9 +7650,9 @@
     "total_seconds": 1029
   },
   "chronoswilson": {
-    "week_seconds": 98109,
+    "week_seconds": 105526,
     "week_start": 1781964345,
-    "total_seconds": 98109
+    "total_seconds": 105526
   },
   "sabife": {
     "week_seconds": 32,
@@ -10960,9 +10960,9 @@
     "total_seconds": 2250
   },
   "foxo_oxo": {
-    "week_seconds": 24982,
+    "week_seconds": 25617,
     "week_start": 1782387485,
-    "total_seconds": 24982
+    "total_seconds": 25617
   },
   "feduck": {
     "week_seconds": 1218,
@@ -11678,5 +11678,10 @@
     "week_seconds": 143,
     "week_start": 1782478251,
     "total_seconds": 143
+  },
+  "2120676599": {
+    "week_seconds": 0,
+    "week_start": 1782478757,
+    "total_seconds": 0
   }
 }
