@@ -1285,9 +1285,9 @@
     "total_seconds": 39386
   },
   "darkwingz17": {
-    "week_seconds": 64188,
+    "week_seconds": 64218,
     "week_start": 1782098360,
-    "total_seconds": 97857
+    "total_seconds": 97887
   },
   "tomete13": {
     "week_seconds": 0,
@@ -3090,9 +3090,9 @@
     "total_seconds": 65126
   },
   "programmergod": {
-    "week_seconds": 23051,
+    "week_seconds": 23969,
     "week_start": 1782159560,
-    "total_seconds": 362121
+    "total_seconds": 363039
   },
   "monkeyaceparagon": {
     "week_seconds": 0,
@@ -11732,6 +11732,11 @@
   "jircon_gamer": {
     "week_seconds": 0,
     "week_start": 1782486191,
+    "total_seconds": 0
+  },
+  "k3nzielu": {
+    "week_seconds": 0,
+    "week_start": 1782486394,
     "total_seconds": 0
   }
 }
