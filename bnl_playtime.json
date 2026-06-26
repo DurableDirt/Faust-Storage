@@ -1610,9 +1610,9 @@
     "total_seconds": 766
   },
   "adeadhead": {
-    "week_seconds": 368697,
+    "week_seconds": 368818,
     "week_start": 1782112760,
-    "total_seconds": 857983
+    "total_seconds": 858104
   },
   "cedarvaliant": {
     "week_seconds": 41411,
@@ -10155,9 +10155,9 @@
     "total_seconds": 17529
   },
   "udonnoodler": {
-    "week_seconds": 44593,
+    "week_seconds": 50719,
     "week_start": 1782266515,
-    "total_seconds": 44593
+    "total_seconds": 50719
   },
   "redeyereed_": {
     "week_seconds": 1181,
@@ -11568,5 +11568,10 @@
     "week_seconds": 5,
     "week_start": 1782455208,
     "total_seconds": 5
+  },
+  "timoslip": {
+    "week_seconds": 0,
+    "week_start": 1782461378,
+    "total_seconds": 0
   }
 }
