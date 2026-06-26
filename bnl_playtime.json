@@ -3905,14 +3905,14 @@
     "total_seconds": 206
   },
   "kinghasantheone": {
-    "week_seconds": 63308,
+    "week_seconds": 65000,
     "week_start": 1782206360,
-    "total_seconds": 295779
+    "total_seconds": 297471
   },
   "stefanmakker": {
-    "week_seconds": 8713,
+    "week_seconds": 12102,
     "week_start": 1782206360,
-    "total_seconds": 26240
+    "total_seconds": 29629
   },
   "bruisedbread": {
     "week_seconds": 47768,
@@ -11655,8 +11655,8 @@
     "total_seconds": 102
   },
   "ren_zl": {
-    "week_seconds": 10,
+    "week_seconds": 18,
     "week_start": 1782477002,
-    "total_seconds": 10
+    "total_seconds": 18
   }
 }
