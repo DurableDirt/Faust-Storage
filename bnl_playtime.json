@@ -640,9 +640,9 @@
     "total_seconds": 90843
   },
   "beepcar": {
-    "week_seconds": 212311,
+    "week_seconds": 213280,
     "week_start": 1782087560,
-    "total_seconds": 376983
+    "total_seconds": 377952
   },
   "moopie50": {
     "week_seconds": 6443,
@@ -11795,13 +11795,13 @@
     "total_seconds": 478
   },
   "sirkarde619": {
-    "week_seconds": 0,
+    "week_seconds": 529,
     "week_start": 1782490392,
-    "total_seconds": 0
+    "total_seconds": 529
   },
   "joadgr": {
-    "week_seconds": 0,
+    "week_seconds": 329,
     "week_start": 1782490581,
-    "total_seconds": 0
+    "total_seconds": 329
   }
 }
