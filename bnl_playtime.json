@@ -2235,9 +2235,9 @@
     "total_seconds": 191
   },
   "viperth": {
-    "week_seconds": 26139,
+    "week_seconds": 28536,
     "week_start": 1782134360,
-    "total_seconds": 165896
+    "total_seconds": 168293
   },
   "zalvvv": {
     "week_seconds": 59862,
@@ -2270,9 +2270,9 @@
     "total_seconds": 259271
   },
   "wickedmartin": {
-    "week_seconds": 31918,
+    "week_seconds": 32172,
     "week_start": 1782137960,
-    "total_seconds": 82181
+    "total_seconds": 82435
   },
   "fighterferret": {
     "week_seconds": 1823,
@@ -11753,5 +11753,10 @@
     "week_seconds": 0,
     "week_start": 1782487068,
     "total_seconds": 0
+  },
+  "wokyuukuubo": {
+    "week_seconds": 5,
+    "week_start": 1782487413,
+    "total_seconds": 5
   }
 }
