@@ -525,9 +525,9 @@
     "total_seconds": 7709
   },
   "shadno": {
-    "week_seconds": 92589,
+    "week_seconds": 92606,
     "week_start": 1782087560,
-    "total_seconds": 357056
+    "total_seconds": 357073
   },
   "hexayn": {
     "week_seconds": 26033,
@@ -5395,9 +5395,9 @@
     "total_seconds": 18208
   },
   "eggentron": {
-    "week_seconds": 0,
+    "week_seconds": 739,
     "week_start": 1782328760,
-    "total_seconds": 10159
+    "total_seconds": 10898
   },
   "the_banana_man": {
     "week_seconds": 0,
