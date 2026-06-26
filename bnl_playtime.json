@@ -2255,9 +2255,9 @@
     "total_seconds": 36756
   },
   "sajtos_puffancs": {
-    "week_seconds": 29480,
+    "week_seconds": 33656,
     "week_start": 1782134360,
-    "total_seconds": 67941
+    "total_seconds": 72117
   },
   "nekroz09": {
     "week_seconds": 28860,
@@ -6960,9 +6960,9 @@
     "total_seconds": 10096
   },
   "pikachu17tim": {
-    "week_seconds": 36630,
+    "week_seconds": 36705,
     "week_start": 1781881881,
-    "total_seconds": 36630
+    "total_seconds": 36705
   },
   "arosinas": {
     "week_seconds": 11,
@@ -11688,5 +11688,10 @@
     "week_seconds": 1085,
     "week_start": 1782478817,
     "total_seconds": 1085
+  },
+  "thesquidyy": {
+    "week_seconds": 0,
+    "week_start": 1782480047,
+    "total_seconds": 0
   }
 }
