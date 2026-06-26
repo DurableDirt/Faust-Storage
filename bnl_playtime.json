@@ -6870,33 +6870,33 @@
     "total_seconds": 14
   },
   "dzikil1s": {
-    "week_seconds": 10618,
-    "week_start": 1781868214,
+    "week_seconds": 0,
+    "week_start": 1782476360,
     "total_seconds": 10618
   },
   "rudy_7_7": {
-    "week_seconds": 8603,
-    "week_start": 1781868260,
+    "week_seconds": 0,
+    "week_start": 1782476360,
     "total_seconds": 8603
   },
   "mobee2": {
-    "week_seconds": 480,
-    "week_start": 1781869848,
+    "week_seconds": 0,
+    "week_start": 1782476360,
     "total_seconds": 480
   },
   "flight_master": {
-    "week_seconds": 4699,
-    "week_start": 1781870752,
+    "week_seconds": 0,
+    "week_start": 1782476360,
     "total_seconds": 4699
   },
   "elementkz": {
-    "week_seconds": 1237,
-    "week_start": 1781871473,
+    "week_seconds": 0,
+    "week_start": 1782476360,
     "total_seconds": 1237
   },
   "david10240": {
-    "week_seconds": 202,
-    "week_start": 1781871485,
+    "week_seconds": 0,
+    "week_start": 1782476360,
     "total_seconds": 202
   },
   "rafa21212312": {
@@ -10480,9 +10480,9 @@
     "total_seconds": 8640
   },
   "dinner12": {
-    "week_seconds": 9185,
+    "week_seconds": 9217,
     "week_start": 1782325250,
-    "total_seconds": 9185
+    "total_seconds": 9217
   },
   "dragon_king4567": {
     "week_seconds": 110,
@@ -11642,6 +11642,11 @@
   "safi4410": {
     "week_seconds": 0,
     "week_start": 1782475342,
+    "total_seconds": 0
+  },
+  "tjimindie": {
+    "week_seconds": 0,
+    "week_start": 1782476404,
     "total_seconds": 0
   }
 }
