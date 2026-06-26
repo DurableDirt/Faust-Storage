@@ -865,9 +865,9 @@
     "total_seconds": 23
   },
   "anvil": {
-    "week_seconds": 119477,
+    "week_seconds": 135291,
     "week_start": 1782091160,
-    "total_seconds": 141741
+    "total_seconds": 157555
   },
   "deerifius": {
     "week_seconds": 17699,
@@ -2560,9 +2560,9 @@
     "total_seconds": 248164
   },
   "myng11": {
-    "week_seconds": 13512,
+    "week_seconds": 14902,
     "week_start": 1782145160,
-    "total_seconds": 31075
+    "total_seconds": 32465
   },
   "dondindundan": {
     "week_seconds": 0,
@@ -11785,8 +11785,8 @@
     "total_seconds": 388
   },
   "poland__": {
-    "week_seconds": 9,
+    "week_seconds": 38,
     "week_start": 1782490001,
-    "total_seconds": 9
+    "total_seconds": 38
   }
 }
