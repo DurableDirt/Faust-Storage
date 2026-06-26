@@ -1410,9 +1410,9 @@
     "total_seconds": 115
   },
   "helloheavy": {
-    "week_seconds": 4236,
+    "week_seconds": 4412,
     "week_start": 1782101960,
-    "total_seconds": 10323
+    "total_seconds": 10499
   },
   "octo_kat": {
     "week_seconds": 0,
@@ -11507,6 +11507,11 @@
   "puddle_88": {
     "week_seconds": 0,
     "week_start": 1782448243,
+    "total_seconds": 0
+  },
+  "griessenplaysmc": {
+    "week_seconds": 0,
+    "week_start": 1782448414,
     "total_seconds": 0
   }
 }
