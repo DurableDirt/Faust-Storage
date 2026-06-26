@@ -2150,9 +2150,9 @@
     "total_seconds": 142603
   },
   "azurisdev": {
-    "week_seconds": 871,
+    "week_seconds": 905,
     "week_start": 1782134360,
-    "total_seconds": 1004
+    "total_seconds": 1038
   },
   "dryna1825": {
     "week_seconds": 0,
@@ -2630,9 +2630,9 @@
     "total_seconds": 120196
   },
   "joldidk": {
-    "week_seconds": 57542,
+    "week_seconds": 57545,
     "week_start": 1782145160,
-    "total_seconds": 127637
+    "total_seconds": 127640
   },
   "hegghogaming": {
     "week_seconds": 26334,
@@ -3325,9 +3325,9 @@
     "total_seconds": 436
   },
   "noneavailable": {
-    "week_seconds": 51376,
+    "week_seconds": 56087,
     "week_start": 1782170360,
-    "total_seconds": 82440
+    "total_seconds": 87151
   },
   "diegochotocho": {
     "week_seconds": 0,
@@ -3580,9 +3580,9 @@
     "total_seconds": 373143
   },
   "frozenfrosty30": {
-    "week_seconds": 10864,
+    "week_seconds": 10874,
     "week_start": 1782181160,
-    "total_seconds": 50382
+    "total_seconds": 50392
   },
   "jgirls": {
     "week_seconds": 0,
@@ -11978,5 +11978,10 @@
     "week_seconds": 29,
     "week_start": 1782506555,
     "total_seconds": 29
+  },
+  "orange_spider": {
+    "week_seconds": 0,
+    "week_start": 1782507282,
+    "total_seconds": 0
   }
 }
