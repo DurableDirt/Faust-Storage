@@ -4625,9 +4625,9 @@
     "total_seconds": 3093
   },
   "risk99": {
-    "week_seconds": 29,
+    "week_seconds": 50,
     "week_start": 1782260360,
-    "total_seconds": 49
+    "total_seconds": 70
   },
   "requalre": {
     "week_seconds": 63611,
