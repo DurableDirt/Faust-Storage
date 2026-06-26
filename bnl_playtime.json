@@ -1690,9 +1690,9 @@
     "total_seconds": 45519
   },
   "solitaire7": {
-    "week_seconds": 113828,
+    "week_seconds": 114787,
     "week_start": 1782116360,
-    "total_seconds": 268780
+    "total_seconds": 269739
   },
   "masqo_": {
     "week_seconds": 1065,
@@ -11575,8 +11575,8 @@
     "total_seconds": 480
   },
   "bandhi": {
-    "week_seconds": 0,
+    "week_seconds": 152,
     "week_start": 1782464215,
-    "total_seconds": 0
+    "total_seconds": 152
   }
 }
