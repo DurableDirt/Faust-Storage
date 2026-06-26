@@ -1520,9 +1520,9 @@
     "total_seconds": 171582
   },
   "_jaek": {
-    "week_seconds": 166189,
+    "week_seconds": 166249,
     "week_start": 1782109160,
-    "total_seconds": 304509
+    "total_seconds": 304569
   },
   "deuteriumoxide1": {
     "week_seconds": 4431,
@@ -11825,8 +11825,8 @@
     "total_seconds": 184
   },
   "pickledclowdz": {
-    "week_seconds": 0,
+    "week_seconds": 52,
     "week_start": 1782494671,
-    "total_seconds": 0
+    "total_seconds": 52
   }
 }
