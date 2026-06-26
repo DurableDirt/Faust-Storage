@@ -75,9 +75,9 @@
     "total_seconds": 177084
   },
   "40mm": {
-    "week_seconds": 124526,
+    "week_seconds": 124767,
     "week_start": 1782080360,
-    "total_seconds": 210890
+    "total_seconds": 211131
   },
   "lynx2007": {
     "week_seconds": 49828,
@@ -3775,9 +3775,9 @@
     "total_seconds": 3463
   },
   "walleyefish": {
-    "week_seconds": 91986,
+    "week_seconds": 92249,
     "week_start": 1782191960,
-    "total_seconds": 171424
+    "total_seconds": 171687
   },
   "nukinmouse01": {
     "week_seconds": 1437,
@@ -11592,6 +11592,11 @@
   "xiawni": {
     "week_seconds": 0,
     "week_start": 1782466260,
+    "total_seconds": 0
+  },
+  "pattack1": {
+    "week_seconds": 0,
+    "week_start": 1782466419,
     "total_seconds": 0
   }
 }
