@@ -905,9 +905,9 @@
     "total_seconds": 34278
   },
   "ifriendiscool": {
-    "week_seconds": 159516,
+    "week_seconds": 159746,
     "week_start": 1782091160,
-    "total_seconds": 304514
+    "total_seconds": 304744
   },
   "ytrewq64": {
     "week_seconds": 11487,
@@ -11937,6 +11937,11 @@
   "wheeziestbeef95": {
     "week_seconds": 0,
     "week_start": 1782501322,
+    "total_seconds": 0
+  },
+  "toontasker": {
+    "week_seconds": 0,
+    "week_start": 1782501802,
     "total_seconds": 0
   }
 }
