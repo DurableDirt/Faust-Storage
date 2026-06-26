@@ -245,9 +245,9 @@
     "total_seconds": 54269
   },
   "aluminum_foil_": {
-    "week_seconds": 121766,
+    "week_seconds": 121777,
     "week_start": 1782083960,
-    "total_seconds": 282470
+    "total_seconds": 282481
   },
   "mpusa": {
     "week_seconds": 34373,
@@ -10865,9 +10865,9 @@
     "total_seconds": 5
   },
   "reevoze_": {
-    "week_seconds": 3882,
+    "week_seconds": 5111,
     "week_start": 1782368347,
-    "total_seconds": 3882
+    "total_seconds": 5111
   },
   "yoongwinam": {
     "week_seconds": 87,
