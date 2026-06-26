@@ -75,9 +75,9 @@
     "total_seconds": 177084
   },
   "40mm": {
-    "week_seconds": 124767,
+    "week_seconds": 125862,
     "week_start": 1782080360,
-    "total_seconds": 211131
+    "total_seconds": 212226
   },
   "lynx2007": {
     "week_seconds": 49828,
@@ -1580,9 +1580,9 @@
     "total_seconds": 206049
   },
   "gobblin": {
-    "week_seconds": 24861,
+    "week_seconds": 28387,
     "week_start": 1782112760,
-    "total_seconds": 91462
+    "total_seconds": 94988
   },
   "vlinar": {
     "week_seconds": 54852,
@@ -11598,5 +11598,10 @@
     "week_seconds": 121,
     "week_start": 1782466419,
     "total_seconds": 121
+  },
+  "brocky16": {
+    "week_seconds": 0,
+    "week_start": 1782467497,
+    "total_seconds": 0
   }
 }
