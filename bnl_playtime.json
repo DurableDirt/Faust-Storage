@@ -6620,9 +6620,9 @@
     "total_seconds": 63934
   },
   "igeeker": {
-    "week_seconds": 2682,
+    "week_seconds": 2897,
     "week_start": 1782440360,
-    "total_seconds": 14022
+    "total_seconds": 14237
   },
   "follivlxx": {
     "week_seconds": 0,
@@ -11613,5 +11613,10 @@
     "week_seconds": 5,
     "week_start": 1782469300,
     "total_seconds": 5
+  },
+  "espiramc": {
+    "week_seconds": 61,
+    "week_start": 1782469355,
+    "total_seconds": 61
   }
 }
