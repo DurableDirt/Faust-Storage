@@ -955,9 +955,9 @@
     "total_seconds": 261503
   },
   "pointy_hii": {
-    "week_seconds": 103938,
+    "week_seconds": 104162,
     "week_start": 1782091160,
-    "total_seconds": 224767
+    "total_seconds": 224991
   },
   "blewo": {
     "week_seconds": 0,
@@ -1420,9 +1420,9 @@
     "total_seconds": 2467
   },
   "vibeturtle": {
-    "week_seconds": 20816,
+    "week_seconds": 20817,
     "week_start": 1782101960,
-    "total_seconds": 79020
+    "total_seconds": 79021
   },
   "westley2099": {
     "week_seconds": 0,
@@ -11940,8 +11940,8 @@
     "total_seconds": 0
   },
   "toontasker": {
-    "week_seconds": 0,
+    "week_seconds": 371,
     "week_start": 1782501802,
-    "total_seconds": 0
+    "total_seconds": 371
   }
 }
