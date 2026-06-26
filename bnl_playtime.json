@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 169756,
+    "week_seconds": 169842,
     "week_start": 1782119960,
-    "total_seconds": 383854
+    "total_seconds": 383940
   },
   "stavros_ell": {
     "week_seconds": 57943,
@@ -2555,9 +2555,9 @@
     "total_seconds": 1116
   },
   "yunfi": {
-    "week_seconds": 125142,
+    "week_seconds": 125733,
     "week_start": 1782145160,
-    "total_seconds": 254415
+    "total_seconds": 255006
   },
   "myng11": {
     "week_seconds": 23374,
@@ -12137,6 +12137,11 @@
   "mrgreedy_67": {
     "week_seconds": 0,
     "week_start": 1782515626,
+    "total_seconds": 0
+  },
+  "xdernamenlose": {
+    "week_seconds": 0,
+    "week_start": 1782515717,
     "total_seconds": 0
   }
 }
