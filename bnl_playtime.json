@@ -1790,9 +1790,9 @@
     "total_seconds": 4286
   },
   "battleofsky": {
-    "week_seconds": 61168,
+    "week_seconds": 61884,
     "week_start": 1782123560,
-    "total_seconds": 80519
+    "total_seconds": 81235
   },
   "lgamant": {
     "week_seconds": 12001,
@@ -7395,9 +7395,9 @@
     "total_seconds": 517
   },
   "popiahrei": {
-    "week_seconds": 27843,
+    "week_seconds": 28267,
     "week_start": 1781928456,
-    "total_seconds": 27843
+    "total_seconds": 28267
   },
   "_medb_": {
     "week_seconds": 18300,
