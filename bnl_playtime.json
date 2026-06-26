@@ -1370,9 +1370,9 @@
     "total_seconds": 182958
   },
   "adelover01": {
-    "week_seconds": 88813,
+    "week_seconds": 89775,
     "week_start": 1782101960,
-    "total_seconds": 133285
+    "total_seconds": 134247
   },
   "furybyproxy": {
     "week_seconds": 3352,
@@ -8895,9 +8895,9 @@
     "total_seconds": 43
   },
   "faseplay": {
-    "week_seconds": 110791,
+    "week_seconds": 110903,
     "week_start": 1782124080,
-    "total_seconds": 110791
+    "total_seconds": 110903
   },
   "jaskowanie": {
     "week_seconds": 3,
@@ -11280,9 +11280,9 @@
     "total_seconds": 15110
   },
   "47loken": {
-    "week_seconds": 8518,
+    "week_seconds": 12381,
     "week_start": 1782422294,
-    "total_seconds": 8518
+    "total_seconds": 12381
   },
   "genius_flint": {
     "week_seconds": 3,
@@ -11698,5 +11698,10 @@
     "week_seconds": 60,
     "week_start": 1782480241,
     "total_seconds": 60
+  },
+  "nisawwa": {
+    "week_seconds": 0,
+    "week_start": 1782481135,
+    "total_seconds": 0
   }
 }
