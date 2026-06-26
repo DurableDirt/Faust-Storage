@@ -310,9 +310,9 @@
     "total_seconds": 215951
   },
   "willowpox": {
-    "week_seconds": 82726,
+    "week_seconds": 97695,
     "week_start": 1782083960,
-    "total_seconds": 223544
+    "total_seconds": 238513
   },
   "ian21652": {
     "week_seconds": 112271,
@@ -3435,9 +3435,9 @@
     "total_seconds": 10528
   },
   "huskydog9988": {
-    "week_seconds": 52871,
+    "week_seconds": 52880,
     "week_start": 1782173960,
-    "total_seconds": 142510
+    "total_seconds": 142519
   },
   "jromeasfsniper": {
     "week_seconds": 26067,
@@ -11862,6 +11862,11 @@
   "cryptoclixy": {
     "week_seconds": 0,
     "week_start": 1782496304,
+    "total_seconds": 0
+  },
+  "iceyzyt": {
+    "week_seconds": 0,
+    "week_start": 1782496534,
     "total_seconds": 0
   }
 }
