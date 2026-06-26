@@ -4775,9 +4775,9 @@
     "total_seconds": 874
   },
   "beefclapper420": {
-    "week_seconds": 49084,
+    "week_seconds": 49161,
     "week_start": 1782267560,
-    "total_seconds": 153426
+    "total_seconds": 153503
   },
   "holisticjalapeno": {
     "week_seconds": 0,
@@ -11493,5 +11493,10 @@
     "week_seconds": 482,
     "week_start": 1782446524,
     "total_seconds": 482
+  },
+  "zqpphr": {
+    "week_seconds": 0,
+    "week_start": 1782447142,
+    "total_seconds": 0
   }
 }
