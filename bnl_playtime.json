@@ -680,9 +680,9 @@
     "total_seconds": 17494
   },
   "varbo": {
-    "week_seconds": 51386,
+    "week_seconds": 53198,
     "week_start": 1782087560,
-    "total_seconds": 85440
+    "total_seconds": 87252
   },
   "cheesenoodle24": {
     "week_seconds": 848,
@@ -2080,9 +2080,9 @@
     "total_seconds": 189493
   },
   "ice_cream_guy": {
-    "week_seconds": 14394,
+    "week_seconds": 15352,
     "week_start": 1782130760,
-    "total_seconds": 50175
+    "total_seconds": 51133
   },
   "strocraft": {
     "week_seconds": 74387,
@@ -2660,9 +2660,9 @@
     "total_seconds": 1721
   },
   "binchymonkey": {
-    "week_seconds": 11299,
+    "week_seconds": 11689,
     "week_start": 1782148760,
-    "total_seconds": 22213
+    "total_seconds": 22603
   },
   "thehypercore": {
     "week_seconds": 1981,
@@ -11395,13 +11395,18 @@
     "total_seconds": 211
   },
   "carefreedesigner": {
-    "week_seconds": 316,
+    "week_seconds": 946,
     "week_start": 1782434242,
-    "total_seconds": 316
+    "total_seconds": 946
   },
   "obs3rver_7": {
     "week_seconds": 84,
     "week_start": 1782435089,
     "total_seconds": 84
+  },
+  "hamburger46": {
+    "week_seconds": 0,
+    "week_start": 1782435319,
+    "total_seconds": 0
   }
 }
