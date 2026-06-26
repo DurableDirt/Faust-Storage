@@ -7010,9 +7010,9 @@
     "total_seconds": 73
   },
   "pfp_nexl": {
-    "week_seconds": 4485,
+    "week_seconds": 4569,
     "week_start": 1782490760,
-    "total_seconds": 96018
+    "total_seconds": 96102
   },
   "blizardxace": {
     "week_seconds": 0,
@@ -11730,9 +11730,9 @@
     "total_seconds": 1421
   },
   "jircon_gamer": {
-    "week_seconds": 4117,
+    "week_seconds": 5220,
     "week_start": 1782486191,
-    "total_seconds": 4117
+    "total_seconds": 5220
   },
   "k3nzielu": {
     "week_seconds": 543,
@@ -11833,5 +11833,10 @@
     "week_seconds": 135,
     "week_start": 1782495172,
     "total_seconds": 135
+  },
+  "deadpool_2026": {
+    "week_seconds": 0,
+    "week_start": 1782495400,
+    "total_seconds": 0
   }
 }
