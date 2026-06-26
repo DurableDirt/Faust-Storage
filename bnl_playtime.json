@@ -10205,9 +10205,9 @@
     "total_seconds": 13652
   },
   "kerplounk": {
-    "week_seconds": 4864,
+    "week_seconds": 4869,
     "week_start": 1782276901,
-    "total_seconds": 4864
+    "total_seconds": 4869
   },
   "dcdylanc123410": {
     "week_seconds": 29,
@@ -11418,5 +11418,10 @@
     "week_seconds": 6,
     "week_start": 1782437630,
     "total_seconds": 6
+  },
+  "davking5930": {
+    "week_seconds": 0,
+    "week_start": 1782438330,
+    "total_seconds": 0
   }
 }
