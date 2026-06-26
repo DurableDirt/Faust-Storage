@@ -1805,9 +1805,9 @@
     "total_seconds": 25095
   },
   "creepi0n": {
-    "week_seconds": 67359,
+    "week_seconds": 70387,
     "week_start": 1782123560,
-    "total_seconds": 167817
+    "total_seconds": 170845
   },
   "_monor": {
     "week_seconds": 0,
@@ -11378,5 +11378,10 @@
     "week_seconds": 265,
     "week_start": 1782431536,
     "total_seconds": 265
+  },
+  "axusgrad": {
+    "week_seconds": 0,
+    "week_start": 1782432506,
+    "total_seconds": 0
   }
 }
