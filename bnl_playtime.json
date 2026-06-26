@@ -8875,9 +8875,9 @@
     "total_seconds": 4736
   },
   "morningsoda": {
-    "week_seconds": 37635,
+    "week_seconds": 37667,
     "week_start": 1782120503,
-    "total_seconds": 37635
+    "total_seconds": 37667
   },
   "nitando1234": {
     "week_seconds": 5,
@@ -11797,6 +11797,11 @@
   "sirkarde619": {
     "week_seconds": 0,
     "week_start": 1782490392,
+    "total_seconds": 0
+  },
+  "joadgr": {
+    "week_seconds": 0,
+    "week_start": 1782490581,
     "total_seconds": 0
   }
 }
