@@ -75,9 +75,9 @@
     "total_seconds": 177084
   },
   "40mm": {
-    "week_seconds": 120119,
+    "week_seconds": 124525,
     "week_start": 1782080360,
-    "total_seconds": 206483
+    "total_seconds": 210889
   },
   "lynx2007": {
     "week_seconds": 49828,
@@ -11583,5 +11583,10 @@
     "week_seconds": 44,
     "week_start": 1782464892,
     "total_seconds": 44
+  },
+  "tgaminghun": {
+    "week_seconds": 0,
+    "week_start": 1782465410,
+    "total_seconds": 0
   }
 }
