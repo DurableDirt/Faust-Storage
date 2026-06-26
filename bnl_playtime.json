@@ -155,9 +155,9 @@
     "total_seconds": 55236
   },
   "lightningboi4": {
-    "week_seconds": 138757,
+    "week_seconds": 139346,
     "week_start": 1782083960,
-    "total_seconds": 290470
+    "total_seconds": 291059
   },
   "aaroni_macaroni": {
     "week_seconds": 45025,
@@ -1095,9 +1095,9 @@
     "total_seconds": 39481
   },
   "magickponch": {
-    "week_seconds": 92959,
+    "week_seconds": 94505,
     "week_start": 1782094760,
-    "total_seconds": 157131
+    "total_seconds": 158677
   },
   "nevergrimm": {
     "week_seconds": 65806,
@@ -1420,9 +1420,9 @@
     "total_seconds": 2467
   },
   "vibeturtle": {
-    "week_seconds": 20803,
+    "week_seconds": 20810,
     "week_start": 1782101960,
-    "total_seconds": 79007
+    "total_seconds": 79014
   },
   "westley2099": {
     "week_seconds": 0,
@@ -1675,9 +1675,9 @@
     "total_seconds": 275122
   },
   "jaydon_": {
-    "week_seconds": 49677,
+    "week_seconds": 50294,
     "week_start": 1782116360,
-    "total_seconds": 213263
+    "total_seconds": 213880
   },
   "pina0210": {
     "week_seconds": 0,
@@ -2030,9 +2030,9 @@
     "total_seconds": 8
   },
   "benzoeg": {
-    "week_seconds": 3570,
+    "week_seconds": 6209,
     "week_start": 1782130760,
-    "total_seconds": 60077
+    "total_seconds": 62716
   },
   "showerenjoyer7": {
     "week_seconds": 22805,
@@ -11912,6 +11912,11 @@
   "fatpotato123456": {
     "week_seconds": 0,
     "week_start": 1782499562,
+    "total_seconds": 0
+  },
+  "vatuu": {
+    "week_seconds": 0,
+    "week_start": 1782499798,
     "total_seconds": 0
   }
 }
