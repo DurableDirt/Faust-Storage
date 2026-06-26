@@ -6705,9 +6705,9 @@
     "total_seconds": 187527
   },
   "heartsii": {
-    "week_seconds": 685,
+    "week_seconds": 761,
     "week_start": 1782447560,
-    "total_seconds": 287304
+    "total_seconds": 287380
   },
   "muddy443m": {
     "week_seconds": 10774,
@@ -11503,5 +11503,10 @@
     "week_seconds": 48,
     "week_start": 1782447750,
     "total_seconds": 48
+  },
+  "puddle_88": {
+    "week_seconds": 0,
+    "week_start": 1782448243,
+    "total_seconds": 0
   }
 }
