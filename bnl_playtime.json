@@ -3105,9 +3105,9 @@
     "total_seconds": 27258
   },
   "crow9225": {
-    "week_seconds": 95277,
+    "week_seconds": 95306,
     "week_start": 1782163160,
-    "total_seconds": 106415
+    "total_seconds": 106444
   },
   "nhmillia": {
     "week_seconds": 0,
@@ -10715,9 +10715,9 @@
     "total_seconds": 101
   },
   "infanomaly": {
-    "week_seconds": 11772,
+    "week_seconds": 12298,
     "week_start": 1782349711,
-    "total_seconds": 11772
+    "total_seconds": 12298
   },
   "bronx16": {
     "week_seconds": 3179,
@@ -12070,8 +12070,8 @@
     "total_seconds": 39
   },
   "coralia": {
-    "week_seconds": 0,
+    "week_seconds": 160,
     "week_start": 1782511724,
-    "total_seconds": 0
+    "total_seconds": 160
   }
 }
