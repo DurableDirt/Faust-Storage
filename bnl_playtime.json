@@ -435,9 +435,9 @@
     "total_seconds": 12
   },
   "morphobutterfly": {
-    "week_seconds": 32875,
+    "week_seconds": 36119,
     "week_start": 1782083960,
-    "total_seconds": 54365
+    "total_seconds": 57609
   },
   "screamteam2005": {
     "week_seconds": 62261,
@@ -11970,8 +11970,8 @@
     "total_seconds": 0
   },
   "weaponarchitect": {
-    "week_seconds": 0,
+    "week_seconds": 200,
     "week_start": 1782505754,
-    "total_seconds": 0
+    "total_seconds": 200
   }
 }
