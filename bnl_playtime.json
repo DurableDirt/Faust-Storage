@@ -1370,9 +1370,9 @@
     "total_seconds": 182958
   },
   "adelover01": {
-    "week_seconds": 89775,
+    "week_seconds": 90005,
     "week_start": 1782101960,
-    "total_seconds": 134247
+    "total_seconds": 134477
   },
   "furybyproxy": {
     "week_seconds": 3352,
@@ -11708,5 +11708,10 @@
     "week_seconds": 302,
     "week_start": 1782481469,
     "total_seconds": 302
+  },
+  "andrew_41": {
+    "week_seconds": 0,
+    "week_start": 1782482011,
+    "total_seconds": 0
   }
 }
