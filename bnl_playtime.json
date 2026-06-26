@@ -6545,9 +6545,9 @@
     "total_seconds": 2479
   },
   "chair2head": {
-    "week_seconds": 0,
+    "week_seconds": 28,
     "week_start": 1782433160,
-    "total_seconds": 71688
+    "total_seconds": 71716
   },
   "nagloxd": {
     "week_seconds": 0,
@@ -11390,8 +11390,8 @@
     "total_seconds": 0
   },
   "ben9075897": {
-    "week_seconds": 0,
+    "week_seconds": 211,
     "week_start": 1782433833,
-    "total_seconds": 0
+    "total_seconds": 211
   }
 }
