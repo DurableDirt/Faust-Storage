@@ -2260,9 +2260,9 @@
     "total_seconds": 67941
   },
   "nekroz09": {
-    "week_seconds": 26263,
+    "week_seconds": 26930,
     "week_start": 1782137960,
-    "total_seconds": 50196
+    "total_seconds": 50863
   },
   "pergyskeel": {
     "week_seconds": 115414,
@@ -11280,9 +11280,9 @@
     "total_seconds": 15110
   },
   "47loken": {
-    "week_seconds": 7739,
+    "week_seconds": 8518,
     "week_start": 1782422294,
-    "total_seconds": 7739
+    "total_seconds": 8518
   },
   "genius_flint": {
     "week_seconds": 3,
@@ -11647,6 +11647,11 @@
   "tjimindie": {
     "week_seconds": 0,
     "week_start": 1782476404,
+    "total_seconds": 0
+  },
+  "tednark": {
+    "week_seconds": 0,
+    "week_start": 1782476786,
     "total_seconds": 0
   }
 }
