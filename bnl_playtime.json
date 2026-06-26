@@ -45,9 +45,9 @@
     "total_seconds": 230043
   },
   "lucifer420xx": {
-    "week_seconds": 17097,
+    "week_seconds": 19307,
     "week_start": 1782080360,
-    "total_seconds": 85956
+    "total_seconds": 88166
   },
   "meenos": {
     "week_seconds": 38880,
@@ -2555,9 +2555,9 @@
     "total_seconds": 1116
   },
   "yunfi": {
-    "week_seconds": 112636,
+    "week_seconds": 113237,
     "week_start": 1782145160,
-    "total_seconds": 241909
+    "total_seconds": 242510
   },
   "myng11": {
     "week_seconds": 13512,
@@ -3440,9 +3440,9 @@
     "total_seconds": 135927
   },
   "jromeasfsniper": {
-    "week_seconds": 18223,
+    "week_seconds": 26067,
     "week_start": 1782173960,
-    "total_seconds": 70901
+    "total_seconds": 78745
   },
   "smilers": {
     "week_seconds": 0,
@@ -11467,6 +11467,11 @@
   "wolftale": {
     "week_seconds": 0,
     "week_start": 1782444008,
+    "total_seconds": 0
+  },
+  "xrhino": {
+    "week_seconds": 0,
+    "week_start": 1782444590,
     "total_seconds": 0
   }
 }
