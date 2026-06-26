@@ -130,9 +130,9 @@
     "total_seconds": 53094
   },
   "threeapplestall": {
-    "week_seconds": 76821,
+    "week_seconds": 76852,
     "week_start": 1782083960,
-    "total_seconds": 367230
+    "total_seconds": 367261
   },
   "donnelpyke2": {
     "week_seconds": 74359,
@@ -6820,9 +6820,9 @@
     "total_seconds": 5020
   },
   "lysika_lantariel": {
-    "week_seconds": 0,
+    "week_seconds": 408,
     "week_start": 1782465560,
-    "total_seconds": 14182
+    "total_seconds": 14590
   },
   "vedel2050": {
     "week_seconds": 0,
@@ -11618,5 +11618,10 @@
     "week_seconds": 61,
     "week_start": 1782469355,
     "total_seconds": 61
+  },
+  "dar_1289": {
+    "week_seconds": 0,
+    "week_start": 1782469986,
+    "total_seconds": 0
   }
 }
