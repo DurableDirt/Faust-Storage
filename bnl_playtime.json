@@ -1465,9 +1465,9 @@
     "total_seconds": 8856
   },
   "cdragonmaster48": {
-    "week_seconds": 16681,
+    "week_seconds": 16710,
     "week_start": 1782105560,
-    "total_seconds": 82861
+    "total_seconds": 82890
   },
   "szepess": {
     "week_seconds": 9211,
@@ -1515,9 +1515,9 @@
     "total_seconds": 31009
   },
   "fang_op": {
-    "week_seconds": 69760,
+    "week_seconds": 69790,
     "week_start": 1782109160,
-    "total_seconds": 160874
+    "total_seconds": 160904
   },
   "_jaek": {
     "week_seconds": 122510,
@@ -11548,5 +11548,10 @@
     "week_seconds": 84,
     "week_start": 1782451902,
     "total_seconds": 84
+  },
+  "blobus_the_blob": {
+    "week_seconds": 0,
+    "week_start": 1782452184,
+    "total_seconds": 0
   }
 }
