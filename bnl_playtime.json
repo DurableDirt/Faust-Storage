@@ -1225,9 +1225,9 @@
     "total_seconds": 1392
   },
   "_oceanstar": {
-    "week_seconds": 42227,
+    "week_seconds": 42230,
     "week_start": 1782098360,
-    "total_seconds": 177501
+    "total_seconds": 177504
   },
   "kahina": {
     "week_seconds": 70821,
@@ -5715,9 +5715,9 @@
     "total_seconds": 7676
   },
   "rurfu": {
-    "week_seconds": 10355,
+    "week_seconds": 10559,
     "week_start": 1782353960,
-    "total_seconds": 104514
+    "total_seconds": 104718
   },
   "binks4362": {
     "week_seconds": 0,
@@ -11410,9 +11410,9 @@
     "total_seconds": 776
   },
   "mangmanog": {
-    "week_seconds": 171,
+    "week_seconds": 1341,
     "week_start": 1782436338,
-    "total_seconds": 171
+    "total_seconds": 1341
   },
   "vikkivennen": {
     "week_seconds": 6,
@@ -11422,6 +11422,11 @@
   "davking5930": {
     "week_seconds": 0,
     "week_start": 1782438330,
+    "total_seconds": 0
+  },
+  "marck2210": {
+    "week_seconds": 0,
+    "week_start": 1782438355,
     "total_seconds": 0
   }
 }
