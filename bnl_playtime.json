@@ -245,9 +245,9 @@
     "total_seconds": 54269
   },
   "aluminum_foil_": {
-    "week_seconds": 121777,
+    "week_seconds": 129961,
     "week_start": 1782083960,
-    "total_seconds": 282481
+    "total_seconds": 290665
   },
   "mpusa": {
     "week_seconds": 34373,
@@ -11573,5 +11573,10 @@
     "week_seconds": 480,
     "week_start": 1782461378,
     "total_seconds": 480
+  },
+  "bandhi": {
+    "week_seconds": 0,
+    "week_start": 1782464215,
+    "total_seconds": 0
   }
 }
