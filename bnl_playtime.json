@@ -1235,9 +1235,9 @@
     "total_seconds": 191026
   },
   "grantwellson": {
-    "week_seconds": 7,
+    "week_seconds": 14,
     "week_start": 1782098360,
-    "total_seconds": 14704
+    "total_seconds": 14711
   },
   "mtfuji": {
     "week_seconds": 242734,
@@ -3440,9 +3440,9 @@
     "total_seconds": 135927
   },
   "jromeasfsniper": {
-    "week_seconds": 18208,
+    "week_seconds": 18212,
     "week_start": 1782173960,
-    "total_seconds": 70886
+    "total_seconds": 70890
   },
   "smilers": {
     "week_seconds": 0,
@@ -5480,9 +5480,9 @@
     "total_seconds": 2349
   },
   "flameoguide": {
-    "week_seconds": 0,
+    "week_seconds": 15,
     "week_start": 1782335960,
-    "total_seconds": 27991
+    "total_seconds": 28006
   },
   "lycoros": {
     "week_seconds": 3977,
@@ -11395,8 +11395,8 @@
     "total_seconds": 211
   },
   "carefreedesigner": {
-    "week_seconds": 0,
+    "week_seconds": 77,
     "week_start": 1782434242,
-    "total_seconds": 0
+    "total_seconds": 77
   }
 }
