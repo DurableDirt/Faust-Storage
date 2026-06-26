@@ -895,9 +895,9 @@
     "total_seconds": 49792
   },
   "bigg2010": {
-    "week_seconds": 25200,
+    "week_seconds": 28124,
     "week_start": 1782091160,
-    "total_seconds": 56014
+    "total_seconds": 58938
   },
   "gman5420": {
     "week_seconds": 1392,
@@ -11457,6 +11457,11 @@
   "ocelotprincess": {
     "week_seconds": 0,
     "week_start": 1782442530,
+    "total_seconds": 0
+  },
+  "leperlord41": {
+    "week_seconds": 0,
+    "week_start": 1782442586,
     "total_seconds": 0
   }
 }
