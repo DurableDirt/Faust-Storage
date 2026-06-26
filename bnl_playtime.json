@@ -1190,9 +1190,9 @@
     "total_seconds": 94130
   },
   "gubukiv": {
-    "week_seconds": 102788,
+    "week_seconds": 103350,
     "week_start": 1782094760,
-    "total_seconds": 236545
+    "total_seconds": 237107
   },
   "some545": {
     "week_seconds": 0,
@@ -12130,8 +12130,13 @@
     "total_seconds": 704
   },
   "becktyrion": {
-    "week_seconds": 0,
+    "week_seconds": 462,
     "week_start": 1782515160,
+    "total_seconds": 462
+  },
+  "mrgreedy_67": {
+    "week_seconds": 0,
+    "week_start": 1782515626,
     "total_seconds": 0
   }
 }
