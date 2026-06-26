@@ -4225,9 +4225,9 @@
     "total_seconds": 93
   },
   "o_angelbitez": {
-    "week_seconds": 5943,
+    "week_seconds": 6761,
     "week_start": 1782235160,
-    "total_seconds": 31679
+    "total_seconds": 32497
   },
   "power_utter": {
     "week_seconds": 12345,
@@ -11660,8 +11660,13 @@
     "total_seconds": 18
   },
   "caeyrles": {
-    "week_seconds": 0,
+    "week_seconds": 32,
     "week_start": 1782477558,
+    "total_seconds": 32
+  },
+  "letherion08": {
+    "week_seconds": 0,
+    "week_start": 1782477585,
     "total_seconds": 0
   }
 }
