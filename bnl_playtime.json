@@ -3090,9 +3090,9 @@
     "total_seconds": 65126
   },
   "programmergod": {
-    "week_seconds": 31476,
+    "week_seconds": 31805,
     "week_start": 1782159560,
-    "total_seconds": 370546
+    "total_seconds": 370875
   },
   "monkeyaceparagon": {
     "week_seconds": 0,
@@ -12160,8 +12160,13 @@
     "total_seconds": 0
   },
   "sillodegamer": {
-    "week_seconds": 0,
+    "week_seconds": 304,
     "week_start": 1782518051,
+    "total_seconds": 304
+  },
+  "bluhusky": {
+    "week_seconds": 0,
+    "week_start": 1782518359,
     "total_seconds": 0
   }
 }
