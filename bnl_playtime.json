@@ -5115,9 +5115,9 @@
     "total_seconds": 1425
   },
   "ripoffpingu": {
-    "week_seconds": 1727,
+    "week_seconds": 3607,
     "week_start": 1782310760,
-    "total_seconds": 15040
+    "total_seconds": 16920
   },
   "roachkingsupreme": {
     "week_seconds": 7256,
@@ -11570,8 +11570,8 @@
     "total_seconds": 5
   },
   "timoslip": {
-    "week_seconds": 0,
+    "week_seconds": 480,
     "week_start": 1782461378,
-    "total_seconds": 0
+    "total_seconds": 480
   }
 }
