@@ -1690,9 +1690,9 @@
     "total_seconds": 45519
   },
   "solitaire7": {
-    "week_seconds": 113035,
+    "week_seconds": 113828,
     "week_start": 1782116360,
-    "total_seconds": 267987
+    "total_seconds": 268780
   },
   "masqo_": {
     "week_seconds": 1065,
@@ -7380,9 +7380,9 @@
     "total_seconds": 219
   },
   "fleourah": {
-    "week_seconds": 117980,
+    "week_seconds": 121950,
     "week_start": 1781925675,
-    "total_seconds": 117980
+    "total_seconds": 121950
   },
   "roronoa_francis7": {
     "week_seconds": 197,
@@ -11395,8 +11395,8 @@
     "total_seconds": 211
   },
   "carefreedesigner": {
-    "week_seconds": 77,
+    "week_seconds": 160,
     "week_start": 1782434242,
-    "total_seconds": 77
+    "total_seconds": 160
   }
 }
