@@ -2555,9 +2555,9 @@
     "total_seconds": 1116
   },
   "yunfi": {
-    "week_seconds": 113564,
+    "week_seconds": 115868,
     "week_start": 1782145160,
-    "total_seconds": 242837
+    "total_seconds": 245141
   },
   "myng11": {
     "week_seconds": 13512,
@@ -11335,9 +11335,9 @@
     "total_seconds": 5437
   },
   "hongkongfrickyou": {
-    "week_seconds": 89,
+    "week_seconds": 118,
     "week_start": 1782426208,
-    "total_seconds": 89
+    "total_seconds": 118
   },
   "rosyrory": {
     "week_seconds": 11200,
@@ -11498,5 +11498,10 @@
     "week_seconds": 57,
     "week_start": 1782447142,
     "total_seconds": 57
+  },
+  "olfer": {
+    "week_seconds": 0,
+    "week_start": 1782447750,
+    "total_seconds": 0
   }
 }
