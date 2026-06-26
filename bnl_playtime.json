@@ -1420,9 +1420,9 @@
     "total_seconds": 2467
   },
   "vibeturtle": {
-    "week_seconds": 20774,
+    "week_seconds": 20787,
     "week_start": 1782101960,
-    "total_seconds": 78978
+    "total_seconds": 78991
   },
   "westley2099": {
     "week_seconds": 0,
@@ -4265,9 +4265,9 @@
     "total_seconds": 3512
   },
   "tallestthetall": {
-    "week_seconds": 54855,
+    "week_seconds": 82711,
     "week_start": 1782238760,
-    "total_seconds": 251893
+    "total_seconds": 279749
   },
   "stickyfishdaedae": {
     "week_seconds": 0,
@@ -11885,8 +11885,13 @@
     "total_seconds": 56
   },
   "golddough": {
-    "week_seconds": 0,
+    "week_seconds": 289,
     "week_start": 1782498162,
+    "total_seconds": 289
+  },
+  "loophole_py": {
+    "week_seconds": 0,
+    "week_start": 1782498424,
     "total_seconds": 0
   }
 }
