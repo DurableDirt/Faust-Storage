@@ -2065,9 +2065,9 @@
     "total_seconds": 91178
   },
   "whisky_1": {
-    "week_seconds": 2196,
+    "week_seconds": 5977,
     "week_start": 1782130760,
-    "total_seconds": 9382
+    "total_seconds": 13163
   },
   "leonardus07": {
     "week_seconds": 36552,
@@ -3830,9 +3830,9 @@
     "total_seconds": 56729
   },
   "eledion": {
-    "week_seconds": 48751,
+    "week_seconds": 49721,
     "week_start": 1782202760,
-    "total_seconds": 217400
+    "total_seconds": 218370
   },
   "kashev": {
     "week_seconds": 26043,
@@ -11587,6 +11587,11 @@
   "tgaminghun": {
     "week_seconds": 0,
     "week_start": 1782465410,
+    "total_seconds": 0
+  },
+  "xiawni": {
+    "week_seconds": 0,
+    "week_start": 1782466260,
     "total_seconds": 0
   }
 }
