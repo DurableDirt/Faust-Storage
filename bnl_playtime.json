@@ -65,9 +65,9 @@
     "total_seconds": 673854
   },
   "rainsinger": {
-    "week_seconds": 24725,
+    "week_seconds": 24880,
     "week_start": 1782080360,
-    "total_seconds": 118414
+    "total_seconds": 118569
   },
   "jindosh": {
     "week_seconds": 47608,
@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 111676,
+    "week_seconds": 112512,
     "week_start": 1782127160,
-    "total_seconds": 176154
+    "total_seconds": 176990
   },
   "hxrl": {
     "week_seconds": 68504,
@@ -11713,5 +11713,10 @@
     "week_seconds": 26,
     "week_start": 1782482011,
     "total_seconds": 26
+  },
+  "notpicked": {
+    "week_seconds": 0,
+    "week_start": 1782482473,
+    "total_seconds": 0
   }
 }
