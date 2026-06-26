@@ -555,9 +555,9 @@
     "total_seconds": 158
   },
   "zolo17": {
-    "week_seconds": 275042,
+    "week_seconds": 277643,
     "week_start": 1782087560,
-    "total_seconds": 795608
+    "total_seconds": 798209
   },
   "dutchcringe": {
     "week_seconds": 4623,
@@ -1285,9 +1285,9 @@
     "total_seconds": 39386
   },
   "darkwingz17": {
-    "week_seconds": 65524,
+    "week_seconds": 65574,
     "week_start": 1782098360,
-    "total_seconds": 99193
+    "total_seconds": 99243
   },
   "tomete13": {
     "week_seconds": 0,
@@ -2135,9 +2135,9 @@
     "total_seconds": 208
   },
   "captainaxes": {
-    "week_seconds": 111854,
+    "week_seconds": 118649,
     "week_start": 1782134360,
-    "total_seconds": 220135
+    "total_seconds": 226930
   },
   "sqopenspellbook": {
     "week_seconds": 50890,
@@ -11772,6 +11772,11 @@
   "femboikirai": {
     "week_seconds": 0,
     "week_start": 1782488149,
+    "total_seconds": 0
+  },
+  "zjzjz": {
+    "week_seconds": 0,
+    "week_start": 1782488206,
     "total_seconds": 0
   }
 }
