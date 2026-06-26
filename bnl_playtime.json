@@ -545,9 +545,9 @@
     "total_seconds": 58268
   },
   "shoomsi": {
-    "week_seconds": 34051,
+    "week_seconds": 34157,
     "week_start": 1782087560,
-    "total_seconds": 110486
+    "total_seconds": 110592
   },
   "snivelbaby": {
     "week_seconds": 0,
@@ -1650,9 +1650,9 @@
     "total_seconds": 94363
   },
   "virexil": {
-    "week_seconds": 9262,
+    "week_seconds": 9276,
     "week_start": 1782116360,
-    "total_seconds": 43591
+    "total_seconds": 43605
   },
   "voidvin": {
     "week_seconds": 119949,
@@ -1670,9 +1670,9 @@
     "total_seconds": 95201
   },
   "wuli": {
-    "week_seconds": 174786,
+    "week_seconds": 175216,
     "week_start": 1782116360,
-    "total_seconds": 274692
+    "total_seconds": 275122
   },
   "jaydon_": {
     "week_seconds": 33475,
@@ -11625,8 +11625,8 @@
     "total_seconds": 1656
   },
   "moon_life2012": {
-    "week_seconds": 0,
+    "week_seconds": 615,
     "week_start": 1782471231,
-    "total_seconds": 0
+    "total_seconds": 615
   }
 }
