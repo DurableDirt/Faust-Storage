@@ -300,9 +300,9 @@
     "total_seconds": 6332
   },
   "tatsu007": {
-    "week_seconds": 227454,
+    "week_seconds": 227480,
     "week_start": 1782083960,
-    "total_seconds": 603490
+    "total_seconds": 603516
   },
   "olderastory": {
     "week_seconds": 76702,
@@ -11410,8 +11410,8 @@
     "total_seconds": 776
   },
   "mangmanog": {
-    "week_seconds": 0,
+    "week_seconds": 171,
     "week_start": 1782436338,
-    "total_seconds": 0
+    "total_seconds": 171
   }
 }
