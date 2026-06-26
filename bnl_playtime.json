@@ -780,9 +780,9 @@
     "total_seconds": 31899
   },
   "thefoxofnines": {
-    "week_seconds": 34221,
+    "week_seconds": 35350,
     "week_start": 1782091160,
-    "total_seconds": 53800
+    "total_seconds": 54929
   },
   "lalibo": {
     "week_seconds": 32263,
@@ -3830,9 +3830,9 @@
     "total_seconds": 56729
   },
   "eledion": {
-    "week_seconds": 51056,
+    "week_seconds": 51143,
     "week_start": 1782202760,
-    "total_seconds": 219705
+    "total_seconds": 219792
   },
   "kashev": {
     "week_seconds": 26043,
@@ -11050,9 +11050,9 @@
     "total_seconds": 4293
   },
   "patronumcz": {
-    "week_seconds": 5157,
+    "week_seconds": 5275,
     "week_start": 1782401064,
-    "total_seconds": 5157
+    "total_seconds": 5275
   },
   "wordedmeteor450": {
     "week_seconds": 105,
@@ -11602,6 +11602,11 @@
   "brocky16": {
     "week_seconds": 0,
     "week_start": 1782467497,
+    "total_seconds": 0
+  },
+  "greendevel": {
+    "week_seconds": 0,
+    "week_start": 1782467747,
     "total_seconds": 0
   }
 }
