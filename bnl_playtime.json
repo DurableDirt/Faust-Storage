@@ -2270,9 +2270,9 @@
     "total_seconds": 259271
   },
   "wickedmartin": {
-    "week_seconds": 24834,
+    "week_seconds": 31432,
     "week_start": 1782137960,
-    "total_seconds": 75097
+    "total_seconds": 81695
   },
   "fighterferret": {
     "week_seconds": 1823,
@@ -11595,8 +11595,8 @@
     "total_seconds": 0
   },
   "pattack1": {
-    "week_seconds": 0,
+    "week_seconds": 90,
     "week_start": 1782466419,
-    "total_seconds": 0
+    "total_seconds": 90
   }
 }
