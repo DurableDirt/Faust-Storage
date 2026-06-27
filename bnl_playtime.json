@@ -5120,9 +5120,9 @@
     "total_seconds": 19701
   },
   "roachkingsupreme": {
-    "week_seconds": 42483,
+    "week_seconds": 44821,
     "week_start": 1782310760,
-    "total_seconds": 42858
+    "total_seconds": 45196
   },
   "ttympc": {
     "week_seconds": 3427,
@@ -6765,9 +6765,9 @@
     "total_seconds": 14121
   },
   "gabrielmaennl5": {
-    "week_seconds": 20796,
+    "week_seconds": 25078,
     "week_start": 1782461960,
-    "total_seconds": 128301
+    "total_seconds": 132583
   },
   "big_shadow0": {
     "week_seconds": 826,
@@ -12653,5 +12653,10 @@
     "week_seconds": 64,
     "week_start": 1782559999,
     "total_seconds": 64
+  },
+  "djdr": {
+    "week_seconds": 0,
+    "week_start": 1782560271,
+    "total_seconds": 0
   }
 }
