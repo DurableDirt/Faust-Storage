@@ -230,9 +230,9 @@
     "total_seconds": 76
   },
   "the_fella7441": {
-    "week_seconds": 108616,
+    "week_seconds": 114371,
     "week_start": 1782083960,
-    "total_seconds": 171111
+    "total_seconds": 176866
   },
   "hentlol": {
     "week_seconds": 90377,
@@ -7710,9 +7710,9 @@
     "total_seconds": 6575
   },
   "gladiatus13": {
-    "week_seconds": 8645,
+    "week_seconds": 10626,
     "week_start": 1782578158,
-    "total_seconds": 163408
+    "total_seconds": 165389
   },
   "dark_phoenixs": {
     "week_seconds": 0,
@@ -13008,5 +13008,10 @@
     "week_seconds": 114,
     "week_start": 1782596607,
     "total_seconds": 114
+  },
+  "jakerambo": {
+    "week_seconds": 0,
+    "week_start": 1782597257,
+    "total_seconds": 0
   }
 }
