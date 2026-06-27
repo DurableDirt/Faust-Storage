@@ -4800,9 +4800,9 @@
     "total_seconds": 25
   },
   "vadimblin": {
-    "week_seconds": 29179,
+    "week_seconds": 29211,
     "week_start": 1782271160,
-    "total_seconds": 110911
+    "total_seconds": 110943
   },
   "yummyspacebar": {
     "week_seconds": 0,
@@ -12465,8 +12465,13 @@
     "total_seconds": 26
   },
   "cosmiclink": {
-    "week_seconds": 0,
+    "week_seconds": 102,
     "week_start": 1782539257,
+    "total_seconds": 102
+  },
+  "mia_kia": {
+    "week_seconds": 0,
+    "week_start": 1782539339,
     "total_seconds": 0
   }
 }
