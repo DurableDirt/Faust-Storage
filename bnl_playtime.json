@@ -8340,9 +8340,9 @@
     "total_seconds": 25474
   },
   "jwmgregory": {
-    "week_seconds": 47702,
+    "week_seconds": 48484,
     "week_start": 1782056819,
-    "total_seconds": 47702
+    "total_seconds": 48484
   },
   "flutschrobbe": {
     "week_seconds": 1163,
@@ -12888,5 +12888,10 @@
     "week_seconds": 0,
     "week_start": 1782585352,
     "total_seconds": 0
+  },
+  "bveryyy": {
+    "week_seconds": 11,
+    "week_start": 1782585967,
+    "total_seconds": 11
   }
 }
