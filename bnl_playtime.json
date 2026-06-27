@@ -2260,9 +2260,9 @@
     "total_seconds": 72117
   },
   "nekroz09": {
-    "week_seconds": 33759,
+    "week_seconds": 37458,
     "week_start": 1782137960,
-    "total_seconds": 57692
+    "total_seconds": 61391
   },
   "pergyskeel": {
     "week_seconds": 121586,
@@ -11275,9 +11275,9 @@
     "total_seconds": 87
   },
   "duskenfloof": {
-    "week_seconds": 15110,
+    "week_seconds": 18506,
     "week_start": 1782422093,
-    "total_seconds": 15110
+    "total_seconds": 18506
   },
   "47loken": {
     "week_seconds": 12381,
@@ -12172,6 +12172,11 @@
   "egglebagel": {
     "week_seconds": 0,
     "week_start": 1782518645,
+    "total_seconds": 0
+  },
+  "ripper4319": {
+    "week_seconds": 0,
+    "week_start": 1782519272,
     "total_seconds": 0
   }
 }
