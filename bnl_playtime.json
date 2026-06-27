@@ -615,9 +615,9 @@
     "total_seconds": 8502
   },
   "yodabird19": {
-    "week_seconds": 59688,
+    "week_seconds": 63901,
     "week_start": 1782087560,
-    "total_seconds": 321465
+    "total_seconds": 325678
   },
   "justmicwa": {
     "week_seconds": 34355,
@@ -12222,6 +12222,11 @@
   "scioneol": {
     "week_seconds": 0,
     "week_start": 1782522295,
+    "total_seconds": 0
+  },
+  "pinecone0179onyt": {
+    "week_seconds": 0,
+    "week_start": 1782522380,
     "total_seconds": 0
   }
 }
