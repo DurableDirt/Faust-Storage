@@ -2800,9 +2800,9 @@
     "total_seconds": 12
   },
   "sneedchungus": {
-    "week_seconds": 6394,
+    "week_seconds": 9664,
     "week_start": 1782152360,
-    "total_seconds": 24242
+    "total_seconds": 27512
   },
   "koklushz": {
     "week_seconds": 127,
@@ -13038,5 +13038,10 @@
     "week_seconds": 0,
     "week_start": 1782598430,
     "total_seconds": 0
+  },
+  "zvma1": {
+    "week_seconds": 15,
+    "week_start": 1782598654,
+    "total_seconds": 15
   }
 }
