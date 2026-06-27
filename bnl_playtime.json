@@ -1110,9 +1110,9 @@
     "total_seconds": 10607
   },
   "warendrop": {
-    "week_seconds": 144044,
+    "week_seconds": 146983,
     "week_start": 1782094760,
-    "total_seconds": 302982
+    "total_seconds": 305921
   },
   "boatcat": {
     "week_seconds": 43598,
@@ -9070,9 +9070,9 @@
     "total_seconds": 13018
   },
   "e_mac_": {
-    "week_seconds": 64119,
+    "week_seconds": 64152,
     "week_start": 1782146251,
-    "total_seconds": 64119
+    "total_seconds": 64152
   },
   "its_raiju_59": {
     "week_seconds": 1604,
@@ -12617,6 +12617,11 @@
   "clemenselclemen": {
     "week_seconds": 0,
     "week_start": 1782558874,
+    "total_seconds": 0
+  },
+  "lishjo": {
+    "week_seconds": 0,
+    "week_start": 1782558911,
     "total_seconds": 0
   }
 }
