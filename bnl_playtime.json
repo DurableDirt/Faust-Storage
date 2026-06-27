@@ -3905,9 +3905,9 @@
     "total_seconds": 206
   },
   "kinghasantheone": {
-    "week_seconds": 115527,
+    "week_seconds": 117289,
     "week_start": 1782206360,
-    "total_seconds": 347998
+    "total_seconds": 349760
   },
   "stefanmakker": {
     "week_seconds": 15258,
@@ -12778,5 +12778,10 @@
     "week_seconds": 181,
     "week_start": 1782575935,
     "total_seconds": 181
+  },
+  "tutkuw": {
+    "week_seconds": 0,
+    "week_start": 1782576374,
+    "total_seconds": 0
   }
 }
