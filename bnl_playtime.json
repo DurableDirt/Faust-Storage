@@ -400,9 +400,9 @@
     "total_seconds": 6615
   },
   "uprisingmax": {
-    "week_seconds": 79334,
+    "week_seconds": 79557,
     "week_start": 1782083960,
-    "total_seconds": 174603
+    "total_seconds": 174826
   },
   "freshoxygenair": {
     "week_seconds": 0,
@@ -3615,9 +3615,9 @@
     "total_seconds": 1198
   },
   "luminous15": {
-    "week_seconds": 93614,
+    "week_seconds": 93807,
     "week_start": 1782181160,
-    "total_seconds": 162912
+    "total_seconds": 163105
   },
   "frostythorgrim": {
     "week_seconds": 0,
