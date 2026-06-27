@@ -90,9 +90,9 @@
     "total_seconds": 104751
   },
   "chips_and_salsa_": {
-    "week_seconds": 67135,
+    "week_seconds": 67181,
     "week_start": 1782080360,
-    "total_seconds": 117152
+    "total_seconds": 117198
   },
   "booger_godslayer": {
     "week_seconds": 370,
@@ -12688,5 +12688,10 @@
     "week_seconds": 67,
     "week_start": 1782563947,
     "total_seconds": 67
+  },
+  "oerwoud_aap": {
+    "week_seconds": 0,
+    "week_start": 1782564321,
+    "total_seconds": 0
   }
 }
