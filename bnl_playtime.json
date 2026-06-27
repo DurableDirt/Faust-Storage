@@ -155,9 +155,9 @@
     "total_seconds": 55236
   },
   "lightningboi4": {
-    "week_seconds": 152860,
+    "week_seconds": 152894,
     "week_start": 1782083960,
-    "total_seconds": 304573
+    "total_seconds": 304607
   },
   "aaroni_macaroni": {
     "week_seconds": 53214,
@@ -415,9 +415,9 @@
     "total_seconds": 396
   },
   "maverick1351": {
-    "week_seconds": 90099,
+    "week_seconds": 96011,
     "week_start": 1782083960,
-    "total_seconds": 145472
+    "total_seconds": 151384
   },
   "hg__80": {
     "week_seconds": 59825,
@@ -3635,9 +3635,9 @@
     "total_seconds": 116737
   },
   "dj121739": {
-    "week_seconds": 212768,
+    "week_seconds": 214529,
     "week_start": 1782184760,
-    "total_seconds": 620575
+    "total_seconds": 622336
   },
   "gaming_alex7": {
     "week_seconds": 0,
@@ -5735,9 +5735,9 @@
     "total_seconds": 1845
   },
   "uraumi": {
-    "week_seconds": 0,
+    "week_seconds": 1354,
     "week_start": 1782353960,
-    "total_seconds": 14044
+    "total_seconds": 15398
   },
   "killbasdard": {
     "week_seconds": 0,
@@ -12202,6 +12202,11 @@
   "zimwou": {
     "week_seconds": 0,
     "week_start": 1782521278,
+    "total_seconds": 0
+  },
+  "quickmia": {
+    "week_seconds": 0,
+    "week_start": 1782521562,
     "total_seconds": 0
   }
 }
