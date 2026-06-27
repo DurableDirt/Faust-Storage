@@ -12605,8 +12605,13 @@
     "total_seconds": 308
   },
   "spontaneousnut56": {
-    "week_seconds": 0,
+    "week_seconds": 140,
     "week_start": 1782558466,
+    "total_seconds": 140
+  },
+  "sv_the_goat": {
+    "week_seconds": 0,
+    "week_start": 1782558598,
     "total_seconds": 0
   }
 }
