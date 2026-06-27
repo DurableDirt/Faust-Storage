@@ -1580,9 +1580,9 @@
     "total_seconds": 222998
   },
   "gobblin": {
-    "week_seconds": 43405,
+    "week_seconds": 43775,
     "week_start": 1782112760,
-    "total_seconds": 110006
+    "total_seconds": 110376
   },
   "vlinar": {
     "week_seconds": 64094,
@@ -1770,9 +1770,9 @@
     "total_seconds": 29567
   },
   "wandrumdum": {
-    "week_seconds": 130088,
+    "week_seconds": 133601,
     "week_start": 1782119960,
-    "total_seconds": 223404
+    "total_seconds": 226917
   },
   "badwaffles_": {
     "week_seconds": 48534,
