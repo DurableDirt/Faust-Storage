@@ -12945,9 +12945,9 @@
     "total_seconds": 638
   },
   "drax50": {
-    "week_seconds": 5229,
+    "week_seconds": 7822,
     "week_start": 1782588836,
-    "total_seconds": 5229
+    "total_seconds": 7822
   },
   "kikisszz": {
     "week_seconds": 3483,
@@ -13002,6 +13002,11 @@
   "_thattree_": {
     "week_seconds": 0,
     "week_start": 1782596281,
+    "total_seconds": 0
+  },
+  "midnightsembrace": {
+    "week_seconds": 0,
+    "week_start": 1782596607,
     "total_seconds": 0
   }
 }
