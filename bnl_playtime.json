@@ -2850,9 +2850,9 @@
     "total_seconds": 707
   },
   "queenceliathe1st": {
-    "week_seconds": 46413,
+    "week_seconds": 46750,
     "week_start": 1782152360,
-    "total_seconds": 57288
+    "total_seconds": 57625
   },
   "tinyelon": {
     "week_seconds": 0,
@@ -13063,5 +13063,15 @@
     "week_seconds": 22,
     "week_start": 1782599914,
     "total_seconds": 22
+  },
+  "x3r0nz": {
+    "week_seconds": 25,
+    "week_start": 1782599948,
+    "total_seconds": 25
+  },
+  "finman2025": {
+    "week_seconds": 0,
+    "week_start": 1782599956,
+    "total_seconds": 0
   }
 }
