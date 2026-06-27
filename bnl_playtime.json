@@ -7035,9 +7035,9 @@
     "total_seconds": 226
   },
   "vitalcoin3800": {
-    "week_seconds": 9553,
+    "week_seconds": 9559,
     "week_start": 1782494360,
-    "total_seconds": 57629
+    "total_seconds": 57635
   },
   "goosie1238": {
     "week_seconds": 7675,
@@ -7085,9 +7085,9 @@
     "total_seconds": 5972
   },
   "ja_c0b": {
-    "week_seconds": 7448,
+    "week_seconds": 7483,
     "week_start": 1782501560,
-    "total_seconds": 37744
+    "total_seconds": 37779
   },
   "0nightshadow0": {
     "week_seconds": 0,
@@ -12922,6 +12922,11 @@
   "beefybun": {
     "week_seconds": 0,
     "week_start": 1782587627,
+    "total_seconds": 0
+  },
+  "moocinder": {
+    "week_seconds": 0,
+    "week_start": 1782587738,
     "total_seconds": 0
   }
 }
