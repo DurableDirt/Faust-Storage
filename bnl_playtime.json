@@ -125,9 +125,9 @@
     "total_seconds": 3769
   },
   "nahsaimonnumber2": {
-    "week_seconds": 26448,
+    "week_seconds": 30496,
     "week_start": 1782083960,
-    "total_seconds": 59499
+    "total_seconds": 63547
   },
   "threeapplestall": {
     "week_seconds": 89878,
@@ -1270,9 +1270,9 @@
     "total_seconds": 85124
   },
   "regencyshadow40": {
-    "week_seconds": 10881,
+    "week_seconds": 11710,
     "week_start": 1782098360,
-    "total_seconds": 21282
+    "total_seconds": 22111
   },
   "yatzplz": {
     "week_seconds": 0,
@@ -12370,9 +12370,9 @@
     "total_seconds": 93
   },
   "abyssal_deity": {
-    "week_seconds": 2295,
+    "week_seconds": 2410,
     "week_start": 1782530412,
-    "total_seconds": 2295
+    "total_seconds": 2410
   },
   "xtrafasty": {
     "week_seconds": 1449,
@@ -12403,5 +12403,10 @@
     "week_seconds": 203,
     "week_start": 1782533482,
     "total_seconds": 203
+  },
+  "xdillpill": {
+    "week_seconds": 0,
+    "week_start": 1782534521,
+    "total_seconds": 0
   }
 }
