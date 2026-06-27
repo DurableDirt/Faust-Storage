@@ -295,9 +295,9 @@
     "total_seconds": 11702
   },
   "microwavedmango": {
-    "week_seconds": 473,
+    "week_seconds": 516,
     "week_start": 1782083960,
-    "total_seconds": 6332
+    "total_seconds": 6375
   },
   "tatsu007": {
     "week_seconds": 294931,
@@ -955,9 +955,9 @@
     "total_seconds": 265974
   },
   "pointy_hii": {
-    "week_seconds": 119901,
+    "week_seconds": 120014,
     "week_start": 1782091160,
-    "total_seconds": 240730
+    "total_seconds": 240843
   },
   "blewo": {
     "week_seconds": 0,
@@ -12697,6 +12697,11 @@
   "sarkaakari": {
     "week_seconds": 0,
     "week_start": 1782565718,
+    "total_seconds": 0
+  },
+  "goldeagle2317": {
+    "week_seconds": 0,
+    "week_start": 1782567353,
     "total_seconds": 0
   }
 }
