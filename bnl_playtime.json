@@ -2590,9 +2590,9 @@
     "total_seconds": 20535
   },
   "dant481heman": {
-    "week_seconds": 40416,
+    "week_seconds": 42663,
     "week_start": 1782145160,
-    "total_seconds": 155181
+    "total_seconds": 157428
   },
   "aredstonegod378": {
     "week_seconds": 0,
@@ -4420,9 +4420,9 @@
     "total_seconds": 9813
   },
   "formidable01": {
-    "week_seconds": 26340,
+    "week_seconds": 26478,
     "week_start": 1782242360,
-    "total_seconds": 69012
+    "total_seconds": 69150
   },
   "spacepaww": {
     "week_seconds": 5200,
@@ -12177,6 +12177,11 @@
   "ripper4319": {
     "week_seconds": 0,
     "week_start": 1782519272,
+    "total_seconds": 0
+  },
+  "digicreeper10101": {
+    "week_seconds": 0,
+    "week_start": 1782519818,
     "total_seconds": 0
   }
 }
