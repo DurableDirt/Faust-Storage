@@ -1780,9 +1780,9 @@
     "total_seconds": 37779
   },
   "nanajshi": {
-    "week_seconds": 4941,
+    "week_seconds": 5179,
     "week_start": 1782119960,
-    "total_seconds": 27075
+    "total_seconds": 27313
   },
   "minecraftendston": {
     "week_seconds": 0,
@@ -12568,5 +12568,10 @@
     "week_seconds": 211,
     "week_start": 1782552104,
     "total_seconds": 211
+  },
+  "rt5000000": {
+    "week_seconds": 0,
+    "week_start": 1782553253,
+    "total_seconds": 0
   }
 }
