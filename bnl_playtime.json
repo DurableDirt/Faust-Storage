@@ -1080,9 +1080,9 @@
     "total_seconds": 214
   },
   "orestraya": {
-    "week_seconds": 117870,
+    "week_seconds": 118187,
     "week_start": 1782094760,
-    "total_seconds": 275594
+    "total_seconds": 275911
   },
   "satava": {
     "week_seconds": 22171,
@@ -1575,9 +1575,9 @@
     "total_seconds": 315119
   },
   "_2k42_": {
-    "week_seconds": 117985,
+    "week_seconds": 128088,
     "week_start": 1782112760,
-    "total_seconds": 206049
+    "total_seconds": 216152
   },
   "gobblin": {
     "week_seconds": 36672,
@@ -3935,9 +3935,9 @@
     "total_seconds": 27
   },
   "forrestmoss": {
-    "week_seconds": 22210,
+    "week_seconds": 22608,
     "week_start": 1782213560,
-    "total_seconds": 28955
+    "total_seconds": 29353
   },
   "edvinsvanis": {
     "week_seconds": 0,
@@ -12528,5 +12528,10 @@
     "week_seconds": 202,
     "week_start": 1782547143,
     "total_seconds": 202
+  },
+  "agentspy21": {
+    "week_seconds": 0,
+    "week_start": 1782547533,
+    "total_seconds": 0
   }
 }
