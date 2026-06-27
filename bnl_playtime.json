@@ -7650,9 +7650,9 @@
     "total_seconds": 1029
   },
   "chronoswilson": {
-    "week_seconds": 20101,
+    "week_seconds": 34991,
     "week_start": 1782570958,
-    "total_seconds": 157195
+    "total_seconds": 172085
   },
   "sabife": {
     "week_seconds": 0,
@@ -13020,8 +13020,8 @@
     "total_seconds": 0
   },
   "salb45clone": {
-    "week_seconds": 0,
+    "week_seconds": 202,
     "week_start": 1782597852,
-    "total_seconds": 0
+    "total_seconds": 202
   }
 }
