@@ -7305,9 +7305,9 @@
     "total_seconds": 31269
   },
   "donutmt": {
-    "week_seconds": 5529,
+    "week_seconds": 5655,
     "week_start": 1782524158,
-    "total_seconds": 47363
+    "total_seconds": 47489
   },
   "bobroos8": {
     "week_seconds": 0,
@@ -7445,9 +7445,9 @@
     "total_seconds": 830
   },
   "_sublim3": {
-    "week_seconds": 0,
+    "week_seconds": 1261,
     "week_start": 1782542158,
-    "total_seconds": 5473
+    "total_seconds": 6734
   },
   "sigmaguy83297": {
     "week_seconds": 0,
@@ -12742,6 +12742,11 @@
   "syg": {
     "week_seconds": 0,
     "week_start": 1782572941,
+    "total_seconds": 0
+  },
+  "varenikkim": {
+    "week_seconds": 0,
+    "week_start": 1782572998,
     "total_seconds": 0
   }
 }
