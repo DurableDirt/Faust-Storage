@@ -3760,9 +3760,9 @@
     "total_seconds": 144058
   },
   "arbidos": {
-    "week_seconds": 2201,
+    "week_seconds": 2439,
     "week_start": 1782191960,
-    "total_seconds": 37727
+    "total_seconds": 37965
   },
   "fallen_screw": {
     "week_seconds": 84380,
@@ -4110,9 +4110,9 @@
     "total_seconds": 10991
   },
   "hplaptop": {
-    "week_seconds": 66812,
+    "week_seconds": 67208,
     "week_start": 1782227960,
-    "total_seconds": 208292
+    "total_seconds": 208688
   },
   "kablevz": {
     "week_seconds": 0,
@@ -5195,9 +5195,9 @@
     "total_seconds": 23285
   },
   "itzhoover": {
-    "week_seconds": 21150,
+    "week_seconds": 21160,
     "week_start": 1782314360,
-    "total_seconds": 97315
+    "total_seconds": 97325
   },
   "rayunlucke": {
     "week_seconds": 136147,
