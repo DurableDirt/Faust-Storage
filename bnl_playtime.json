@@ -1240,9 +1240,9 @@
     "total_seconds": 24498
   },
   "mtfuji": {
-    "week_seconds": 301979,
+    "week_seconds": 305495,
     "week_start": 1782098360,
-    "total_seconds": 628096
+    "total_seconds": 631612
   },
   "intelligences": {
     "week_seconds": 62653,
@@ -7320,9 +7320,9 @@
     "total_seconds": 173
   },
   "naha000": {
-    "week_seconds": 62,
+    "week_seconds": 357,
     "week_start": 1782524158,
-    "total_seconds": 664
+    "total_seconds": 959
   },
   "krayouo": {
     "week_seconds": 0,
