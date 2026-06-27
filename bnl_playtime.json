@@ -1710,9 +1710,9 @@
     "total_seconds": 6
   },
   "remax152": {
-    "week_seconds": 4375,
+    "week_seconds": 4403,
     "week_start": 1782119960,
-    "total_seconds": 24257
+    "total_seconds": 24285
   },
   "hugolegend2014": {
     "week_seconds": 0,
@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 128667,
+    "week_seconds": 129967,
     "week_start": 1782127160,
-    "total_seconds": 193145
+    "total_seconds": 194445
   },
   "hxrl": {
     "week_seconds": 93918,
@@ -7265,9 +7265,9 @@
     "total_seconds": 84955
   },
   "swiftyscissors": {
-    "week_seconds": 15126,
+    "week_seconds": 16481,
     "week_start": 1782520558,
-    "total_seconds": 310506
+    "total_seconds": 311861
   },
   "beinbean13": {
     "week_seconds": 0,
@@ -12620,8 +12620,8 @@
     "total_seconds": 0
   },
   "lishjo": {
-    "week_seconds": 0,
+    "week_seconds": 237,
     "week_start": 1782558911,
-    "total_seconds": 0
+    "total_seconds": 237
   }
 }
