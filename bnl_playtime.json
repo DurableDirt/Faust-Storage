@@ -6825,9 +6825,9 @@
     "total_seconds": 25798
   },
   "vedel2050": {
-    "week_seconds": 1583,
+    "week_seconds": 7151,
     "week_start": 1782465560,
-    "total_seconds": 30524
+    "total_seconds": 36092
   },
   "jobisveryscary67": {
     "week_seconds": 1034,
@@ -12218,5 +12218,10 @@
     "week_seconds": 66,
     "week_start": 1782522194,
     "total_seconds": 66
+  },
+  "scioneol": {
+    "week_seconds": 0,
+    "week_start": 1782522295,
+    "total_seconds": 0
   }
 }
