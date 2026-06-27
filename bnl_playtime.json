@@ -1065,9 +1065,9 @@
     "total_seconds": 141672
   },
   "goldlirio": {
-    "week_seconds": 45306,
+    "week_seconds": 45340,
     "week_start": 1782094760,
-    "total_seconds": 77973
+    "total_seconds": 78007
   },
   "francreeps": {
     "week_seconds": 5732,
@@ -7650,9 +7650,9 @@
     "total_seconds": 1029
   },
   "chronoswilson": {
-    "week_seconds": 18770,
+    "week_seconds": 19991,
     "week_start": 1782570958,
-    "total_seconds": 155864
+    "total_seconds": 157085
   },
   "sabife": {
     "week_seconds": 0,
@@ -12855,8 +12855,8 @@
     "total_seconds": 0
   },
   "liamvr10": {
-    "week_seconds": 12,
+    "week_seconds": 33,
     "week_start": 1782582595,
-    "total_seconds": 12
+    "total_seconds": 33
   }
 }
