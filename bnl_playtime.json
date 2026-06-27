@@ -2145,9 +2145,9 @@
     "total_seconds": 323271
   },
   "daimnasal": {
-    "week_seconds": 47804,
+    "week_seconds": 47809,
     "week_start": 1782134360,
-    "total_seconds": 145166
+    "total_seconds": 145171
   },
   "azurisdev": {
     "week_seconds": 1009,
@@ -13127,6 +13127,11 @@
   "glaze7928": {
     "week_seconds": 0,
     "week_start": 1782602425,
+    "total_seconds": 0
+  },
+  "joythevoid": {
+    "week_seconds": 0,
+    "week_start": 1782602569,
     "total_seconds": 0
   }
 }
