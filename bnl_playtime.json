@@ -1835,9 +1835,9 @@
     "total_seconds": 101395
   },
   "coockie70": {
-    "week_seconds": 65803,
+    "week_seconds": 66085,
     "week_start": 1782123560,
-    "total_seconds": 116729
+    "total_seconds": 117011
   },
   "sn1sr": {
     "week_seconds": 0,
@@ -3905,9 +3905,9 @@
     "total_seconds": 206
   },
   "kinghasantheone": {
-    "week_seconds": 121011,
+    "week_seconds": 122267,
     "week_start": 1782206360,
-    "total_seconds": 353482
+    "total_seconds": 354738
   },
   "stefanmakker": {
     "week_seconds": 15258,
@@ -12908,5 +12908,10 @@
     "week_seconds": 2,
     "week_start": 1782586405,
     "total_seconds": 2
+  },
+  "blocktechnology": {
+    "week_seconds": 0,
+    "week_start": 1782586592,
+    "total_seconds": 0
   }
 }
