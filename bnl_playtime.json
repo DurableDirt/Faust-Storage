@@ -2555,9 +2555,9 @@
     "total_seconds": 1116
   },
   "yunfi": {
-    "week_seconds": 128574,
+    "week_seconds": 135726,
     "week_start": 1782145160,
-    "total_seconds": 257847
+    "total_seconds": 264999
   },
   "myng11": {
     "week_seconds": 23374,
@@ -3615,9 +3615,9 @@
     "total_seconds": 1198
   },
   "luminous15": {
-    "week_seconds": 91658,
+    "week_seconds": 91787,
     "week_start": 1782181160,
-    "total_seconds": 160956
+    "total_seconds": 161085
   },
   "frostythorgrim": {
     "week_seconds": 0,
@@ -12343,5 +12343,10 @@
     "week_seconds": 558,
     "week_start": 1782527892,
     "total_seconds": 558
+  },
+  "argonite_": {
+    "week_seconds": 0,
+    "week_start": 1782529378,
+    "total_seconds": 0
   }
 }
