@@ -905,9 +905,9 @@
     "total_seconds": 34278
   },
   "ifriendiscool": {
-    "week_seconds": 189675,
+    "week_seconds": 189698,
     "week_start": 1782091160,
-    "total_seconds": 334673
+    "total_seconds": 334696
   },
   "ytrewq64": {
     "week_seconds": 18972,
@@ -12492,6 +12492,11 @@
   "akoskeez": {
     "week_seconds": 0,
     "week_start": 1782542397,
+    "total_seconds": 0
+  },
+  "mystcrime": {
+    "week_seconds": 0,
+    "week_start": 1782542558,
     "total_seconds": 0
   }
 }
