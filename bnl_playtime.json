@@ -3435,9 +3435,9 @@
     "total_seconds": 10528
   },
   "huskydog9988": {
-    "week_seconds": 54771,
+    "week_seconds": 56043,
     "week_start": 1782173960,
-    "total_seconds": 144410
+    "total_seconds": 145682
   },
   "jromeasfsniper": {
     "week_seconds": 26094,
@@ -12297,6 +12297,11 @@
   "visitor2012": {
     "week_seconds": 0,
     "week_start": 1782524488,
+    "total_seconds": 0
+  },
+  "theinvincible_": {
+    "week_seconds": 0,
+    "week_start": 1782525066,
     "total_seconds": 0
   }
 }
