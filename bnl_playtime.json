@@ -90,9 +90,9 @@
     "total_seconds": 104751
   },
   "chips_and_salsa_": {
-    "week_seconds": 72125,
+    "week_seconds": 74136,
     "week_start": 1782080360,
-    "total_seconds": 122142
+    "total_seconds": 124153
   },
   "booger_godslayer": {
     "week_seconds": 370,
@@ -7305,9 +7305,9 @@
     "total_seconds": 31269
   },
   "donutmt": {
-    "week_seconds": 4670,
+    "week_seconds": 5125,
     "week_start": 1782524158,
-    "total_seconds": 46504
+    "total_seconds": 46959
   },
   "bobroos8": {
     "week_seconds": 0,
@@ -12733,5 +12733,10 @@
     "week_seconds": 278,
     "week_start": 1782571823,
     "total_seconds": 278
+  },
+  "heimrarnadalr": {
+    "week_seconds": 0,
+    "week_start": 1782572410,
+    "total_seconds": 0
   }
 }
