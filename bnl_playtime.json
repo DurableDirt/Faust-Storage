@@ -4455,9 +4455,9 @@
     "total_seconds": 62348
   },
   "stevethehouse122": {
-    "week_seconds": 6808,
+    "week_seconds": 8933,
     "week_start": 1782245960,
-    "total_seconds": 7382
+    "total_seconds": 9507
   },
   "warbsthesquirrel": {
     "week_seconds": 0,
@@ -12307,6 +12307,16 @@
   "xmasmoose12": {
     "week_seconds": 0,
     "week_start": 1782525106,
+    "total_seconds": 0
+  },
+  "meap2311": {
+    "week_seconds": 0,
+    "week_start": 1782525175,
+    "total_seconds": 0
+  },
+  "mikathe13": {
+    "week_seconds": 0,
+    "week_start": 1782525175,
     "total_seconds": 0
   }
 }
