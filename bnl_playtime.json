@@ -1775,9 +1775,9 @@
     "total_seconds": 217966
   },
   "badwaffles_": {
-    "week_seconds": 27064,
+    "week_seconds": 33400,
     "week_start": 1782119960,
-    "total_seconds": 37779
+    "total_seconds": 44115
   },
   "nanajshi": {
     "week_seconds": 5179,
@@ -1815,9 +1815,9 @@
     "total_seconds": 4975
   },
   "airdav": {
-    "week_seconds": 22563,
+    "week_seconds": 22770,
     "week_start": 1782123560,
-    "total_seconds": 40927
+    "total_seconds": 41134
   },
   "ch0rk": {
     "week_seconds": 0,
@@ -12703,5 +12703,10 @@
     "week_seconds": 234,
     "week_start": 1782567353,
     "total_seconds": 234
+  },
+  "bruzztuah": {
+    "week_seconds": 0,
+    "week_start": 1782568608,
+    "total_seconds": 0
   }
 }
