@@ -3085,9 +3085,9 @@
     "total_seconds": 24779
   },
   "refwoza": {
-    "week_seconds": 33680,
+    "week_seconds": 34379,
     "week_start": 1782159560,
-    "total_seconds": 65126
+    "total_seconds": 65825
   },
   "programmergod": {
     "week_seconds": 31805,
@@ -12155,9 +12155,9 @@
     "total_seconds": 82
   },
   "savster123_25": {
-    "week_seconds": 0,
+    "week_seconds": 3303,
     "week_start": 1782517943,
-    "total_seconds": 0
+    "total_seconds": 3303
   },
   "sillodegamer": {
     "week_seconds": 304,
@@ -12193,5 +12193,15 @@
     "week_seconds": 177,
     "week_start": 1782520622,
     "total_seconds": 177
+  },
+  "jazztoasty101": {
+    "week_seconds": 0,
+    "week_start": 1782521241,
+    "total_seconds": 0
+  },
+  "zimwou": {
+    "week_seconds": 0,
+    "week_start": 1782521278,
+    "total_seconds": 0
   }
 }
