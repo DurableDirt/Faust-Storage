@@ -4305,9 +4305,9 @@
     "total_seconds": 606
   },
   "l1zz3": {
-    "week_seconds": 29378,
+    "week_seconds": 29979,
     "week_start": 1782238760,
-    "total_seconds": 87797
+    "total_seconds": 88398
   },
   "toastisnear": {
     "week_seconds": 38408,
@@ -12185,8 +12185,13 @@
     "total_seconds": 0
   },
   "catiststudy": {
-    "week_seconds": 0,
+    "week_seconds": 322,
     "week_start": 1782520293,
+    "total_seconds": 322
+  },
+  "meat312": {
+    "week_seconds": 0,
+    "week_start": 1782520622,
     "total_seconds": 0
   }
 }
