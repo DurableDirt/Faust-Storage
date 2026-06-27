@@ -870,9 +870,9 @@
     "total_seconds": 202502
   },
   "deerifius": {
-    "week_seconds": 31585,
+    "week_seconds": 31840,
     "week_start": 1782091160,
-    "total_seconds": 151214
+    "total_seconds": 151469
   },
   "dreadyheadyyn": {
     "week_seconds": 0,
@@ -9020,9 +9020,9 @@
     "total_seconds": 10828
   },
   "zetm4n": {
-    "week_seconds": 32226,
+    "week_seconds": 32375,
     "week_start": 1782142049,
-    "total_seconds": 32226
+    "total_seconds": 32375
   },
   "silvercrayon945": {
     "week_seconds": 904,
@@ -12638,5 +12638,15 @@
     "week_seconds": 6,
     "week_start": 1782559517,
     "total_seconds": 6
+  },
+  "dynous": {
+    "week_seconds": 0,
+    "week_start": 1782559850,
+    "total_seconds": 0
+  },
+  "job_enjoyer": {
+    "week_seconds": 0,
+    "week_start": 1782559878,
+    "total_seconds": 0
   }
 }
