@@ -3730,9 +3730,9 @@
     "total_seconds": 240
   },
   "salizandar2": {
-    "week_seconds": 57704,
+    "week_seconds": 57864,
     "week_start": 1782188360,
-    "total_seconds": 140652
+    "total_seconds": 140812
   },
   "milkyoreo": {
     "week_seconds": 5412,
@@ -4150,9 +4150,9 @@
     "total_seconds": 138137
   },
   "stick_ix_nex": {
-    "week_seconds": 48389,
+    "week_seconds": 55777,
     "week_start": 1782235160,
-    "total_seconds": 199710
+    "total_seconds": 207098
   },
   "dashingyang": {
     "week_seconds": 19480,
@@ -11810,9 +11810,9 @@
     "total_seconds": 62
   },
   "president_wolfe": {
-    "week_seconds": 4245,
+    "week_seconds": 9407,
     "week_start": 1782493029,
-    "total_seconds": 4245
+    "total_seconds": 9407
   },
   "20mii13": {
     "week_seconds": 3946,
@@ -12232,6 +12232,11 @@
   "_highboy_": {
     "week_seconds": 0,
     "week_start": 1782522408,
+    "total_seconds": 0
+  },
+  "jewishmale": {
+    "week_seconds": 0,
+    "week_start": 1782522460,
     "total_seconds": 0
   }
 }
