@@ -415,9 +415,9 @@
     "total_seconds": 396
   },
   "maverick1351": {
-    "week_seconds": 108105,
+    "week_seconds": 113159,
     "week_start": 1782083960,
-    "total_seconds": 163478
+    "total_seconds": 168532
   },
   "hg__80": {
     "week_seconds": 85176,
@@ -12935,8 +12935,8 @@
     "total_seconds": 92
   },
   "frikandellejelle": {
-    "week_seconds": 0,
+    "week_seconds": 197,
     "week_start": 1782588404,
-    "total_seconds": 0
+    "total_seconds": 197
   }
 }
