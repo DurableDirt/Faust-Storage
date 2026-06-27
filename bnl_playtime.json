@@ -1650,9 +1650,9 @@
     "total_seconds": 96116
   },
   "virexil": {
-    "week_seconds": 11222,
+    "week_seconds": 13312,
     "week_start": 1782116360,
-    "total_seconds": 45551
+    "total_seconds": 47641
   },
   "voidvin": {
     "week_seconds": 138066,
@@ -2695,9 +2695,9 @@
     "total_seconds": 1516
   },
   "nighthed": {
-    "week_seconds": 40236,
+    "week_seconds": 40326,
     "week_start": 1782148760,
-    "total_seconds": 130239
+    "total_seconds": 130329
   },
   "tuffboi674193": {
     "week_seconds": 0,
@@ -12540,8 +12540,8 @@
     "total_seconds": 0
   },
   "jackleonard": {
-    "week_seconds": 0,
+    "week_seconds": 606,
     "week_start": 1782547941,
-    "total_seconds": 0
+    "total_seconds": 606
   }
 }
