@@ -1690,9 +1690,9 @@
     "total_seconds": 45519
   },
   "solitaire7": {
-    "week_seconds": 143857,
+    "week_seconds": 150198,
     "week_start": 1782116360,
-    "total_seconds": 298809
+    "total_seconds": 305150
   },
   "masqo_": {
     "week_seconds": 4700,
@@ -12407,6 +12407,16 @@
   "xdillpill": {
     "week_seconds": 0,
     "week_start": 1782534521,
+    "total_seconds": 0
+  },
+  "hexedtobi": {
+    "week_seconds": 0,
+    "week_start": 1782535011,
+    "total_seconds": 0
+  },
+  "elmer_freud": {
+    "week_seconds": 0,
+    "week_start": 1782535032,
     "total_seconds": 0
   }
 }
