@@ -2415,9 +2415,9 @@
     "total_seconds": 29008
   },
   "sml128": {
-    "week_seconds": 63070,
+    "week_seconds": 64000,
     "week_start": 1782141560,
-    "total_seconds": 147971
+    "total_seconds": 148901
   },
   "malipan": {
     "week_seconds": 36344,
@@ -6625,9 +6625,9 @@
     "total_seconds": 16881
   },
   "follivlxx": {
-    "week_seconds": 9091,
+    "week_seconds": 10173,
     "week_start": 1782440360,
-    "total_seconds": 197018
+    "total_seconds": 198100
   },
   "tippyshippy": {
     "week_seconds": 1697,
@@ -6830,9 +6830,9 @@
     "total_seconds": 30524
   },
   "jobisveryscary67": {
-    "week_seconds": 0,
+    "week_seconds": 1034,
     "week_start": 1782469160,
-    "total_seconds": 13699
+    "total_seconds": 14733
   },
   "coradiabutsmart": {
     "week_seconds": 4934,
@@ -12190,8 +12190,8 @@
     "total_seconds": 322
   },
   "meat312": {
-    "week_seconds": 0,
+    "week_seconds": 177,
     "week_start": 1782520622,
-    "total_seconds": 0
+    "total_seconds": 177
   }
 }
