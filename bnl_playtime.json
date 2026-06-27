@@ -8870,9 +8870,9 @@
     "total_seconds": 36081
   },
   "cerreckter": {
-    "week_seconds": 6066,
+    "week_seconds": 6111,
     "week_start": 1782119350,
-    "total_seconds": 6066
+    "total_seconds": 6111
   },
   "morningsoda": {
     "week_seconds": 41348,
@@ -12478,5 +12478,10 @@
     "week_seconds": 165,
     "week_start": 1782539849,
     "total_seconds": 165
+  },
+  "farzeest": {
+    "week_seconds": 5,
+    "week_start": 1782541492,
+    "total_seconds": 5
   }
 }
