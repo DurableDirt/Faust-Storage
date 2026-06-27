@@ -7305,9 +7305,9 @@
     "total_seconds": 31269
   },
   "donutmt": {
-    "week_seconds": 141,
+    "week_seconds": 229,
     "week_start": 1782524158,
-    "total_seconds": 41975
+    "total_seconds": 42063
   },
   "bobroos8": {
     "week_seconds": 0,
@@ -12670,8 +12670,8 @@
     "total_seconds": 271
   },
   "jumblyjim": {
-    "week_seconds": 0,
+    "week_seconds": 236,
     "week_start": 1782560923,
-    "total_seconds": 0
+    "total_seconds": 236
   }
 }
