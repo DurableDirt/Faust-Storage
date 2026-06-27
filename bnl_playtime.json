@@ -5430,9 +5430,9 @@
     "total_seconds": 7049
   },
   "_avro_": {
-    "week_seconds": 4204,
+    "week_seconds": 6201,
     "week_start": 1782332360,
-    "total_seconds": 15495
+    "total_seconds": 17492
   },
   "doero": {
     "week_seconds": 80,
@@ -6010,9 +6010,9 @@
     "total_seconds": 5606
   },
   "rirochuro": {
-    "week_seconds": 2761,
+    "week_seconds": 4749,
     "week_start": 1782393560,
-    "total_seconds": 12653
+    "total_seconds": 14641
   },
   "phexx_raigen": {
     "week_seconds": 0,
