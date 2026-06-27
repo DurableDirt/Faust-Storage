@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 136261,
+    "week_seconds": 137116,
     "week_start": 1782127160,
-    "total_seconds": 200739
+    "total_seconds": 201594
   },
   "hxrl": {
     "week_seconds": 93918,
@@ -3835,9 +3835,9 @@
     "total_seconds": 229204
   },
   "kashev": {
-    "week_seconds": 39735,
+    "week_seconds": 39862,
     "week_start": 1782202760,
-    "total_seconds": 86544
+    "total_seconds": 86671
   },
   "gracefulmomo_": {
     "week_seconds": 0,
@@ -12803,5 +12803,10 @@
     "week_seconds": 131,
     "week_start": 1782578256,
     "total_seconds": 131
+  },
+  "ice_cream5461": {
+    "week_seconds": 0,
+    "week_start": 1782578529,
+    "total_seconds": 0
   }
 }
