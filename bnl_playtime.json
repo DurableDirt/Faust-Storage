@@ -1575,9 +1575,9 @@
     "total_seconds": 315663
   },
   "_2k42_": {
-    "week_seconds": 128710,
+    "week_seconds": 134483,
     "week_start": 1782112760,
-    "total_seconds": 216774
+    "total_seconds": 222547
   },
   "gobblin": {
     "week_seconds": 36672,
@@ -12573,5 +12573,10 @@
     "week_seconds": 22,
     "week_start": 1782553253,
     "total_seconds": 22
+  },
+  "leafability": {
+    "week_seconds": 0,
+    "week_start": 1782553929,
+    "total_seconds": 0
   }
 }
