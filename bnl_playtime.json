@@ -2940,9 +2940,9 @@
     "total_seconds": 7614
   },
   "dr_bacon_hair": {
-    "week_seconds": 695,
+    "week_seconds": 1275,
     "week_start": 1782155960,
-    "total_seconds": 21392
+    "total_seconds": 21972
   },
   "_excalibur": {
     "week_seconds": 6361,
@@ -5715,9 +5715,9 @@
     "total_seconds": 7676
   },
   "rurfu": {
-    "week_seconds": 31210,
+    "week_seconds": 31331,
     "week_start": 1782353960,
-    "total_seconds": 125369
+    "total_seconds": 125490
   },
   "binks4362": {
     "week_seconds": 0,
@@ -12858,5 +12858,10 @@
     "week_seconds": 46,
     "week_start": 1782582595,
     "total_seconds": 46
+  },
+  "godoftired": {
+    "week_seconds": 22,
+    "week_start": 1782583255,
+    "total_seconds": 22
   }
 }
