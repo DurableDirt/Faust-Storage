@@ -2010,9 +2010,9 @@
     "total_seconds": 90068
   },
   "olliebell": {
-    "week_seconds": 32004,
+    "week_seconds": 35888,
     "week_start": 1782130760,
-    "total_seconds": 33818
+    "total_seconds": 37702
   },
   "xlamdg96_": {
     "week_seconds": 63243,
@@ -2060,9 +2060,9 @@
     "total_seconds": 5
   },
   "robomagical732": {
-    "week_seconds": 12883,
+    "week_seconds": 12950,
     "week_start": 1782130760,
-    "total_seconds": 91178
+    "total_seconds": 91245
   },
   "whisky_1": {
     "week_seconds": 7539,
@@ -12673,5 +12673,10 @@
     "week_seconds": 236,
     "week_start": 1782560923,
     "total_seconds": 236
+  },
+  "kurishdood": {
+    "week_seconds": 33,
+    "week_start": 1782563271,
+    "total_seconds": 33
   }
 }
