@@ -7810,9 +7810,9 @@
     "total_seconds": 1585
   },
   "limedebt": {
-    "week_seconds": 26919,
+    "week_seconds": 32064,
     "week_start": 1781984142,
-    "total_seconds": 26919
+    "total_seconds": 32064
   },
   "timthyz": {
     "week_seconds": 7877,
@@ -12182,6 +12182,11 @@
   "digicreeper10101": {
     "week_seconds": 0,
     "week_start": 1782519818,
+    "total_seconds": 0
+  },
+  "catiststudy": {
+    "week_seconds": 0,
+    "week_start": 1782520293,
     "total_seconds": 0
   }
 }
