@@ -2325,9 +2325,9 @@
     "total_seconds": 7970
   },
   "bluechickpro": {
-    "week_seconds": 24115,
+    "week_seconds": 25395,
     "week_start": 1782137960,
-    "total_seconds": 56694
+    "total_seconds": 57974
   },
   "xa_n": {
     "week_seconds": 12668,
@@ -12708,5 +12708,10 @@
     "week_seconds": 50,
     "week_start": 1782568608,
     "total_seconds": 50
+  },
+  "rainbowcreeper2": {
+    "week_seconds": 0,
+    "week_start": 1782569006,
+    "total_seconds": 0
   }
 }
