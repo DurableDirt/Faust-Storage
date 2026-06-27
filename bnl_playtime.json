@@ -170,9 +170,9 @@
     "total_seconds": 188937
   },
   "snw": {
-    "week_seconds": 48244,
+    "week_seconds": 48396,
     "week_start": 1782083960,
-    "total_seconds": 57662
+    "total_seconds": 57814
   },
   "therisewarrior16": {
     "week_seconds": 103078,
@@ -12770,8 +12770,8 @@
     "total_seconds": 703
   },
   "raphex094": {
-    "week_seconds": 0,
+    "week_seconds": 73,
     "week_start": 1782575012,
-    "total_seconds": 0
+    "total_seconds": 73
   }
 }
