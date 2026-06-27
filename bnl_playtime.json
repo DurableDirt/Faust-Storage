@@ -30,9 +30,9 @@
     "total_seconds": 226821
   },
   "harved": {
-    "week_seconds": 79431,
+    "week_seconds": 80329,
     "week_start": 1782080360,
-    "total_seconds": 108089
+    "total_seconds": 108987
   },
   "maxxyrose": {
     "week_seconds": 89230,
@@ -13078,5 +13078,10 @@
     "week_seconds": 8,
     "week_start": 1782600125,
     "total_seconds": 8
+  },
+  "paradence": {
+    "week_seconds": 0,
+    "week_start": 1782600778,
+    "total_seconds": 0
   }
 }
