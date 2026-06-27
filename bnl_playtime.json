@@ -2940,9 +2940,9 @@
     "total_seconds": 7614
   },
   "dr_bacon_hair": {
-    "week_seconds": 562,
+    "week_seconds": 647,
     "week_start": 1782155960,
-    "total_seconds": 21259
+    "total_seconds": 21344
   },
   "_excalibur": {
     "week_seconds": 6361,
@@ -12848,5 +12848,10 @@
     "week_seconds": 728,
     "week_start": 1782581274,
     "total_seconds": 728
+  },
+  "nyrox08": {
+    "week_seconds": 0,
+    "week_start": 1782582467,
+    "total_seconds": 0
   }
 }
