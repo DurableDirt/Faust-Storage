@@ -12353,5 +12353,10 @@
     "week_seconds": 0,
     "week_start": 1782529544,
     "total_seconds": 0
+  },
+  "ein_spiel": {
+    "week_seconds": 32,
+    "week_start": 1782529790,
+    "total_seconds": 32
   }
 }
