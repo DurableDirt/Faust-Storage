@@ -1095,9 +1095,9 @@
     "total_seconds": 48459
   },
   "magickponch": {
-    "week_seconds": 94505,
+    "week_seconds": 94660,
     "week_start": 1782094760,
-    "total_seconds": 158677
+    "total_seconds": 158832
   },
   "nevergrimm": {
     "week_seconds": 68786,
@@ -3255,9 +3255,9 @@
     "total_seconds": 25123
   },
   "mickale": {
-    "week_seconds": 7144,
+    "week_seconds": 15235,
     "week_start": 1782166760,
-    "total_seconds": 14541
+    "total_seconds": 22632
   },
   "primalrex_3": {
     "week_seconds": 10462,
@@ -12332,6 +12332,11 @@
   "jacksgallbladder": {
     "week_seconds": 0,
     "week_start": 1782526048,
+    "total_seconds": 0
+  },
+  "ifinityslayer": {
+    "week_seconds": 0,
+    "week_start": 1782526938,
     "total_seconds": 0
   }
 }
