@@ -9255,9 +9255,9 @@
     "total_seconds": 1192
   },
   "aletheiad": {
-    "week_seconds": 37213,
+    "week_seconds": 37246,
     "week_start": 1782164335,
-    "total_seconds": 37213
+    "total_seconds": 37246
   },
   "td_xgodx": {
     "week_seconds": 3291,
@@ -12450,8 +12450,8 @@
     "total_seconds": 112
   },
   "george__orwell": {
-    "week_seconds": 0,
+    "week_seconds": 97,
     "week_start": 1782537249,
-    "total_seconds": 0
+    "total_seconds": 97
   }
 }
