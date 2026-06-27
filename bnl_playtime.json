@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 170077,
+    "week_seconds": 171619,
     "week_start": 1782119960,
-    "total_seconds": 384175
+    "total_seconds": 385717
   },
   "stavros_ell": {
     "week_seconds": 57943,
@@ -2080,9 +2080,9 @@
     "total_seconds": 215582
   },
   "ice_cream_guy": {
-    "week_seconds": 39339,
+    "week_seconds": 39385,
     "week_start": 1782130760,
-    "total_seconds": 75120
+    "total_seconds": 75166
   },
   "strocraft": {
     "week_seconds": 81789,
@@ -12168,5 +12168,10 @@
     "week_seconds": 225,
     "week_start": 1782518359,
     "total_seconds": 225
+  },
+  "egglebagel": {
+    "week_seconds": 0,
+    "week_start": 1782518645,
+    "total_seconds": 0
   }
 }
