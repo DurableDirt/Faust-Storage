@@ -1520,9 +1520,9 @@
     "total_seconds": 176276
   },
   "_jaek": {
-    "week_seconds": 212871,
+    "week_seconds": 213387,
     "week_start": 1782109160,
-    "total_seconds": 351191
+    "total_seconds": 351707
   },
   "deuteriumoxide1": {
     "week_seconds": 4501,
@@ -6960,9 +6960,9 @@
     "total_seconds": 10096
   },
   "pikachu17tim": {
-    "week_seconds": 3475,
+    "week_seconds": 3631,
     "week_start": 1782487160,
-    "total_seconds": 45141
+    "total_seconds": 45297
   },
   "arosinas": {
     "week_seconds": 33,
@@ -7400,9 +7400,9 @@
     "total_seconds": 32108
   },
   "_medb_": {
-    "week_seconds": 0,
+    "week_seconds": 36,
     "week_start": 1782534958,
-    "total_seconds": 33380
+    "total_seconds": 33416
   },
   "ritalinabuser": {
     "week_seconds": 0,
@@ -10975,9 +10975,9 @@
     "total_seconds": 844
   },
   "nocturnaldaedra": {
-    "week_seconds": 11984,
+    "week_seconds": 12970,
     "week_start": 1782390841,
-    "total_seconds": 11984
+    "total_seconds": 12970
   },
   "c0rdexmc": {
     "week_seconds": 97,
@@ -12598,5 +12598,10 @@
     "week_seconds": 544,
     "week_start": 1782556884,
     "total_seconds": 544
+  },
+  "diogen_7": {
+    "week_seconds": 0,
+    "week_start": 1782557845,
+    "total_seconds": 0
   }
 }
