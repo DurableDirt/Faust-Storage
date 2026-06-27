@@ -1665,9 +1665,9 @@
     "total_seconds": 29933
   },
   "polysemic": {
-    "week_seconds": 51815,
+    "week_seconds": 52184,
     "week_start": 1782116360,
-    "total_seconds": 129122
+    "total_seconds": 129491
   },
   "wuli": {
     "week_seconds": 209951,
@@ -12877,6 +12877,11 @@
   "himchi": {
     "week_seconds": 0,
     "week_start": 1782584291,
+    "total_seconds": 0
+  },
+  "_motokokusanagi": {
+    "week_seconds": 0,
+    "week_start": 1782584389,
     "total_seconds": 0
   }
 }
