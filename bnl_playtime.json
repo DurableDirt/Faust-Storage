@@ -45,9 +45,9 @@
     "total_seconds": 230043
   },
   "lucifer420xx": {
-    "week_seconds": 19307,
+    "week_seconds": 25514,
     "week_start": 1782080360,
-    "total_seconds": 88166
+    "total_seconds": 94373
   },
   "meenos": {
     "week_seconds": 38880,
@@ -12293,5 +12293,10 @@
     "week_seconds": 181,
     "week_start": 1782524258,
     "total_seconds": 181
+  },
+  "visitor2012": {
+    "week_seconds": 0,
+    "week_start": 1782524488,
+    "total_seconds": 0
   }
 }
