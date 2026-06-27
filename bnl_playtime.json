@@ -105,9 +105,9 @@
     "total_seconds": 153831
   },
   "slothinasuit": {
-    "week_seconds": 194346,
+    "week_seconds": 207944,
     "week_start": 1782080360,
-    "total_seconds": 432900
+    "total_seconds": 446498
   },
   "jck20h": {
     "week_seconds": 0,
@@ -1580,9 +1580,9 @@
     "total_seconds": 222998
   },
   "gobblin": {
-    "week_seconds": 43775,
+    "week_seconds": 45577,
     "week_start": 1782112760,
-    "total_seconds": 110376
+    "total_seconds": 112178
   },
   "vlinar": {
     "week_seconds": 64094,
@@ -13095,8 +13095,8 @@
     "total_seconds": 22
   },
   "whosnick": {
-    "week_seconds": 0,
+    "week_seconds": 30,
     "week_start": 1782601348,
-    "total_seconds": 0
+    "total_seconds": 30
   }
 }
