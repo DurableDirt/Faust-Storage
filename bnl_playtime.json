@@ -155,9 +155,9 @@
     "total_seconds": 55236
   },
   "lightningboi4": {
-    "week_seconds": 160622,
+    "week_seconds": 160720,
     "week_start": 1782083960,
-    "total_seconds": 312335
+    "total_seconds": 312433
   },
   "aaroni_macaroni": {
     "week_seconds": 53976,
@@ -12382,6 +12382,11 @@
   "iasctcaokuennt": {
     "week_seconds": 0,
     "week_start": 1782531019,
+    "total_seconds": 0
+  },
+  "paperberry12417": {
+    "week_seconds": 0,
+    "week_start": 1782531100,
     "total_seconds": 0
   }
 }
