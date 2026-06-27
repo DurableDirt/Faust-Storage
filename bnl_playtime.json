@@ -475,9 +475,9 @@
     "total_seconds": 587641
   },
   "tntfortress": {
-    "week_seconds": 16398,
+    "week_seconds": 22919,
     "week_start": 1782087560,
-    "total_seconds": 129664
+    "total_seconds": 136185
   },
   "crafterkid50009": {
     "week_seconds": 0,
@@ -1520,9 +1520,9 @@
     "total_seconds": 204312
   },
   "_jaek": {
-    "week_seconds": 233378,
+    "week_seconds": 238500,
     "week_start": 1782109160,
-    "total_seconds": 371698
+    "total_seconds": 376820
   },
   "deuteriumoxide1": {
     "week_seconds": 4501,
@@ -12967,6 +12967,11 @@
   "logus16": {
     "week_seconds": 0,
     "week_start": 1782591032,
+    "total_seconds": 0
+  },
+  "masmelao": {
+    "week_seconds": 0,
+    "week_start": 1782592406,
     "total_seconds": 0
   }
 }
