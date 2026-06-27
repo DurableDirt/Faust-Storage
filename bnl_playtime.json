@@ -5190,9 +5190,9 @@
     "total_seconds": 61684
   },
   "ahmad_elayyen": {
-    "week_seconds": 7751,
+    "week_seconds": 8643,
     "week_start": 1782314360,
-    "total_seconds": 19741
+    "total_seconds": 20633
   },
   "itzhoover": {
     "week_seconds": 21150,
@@ -5685,9 +5685,9 @@
     "total_seconds": 251
   },
   "darkhelmet12e4": {
-    "week_seconds": 46820,
+    "week_seconds": 48434,
     "week_start": 1782350360,
-    "total_seconds": 53973
+    "total_seconds": 55587
   },
   "tycoon672": {
     "week_seconds": 0,
@@ -12513,5 +12513,10 @@
     "week_seconds": 314,
     "week_start": 1782544731,
     "total_seconds": 314
+  },
+  "spicyicy111": {
+    "week_seconds": 0,
+    "week_start": 1782546116,
+    "total_seconds": 0
   }
 }
