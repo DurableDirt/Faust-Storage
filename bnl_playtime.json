@@ -2300,9 +2300,9 @@
     "total_seconds": 33055
   },
   "zeologue": {
-    "week_seconds": 0,
+    "week_seconds": 1,
     "week_start": 1782137960,
-    "total_seconds": 893
+    "total_seconds": 894
   },
   "infernognome": {
     "week_seconds": 0,
@@ -3335,9 +3335,9 @@
     "total_seconds": 1152
   },
   "project_baxti": {
-    "week_seconds": 53568,
+    "week_seconds": 55555,
     "week_start": 1782170360,
-    "total_seconds": 134456
+    "total_seconds": 136443
   },
   "tintin360": {
     "week_seconds": 0,
