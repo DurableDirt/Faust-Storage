@@ -7815,43 +7815,43 @@
     "total_seconds": 32064
   },
   "timthyz": {
-    "week_seconds": 7877,
-    "week_start": 1781984741,
+    "week_seconds": 0,
+    "week_start": 1782592558,
     "total_seconds": 7877
   },
   "kronprinzkaiser": {
-    "week_seconds": 3282,
-    "week_start": 1781985181,
+    "week_seconds": 0,
+    "week_start": 1782592558,
     "total_seconds": 3282
   },
   "lelo404": {
-    "week_seconds": 335,
-    "week_start": 1781985272,
+    "week_seconds": 0,
+    "week_start": 1782592558,
     "total_seconds": 335
   },
   "cr3y6712": {
-    "week_seconds": 41,
-    "week_start": 1781985406,
+    "week_seconds": 0,
+    "week_start": 1782592558,
     "total_seconds": 41
   },
   "commradepotatoe": {
-    "week_seconds": 13742,
-    "week_start": 1781985467,
+    "week_seconds": 0,
+    "week_start": 1782592558,
     "total_seconds": 13742
   },
   "gjum": {
-    "week_seconds": 846,
-    "week_start": 1781986480,
+    "week_seconds": 0,
+    "week_start": 1782592558,
     "total_seconds": 846
   },
   "jaxmasterflash6": {
-    "week_seconds": 9913,
-    "week_start": 1781986525,
+    "week_seconds": 0,
+    "week_start": 1782592558,
     "total_seconds": 9913
   },
   "guru_63": {
-    "week_seconds": 861,
-    "week_start": 1781986956,
+    "week_seconds": 0,
+    "week_start": 1782592558,
     "total_seconds": 861
   },
   "ym_kuba": {
@@ -12745,9 +12745,9 @@
     "total_seconds": 4765
   },
   "varenikkim": {
-    "week_seconds": 5564,
+    "week_seconds": 5673,
     "week_start": 1782572998,
-    "total_seconds": 5564
+    "total_seconds": 5673
   },
   "finkov": {
     "week_seconds": 4957,
@@ -12972,6 +12972,11 @@
   "masmelao": {
     "week_seconds": 0,
     "week_start": 1782592406,
+    "total_seconds": 0
+  },
+  "shreddedsponge": {
+    "week_seconds": 0,
+    "week_start": 1782592598,
     "total_seconds": 0
   }
 }
