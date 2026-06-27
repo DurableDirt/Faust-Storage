@@ -5645,9 +5645,9 @@
     "total_seconds": 174
   },
   "skippydx": {
-    "week_seconds": 28694,
+    "week_seconds": 29070,
     "week_start": 1782346760,
-    "total_seconds": 118983
+    "total_seconds": 119359
   },
   "ultraman2": {
     "week_seconds": 0,
@@ -12833,5 +12833,10 @@
     "week_seconds": 35,
     "week_start": 1782580936,
     "total_seconds": 35
+  },
+  "raets": {
+    "week_seconds": 25,
+    "week_start": 1782581002,
+    "total_seconds": 25
   }
 }
