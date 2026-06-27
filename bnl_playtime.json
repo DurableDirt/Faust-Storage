@@ -525,9 +525,9 @@
     "total_seconds": 7709
   },
   "shadno": {
-    "week_seconds": 101084,
+    "week_seconds": 102894,
     "week_start": 1782087560,
-    "total_seconds": 365551
+    "total_seconds": 367361
   },
   "hexayn": {
     "week_seconds": 28483,
@@ -905,9 +905,9 @@
     "total_seconds": 34278
   },
   "ifriendiscool": {
-    "week_seconds": 223869,
+    "week_seconds": 224476,
     "week_start": 1782091160,
-    "total_seconds": 368867
+    "total_seconds": 369474
   },
   "ytrewq64": {
     "week_seconds": 21343,
@@ -13147,6 +13147,11 @@
   "mr_dead_bells": {
     "week_seconds": 0,
     "week_start": 1782604177,
+    "total_seconds": 0
+  },
+  "lucixanaa2010": {
+    "week_seconds": 0,
+    "week_start": 1782604740,
     "total_seconds": 0
   }
 }
