@@ -235,9 +235,9 @@
     "total_seconds": 177391
   },
   "hentlol": {
-    "week_seconds": 90377,
+    "week_seconds": 100199,
     "week_start": 1782083960,
-    "total_seconds": 212023
+    "total_seconds": 221845
   },
   "wasabiwhip": {
     "week_seconds": 15461,
@@ -4020,9 +4020,9 @@
     "total_seconds": 23782
   },
   "lucylunae": {
-    "week_seconds": 2954,
+    "week_seconds": 3436,
     "week_start": 1782224360,
-    "total_seconds": 3801
+    "total_seconds": 4283
   },
   "tactihawk": {
     "week_seconds": 83723,
@@ -13082,6 +13082,11 @@
   "paradence": {
     "week_seconds": 0,
     "week_start": 1782600778,
+    "total_seconds": 0
+  },
+  "docirn": {
+    "week_seconds": 0,
+    "week_start": 1782601071,
     "total_seconds": 0
   }
 }
