@@ -11180,9 +11180,9 @@
     "total_seconds": 1502
   },
   "bumbusl": {
-    "week_seconds": 51316,
+    "week_seconds": 51336,
     "week_start": 1782412872,
-    "total_seconds": 51316
+    "total_seconds": 51336
   },
   "rdmsh": {
     "week_seconds": 10313,
@@ -12885,9 +12885,9 @@
     "total_seconds": 260
   },
   "monkeyball5": {
-    "week_seconds": 0,
+    "week_seconds": 1056,
     "week_start": 1782585352,
-    "total_seconds": 0
+    "total_seconds": 1056
   },
   "bveryyy": {
     "week_seconds": 11,
@@ -12898,5 +12898,15 @@
     "week_seconds": 17,
     "week_start": 1782586287,
     "total_seconds": 17
+  },
+  "mis1eader": {
+    "week_seconds": 0,
+    "week_start": 1782586397,
+    "total_seconds": 0
+  },
+  "potato_duke": {
+    "week_seconds": 1,
+    "week_start": 1782586405,
+    "total_seconds": 1
   }
 }
