@@ -11385,9 +11385,9 @@
     "total_seconds": 895
   },
   "rustyoldqrow": {
-    "week_seconds": 8341,
+    "week_seconds": 10594,
     "week_start": 1782432968,
-    "total_seconds": 8341
+    "total_seconds": 10594
   },
   "ben9075897": {
     "week_seconds": 211,
@@ -11825,9 +11825,9 @@
     "total_seconds": 10897
   },
   "pickledclowdz": {
-    "week_seconds": 3172,
+    "week_seconds": 4315,
     "week_start": 1782494671,
-    "total_seconds": 3172
+    "total_seconds": 4315
   },
   "hacker4chen": {
     "week_seconds": 4530,
@@ -12237,6 +12237,11 @@
   "jewishmale": {
     "week_seconds": 0,
     "week_start": 1782522460,
+    "total_seconds": 0
+  },
+  "vicelikegoose70": {
+    "week_seconds": 0,
+    "week_start": 1782522642,
     "total_seconds": 0
   }
 }
