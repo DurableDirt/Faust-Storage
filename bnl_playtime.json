@@ -6765,9 +6765,9 @@
     "total_seconds": 14121
   },
   "gabrielmaennl5": {
-    "week_seconds": 37197,
+    "week_seconds": 41035,
     "week_start": 1782461960,
-    "total_seconds": 144702
+    "total_seconds": 148540
   },
   "big_shadow0": {
     "week_seconds": 826,
@@ -12850,9 +12850,9 @@
     "total_seconds": 728
   },
   "nyrox08": {
-    "week_seconds": 0,
+    "week_seconds": 1822,
     "week_start": 1782582467,
-    "total_seconds": 0
+    "total_seconds": 1822
   },
   "liamvr10": {
     "week_seconds": 46,
@@ -12872,6 +12872,11 @@
   "zigzot": {
     "week_seconds": 0,
     "week_start": 1782584193,
+    "total_seconds": 0
+  },
+  "himchi": {
+    "week_seconds": 0,
+    "week_start": 1782584291,
     "total_seconds": 0
   }
 }
