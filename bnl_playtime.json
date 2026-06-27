@@ -9960,9 +9960,9 @@
     "total_seconds": 145
   },
   "blueben_427": {
-    "week_seconds": 21150,
+    "week_seconds": 29976,
     "week_start": 1782245966,
-    "total_seconds": 21150
+    "total_seconds": 29976
   },
   "ducky096": {
     "week_seconds": 101,
@@ -12978,5 +12978,10 @@
     "week_seconds": 394,
     "week_start": 1782592598,
     "total_seconds": 394
+  },
+  "maximummender44": {
+    "week_seconds": 0,
+    "week_start": 1782593130,
+    "total_seconds": 0
   }
 }
