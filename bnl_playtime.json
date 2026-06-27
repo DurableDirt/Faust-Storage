@@ -5645,9 +5645,9 @@
     "total_seconds": 174
   },
   "skippydx": {
-    "week_seconds": 26232,
+    "week_seconds": 26264,
     "week_start": 1782346760,
-    "total_seconds": 116521
+    "total_seconds": 116553
   },
   "ultraman2": {
     "week_seconds": 0,
@@ -12463,5 +12463,10 @@
     "week_seconds": 26,
     "week_start": 1782538716,
     "total_seconds": 26
+  },
+  "cosmiclink": {
+    "week_seconds": 0,
+    "week_start": 1782539257,
+    "total_seconds": 0
   }
 }
