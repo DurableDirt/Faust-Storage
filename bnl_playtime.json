@@ -1580,9 +1580,9 @@
     "total_seconds": 222998
   },
   "gobblin": {
-    "week_seconds": 36672,
+    "week_seconds": 36673,
     "week_start": 1782112760,
-    "total_seconds": 103273
+    "total_seconds": 103274
   },
   "vlinar": {
     "week_seconds": 64094,
@@ -4460,9 +4460,9 @@
     "total_seconds": 10899
   },
   "warbsthesquirrel": {
-    "week_seconds": 129,
+    "week_seconds": 3225,
     "week_start": 1782245960,
-    "total_seconds": 342
+    "total_seconds": 3438
   },
   "serenity1331": {
     "week_seconds": 22869,
