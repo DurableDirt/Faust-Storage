@@ -2485,9 +2485,9 @@
     "total_seconds": 75915
   },
   "emperorashina": {
-    "week_seconds": 73933,
+    "week_seconds": 81230,
     "week_start": 1782141560,
-    "total_seconds": 167039
+    "total_seconds": 174336
   },
   "sailorwillis": {
     "week_seconds": 232605,
@@ -6825,9 +6825,9 @@
     "total_seconds": 25798
   },
   "vedel2050": {
-    "week_seconds": 7151,
+    "week_seconds": 7225,
     "week_start": 1782465560,
-    "total_seconds": 36092
+    "total_seconds": 36166
   },
   "jobisveryscary67": {
     "week_seconds": 1034,
@@ -12225,8 +12225,13 @@
     "total_seconds": 0
   },
   "pinecone0179onyt": {
-    "week_seconds": 0,
+    "week_seconds": 32,
     "week_start": 1782522380,
+    "total_seconds": 32
+  },
+  "_highboy_": {
+    "week_seconds": 0,
+    "week_start": 1782522408,
     "total_seconds": 0
   }
 }
