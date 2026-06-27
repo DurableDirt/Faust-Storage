@@ -1755,9 +1755,9 @@
     "total_seconds": 89786
   },
   "facocero09": {
-    "week_seconds": 115001,
+    "week_seconds": 122727,
     "week_start": 1782119960,
-    "total_seconds": 274570
+    "total_seconds": 282296
   },
   "happyfeet4607": {
     "week_seconds": 599,
@@ -5715,9 +5715,9 @@
     "total_seconds": 7676
   },
   "rurfu": {
-    "week_seconds": 31457,
+    "week_seconds": 31489,
     "week_start": 1782353960,
-    "total_seconds": 125616
+    "total_seconds": 125648
   },
   "binks4362": {
     "week_seconds": 0,
@@ -9070,9 +9070,9 @@
     "total_seconds": 13018
   },
   "e_mac_": {
-    "week_seconds": 79404,
+    "week_seconds": 79407,
     "week_start": 1782146251,
-    "total_seconds": 79404
+    "total_seconds": 79407
   },
   "its_raiju_59": {
     "week_seconds": 1604,
@@ -12863,5 +12863,10 @@
     "week_seconds": 22,
     "week_start": 1782583255,
     "total_seconds": 22
+  },
+  "axxalodle": {
+    "week_seconds": 0,
+    "week_start": 1782583447,
+    "total_seconds": 0
   }
 }
