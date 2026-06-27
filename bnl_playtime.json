@@ -1665,9 +1665,9 @@
     "total_seconds": 29933
   },
   "polysemic": {
-    "week_seconds": 38712,
+    "week_seconds": 38964,
     "week_start": 1782116360,
-    "total_seconds": 116019
+    "total_seconds": 116271
   },
   "wuli": {
     "week_seconds": 209951,
@@ -2325,9 +2325,9 @@
     "total_seconds": 7970
   },
   "bluechickpro": {
-    "week_seconds": 25395,
+    "week_seconds": 26414,
     "week_start": 1782137960,
-    "total_seconds": 57974
+    "total_seconds": 58993
   },
   "xa_n": {
     "week_seconds": 12668,
@@ -12718,5 +12718,10 @@
     "week_seconds": 5,
     "week_start": 1782569924,
     "total_seconds": 5
+  },
+  "thecarrothead12": {
+    "week_seconds": 0,
+    "week_start": 1782570017,
+    "total_seconds": 0
   }
 }
