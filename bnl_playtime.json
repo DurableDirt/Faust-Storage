@@ -50,9 +50,9 @@
     "total_seconds": 94373
   },
   "meenos": {
-    "week_seconds": 38880,
+    "week_seconds": 41425,
     "week_start": 1782080360,
-    "total_seconds": 186935
+    "total_seconds": 189480
   },
   "jadenjb": {
     "week_seconds": 18200,
@@ -9280,9 +9280,9 @@
     "total_seconds": 9165
   },
   "vai_": {
-    "week_seconds": 43946,
+    "week_seconds": 45107,
     "week_start": 1782165618,
-    "total_seconds": 43946
+    "total_seconds": 45107
   },
   "mis_misato": {
     "week_seconds": 126,
@@ -12358,5 +12358,15 @@
     "week_seconds": 32,
     "week_start": 1782529790,
     "total_seconds": 32
+  },
+  "prptheawesome": {
+    "week_seconds": 0,
+    "week_start": 1782530030,
+    "total_seconds": 0
+  },
+  "heavenpierceherr": {
+    "week_seconds": 0,
+    "week_start": 1782530064,
+    "total_seconds": 0
   }
 }
