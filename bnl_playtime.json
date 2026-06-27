@@ -70,9 +70,9 @@
     "total_seconds": 124114
   },
   "jindosh": {
-    "week_seconds": 56966,
+    "week_seconds": 57467,
     "week_start": 1782080360,
-    "total_seconds": 186442
+    "total_seconds": 186943
   },
   "40mm": {
     "week_seconds": 152522,
@@ -3615,9 +3615,9 @@
     "total_seconds": 1198
   },
   "luminous15": {
-    "week_seconds": 98202,
+    "week_seconds": 98669,
     "week_start": 1782181160,
-    "total_seconds": 167500
+    "total_seconds": 167967
   },
   "frostythorgrim": {
     "week_seconds": 0,
@@ -12447,6 +12447,11 @@
   "nightshade2015": {
     "week_seconds": 0,
     "week_start": 1782537170,
+    "total_seconds": 0
+  },
+  "george__orwell": {
+    "week_seconds": 0,
+    "week_start": 1782537249,
     "total_seconds": 0
   }
 }
