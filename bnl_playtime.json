@@ -2360,9 +2360,9 @@
     "total_seconds": 11383
   },
   "creaptor1": {
-    "week_seconds": 92864,
+    "week_seconds": 93129,
     "week_start": 1782137960,
-    "total_seconds": 160948
+    "total_seconds": 161213
   },
   "thisismynameatm": {
     "week_seconds": 7696,
@@ -5295,9 +5295,9 @@
     "total_seconds": 306
   },
   "matanic1107": {
-    "week_seconds": 19072,
+    "week_seconds": 23932,
     "week_start": 1782321560,
-    "total_seconds": 56665
+    "total_seconds": 61525
   },
   "pixel5legend": {
     "week_seconds": 0,
@@ -12570,8 +12570,8 @@
     "total_seconds": 211
   },
   "rt5000000": {
-    "week_seconds": 0,
+    "week_seconds": 22,
     "week_start": 1782553253,
-    "total_seconds": 0
+    "total_seconds": 22
   }
 }
