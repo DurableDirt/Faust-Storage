@@ -715,9 +715,9 @@
     "total_seconds": 24277
   },
   "limtingus1": {
-    "week_seconds": 199966,
+    "week_seconds": 202703,
     "week_start": 1782087560,
-    "total_seconds": 477154
+    "total_seconds": 479891
   },
   "the_montenegrin": {
     "week_seconds": 0,
@@ -3615,9 +3615,9 @@
     "total_seconds": 1198
   },
   "luminous15": {
-    "week_seconds": 95136,
+    "week_seconds": 95291,
     "week_start": 1782181160,
-    "total_seconds": 164434
+    "total_seconds": 164589
   },
   "frostythorgrim": {
     "week_seconds": 0,
@@ -12398,5 +12398,10 @@
     "week_seconds": 549,
     "week_start": 1782532530,
     "total_seconds": 549
+  },
+  "squillywillyson": {
+    "week_seconds": 0,
+    "week_start": 1782533482,
+    "total_seconds": 0
   }
 }
