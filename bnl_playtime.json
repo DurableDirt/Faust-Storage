@@ -385,9 +385,9 @@
     "total_seconds": 21360
   },
   "opriva": {
-    "week_seconds": 32239,
+    "week_seconds": 37758,
     "week_start": 1782083960,
-    "total_seconds": 165961
+    "total_seconds": 171480
   },
   "kokomiology": {
     "week_seconds": 77659,
@@ -2145,9 +2145,9 @@
     "total_seconds": 323271
   },
   "daimnasal": {
-    "week_seconds": 48799,
+    "week_seconds": 49006,
     "week_start": 1782134360,
-    "total_seconds": 146161
+    "total_seconds": 146368
   },
   "azurisdev": {
     "week_seconds": 1009,
@@ -13143,5 +13143,10 @@
     "week_seconds": 91,
     "week_start": 1782603930,
     "total_seconds": 91
+  },
+  "mr_dead_bells": {
+    "week_seconds": 0,
+    "week_start": 1782604177,
+    "total_seconds": 0
   }
 }
