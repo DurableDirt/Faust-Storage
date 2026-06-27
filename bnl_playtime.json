@@ -155,9 +155,9 @@
     "total_seconds": 65076
   },
   "lightningboi4": {
-    "week_seconds": 190913,
+    "week_seconds": 192849,
     "week_start": 1782083960,
-    "total_seconds": 342626
+    "total_seconds": 344562
   },
   "aaroni_macaroni": {
     "week_seconds": 53976,
@@ -13098,5 +13098,10 @@
     "week_seconds": 30,
     "week_start": 1782601348,
     "total_seconds": 30
+  },
+  "abwomen": {
+    "week_seconds": 0,
+    "week_start": 1782601506,
+    "total_seconds": 0
   }
 }
