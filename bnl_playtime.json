@@ -950,9 +950,9 @@
     "total_seconds": 67383
   },
   "bylethseisner": {
-    "week_seconds": 179607,
+    "week_seconds": 184078,
     "week_start": 1782091160,
-    "total_seconds": 261503
+    "total_seconds": 265974
   },
   "pointy_hii": {
     "week_seconds": 115151,
@@ -4070,9 +4070,9 @@
     "total_seconds": 13070
   },
   "aziumthal1": {
-    "week_seconds": 48349,
+    "week_seconds": 55949,
     "week_start": 1782227960,
-    "total_seconds": 112481
+    "total_seconds": 120081
   },
   "evil_david": {
     "week_seconds": 0,
@@ -12577,6 +12577,11 @@
   "leafability": {
     "week_seconds": 0,
     "week_start": 1782553929,
+    "total_seconds": 0
+  },
+  "baconbuttyluver": {
+    "week_seconds": 0,
+    "week_start": 1782554259,
     "total_seconds": 0
   }
 }
