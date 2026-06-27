@@ -5590,9 +5590,9 @@
     "total_seconds": 1184
   },
   "comradenick": {
-    "week_seconds": 0,
+    "week_seconds": 180,
     "week_start": 1782343160,
-    "total_seconds": 10810
+    "total_seconds": 10990
   },
   "totunapiano": {
     "week_seconds": 8088,
@@ -12497,6 +12497,11 @@
   "mystcrime": {
     "week_seconds": 0,
     "week_start": 1782542558,
+    "total_seconds": 0
+  },
+  "pancake105": {
+    "week_seconds": 0,
+    "week_start": 1782542591,
     "total_seconds": 0
   }
 }
