@@ -90,9 +90,9 @@
     "total_seconds": 117927
   },
   "chips_and_salsa_": {
-    "week_seconds": 79067,
+    "week_seconds": 81366,
     "week_start": 1782080360,
-    "total_seconds": 129084
+    "total_seconds": 131383
   },
   "booger_godslayer": {
     "week_seconds": 370,
@@ -2485,9 +2485,9 @@
     "total_seconds": 75915
   },
   "emperorashina": {
-    "week_seconds": 86080,
+    "week_seconds": 91187,
     "week_start": 1782141560,
-    "total_seconds": 179186
+    "total_seconds": 184293
   },
   "sailorwillis": {
     "week_seconds": 232605,
@@ -13107,6 +13107,11 @@
   "asuperjumbo": {
     "week_seconds": 0,
     "week_start": 1782601669,
+    "total_seconds": 0
+  },
+  "mnam": {
+    "week_seconds": 0,
+    "week_start": 1782601883,
     "total_seconds": 0
   }
 }
