@@ -1690,9 +1690,9 @@
     "total_seconds": 45519
   },
   "solitaire7": {
-    "week_seconds": 175739,
+    "week_seconds": 177789,
     "week_start": 1782116360,
-    "total_seconds": 330691
+    "total_seconds": 332741
   },
   "masqo_": {
     "week_seconds": 4700,
@@ -9860,9 +9860,9 @@
     "total_seconds": 54417
   },
   "stoomer": {
-    "week_seconds": 10080,
+    "week_seconds": 10344,
     "week_start": 1782237412,
-    "total_seconds": 10080
+    "total_seconds": 10344
   },
   "b0cke": {
     "week_seconds": 50491,
@@ -12830,8 +12830,8 @@
     "total_seconds": 0
   },
   "apocknight": {
-    "week_seconds": 0,
+    "week_seconds": 35,
     "week_start": 1782580936,
-    "total_seconds": 0
+    "total_seconds": 35
   }
 }
