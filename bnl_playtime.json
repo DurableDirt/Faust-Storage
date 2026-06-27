@@ -3495,9 +3495,9 @@
     "total_seconds": 6
   },
   "leafchalice": {
-    "week_seconds": 101157,
+    "week_seconds": 126762,
     "week_start": 1782173960,
-    "total_seconds": 178169
+    "total_seconds": 203774
   },
   "h3dge5": {
     "week_seconds": 64,
@@ -4940,9 +4940,9 @@
     "total_seconds": 1385
   },
   "the_player_101": {
-    "week_seconds": 3691,
+    "week_seconds": 5289,
     "week_start": 1782285560,
-    "total_seconds": 15092
+    "total_seconds": 16690
   },
   "3ncrypted_p4sty": {
     "week_seconds": 1050,
@@ -12488,5 +12488,10 @@
     "week_seconds": 51,
     "week_start": 1782541541,
     "total_seconds": 51
+  },
+  "akoskeez": {
+    "week_seconds": 0,
+    "week_start": 1782542397,
+    "total_seconds": 0
   }
 }
