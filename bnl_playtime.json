@@ -2145,9 +2145,9 @@
     "total_seconds": 323271
   },
   "daimnasal": {
-    "week_seconds": 47911,
+    "week_seconds": 47943,
     "week_start": 1782134360,
-    "total_seconds": 145273
+    "total_seconds": 145305
   },
   "azurisdev": {
     "week_seconds": 1009,
@@ -6780,9 +6780,9 @@
     "total_seconds": 33010
   },
   "monk_icarus": {
-    "week_seconds": 16552,
+    "week_seconds": 37084,
     "week_start": 1782461960,
-    "total_seconds": 58374
+    "total_seconds": 78906
   },
   "yycnbnb": {
     "week_seconds": 0,
@@ -7990,9 +7990,9 @@
     "total_seconds": 147
   },
   "mrnuems": {
-    "week_seconds": 23201,
+    "week_seconds": 23472,
     "week_start": 1782001807,
-    "total_seconds": 23201
+    "total_seconds": 23472
   },
   "southnsniper": {
     "week_seconds": 71,
@@ -13132,6 +13132,11 @@
   "joythevoid": {
     "week_seconds": 0,
     "week_start": 1782602569,
+    "total_seconds": 0
+  },
+  "iikukuu": {
+    "week_seconds": 0,
+    "week_start": 1782602729,
     "total_seconds": 0
   }
 }
