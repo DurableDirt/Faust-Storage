@@ -1575,9 +1575,9 @@
     "total_seconds": 315462
   },
   "_2k42_": {
-    "week_seconds": 128345,
+    "week_seconds": 128710,
     "week_start": 1782112760,
-    "total_seconds": 216409
+    "total_seconds": 216774
   },
   "gobblin": {
     "week_seconds": 36672,
@@ -11035,9 +11035,9 @@
     "total_seconds": 456
   },
   "__chi_yu__": {
-    "week_seconds": 29987,
+    "week_seconds": 30061,
     "week_start": 1782399992,
-    "total_seconds": 29987
+    "total_seconds": 30061
   },
   "juleslebatteur": {
     "week_seconds": 587,
