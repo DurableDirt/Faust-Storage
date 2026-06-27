@@ -155,9 +155,9 @@
     "total_seconds": 55236
   },
   "lightningboi4": {
-    "week_seconds": 161034,
+    "week_seconds": 161066,
     "week_start": 1782083960,
-    "total_seconds": 312747
+    "total_seconds": 312779
   },
   "aaroni_macaroni": {
     "week_seconds": 53976,
@@ -800,9 +800,9 @@
     "total_seconds": 61420
   },
   "zanzirbibley": {
-    "week_seconds": 19753,
+    "week_seconds": 19803,
     "week_start": 1782091160,
-    "total_seconds": 45048
+    "total_seconds": 45098
   },
   "theunreales": {
     "week_seconds": 25903,
@@ -12350,9 +12350,9 @@
     "total_seconds": 328
   },
   "gnome432": {
-    "week_seconds": 0,
+    "week_seconds": 2996,
     "week_start": 1782529544,
-    "total_seconds": 0
+    "total_seconds": 2996
   },
   "ein_spiel": {
     "week_seconds": 32,
@@ -12393,5 +12393,10 @@
     "week_seconds": 1209,
     "week_start": 1782531222,
     "total_seconds": 1209
+  },
+  "duhzay": {
+    "week_seconds": 0,
+    "week_start": 1782532530,
+    "total_seconds": 0
   }
 }
