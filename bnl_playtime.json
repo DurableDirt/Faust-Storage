@@ -2245,9 +2245,9 @@
     "total_seconds": 129310
   },
   "ambersolberg205": {
-    "week_seconds": 58891,
+    "week_seconds": 59796,
     "week_start": 1782134360,
-    "total_seconds": 106849
+    "total_seconds": 107754
   },
   "scottytohoty420": {
     "week_seconds": 4384,
@@ -12453,5 +12453,10 @@
     "week_seconds": 97,
     "week_start": 1782537249,
     "total_seconds": 97
+  },
+  "apexarchivecheat": {
+    "week_seconds": 40,
+    "week_start": 1782537613,
+    "total_seconds": 40
   }
 }
