@@ -4940,9 +4940,9 @@
     "total_seconds": 1385
   },
   "the_player_101": {
-    "week_seconds": 6239,
+    "week_seconds": 7398,
     "week_start": 1782285560,
-    "total_seconds": 17640
+    "total_seconds": 18799
   },
   "3ncrypted_p4sty": {
     "week_seconds": 1050,
@@ -12508,5 +12508,10 @@
     "week_seconds": 92,
     "week_start": 1782542695,
     "total_seconds": 92
+  },
+  "urzork": {
+    "week_seconds": 0,
+    "week_start": 1782544731,
+    "total_seconds": 0
   }
 }
