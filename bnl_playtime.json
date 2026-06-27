@@ -12335,8 +12335,8 @@
     "total_seconds": 0
   },
   "ifinityslayer": {
-    "week_seconds": 0,
+    "week_seconds": 99,
     "week_start": 1782526938,
-    "total_seconds": 0
+    "total_seconds": 99
   }
 }
