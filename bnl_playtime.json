@@ -12490,9 +12490,9 @@
     "total_seconds": 51
   },
   "akoskeez": {
-    "week_seconds": 0,
+    "week_seconds": 276,
     "week_start": 1782542397,
-    "total_seconds": 0
+    "total_seconds": 276
   },
   "mystcrime": {
     "week_seconds": 0,
@@ -12502,6 +12502,11 @@
   "pancake105": {
     "week_seconds": 0,
     "week_start": 1782542591,
+    "total_seconds": 0
+  },
+  "lynnskywalker": {
+    "week_seconds": 0,
+    "week_start": 1782542695,
     "total_seconds": 0
   }
 }
