@@ -45,9 +45,9 @@
     "total_seconds": 230043
   },
   "lucifer420xx": {
-    "week_seconds": 31403,
+    "week_seconds": 35031,
     "week_start": 1782080360,
-    "total_seconds": 100262
+    "total_seconds": 103890
   },
   "meenos": {
     "week_seconds": 41743,
@@ -2940,9 +2940,9 @@
     "total_seconds": 7614
   },
   "dr_bacon_hair": {
-    "week_seconds": 480,
+    "week_seconds": 484,
     "week_start": 1782155960,
-    "total_seconds": 21177
+    "total_seconds": 21181
   },
   "_excalibur": {
     "week_seconds": 6361,
@@ -11330,9 +11330,9 @@
     "total_seconds": 747
   },
   "tenmarble170": {
-    "week_seconds": 5437,
+    "week_seconds": 9297,
     "week_start": 1782425652,
-    "total_seconds": 5437
+    "total_seconds": 9297
   },
   "hongkongfrickyou": {
     "week_seconds": 118,
@@ -12823,5 +12823,10 @@
     "week_seconds": 400,
     "week_start": 1782579607,
     "total_seconds": 400
+  },
+  "mortuifuturi": {
+    "week_seconds": 0,
+    "week_start": 1782580234,
+    "total_seconds": 0
   }
 }
