@@ -2515,9 +2515,9 @@
     "total_seconds": 49995
   },
   "disdage": {
-    "week_seconds": 116428,
+    "week_seconds": 121669,
     "week_start": 1782141560,
-    "total_seconds": 166487
+    "total_seconds": 171728
   },
   "thomas2point0": {
     "week_seconds": 0,
@@ -12427,6 +12427,11 @@
   "iferra": {
     "week_seconds": 0,
     "week_start": 1782535992,
+    "total_seconds": 0
+  },
+  "generalbone11": {
+    "week_seconds": 0,
+    "week_start": 1782536175,
     "total_seconds": 0
   }
 }
