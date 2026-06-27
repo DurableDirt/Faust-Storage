@@ -11870,9 +11870,9 @@
     "total_seconds": 437
   },
   "duhhhhhhhhhh11": {
-    "week_seconds": 2046,
+    "week_seconds": 3506,
     "week_start": 1782496619,
-    "total_seconds": 2046
+    "total_seconds": 3506
   },
   "sippy_cup24": {
     "week_seconds": 1442,
@@ -12737,6 +12737,11 @@
   "heimrarnadalr": {
     "week_seconds": 0,
     "week_start": 1782572410,
+    "total_seconds": 0
+  },
+  "syg": {
+    "week_seconds": 0,
+    "week_start": 1782572941,
     "total_seconds": 0
   }
 }
