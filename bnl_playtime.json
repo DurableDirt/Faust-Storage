@@ -3255,9 +3255,9 @@
     "total_seconds": 25123
   },
   "mickale": {
-    "week_seconds": 17818,
+    "week_seconds": 18150,
     "week_start": 1782166760,
-    "total_seconds": 25215
+    "total_seconds": 25547
   },
   "primalrex_3": {
     "week_seconds": 10462,
@@ -12807,6 +12807,11 @@
   "ice_cream5461": {
     "week_seconds": 0,
     "week_start": 1782578529,
+    "total_seconds": 0
+  },
+  "safeburrito5698": {
+    "week_seconds": 0,
+    "week_start": 1782578825,
     "total_seconds": 0
   }
 }
