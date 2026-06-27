@@ -1440,9 +1440,9 @@
     "total_seconds": 4959
   },
   "straightup_mc": {
-    "week_seconds": 3258,
+    "week_seconds": 10320,
     "week_start": 1782105560,
-    "total_seconds": 3724
+    "total_seconds": 10786
   },
   "ferretwings": {
     "week_seconds": 26056,
@@ -12543,5 +12543,10 @@
     "week_seconds": 606,
     "week_start": 1782547941,
     "total_seconds": 606
+  },
+  "crazyman559": {
+    "week_seconds": 0,
+    "week_start": 1782548757,
+    "total_seconds": 0
   }
 }
