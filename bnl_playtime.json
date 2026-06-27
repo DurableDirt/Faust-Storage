@@ -12575,13 +12575,13 @@
     "total_seconds": 22
   },
   "leafability": {
-    "week_seconds": 0,
+    "week_seconds": 364,
     "week_start": 1782553929,
-    "total_seconds": 0
+    "total_seconds": 364
   },
   "baconbuttyluver": {
-    "week_seconds": 0,
+    "week_seconds": 31,
     "week_start": 1782554259,
-    "total_seconds": 0
+    "total_seconds": 31
   }
 }
