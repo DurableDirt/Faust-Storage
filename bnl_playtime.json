@@ -1170,9 +1170,9 @@
     "total_seconds": 121386
   },
   "opozzumz": {
-    "week_seconds": 124755,
+    "week_seconds": 126477,
     "week_start": 1782094760,
-    "total_seconds": 193357
+    "total_seconds": 195079
   },
   "astralchroma": {
     "week_seconds": 158848,
@@ -3295,9 +3295,9 @@
     "total_seconds": 667
   },
   "twinkieexpresss": {
-    "week_seconds": 50670,
+    "week_seconds": 50796,
     "week_start": 1782166760,
-    "total_seconds": 134120
+    "total_seconds": 134246
   },
   "senkucola": {
     "week_seconds": 7318,
@@ -13088,5 +13088,10 @@
     "week_seconds": 0,
     "week_start": 1782601071,
     "total_seconds": 0
+  },
+  "dogofblade": {
+    "week_seconds": 22,
+    "week_start": 1782601218,
+    "total_seconds": 22
   }
 }
