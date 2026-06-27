@@ -12745,9 +12745,9 @@
     "total_seconds": 0
   },
   "varenikkim": {
-    "week_seconds": 0,
+    "week_seconds": 2033,
     "week_start": 1782572998,
-    "total_seconds": 0
+    "total_seconds": 2033
   },
   "finkov": {
     "week_seconds": 0,
@@ -12765,8 +12765,13 @@
     "total_seconds": 73
   },
   "ginger2222": {
-    "week_seconds": 410,
+    "week_seconds": 703,
     "week_start": 1782574057,
-    "total_seconds": 410
+    "total_seconds": 703
+  },
+  "raphex094": {
+    "week_seconds": 0,
+    "week_start": 1782575012,
+    "total_seconds": 0
   }
 }
