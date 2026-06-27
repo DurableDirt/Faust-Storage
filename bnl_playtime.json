@@ -7265,9 +7265,9 @@
     "total_seconds": 84955
   },
   "swiftyscissors": {
-    "week_seconds": 14276,
+    "week_seconds": 14308,
     "week_start": 1782520558,
-    "total_seconds": 309656
+    "total_seconds": 309688
   },
   "beinbean13": {
     "week_seconds": 0,
@@ -12593,5 +12593,10 @@
     "week_seconds": 266,
     "week_start": 1782556426,
     "total_seconds": 266
+  },
+  "mr_davide": {
+    "week_seconds": 0,
+    "week_start": 1782556884,
+    "total_seconds": 0
   }
 }
