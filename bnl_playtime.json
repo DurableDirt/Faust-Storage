@@ -2770,9 +2770,9 @@
     "total_seconds": 1555
   },
   "renero95": {
-    "week_seconds": 20276,
+    "week_seconds": 22881,
     "week_start": 1782152360,
-    "total_seconds": 49772
+    "total_seconds": 52377
   },
   "duskadmiral": {
     "week_seconds": 571,
@@ -8240,9 +8240,9 @@
     "total_seconds": 4644
   },
   "ch4m3leon": {
-    "week_seconds": 100170,
+    "week_seconds": 105702,
     "week_start": 1782040861,
-    "total_seconds": 100170
+    "total_seconds": 105702
   },
   "destroyerplayz99": {
     "week_seconds": 13,
@@ -12682,6 +12682,11 @@
   "jacobgaming442": {
     "week_seconds": 0,
     "week_start": 1782563625,
+    "total_seconds": 0
+  },
+  "sebweagle": {
+    "week_seconds": 0,
+    "week_start": 1782563947,
     "total_seconds": 0
   }
 }
