@@ -1555,9 +1555,9 @@
     "total_seconds": 3540
   },
   "hakr_": {
-    "week_seconds": 297896,
+    "week_seconds": 297951,
     "week_start": 1782109160,
-    "total_seconds": 658349
+    "total_seconds": 658404
   },
   "nsiv28": {
     "week_seconds": 5090,
@@ -7200,9 +7200,9 @@
     "total_seconds": 290
   },
   "silentdecks": {
-    "week_seconds": 34,
+    "week_seconds": 68,
     "week_start": 1782512360,
-    "total_seconds": 3866
+    "total_seconds": 3900
   },
   "sandfalls": {
     "week_seconds": 0,
