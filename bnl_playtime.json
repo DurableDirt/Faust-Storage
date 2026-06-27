@@ -10480,9 +10480,9 @@
     "total_seconds": 11945
   },
   "dinner12": {
-    "week_seconds": 9490,
+    "week_seconds": 11890,
     "week_start": 1782325250,
-    "total_seconds": 9490
+    "total_seconds": 11890
   },
   "dragon_king4567": {
     "week_seconds": 110,
@@ -12797,6 +12797,11 @@
   "stanyhurst": {
     "week_seconds": 0,
     "week_start": 1782578228,
+    "total_seconds": 0
+  },
+  "trains728": {
+    "week_seconds": 0,
+    "week_start": 1782578256,
     "total_seconds": 0
   }
 }
