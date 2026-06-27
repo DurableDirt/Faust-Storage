@@ -4850,9 +4850,9 @@
     "total_seconds": 139257
   },
   "jaybirdino": {
-    "week_seconds": 45993,
+    "week_seconds": 46622,
     "week_start": 1782274760,
-    "total_seconds": 55938
+    "total_seconds": 56567
   },
   "ev1lduck95": {
     "week_seconds": 0,
@@ -8670,9 +8670,9 @@
     "total_seconds": 4959
   },
   "obsidian_mike": {
-    "week_seconds": 139368,
+    "week_seconds": 139566,
     "week_start": 1782089382,
-    "total_seconds": 139368
+    "total_seconds": 139566
   },
   "rygysofly": {
     "week_seconds": 6788,
@@ -12883,5 +12883,10 @@
     "week_seconds": 260,
     "week_start": 1782584389,
     "total_seconds": 260
+  },
+  "monkeyball5": {
+    "week_seconds": 0,
+    "week_start": 1782585352,
+    "total_seconds": 0
   }
 }
