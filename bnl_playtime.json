@@ -50,9 +50,9 @@
     "total_seconds": 115408
   },
   "meenos": {
-    "week_seconds": 47014,
+    "week_seconds": 49768,
     "week_start": 1782080360,
-    "total_seconds": 195069
+    "total_seconds": 197823
   },
   "jadenjb": {
     "week_seconds": 20062,
@@ -230,9 +230,9 @@
     "total_seconds": 76
   },
   "the_fella7441": {
-    "week_seconds": 120870,
+    "week_seconds": 121035,
     "week_start": 1782083960,
-    "total_seconds": 183365
+    "total_seconds": 183530
   },
   "hentlol": {
     "week_seconds": 100199,
@@ -13138,5 +13138,10 @@
     "week_seconds": 79,
     "week_start": 1782602729,
     "total_seconds": 79
+  },
+  "godminecrafter12": {
+    "week_seconds": 91,
+    "week_start": 1782603930,
+    "total_seconds": 91
   }
 }
