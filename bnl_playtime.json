@@ -13035,9 +13035,9 @@
     "total_seconds": 50
   },
   "xdomciakx": {
-    "week_seconds": 0,
+    "week_seconds": 3985,
     "week_start": 1782598430,
-    "total_seconds": 0
+    "total_seconds": 3985
   },
   "zvma1": {
     "week_seconds": 15,
@@ -13122,6 +13122,11 @@
   "berizka": {
     "week_seconds": 0,
     "week_start": 1782602309,
+    "total_seconds": 0
+  },
+  "glaze7928": {
+    "week_seconds": 0,
+    "week_start": 1782602425,
     "total_seconds": 0
   }
 }
