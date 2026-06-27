@@ -12623,5 +12623,15 @@
     "week_seconds": 237,
     "week_start": 1782558911,
     "total_seconds": 237
+  },
+  "pinolinux": {
+    "week_seconds": 5,
+    "week_start": 1782559308,
+    "total_seconds": 5
+  },
+  "nethervex360": {
+    "week_seconds": 0,
+    "week_start": 1782559345,
+    "total_seconds": 0
   }
 }
