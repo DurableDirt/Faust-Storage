@@ -35,9 +35,9 @@
     "total_seconds": 100090
   },
   "maxxyrose": {
-    "week_seconds": 83689,
+    "week_seconds": 89230,
     "week_start": 1782080360,
-    "total_seconds": 114565
+    "total_seconds": 120106
   },
   "piotato": {
     "week_seconds": 122740,
@@ -715,9 +715,9 @@
     "total_seconds": 24277
   },
   "limtingus1": {
-    "week_seconds": 230951,
+    "week_seconds": 231316,
     "week_start": 1782087560,
-    "total_seconds": 508139
+    "total_seconds": 508504
   },
   "the_montenegrin": {
     "week_seconds": 0,
@@ -13012,6 +13012,11 @@
   "jakerambo": {
     "week_seconds": 0,
     "week_start": 1782597257,
+    "total_seconds": 0
+  },
+  "squidbilly22": {
+    "week_seconds": 0,
+    "week_start": 1782597434,
     "total_seconds": 0
   }
 }
