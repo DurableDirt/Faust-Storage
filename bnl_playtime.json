@@ -1520,9 +1520,9 @@
     "total_seconds": 196191
   },
   "_jaek": {
-    "week_seconds": 230508,
+    "week_seconds": 233378,
     "week_start": 1782109160,
-    "total_seconds": 368828
+    "total_seconds": 371698
   },
   "deuteriumoxide1": {
     "week_seconds": 4501,
@@ -4640,9 +4640,9 @@
     "total_seconds": 633
   },
   "isahelle": {
-    "week_seconds": 784,
+    "week_seconds": 1530,
     "week_start": 1782260360,
-    "total_seconds": 27740
+    "total_seconds": 28486
   },
   "itsalreadygold": {
     "week_seconds": 5683,
@@ -12795,9 +12795,9 @@
     "total_seconds": 69
   },
   "stanyhurst": {
-    "week_seconds": 3337,
+    "week_seconds": 3609,
     "week_start": 1782578228,
-    "total_seconds": 3337
+    "total_seconds": 3609
   },
   "trains728": {
     "week_seconds": 131,
@@ -12880,8 +12880,8 @@
     "total_seconds": 0
   },
   "_motokokusanagi": {
-    "week_seconds": 0,
+    "week_seconds": 260,
     "week_start": 1782584389,
-    "total_seconds": 0
+    "total_seconds": 260
   }
 }
