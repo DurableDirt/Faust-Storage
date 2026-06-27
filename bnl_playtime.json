@@ -1100,9 +1100,9 @@
     "total_seconds": 158832
   },
   "nevergrimm": {
-    "week_seconds": 68786,
+    "week_seconds": 74898,
     "week_start": 1782094760,
-    "total_seconds": 123337
+    "total_seconds": 129449
   },
   "lagiacrus": {
     "week_seconds": 9147,
@@ -12395,8 +12395,8 @@
     "total_seconds": 1209
   },
   "duhzay": {
-    "week_seconds": 119,
+    "week_seconds": 549,
     "week_start": 1782532530,
-    "total_seconds": 119
+    "total_seconds": 549
   }
 }
