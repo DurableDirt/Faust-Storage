@@ -905,9 +905,9 @@
     "total_seconds": 34278
   },
   "ifriendiscool": {
-    "week_seconds": 181916,
+    "week_seconds": 187084,
     "week_start": 1782091160,
-    "total_seconds": 326914
+    "total_seconds": 332082
   },
   "ytrewq64": {
     "week_seconds": 18972,
@@ -10825,9 +10825,9 @@
     "total_seconds": 1441
   },
   "fneet": {
-    "week_seconds": 8165,
+    "week_seconds": 8207,
     "week_start": 1782362802,
-    "total_seconds": 8165
+    "total_seconds": 8207
   },
   "mrgrace221": {
     "week_seconds": 131,
@@ -12473,5 +12473,10 @@
     "week_seconds": 62,
     "week_start": 1782539339,
     "total_seconds": 62
+  },
+  "zedequinox": {
+    "week_seconds": 0,
+    "week_start": 1782539849,
+    "total_seconds": 0
   }
 }
