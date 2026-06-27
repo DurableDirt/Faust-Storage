@@ -4455,9 +4455,9 @@
     "total_seconds": 62348
   },
   "stevethehouse122": {
-    "week_seconds": 6797,
+    "week_seconds": 6808,
     "week_start": 1782245960,
-    "total_seconds": 7371
+    "total_seconds": 7382
   },
   "warbsthesquirrel": {
     "week_seconds": 0,
@@ -12220,9 +12220,9 @@
     "total_seconds": 66
   },
   "scioneol": {
-    "week_seconds": 0,
+    "week_seconds": 75,
     "week_start": 1782522295,
-    "total_seconds": 0
+    "total_seconds": 75
   },
   "pinecone0179onyt": {
     "week_seconds": 32,
@@ -12248,5 +12248,15 @@
     "week_seconds": 109,
     "week_start": 1782522859,
     "total_seconds": 109
+  },
+  "pinebeard": {
+    "week_seconds": 0,
+    "week_start": 1782523024,
+    "total_seconds": 0
+  },
+  "tripleaaalex": {
+    "week_seconds": 0,
+    "week_start": 1782523060,
+    "total_seconds": 0
   }
 }
