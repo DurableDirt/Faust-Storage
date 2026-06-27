@@ -1285,9 +1285,9 @@
     "total_seconds": 39386
   },
   "darkwingz17": {
-    "week_seconds": 66368,
+    "week_seconds": 67279,
     "week_start": 1782098360,
-    "total_seconds": 100037
+    "total_seconds": 100948
   },
   "tomete13": {
     "week_seconds": 0,
@@ -2325,9 +2325,9 @@
     "total_seconds": 7970
   },
   "bluechickpro": {
-    "week_seconds": 21165,
+    "week_seconds": 21248,
     "week_start": 1782137960,
-    "total_seconds": 53744
+    "total_seconds": 53827
   },
   "xa_n": {
     "week_seconds": 12668,
@@ -4800,9 +4800,9 @@
     "total_seconds": 25
   },
   "vadimblin": {
-    "week_seconds": 29117,
+    "week_seconds": 29179,
     "week_start": 1782271160,
-    "total_seconds": 110849
+    "total_seconds": 110911
   },
   "yummyspacebar": {
     "week_seconds": 0,
@@ -12458,5 +12458,10 @@
     "week_seconds": 47,
     "week_start": 1782537613,
     "total_seconds": 47
+  },
+  "thekumucortwade": {
+    "week_seconds": 0,
+    "week_start": 1782538716,
+    "total_seconds": 0
   }
 }
