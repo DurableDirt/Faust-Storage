@@ -3615,9 +3615,9 @@
     "total_seconds": 1198
   },
   "luminous15": {
-    "week_seconds": 83804,
+    "week_seconds": 85041,
     "week_start": 1782181160,
-    "total_seconds": 153102
+    "total_seconds": 154339
   },
   "frostythorgrim": {
     "week_seconds": 0,
@@ -8895,9 +8895,9 @@
     "total_seconds": 43
   },
   "faseplay": {
-    "week_seconds": 143272,
+    "week_seconds": 143349,
     "week_start": 1782124080,
-    "total_seconds": 143272
+    "total_seconds": 143349
   },
   "jaskowanie": {
     "week_seconds": 3,
@@ -12213,5 +12213,10 @@
     "week_seconds": 16,
     "week_start": 1782521915,
     "total_seconds": 16
+  },
+  "scranevian": {
+    "week_seconds": 0,
+    "week_start": 1782522194,
+    "total_seconds": 0
   }
 }
