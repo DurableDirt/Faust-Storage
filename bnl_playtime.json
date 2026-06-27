@@ -8870,9 +8870,9 @@
     "total_seconds": 36081
   },
   "cerreckter": {
-    "week_seconds": 4736,
+    "week_seconds": 4792,
     "week_start": 1782119350,
-    "total_seconds": 4736
+    "total_seconds": 4792
   },
   "morningsoda": {
     "week_seconds": 41348,
@@ -12475,8 +12475,8 @@
     "total_seconds": 62
   },
   "zedequinox": {
-    "week_seconds": 0,
+    "week_seconds": 165,
     "week_start": 1782539849,
-    "total_seconds": 0
+    "total_seconds": 165
   }
 }
