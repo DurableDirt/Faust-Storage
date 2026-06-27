@@ -13070,9 +13070,9 @@
     "total_seconds": 25
   },
   "finman2025": {
-    "week_seconds": 0,
+    "week_seconds": 1024,
     "week_start": 1782599956,
-    "total_seconds": 0
+    "total_seconds": 1024
   },
   "justcheeks": {
     "week_seconds": 8,
