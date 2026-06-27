@@ -2135,9 +2135,9 @@
     "total_seconds": 208
   },
   "captainaxes": {
-    "week_seconds": 127060,
+    "week_seconds": 129208,
     "week_start": 1782134360,
-    "total_seconds": 235341
+    "total_seconds": 237489
   },
   "sqopenspellbook": {
     "week_seconds": 87281,
@@ -12590,9 +12590,9 @@
     "total_seconds": 178
   },
   "launotlaws": {
-    "week_seconds": 824,
+    "week_seconds": 938,
     "week_start": 1782556426,
-    "total_seconds": 824
+    "total_seconds": 938
   },
   "mr_davide": {
     "week_seconds": 544,
@@ -12603,5 +12603,10 @@
     "week_seconds": 308,
     "week_start": 1782557845,
     "total_seconds": 308
+  },
+  "spontaneousnut56": {
+    "week_seconds": 0,
+    "week_start": 1782558466,
+    "total_seconds": 0
   }
 }
