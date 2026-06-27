@@ -7200,9 +7200,9 @@
     "total_seconds": 290
   },
   "silentdecks": {
-    "week_seconds": 0,
+    "week_seconds": 34,
     "week_start": 1782512360,
-    "total_seconds": 3832
+    "total_seconds": 3866
   },
   "sandfalls": {
     "week_seconds": 0,
@@ -12440,9 +12440,9 @@
     "total_seconds": 654
   },
   "yeutaka": {
-    "week_seconds": 0,
+    "week_seconds": 2559,
     "week_start": 1782536823,
-    "total_seconds": 0
+    "total_seconds": 2559
   },
   "nightshade2015": {
     "week_seconds": 112,
@@ -12470,8 +12470,8 @@
     "total_seconds": 102
   },
   "mia_kia": {
-    "week_seconds": 0,
+    "week_seconds": 31,
     "week_start": 1782539339,
-    "total_seconds": 0
+    "total_seconds": 31
   }
 }
