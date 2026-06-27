@@ -755,9 +755,9 @@
     "total_seconds": 24956
   },
   "22o1anges": {
-    "week_seconds": 10922,
+    "week_seconds": 12181,
     "week_start": 1782091160,
-    "total_seconds": 63680
+    "total_seconds": 64939
   },
   "zaytch_7": {
     "week_seconds": 30520,
@@ -12912,6 +12912,11 @@
   "blocktechnology": {
     "week_seconds": 0,
     "week_start": 1782586592,
+    "total_seconds": 0
+  },
+  "dobbel": {
+    "week_seconds": 0,
+    "week_start": 1782586866,
     "total_seconds": 0
   }
 }
