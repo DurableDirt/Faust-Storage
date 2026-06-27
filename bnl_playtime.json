@@ -725,9 +725,9 @@
     "total_seconds": 329
   },
   "zzcqmbozz": {
-    "week_seconds": 58468,
+    "week_seconds": 64524,
     "week_start": 1782087560,
-    "total_seconds": 162031
+    "total_seconds": 168087
   },
   "marc_1500": {
     "week_seconds": 96702,
@@ -12817,6 +12817,11 @@
   "blobbles1234": {
     "week_seconds": 0,
     "week_start": 1782579252,
+    "total_seconds": 0
+  },
+  "duckxgirl": {
+    "week_seconds": 0,
+    "week_start": 1782579607,
     "total_seconds": 0
   }
 }
