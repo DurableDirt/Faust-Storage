@@ -3660,9 +3660,9 @@
     "total_seconds": 986
   },
   "mirkenmidnight": {
-    "week_seconds": 30982,
+    "week_seconds": 31235,
     "week_start": 1782184760,
-    "total_seconds": 66477
+    "total_seconds": 66730
   },
   "sharpbag9376805": {
     "week_seconds": 0,
@@ -7400,9 +7400,9 @@
     "total_seconds": 32108
   },
   "_medb_": {
-    "week_seconds": 29624,
+    "week_seconds": 30649,
     "week_start": 1781929242,
-    "total_seconds": 29624
+    "total_seconds": 30649
   },
   "ritalinabuser": {
     "week_seconds": 80921,
@@ -12267,6 +12267,16 @@
   "thejmqn": {
     "week_seconds": 0,
     "week_start": 1782523918,
+    "total_seconds": 0
+  },
+  "cryptoroll": {
+    "week_seconds": 0,
+    "week_start": 1782524078,
+    "total_seconds": 0
+  },
+  "gellingus": {
+    "week_seconds": 0,
+    "week_start": 1782524109,
     "total_seconds": 0
   }
 }
