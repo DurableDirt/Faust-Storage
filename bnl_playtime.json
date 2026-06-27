@@ -470,9 +470,9 @@
     "total_seconds": 129856
   },
   "anotnot": {
-    "week_seconds": 314090,
+    "week_seconds": 315245,
     "week_start": 1782087560,
-    "total_seconds": 593072
+    "total_seconds": 594227
   },
   "tntfortress": {
     "week_seconds": 22984,
@@ -12870,9 +12870,9 @@
     "total_seconds": 2442
   },
   "zigzot": {
-    "week_seconds": 12634,
+    "week_seconds": 13946,
     "week_start": 1782584193,
-    "total_seconds": 12634
+    "total_seconds": 13946
   },
   "himchi": {
     "week_seconds": 914,
@@ -13102,6 +13102,11 @@
   "abwomen": {
     "week_seconds": 0,
     "week_start": 1782601506,
+    "total_seconds": 0
+  },
+  "asuperjumbo": {
+    "week_seconds": 0,
+    "week_start": 1782601669,
     "total_seconds": 0
   }
 }
