@@ -13100,9 +13100,9 @@
     "total_seconds": 30
   },
   "abwomen": {
-    "week_seconds": 0,
+    "week_seconds": 794,
     "week_start": 1782601506,
-    "total_seconds": 0
+    "total_seconds": 794
   },
   "asuperjumbo": {
     "week_seconds": 603,
@@ -13115,8 +13115,13 @@
     "total_seconds": 0
   },
   "courtlyclover42": {
-    "week_seconds": 6,
+    "week_seconds": 10,
     "week_start": 1782602266,
-    "total_seconds": 6
+    "total_seconds": 10
+  },
+  "berizka": {
+    "week_seconds": 0,
+    "week_start": 1782602309,
+    "total_seconds": 0
   }
 }
