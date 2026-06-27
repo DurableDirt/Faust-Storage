@@ -3615,9 +3615,9 @@
     "total_seconds": 1198
   },
   "luminous15": {
-    "week_seconds": 96011,
+    "week_seconds": 97520,
     "week_start": 1782181160,
-    "total_seconds": 165309
+    "total_seconds": 166818
   },
   "frostythorgrim": {
     "week_seconds": 0,
@@ -12417,6 +12417,11 @@
   "elmer_freud": {
     "week_seconds": 0,
     "week_start": 1782535032,
+    "total_seconds": 0
+  },
+  "mattpattpony": {
+    "week_seconds": 0,
+    "week_start": 1782535882,
     "total_seconds": 0
   }
 }
