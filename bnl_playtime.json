@@ -210,9 +210,9 @@
     "total_seconds": 632
   },
   "jeyhey": {
-    "week_seconds": 177639,
+    "week_seconds": 178252,
     "week_start": 1782083960,
-    "total_seconds": 326476
+    "total_seconds": 327089
   },
   "thetoxicy": {
     "week_seconds": 10275,
@@ -690,9 +690,9 @@
     "total_seconds": 15506
   },
   "supposed": {
-    "week_seconds": 25938,
+    "week_seconds": 29527,
     "week_start": 1782087560,
-    "total_seconds": 65986
+    "total_seconds": 69575
   },
   "mr_kalboy": {
     "week_seconds": 5968,
@@ -12773,5 +12773,10 @@
     "week_seconds": 73,
     "week_start": 1782575012,
     "total_seconds": 73
+  },
+  "creperkid0": {
+    "week_seconds": 0,
+    "week_start": 1782575935,
+    "total_seconds": 0
   }
 }
