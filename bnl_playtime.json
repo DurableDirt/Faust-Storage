@@ -7260,9 +7260,9 @@
     "total_seconds": 105
   },
   "prettyparfait": {
-    "week_seconds": 0,
+    "week_seconds": 3597,
     "week_start": 1782520558,
-    "total_seconds": 76477
+    "total_seconds": 80074
   },
   "swiftyscissors": {
     "week_seconds": 0,
@@ -12235,13 +12235,18 @@
     "total_seconds": 0
   },
   "jewishmale": {
-    "week_seconds": 0,
+    "week_seconds": 401,
     "week_start": 1782522460,
-    "total_seconds": 0
+    "total_seconds": 401
   },
   "vicelikegoose70": {
     "week_seconds": 209,
     "week_start": 1782522642,
     "total_seconds": 209
+  },
+  "v01dwalker01": {
+    "week_seconds": 0,
+    "week_start": 1782522859,
+    "total_seconds": 0
   }
 }
