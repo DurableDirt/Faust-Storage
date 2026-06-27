@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 137436,
+    "week_seconds": 137597,
     "week_start": 1782127160,
-    "total_seconds": 201914
+    "total_seconds": 202075
   },
   "hxrl": {
     "week_seconds": 107652,
@@ -2850,9 +2850,9 @@
     "total_seconds": 707
   },
   "queenceliathe1st": {
-    "week_seconds": 45750,
+    "week_seconds": 46413,
     "week_start": 1782152360,
-    "total_seconds": 56625
+    "total_seconds": 57288
   },
   "tinyelon": {
     "week_seconds": 0,
@@ -13045,13 +13045,18 @@
     "total_seconds": 15
   },
   "sirfrancaisdrake": {
-    "week_seconds": 0,
+    "week_seconds": 891,
     "week_start": 1782598720,
-    "total_seconds": 0
+    "total_seconds": 891
   },
   "fran2012zz": {
     "week_seconds": 76,
     "week_start": 1782599073,
     "total_seconds": 76
+  },
+  "shadiestmule51": {
+    "week_seconds": 0,
+    "week_start": 1782599616,
+    "total_seconds": 0
   }
 }
