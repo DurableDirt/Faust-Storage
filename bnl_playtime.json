@@ -660,9 +660,9 @@
     "total_seconds": 19381
   },
   "demobottle12": {
-    "week_seconds": 36883,
+    "week_seconds": 42758,
     "week_start": 1782087560,
-    "total_seconds": 111818
+    "total_seconds": 117693
   },
   "unique_nullptr": {
     "week_seconds": 185015,
@@ -12750,9 +12750,9 @@
     "total_seconds": 4231
   },
   "finkov": {
-    "week_seconds": 0,
+    "week_seconds": 4957,
     "week_start": 1782573270,
-    "total_seconds": 0
+    "total_seconds": 4957
   },
   "mamoru_takumi": {
     "week_seconds": 533,
@@ -12793,5 +12793,10 @@
     "week_seconds": 69,
     "week_start": 1782576812,
     "total_seconds": 69
+  },
+  "stanyhurst": {
+    "week_seconds": 0,
+    "week_start": 1782578228,
+    "total_seconds": 0
   }
 }
