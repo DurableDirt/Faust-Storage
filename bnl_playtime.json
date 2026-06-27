@@ -2630,9 +2630,9 @@
     "total_seconds": 127797
   },
   "joldidk": {
-    "week_seconds": 83218,
+    "week_seconds": 85414,
     "week_start": 1782145160,
-    "total_seconds": 153313
+    "total_seconds": 155509
   },
   "hegghogaming": {
     "week_seconds": 26334,
@@ -13033,5 +13033,10 @@
     "week_seconds": 50,
     "week_start": 1782598158,
     "total_seconds": 50
+  },
+  "xdomciakx": {
+    "week_seconds": 0,
+    "week_start": 1782598430,
+    "total_seconds": 0
   }
 }
