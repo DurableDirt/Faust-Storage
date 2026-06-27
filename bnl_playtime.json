@@ -1700,9 +1700,9 @@
     "total_seconds": 52955
   },
   "eyestrainz": {
-    "week_seconds": 42195,
+    "week_seconds": 46416,
     "week_start": 1782116360,
-    "total_seconds": 104470
+    "total_seconds": 108691
   },
   "snailytrail": {
     "week_seconds": 0,
@@ -12752,6 +12752,16 @@
   "finkov": {
     "week_seconds": 0,
     "week_start": 1782573270,
+    "total_seconds": 0
+  },
+  "mamoru_takumi": {
+    "week_seconds": 0,
+    "week_start": 1782573318,
+    "total_seconds": 0
+  },
+  "syano_babu": {
+    "week_seconds": 0,
+    "week_start": 1782573328,
     "total_seconds": 0
   }
 }
