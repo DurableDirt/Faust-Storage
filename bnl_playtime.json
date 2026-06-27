@@ -1860,9 +1860,9 @@
     "total_seconds": 17
   },
   "nythrion07": {
-    "week_seconds": 0,
+    "week_seconds": 751,
     "week_start": 1782123560,
-    "total_seconds": 198
+    "total_seconds": 949
   },
   "orinnari": {
     "week_seconds": 351305,
@@ -7040,9 +7040,9 @@
     "total_seconds": 62168
   },
   "goosie1238": {
-    "week_seconds": 10543,
+    "week_seconds": 11023,
     "week_start": 1782497960,
-    "total_seconds": 67711
+    "total_seconds": 68191
   },
   "davosforum": {
     "week_seconds": 0,
@@ -12997,6 +12997,11 @@
   "mainesquare": {
     "week_seconds": 0,
     "week_start": 1782594404,
+    "total_seconds": 0
+  },
+  "_thattree_": {
+    "week_seconds": 0,
+    "week_start": 1782596281,
     "total_seconds": 0
   }
 }
