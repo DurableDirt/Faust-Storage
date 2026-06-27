@@ -1480,9 +1480,9 @@
     "total_seconds": 46558
   },
   "m4_enthusiasts": {
-    "week_seconds": 154,
+    "week_seconds": 1523,
     "week_start": 1782105560,
-    "total_seconds": 3107
+    "total_seconds": 4476
   },
   "jpmiii": {
     "week_seconds": 37895,
@@ -12827,6 +12827,11 @@
   "mortuifuturi": {
     "week_seconds": 0,
     "week_start": 1782580234,
+    "total_seconds": 0
+  },
+  "apocknight": {
+    "week_seconds": 0,
+    "week_start": 1782580936,
     "total_seconds": 0
   }
 }
