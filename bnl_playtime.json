@@ -1815,9 +1815,9 @@
     "total_seconds": 4975
   },
   "airdav": {
-    "week_seconds": 19145,
+    "week_seconds": 22563,
     "week_start": 1782123560,
-    "total_seconds": 37509
+    "total_seconds": 40927
   },
   "ch0rk": {
     "week_seconds": 0,
@@ -2090,9 +2090,9 @@
     "total_seconds": 226590
   },
   "m4xoff": {
-    "week_seconds": 10104,
+    "week_seconds": 10386,
     "week_start": 1782130760,
-    "total_seconds": 67298
+    "total_seconds": 67580
   },
   "thatguymisan": {
     "week_seconds": 34,
@@ -12633,5 +12633,10 @@
     "week_seconds": 0,
     "week_start": 1782559345,
     "total_seconds": 0
+  },
+  "giggletomjohnson": {
+    "week_seconds": 6,
+    "week_start": 1782559517,
+    "total_seconds": 6
   }
 }
