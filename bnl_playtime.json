@@ -1610,9 +1610,9 @@
     "total_seconds": 766
   },
   "adeadhead": {
-    "week_seconds": 410013,
+    "week_seconds": 410058,
     "week_start": 1782112760,
-    "total_seconds": 899299
+    "total_seconds": 899344
   },
   "cedarvaliant": {
     "week_seconds": 46078,
@@ -12387,6 +12387,11 @@
   "paperberry12417": {
     "week_seconds": 0,
     "week_start": 1782531100,
+    "total_seconds": 0
+  },
+  "yeezus1977": {
+    "week_seconds": 0,
+    "week_start": 1782531222,
     "total_seconds": 0
   }
 }
