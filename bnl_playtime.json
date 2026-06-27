@@ -6095,9 +6095,9 @@
     "total_seconds": 116
   },
   "diurdi": {
-    "week_seconds": 19921,
+    "week_seconds": 27033,
     "week_start": 1782404360,
-    "total_seconds": 199951
+    "total_seconds": 207063
   },
   "dj10_": {
     "week_seconds": 0,
@@ -12678,5 +12678,10 @@
     "week_seconds": 33,
     "week_start": 1782563271,
     "total_seconds": 33
+  },
+  "jacobgaming442": {
+    "week_seconds": 0,
+    "week_start": 1782563625,
+    "total_seconds": 0
   }
 }
