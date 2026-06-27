@@ -155,9 +155,9 @@
     "total_seconds": 57030
   },
   "lightningboi4": {
-    "week_seconds": 177961,
+    "week_seconds": 179024,
     "week_start": 1782083960,
-    "total_seconds": 329674
+    "total_seconds": 330737
   },
   "aaroni_macaroni": {
     "week_seconds": 53976,
@@ -470,9 +470,9 @@
     "total_seconds": 129856
   },
   "anotnot": {
-    "week_seconds": 300877,
+    "week_seconds": 302663,
     "week_start": 1782087560,
-    "total_seconds": 579859
+    "total_seconds": 581645
   },
   "tntfortress": {
     "week_seconds": 16398,
@@ -12893,5 +12893,10 @@
     "week_seconds": 11,
     "week_start": 1782585967,
     "total_seconds": 11
+  },
+  "natys3333": {
+    "week_seconds": 0,
+    "week_start": 1782586287,
+    "total_seconds": 0
   }
 }
