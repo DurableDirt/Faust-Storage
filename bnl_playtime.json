@@ -1420,9 +1420,9 @@
     "total_seconds": 2467
   },
   "vibeturtle": {
-    "week_seconds": 54440,
+    "week_seconds": 63760,
     "week_start": 1782101960,
-    "total_seconds": 112644
+    "total_seconds": 121964
   },
   "westley2099": {
     "week_seconds": 0,
@@ -12942,6 +12942,11 @@
   "adamixpog": {
     "week_seconds": 0,
     "week_start": 1782588714,
+    "total_seconds": 0
+  },
+  "drax50": {
+    "week_seconds": 0,
+    "week_start": 1782588836,
     "total_seconds": 0
   }
 }
