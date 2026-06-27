@@ -8080,9 +8080,9 @@
     "total_seconds": 5308
   },
   "socksbocksfox": {
-    "week_seconds": 4344,
+    "week_seconds": 4414,
     "week_start": 1782012126,
-    "total_seconds": 4344
+    "total_seconds": 4414
   },
   "bladedballer": {
     "week_seconds": 58,
@@ -12788,5 +12788,10 @@
     "week_seconds": 0,
     "week_start": 1782576662,
     "total_seconds": 0
+  },
+  "boozecroozer": {
+    "week_seconds": 69,
+    "week_start": 1782576812,
+    "total_seconds": 69
   }
 }
