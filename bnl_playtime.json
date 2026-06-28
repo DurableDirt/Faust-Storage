@@ -385,9 +385,9 @@
     "total_seconds": 21360
   },
   "opriva": {
-    "week_seconds": 41719,
+    "week_seconds": 43836,
     "week_start": 1782083960,
-    "total_seconds": 175441
+    "total_seconds": 177558
   },
   "kokomiology": {
     "week_seconds": 77659,
@@ -13262,6 +13262,11 @@
   "relativelydecent": {
     "week_seconds": 0,
     "week_start": 1782617628,
+    "total_seconds": 0
+  },
+  "_peemcgee": {
+    "week_seconds": 0,
+    "week_start": 1782618236,
     "total_seconds": 0
   }
 }
