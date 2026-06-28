@@ -1345,9 +1345,9 @@
     "total_seconds": 241222
   },
   "choripancaliente": {
-    "week_seconds": 52932,
+    "week_seconds": 60512,
     "week_start": 1782101960,
-    "total_seconds": 169451
+    "total_seconds": 177031
   },
   "magicmars345": {
     "week_seconds": 58616,
@@ -13825,8 +13825,8 @@
     "total_seconds": 651
   },
   "gttcupcake": {
-    "week_seconds": 0,
+    "week_seconds": 99,
     "week_start": 1782685624,
-    "total_seconds": 0
+    "total_seconds": 99
   }
 }
