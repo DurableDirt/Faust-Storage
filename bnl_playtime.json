@@ -6960,9 +6960,9 @@
     "total_seconds": 10096
   },
   "pikachu17tim": {
-    "week_seconds": 50782,
+    "week_seconds": 51684,
     "week_start": 1782487160,
-    "total_seconds": 92448
+    "total_seconds": 93350
   },
   "arosinas": {
     "week_seconds": 87,
@@ -13535,8 +13535,13 @@
     "total_seconds": 243
   },
   "trhodon": {
-    "week_seconds": 0,
+    "week_seconds": 126,
     "week_start": 1782656204,
-    "total_seconds": 0
+    "total_seconds": 126
+  },
+  "darkfire38": {
+    "week_seconds": 22,
+    "week_start": 1782656309,
+    "total_seconds": 22
   }
 }
