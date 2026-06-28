@@ -13575,9 +13575,9 @@
     "total_seconds": 276
   },
   "nicovski22": {
-    "week_seconds": 0,
+    "week_seconds": 1836,
     "week_start": 1782660260,
-    "total_seconds": 0
+    "total_seconds": 1836
   },
   "itzcinder1": {
     "week_seconds": 0,
@@ -13598,5 +13598,10 @@
     "week_seconds": 6,
     "week_start": 1782661858,
     "total_seconds": 6
+  },
+  "rapperjoesoe11": {
+    "week_seconds": 0,
+    "week_start": 1782662004,
+    "total_seconds": 0
   }
 }
