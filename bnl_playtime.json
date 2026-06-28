@@ -4415,9 +4415,9 @@
     "total_seconds": 131
   },
   "zeroql": {
-    "week_seconds": 13635,
+    "week_seconds": 14857,
     "week_start": 1782242360,
-    "total_seconds": 16631
+    "total_seconds": 17853
   },
   "formidable01": {
     "week_seconds": 26478,
@@ -7010,9 +7010,9 @@
     "total_seconds": 73
   },
   "pfp_nexl": {
-    "week_seconds": 39360,
+    "week_seconds": 39379,
     "week_start": 1782490760,
-    "total_seconds": 130893
+    "total_seconds": 130912
   },
   "blizardxace": {
     "week_seconds": 0,
@@ -13472,6 +13472,11 @@
   "lixjinx": {
     "week_seconds": 0,
     "week_start": 1782651528,
+    "total_seconds": 0
+  },
+  "lordgamingchickn": {
+    "week_seconds": 0,
+    "week_start": 1782651757,
     "total_seconds": 0
   }
 }
