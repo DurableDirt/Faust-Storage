@@ -6945,9 +6945,9 @@
     "total_seconds": 55
   },
   "dominater1230": {
-    "week_seconds": 41020,
+    "week_seconds": 43314,
     "week_start": 1782483560,
-    "total_seconds": 132311
+    "total_seconds": 134605
   },
   "jonmerisyt": {
     "week_seconds": 0,
@@ -13477,6 +13477,11 @@
   "lordgamingchickn": {
     "week_seconds": 0,
     "week_start": 1782651757,
+    "total_seconds": 0
+  },
+  "bummitheking": {
+    "week_seconds": 0,
+    "week_start": 1782652406,
     "total_seconds": 0
   }
 }
