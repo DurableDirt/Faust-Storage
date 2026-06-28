@@ -280,9 +280,9 @@
     "total_seconds": 12721
   },
   "ansgardd": {
-    "week_seconds": 32,
+    "week_seconds": 58,
     "week_start": 1782689758,
-    "total_seconds": 151687
+    "total_seconds": 151713
   },
   "mechanicalrift": {
     "week_seconds": 0,
@@ -445,9 +445,9 @@
     "total_seconds": 133821
   },
   "iron600": {
-    "week_seconds": 0,
+    "week_seconds": 7829,
     "week_start": 1782689758,
-    "total_seconds": 373023
+    "total_seconds": 380852
   },
   "mrtnt1925": {
     "week_seconds": 0,
@@ -1185,9 +1185,9 @@
     "total_seconds": 6118
   },
   "animeme_master": {
-    "week_seconds": 68789,
+    "week_seconds": 82014,
     "week_start": 1782094760,
-    "total_seconds": 120680
+    "total_seconds": 133905
   },
   "gubukiv": {
     "week_seconds": 103350,
@@ -1900,14 +1900,14 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 161027,
+    "week_seconds": 161538,
     "week_start": 1782127160,
-    "total_seconds": 225505
+    "total_seconds": 226016
   },
   "hxrl": {
-    "week_seconds": 129579,
+    "week_seconds": 137202,
     "week_start": 1782127160,
-    "total_seconds": 253205
+    "total_seconds": 260828
   },
   "ech0o_o0": {
     "week_seconds": 32601,
@@ -7400,9 +7400,9 @@
     "total_seconds": 51637
   },
   "_medb_": {
-    "week_seconds": 37737,
+    "week_seconds": 41909,
     "week_start": 1782534958,
-    "total_seconds": 71117
+    "total_seconds": 75289
   },
   "ritalinabuser": {
     "week_seconds": 0,
@@ -13810,9 +13810,9 @@
     "total_seconds": 376
   },
   "amoebic_serpent": {
-    "week_seconds": 5917,
+    "week_seconds": 6586,
     "week_start": 1782681925,
-    "total_seconds": 5917
+    "total_seconds": 6586
   },
   "fonchox9": {
     "week_seconds": 1082,
@@ -13830,9 +13830,9 @@
     "total_seconds": 99
   },
   "elandresito2013": {
-    "week_seconds": 1243,
+    "week_seconds": 1276,
     "week_start": 1782685762,
-    "total_seconds": 1243
+    "total_seconds": 1276
   },
   "dkrise": {
     "week_seconds": 0,
@@ -13855,8 +13855,8 @@
     "total_seconds": 85
   },
   "dolch": {
-    "week_seconds": 0,
+    "week_seconds": 450,
     "week_start": 1782689909,
-    "total_seconds": 0
+    "total_seconds": 450
   }
 }
