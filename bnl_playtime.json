@@ -13250,9 +13250,9 @@
     "total_seconds": 50
   },
   "captoun": {
-    "week_seconds": 11468,
+    "week_seconds": 12570,
     "week_start": 1782617130,
-    "total_seconds": 11468
+    "total_seconds": 12570
   },
   "ajz34": {
     "week_seconds": 497,
@@ -13338,5 +13338,10 @@
     "week_seconds": 617,
     "week_start": 1782629019,
     "total_seconds": 617
+  },
+  "yaboyx999": {
+    "week_seconds": 0,
+    "week_start": 1782629763,
+    "total_seconds": 0
   }
 }
