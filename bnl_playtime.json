@@ -870,9 +870,9 @@
     "total_seconds": 256736
   },
   "deerifius": {
-    "week_seconds": 53414,
+    "week_seconds": 53705,
     "week_start": 1782091160,
-    "total_seconds": 173043
+    "total_seconds": 173334
   },
   "dreadyheadyyn": {
     "week_seconds": 0,
@@ -8850,9 +8850,9 @@
     "total_seconds": 4556
   },
   "vickypere": {
-    "week_seconds": 3513,
+    "week_seconds": 3653,
     "week_start": 1782116948,
-    "total_seconds": 3513
+    "total_seconds": 3653
   },
   "trulyareal": {
     "week_seconds": 202,
@@ -13632,6 +13632,11 @@
   "bluebox97": {
     "week_seconds": 0,
     "week_start": 1782662866,
+    "total_seconds": 0
+  },
+  "therealcollins": {
+    "week_seconds": 0,
+    "week_start": 1782663052,
     "total_seconds": 0
   }
 }
