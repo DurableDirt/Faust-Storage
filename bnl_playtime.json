@@ -715,9 +715,9 @@
     "total_seconds": 24277
   },
   "limtingus1": {
-    "week_seconds": 251616,
+    "week_seconds": 251717,
     "week_start": 1782087560,
-    "total_seconds": 528804
+    "total_seconds": 528905
   },
   "the_montenegrin": {
     "week_seconds": 0,
@@ -4365,9 +4365,9 @@
     "total_seconds": 8165
   },
   "tomtommi": {
-    "week_seconds": 22525,
+    "week_seconds": 22719,
     "week_start": 1782242360,
-    "total_seconds": 33335
+    "total_seconds": 33529
   },
   "rug_puller": {
     "week_seconds": 0,
@@ -13833,5 +13833,10 @@
     "week_seconds": 32,
     "week_start": 1782685762,
     "total_seconds": 32
+  },
+  "dkrise": {
+    "week_seconds": 0,
+    "week_start": 1782686459,
+    "total_seconds": 0
   }
 }
