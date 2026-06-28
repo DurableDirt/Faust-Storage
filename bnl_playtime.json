@@ -905,9 +905,9 @@
     "total_seconds": 34278
   },
   "ifriendiscool": {
-    "week_seconds": 241469,
+    "week_seconds": 244754,
     "week_start": 1782091160,
-    "total_seconds": 386467
+    "total_seconds": 389752
   },
   "ytrewq64": {
     "week_seconds": 22891,
@@ -13362,6 +13362,11 @@
   "asacriciallamb": {
     "week_seconds": 0,
     "week_start": 1782634329,
+    "total_seconds": 0
+  },
+  "minecraftacholic": {
+    "week_seconds": 0,
+    "week_start": 1782634366,
     "total_seconds": 0
   }
 }
