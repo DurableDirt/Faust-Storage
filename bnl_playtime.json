@@ -70,9 +70,9 @@
     "total_seconds": 124114
   },
   "jindosh": {
-    "week_seconds": 97366,
+    "week_seconds": 97493,
     "week_start": 1782080360,
-    "total_seconds": 226842
+    "total_seconds": 226969
   },
   "40mm": {
     "week_seconds": 152522,
@@ -13323,5 +13323,10 @@
     "week_seconds": 10,
     "week_start": 1782625337,
     "total_seconds": 10
+  },
+  "cube01craft": {
+    "week_seconds": 12,
+    "week_start": 1782627134,
+    "total_seconds": 12
   }
 }
