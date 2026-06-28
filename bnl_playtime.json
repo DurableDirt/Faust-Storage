@@ -13193,5 +13193,10 @@
     "week_seconds": 56,
     "week_start": 1782608460,
     "total_seconds": 56
+  },
+  "thebanremover": {
+    "week_seconds": 26,
+    "week_start": 1782608850,
+    "total_seconds": 26
   }
 }
