@@ -45,9 +45,9 @@
     "total_seconds": 234397
   },
   "lucifer420xx": {
-    "week_seconds": 51360,
+    "week_seconds": 53774,
     "week_start": 1782080360,
-    "total_seconds": 120219
+    "total_seconds": 122633
   },
   "meenos": {
     "week_seconds": 49927,
@@ -4930,9 +4930,9 @@
     "total_seconds": 94
   },
   "lasady": {
-    "week_seconds": 30290,
+    "week_seconds": 32705,
     "week_start": 1782281960,
-    "total_seconds": 122504
+    "total_seconds": 124919
   },
   "silenthunterx": {
     "week_seconds": 0,
@@ -13583,5 +13583,10 @@
     "week_seconds": 0,
     "week_start": 1782661124,
     "total_seconds": 0
+  },
+  "rchen_": {
+    "week_seconds": 30,
+    "week_start": 1782661156,
+    "total_seconds": 30
   }
 }
