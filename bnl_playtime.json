@@ -4440,9 +4440,9 @@
     "total_seconds": 132
   },
   "shadysauce": {
-    "week_seconds": 56850,
+    "week_seconds": 56916,
     "week_start": 1782245960,
-    "total_seconds": 103961
+    "total_seconds": 104027
   },
   "blackoutknight": {
     "week_seconds": 0,
@@ -7985,9 +7985,9 @@
     "total_seconds": 27682
   },
   "gamer_time69": {
-    "week_seconds": 57,
+    "week_seconds": 4346,
     "week_start": 1782606958,
-    "total_seconds": 204
+    "total_seconds": 4493
   },
   "mrnuems": {
     "week_seconds": 1306,
@@ -13663,5 +13663,10 @@
     "week_seconds": 318,
     "week_start": 1782665850,
     "total_seconds": 318
+  },
+  "craftmaster222": {
+    "week_seconds": 0,
+    "week_start": 1782666408,
+    "total_seconds": 0
   }
 }
