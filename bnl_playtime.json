@@ -7395,9 +7395,9 @@
     "total_seconds": 517
   },
   "popiahrei": {
-    "week_seconds": 14423,
+    "week_seconds": 19529,
     "week_start": 1782534958,
-    "total_seconds": 46531
+    "total_seconds": 51637
   },
   "_medb_": {
     "week_seconds": 37737,
@@ -12870,9 +12870,9 @@
     "total_seconds": 2442
   },
   "zigzot": {
-    "week_seconds": 43277,
+    "week_seconds": 48365,
     "week_start": 1782584193,
-    "total_seconds": 43277
+    "total_seconds": 48365
   },
   "himchi": {
     "week_seconds": 2579,
@@ -13797,6 +13797,11 @@
   "drogonov": {
     "week_seconds": 0,
     "week_start": 1782680710,
+    "total_seconds": 0
+  },
+  "wormseed": {
+    "week_seconds": 0,
+    "week_start": 1782680928,
     "total_seconds": 0
   }
 }
