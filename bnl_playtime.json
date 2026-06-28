@@ -12700,9 +12700,9 @@
     "total_seconds": 3059
   },
   "goldeagle2317": {
-    "week_seconds": 6424,
+    "week_seconds": 6437,
     "week_start": 1782567353,
-    "total_seconds": 6424
+    "total_seconds": 6437
   },
   "bruzztuah": {
     "week_seconds": 50,
@@ -13487,6 +13487,11 @@
   "epicnet": {
     "week_seconds": 0,
     "week_start": 1782652465,
+    "total_seconds": 0
+  },
+  "genialny0taktyk": {
+    "week_seconds": 0,
+    "week_start": 1782653444,
     "total_seconds": 0
   }
 }
