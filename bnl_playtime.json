@@ -13810,9 +13810,9 @@
     "total_seconds": 376
   },
   "amoebic_serpent": {
-    "week_seconds": 5128,
+    "week_seconds": 5917,
     "week_start": 1782681925,
-    "total_seconds": 5128
+    "total_seconds": 5917
   },
   "fonchox9": {
     "week_seconds": 1082,
@@ -13830,13 +13830,18 @@
     "total_seconds": 99
   },
   "elandresito2013": {
-    "week_seconds": 169,
+    "week_seconds": 202,
     "week_start": 1782685762,
-    "total_seconds": 169
+    "total_seconds": 202
   },
   "dkrise": {
     "week_seconds": 0,
     "week_start": 1782686459,
+    "total_seconds": 0
+  },
+  "lucifer386240": {
+    "week_seconds": 0,
+    "week_start": 1782687855,
     "total_seconds": 0
   }
 }
