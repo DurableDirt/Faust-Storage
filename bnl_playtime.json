@@ -470,9 +470,9 @@
     "total_seconds": 129856
   },
   "anotnot": {
-    "week_seconds": 325862,
+    "week_seconds": 326267,
     "week_start": 1782087560,
-    "total_seconds": 604844
+    "total_seconds": 605249
   },
   "tntfortress": {
     "week_seconds": 22984,
@@ -2945,9 +2945,9 @@
     "total_seconds": 21972
   },
   "_excalibur": {
-    "week_seconds": 12430,
+    "week_seconds": 31041,
     "week_start": 1782155960,
-    "total_seconds": 21565
+    "total_seconds": 40176
   },
   "battlebots_boi": {
     "week_seconds": 32000,
@@ -13228,5 +13228,10 @@
     "week_seconds": 39,
     "week_start": 1782613113,
     "total_seconds": 39
+  },
+  "trelyx_10324": {
+    "week_seconds": 68,
+    "week_start": 1782614337,
+    "total_seconds": 68
   }
 }
