@@ -950,9 +950,9 @@
     "total_seconds": 85490
   },
   "bylethseisner": {
-    "week_seconds": 187209,
+    "week_seconds": 192396,
     "week_start": 1782091160,
-    "total_seconds": 269105
+    "total_seconds": 274292
   },
   "pointy_hii": {
     "week_seconds": 125605,
@@ -13515,8 +13515,8 @@
     "total_seconds": 473
   },
   "zebis_": {
-    "week_seconds": 0,
+    "week_seconds": 36,
     "week_start": 1782655236,
-    "total_seconds": 0
+    "total_seconds": 36
   }
 }
