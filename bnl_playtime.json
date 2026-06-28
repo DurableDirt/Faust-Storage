@@ -805,9 +805,9 @@
     "total_seconds": 45098
   },
   "theunreales": {
-    "week_seconds": 36032,
+    "week_seconds": 36178,
     "week_start": 1782091160,
-    "total_seconds": 143243
+    "total_seconds": 143389
   },
   "timantha": {
     "week_seconds": 91022,
@@ -13055,9 +13055,9 @@
     "total_seconds": 76
   },
   "shadiestmule51": {
-    "week_seconds": 13543,
+    "week_seconds": 22729,
     "week_start": 1782599616,
-    "total_seconds": 13543
+    "total_seconds": 22729
   },
   "manepeerfr": {
     "week_seconds": 22,
@@ -13292,6 +13292,11 @@
   "exbenitix": {
     "week_seconds": 0,
     "week_start": 1782622648,
+    "total_seconds": 0
+  },
+  "twnzo": {
+    "week_seconds": 0,
+    "week_start": 1782623194,
     "total_seconds": 0
   }
 }
