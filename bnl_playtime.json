@@ -155,9 +155,9 @@
     "total_seconds": 65076
   },
   "lightningboi4": {
-    "week_seconds": 199101,
+    "week_seconds": 200622,
     "week_start": 1782083960,
-    "total_seconds": 350814
+    "total_seconds": 352335
   },
   "aaroni_macaroni": {
     "week_seconds": 53976,
@@ -4715,9 +4715,9 @@
     "total_seconds": 62936
   },
   "tubbzie": {
-    "week_seconds": 94261,
+    "week_seconds": 99261,
     "week_start": 1782263960,
-    "total_seconds": 402709
+    "total_seconds": 407709
   },
   "fakersfemboy": {
     "week_seconds": 5899,
@@ -13213,5 +13213,10 @@
     "week_seconds": 144,
     "week_start": 1782609698,
     "total_seconds": 144
+  },
+  "kafoxnothy": {
+    "week_seconds": 0,
+    "week_start": 1782610145,
+    "total_seconds": 0
   }
 }
