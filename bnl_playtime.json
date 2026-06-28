@@ -2340,9 +2340,9 @@
     "total_seconds": 7042
   },
   "shyguy_wph": {
-    "week_seconds": 4859,
+    "week_seconds": 6381,
     "week_start": 1782137960,
-    "total_seconds": 68999
+    "total_seconds": 70521
   },
   "crimsonfang3139": {
     "week_seconds": 0,
@@ -13492,6 +13492,11 @@
   "genialny0taktyk": {
     "week_seconds": 0,
     "week_start": 1782653444,
+    "total_seconds": 0
+  },
+  "da_bandman": {
+    "week_seconds": 0,
+    "week_start": 1782653499,
     "total_seconds": 0
   }
 }
