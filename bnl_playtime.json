@@ -865,9 +865,9 @@
     "total_seconds": 23
   },
   "anvil": {
-    "week_seconds": 180238,
+    "week_seconds": 216145,
     "week_start": 1782091160,
-    "total_seconds": 202502
+    "total_seconds": 238409
   },
   "deerifius": {
     "week_seconds": 47955,
@@ -2050,9 +2050,9 @@
     "total_seconds": 53397
   },
   "busy_donut": {
-    "week_seconds": 33182,
+    "week_seconds": 33638,
     "week_start": 1782130760,
-    "total_seconds": 61431
+    "total_seconds": 61887
   },
   "spearitz": {
     "week_seconds": 0,
