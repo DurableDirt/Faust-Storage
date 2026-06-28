@@ -13160,13 +13160,18 @@
     "total_seconds": 0
   },
   "m1stt_mc": {
-    "week_seconds": 0,
+    "week_seconds": 231,
     "week_start": 1782605921,
-    "total_seconds": 0
+    "total_seconds": 231
   },
   "zerkanators": {
     "week_seconds": 73,
     "week_start": 1782605991,
     "total_seconds": 73
+  },
+  "kbirdian": {
+    "week_seconds": 0,
+    "week_start": 1782606178,
+    "total_seconds": 0
   }
 }
