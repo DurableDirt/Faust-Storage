@@ -7985,9 +7985,9 @@
     "total_seconds": 27682
   },
   "gamer_time69": {
-    "week_seconds": 0,
+    "week_seconds": 57,
     "week_start": 1782606958,
-    "total_seconds": 147
+    "total_seconds": 204
   },
   "mrnuems": {
     "week_seconds": 1306,
@@ -11870,9 +11870,9 @@
     "total_seconds": 437
   },
   "duhhhhhhhhhh11": {
-    "week_seconds": 19543,
+    "week_seconds": 20116,
     "week_start": 1782496619,
-    "total_seconds": 19543
+    "total_seconds": 20116
   },
   "sippy_cup24": {
     "week_seconds": 1442,
@@ -13602,6 +13602,11 @@
   "rapperjoesoe11": {
     "week_seconds": 0,
     "week_start": 1782662004,
+    "total_seconds": 0
+  },
+  "android_man": {
+    "week_seconds": 0,
+    "week_start": 1782662169,
     "total_seconds": 0
   }
 }
