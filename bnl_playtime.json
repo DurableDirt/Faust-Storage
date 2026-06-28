@@ -7305,9 +7305,9 @@
     "total_seconds": 31269
   },
   "donutmt": {
-    "week_seconds": 9003,
+    "week_seconds": 9165,
     "week_start": 1782524158,
-    "total_seconds": 50837
+    "total_seconds": 50999
   },
   "bobroos8": {
     "week_seconds": 0,
@@ -11670,9 +11670,9 @@
     "total_seconds": 38
   },
   "thedane03": {
-    "week_seconds": 64443,
+    "week_seconds": 71517,
     "week_start": 1782478010,
-    "total_seconds": 64443
+    "total_seconds": 71517
   },
   "byakuguan": {
     "week_seconds": 143,
@@ -13812,6 +13812,11 @@
   "amoebic_serpent": {
     "week_seconds": 0,
     "week_start": 1782681925,
+    "total_seconds": 0
+  },
+  "fonchox9": {
+    "week_seconds": 0,
+    "week_start": 1782682913,
     "total_seconds": 0
   }
 }
