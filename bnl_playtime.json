@@ -10,9 +10,9 @@
     "total_seconds": 4
   },
   "logic_man": {
-    "week_seconds": 173664,
+    "week_seconds": 175958,
     "week_start": 1782080360,
-    "total_seconds": 240542
+    "total_seconds": 242836
   },
   "dragran": {
     "week_seconds": 372132,
@@ -1575,9 +1575,9 @@
     "total_seconds": 324360
   },
   "_2k42_": {
-    "week_seconds": 206127,
+    "week_seconds": 209172,
     "week_start": 1782112760,
-    "total_seconds": 294191
+    "total_seconds": 297236
   },
   "gobblin": {
     "week_seconds": 45649,
@@ -13365,8 +13365,13 @@
     "total_seconds": 0
   },
   "minecraftacholic": {
-    "week_seconds": 0,
+    "week_seconds": 133,
     "week_start": 1782634366,
+    "total_seconds": 133
+  },
+  "triton479": {
+    "week_seconds": 0,
+    "week_start": 1782634473,
     "total_seconds": 0
   }
 }
