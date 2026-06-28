@@ -385,9 +385,9 @@
     "total_seconds": 21360
   },
   "opriva": {
-    "week_seconds": 45903,
+    "week_seconds": 49658,
     "week_start": 1782083960,
-    "total_seconds": 179625
+    "total_seconds": 183380
   },
   "kokomiology": {
     "week_seconds": 77659,
@@ -2490,9 +2490,9 @@
     "total_seconds": 194151
   },
   "sailorwillis": {
-    "week_seconds": 234662,
+    "week_seconds": 239786,
     "week_start": 1782141560,
-    "total_seconds": 477269
+    "total_seconds": 482393
   },
   "blazelogic": {
     "week_seconds": 15659,
@@ -3730,9 +3730,9 @@
     "total_seconds": 240
   },
   "salizandar2": {
-    "week_seconds": 57898,
+    "week_seconds": 62410,
     "week_start": 1782188360,
-    "total_seconds": 140846
+    "total_seconds": 145358
   },
   "milkyoreo": {
     "week_seconds": 5412,
@@ -13315,8 +13315,8 @@
     "total_seconds": 0
   },
   "dukeyboyhepburn": {
-    "week_seconds": 0,
+    "week_seconds": 63,
     "week_start": 1782624767,
-    "total_seconds": 0
+    "total_seconds": 63
   }
 }
