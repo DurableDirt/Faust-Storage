@@ -13195,9 +13195,9 @@
     "total_seconds": 56
   },
   "thebanremover": {
-    "week_seconds": 26,
+    "week_seconds": 60,
     "week_start": 1782608850,
-    "total_seconds": 26
+    "total_seconds": 60
   },
   "jekrane": {
     "week_seconds": 31,
