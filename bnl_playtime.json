@@ -380,9 +380,9 @@
     "total_seconds": 53653
   },
   "noctash": {
-    "week_seconds": 0,
+    "week_seconds": 45,
     "week_start": 1782083960,
-    "total_seconds": 21360
+    "total_seconds": 21405
   },
   "opriva": {
     "week_seconds": 51054,
@@ -7445,9 +7445,9 @@
     "total_seconds": 830
   },
   "_sublim3": {
-    "week_seconds": 8530,
+    "week_seconds": 8736,
     "week_start": 1782542158,
-    "total_seconds": 14003
+    "total_seconds": 14209
   },
   "sigmaguy83297": {
     "week_seconds": 0,
