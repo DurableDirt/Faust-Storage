@@ -5115,9 +5115,9 @@
     "total_seconds": 1425
   },
   "ripoffpingu": {
-    "week_seconds": 6388,
+    "week_seconds": 7432,
     "week_start": 1782310760,
-    "total_seconds": 19701
+    "total_seconds": 20745
   },
   "roachkingsupreme": {
     "week_seconds": 44821,
@@ -13223,5 +13223,10 @@
     "week_seconds": 0,
     "week_start": 1782612812,
     "total_seconds": 0
+  },
+  "gamerwaslost": {
+    "week_seconds": 39,
+    "week_start": 1782613113,
+    "total_seconds": 39
   }
 }
