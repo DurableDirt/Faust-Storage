@@ -1625,9 +1625,9 @@
     "total_seconds": 8424
   },
   "mryellowtail": {
-    "week_seconds": 72394,
+    "week_seconds": 84855,
     "week_start": 1782112760,
-    "total_seconds": 198560
+    "total_seconds": 211021
   },
   "alternativchik": {
     "week_seconds": 0,
@@ -11255,9 +11255,9 @@
     "total_seconds": 3629
   },
   "the_bl4ze": {
-    "week_seconds": 8,
+    "week_seconds": 767,
     "week_start": 1782419324,
-    "total_seconds": 8
+    "total_seconds": 767
   },
   "oakkoala": {
     "week_seconds": 1901,
@@ -13393,5 +13393,20 @@
     "week_seconds": 38,
     "week_start": 1782639878,
     "total_seconds": 38
+  },
+  "reichmarshell": {
+    "week_seconds": 0,
+    "week_start": 1782640505,
+    "total_seconds": 0
+  },
+  "theoryofnothing1": {
+    "week_seconds": 0,
+    "week_start": 1782640511,
+    "total_seconds": 0
+  },
+  "trepidatol1620": {
+    "week_seconds": 0,
+    "week_start": 1782640559,
+    "total_seconds": 0
   }
 }
