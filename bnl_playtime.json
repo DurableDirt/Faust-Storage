@@ -3615,9 +3615,9 @@
     "total_seconds": 1198
   },
   "luminous15": {
-    "week_seconds": 124185,
+    "week_seconds": 125728,
     "week_start": 1782181160,
-    "total_seconds": 193483
+    "total_seconds": 195026
   },
   "frostythorgrim": {
     "week_seconds": 0,
@@ -13342,6 +13342,11 @@
   "yaboyx999": {
     "week_seconds": 0,
     "week_start": 1782629763,
+    "total_seconds": 0
+  },
+  "aresfir7": {
+    "week_seconds": 0,
+    "week_start": 1782630561,
     "total_seconds": 0
   }
 }
