@@ -3680,9 +3680,9 @@
     "total_seconds": 113873
   },
   "2lynx2": {
-    "week_seconds": 127556,
+    "week_seconds": 139040,
     "week_start": 1782184760,
-    "total_seconds": 338584
+    "total_seconds": 350068
   },
   "dredgarzomboss": {
     "week_seconds": 0,
@@ -13818,5 +13818,10 @@
     "week_seconds": 294,
     "week_start": 1782682913,
     "total_seconds": 294
+  },
+  "grizsen": {
+    "week_seconds": 0,
+    "week_start": 1782683502,
+    "total_seconds": 0
   }
 }
