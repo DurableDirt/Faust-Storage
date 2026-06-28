@@ -13830,9 +13830,9 @@
     "total_seconds": 99
   },
   "elandresito2013": {
-    "week_seconds": 371,
+    "week_seconds": 404,
     "week_start": 1782685762,
-    "total_seconds": 371
+    "total_seconds": 404
   },
   "dkrise": {
     "week_seconds": 0,
@@ -13842,6 +13842,11 @@
   "lucifer386240": {
     "week_seconds": 0,
     "week_start": 1782687855,
+    "total_seconds": 0
+  },
+  "awtechlab": {
+    "week_seconds": 0,
+    "week_start": 1782688230,
     "total_seconds": 0
   }
 }
