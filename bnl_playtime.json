@@ -6070,9 +6070,9 @@
     "total_seconds": 32400
   },
   "mrcheesepizzaguy": {
-    "week_seconds": 9869,
+    "week_seconds": 10062,
     "week_start": 1782400760,
-    "total_seconds": 19318
+    "total_seconds": 19511
   },
   "martink2": {
     "week_seconds": 0,
@@ -13443,5 +13443,10 @@
     "week_seconds": 19,
     "week_start": 1782645296,
     "total_seconds": 19
+  },
+  "duckythebird": {
+    "week_seconds": 0,
+    "week_start": 1782646029,
+    "total_seconds": 0
   }
 }
