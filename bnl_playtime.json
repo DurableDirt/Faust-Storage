@@ -2010,9 +2010,9 @@
     "total_seconds": 90068
   },
   "olliebell": {
-    "week_seconds": 49854,
+    "week_seconds": 51728,
     "week_start": 1782130760,
-    "total_seconds": 51668
+    "total_seconds": 53542
   },
   "xlamdg96_": {
     "week_seconds": 70653,
@@ -13518,5 +13518,10 @@
     "week_seconds": 36,
     "week_start": 1782655236,
     "total_seconds": 36
+  },
+  "peetnieks": {
+    "week_seconds": 0,
+    "week_start": 1782655583,
+    "total_seconds": 0
   }
 }
