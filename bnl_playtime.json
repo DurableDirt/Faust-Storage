@@ -1185,9 +1185,9 @@
     "total_seconds": 6118
   },
   "animeme_master": {
-    "week_seconds": 68614,
+    "week_seconds": 68789,
     "week_start": 1782094760,
-    "total_seconds": 120505
+    "total_seconds": 120680
   },
   "gubukiv": {
     "week_seconds": 103350,
@@ -13388,5 +13388,10 @@
     "week_seconds": 5,
     "week_start": 1782639728,
     "total_seconds": 5
+  },
+  "awakengandy": {
+    "week_seconds": 0,
+    "week_start": 1782639878,
+    "total_seconds": 0
   }
 }
