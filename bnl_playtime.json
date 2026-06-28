@@ -13758,5 +13758,10 @@
     "week_seconds": 0,
     "week_start": 1782676228,
     "total_seconds": 0
+  },
+  "cloalbo": {
+    "week_seconds": 23,
+    "week_start": 1782676356,
+    "total_seconds": 23
   }
 }
