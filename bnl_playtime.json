@@ -2625,9 +2625,9 @@
     "total_seconds": 13437
   },
   "syvslime": {
-    "week_seconds": 46029,
+    "week_seconds": 47147,
     "week_start": 1782145160,
-    "total_seconds": 127797
+    "total_seconds": 128915
   },
   "joldidk": {
     "week_seconds": 85414,
@@ -13157,6 +13157,11 @@
   "fireballdragonb": {
     "week_seconds": 0,
     "week_start": 1782605713,
+    "total_seconds": 0
+  },
+  "m1stt_mc": {
+    "week_seconds": 0,
+    "week_start": 1782605921,
     "total_seconds": 0
   }
 }
