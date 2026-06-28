@@ -155,9 +155,9 @@
     "total_seconds": 65076
   },
   "lightningboi4": {
-    "week_seconds": 209344,
+    "week_seconds": 210534,
     "week_start": 1782083960,
-    "total_seconds": 361057
+    "total_seconds": 362247
   },
   "aaroni_macaroni": {
     "week_seconds": 53976,
@@ -13302,6 +13302,11 @@
   "batuwantudawe": {
     "week_seconds": 0,
     "week_start": 1782623320,
+    "total_seconds": 0
+  },
+  "hechur": {
+    "week_seconds": 0,
+    "week_start": 1782623515,
     "total_seconds": 0
   }
 }
