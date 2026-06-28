@@ -2805,9 +2805,9 @@
     "total_seconds": 27512
   },
   "koklushz": {
-    "week_seconds": 9249,
+    "week_seconds": 13581,
     "week_start": 1782152360,
-    "total_seconds": 54913
+    "total_seconds": 59245
   },
   "nemesiscy": {
     "week_seconds": 18936,
@@ -2950,9 +2950,9 @@
     "total_seconds": 40239
   },
   "battlebots_boi": {
-    "week_seconds": 32000,
+    "week_seconds": 35437,
     "week_start": 1782155960,
-    "total_seconds": 35495
+    "total_seconds": 38932
   },
   "enchanted_cow": {
     "week_seconds": 24229,
@@ -3950,9 +3950,9 @@
     "total_seconds": 67653
   },
   "fealsom_": {
-    "week_seconds": 14265,
+    "week_seconds": 19940,
     "week_start": 1782217160,
-    "total_seconds": 45623
+    "total_seconds": 51298
   },
   "azuremc": {
     "week_seconds": 365,
@@ -13610,13 +13610,18 @@
     "total_seconds": 0
   },
   "herobrine1048s": {
-    "week_seconds": 0,
+    "week_seconds": 195,
     "week_start": 1782662267,
-    "total_seconds": 0
+    "total_seconds": 195
   },
   "gameone2211": {
     "week_seconds": 0,
     "week_start": 1782662377,
+    "total_seconds": 0
+  },
+  "novacraftone": {
+    "week_seconds": 0,
+    "week_start": 1782662469,
     "total_seconds": 0
   }
 }
