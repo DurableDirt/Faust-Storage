@@ -7040,9 +7040,9 @@
     "total_seconds": 65718
   },
   "goosie1238": {
-    "week_seconds": 11023,
+    "week_seconds": 13228,
     "week_start": 1782497960,
-    "total_seconds": 68191
+    "total_seconds": 70396
   },
   "davosforum": {
     "week_seconds": 0,
@@ -13378,5 +13378,10 @@
     "week_seconds": 430,
     "week_start": 1782637339,
     "total_seconds": 430
+  },
+  "credixyt": {
+    "week_seconds": 0,
+    "week_start": 1782637789,
+    "total_seconds": 0
   }
 }
