@@ -9235,9 +9235,9 @@
     "total_seconds": 13863
   },
   "qtq_uwu": {
-    "week_seconds": 29128,
+    "week_seconds": 35732,
     "week_start": 1782162157,
-    "total_seconds": 29128
+    "total_seconds": 35732
   },
   "midnightrblx": {
     "week_seconds": 3681,
@@ -13297,6 +13297,11 @@
   "twnzo": {
     "week_seconds": 0,
     "week_start": 1782623194,
+    "total_seconds": 0
+  },
+  "batuwantudawe": {
+    "week_seconds": 0,
+    "week_start": 1782623320,
     "total_seconds": 0
   }
 }
