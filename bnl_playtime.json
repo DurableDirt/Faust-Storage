@@ -70,9 +70,9 @@
     "total_seconds": 124114
   },
   "jindosh": {
-    "week_seconds": 101198,
+    "week_seconds": 101230,
     "week_start": 1782080360,
-    "total_seconds": 230674
+    "total_seconds": 230706
   },
   "40mm": {
     "week_seconds": 152522,
@@ -5190,9 +5190,9 @@
     "total_seconds": 70055
   },
   "ahmad_elayyen": {
-    "week_seconds": 12091,
+    "week_seconds": 12139,
     "week_start": 1782314360,
-    "total_seconds": 24081
+    "total_seconds": 24129
   },
   "itzhoover": {
     "week_seconds": 22635,
@@ -11670,9 +11670,9 @@
     "total_seconds": 38
   },
   "thedane03": {
-    "week_seconds": 59043,
+    "week_seconds": 64443,
     "week_start": 1782478010,
-    "total_seconds": 59043
+    "total_seconds": 64443
   },
   "byakuguan": {
     "week_seconds": 143,
@@ -13738,5 +13738,10 @@
     "week_seconds": 814,
     "week_start": 1782673686,
     "total_seconds": 814
+  },
+  "mrgalof": {
+    "week_seconds": 0,
+    "week_start": 1782674657,
+    "total_seconds": 0
   }
 }
