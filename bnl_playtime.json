@@ -3255,9 +3255,9 @@
     "total_seconds": 25123
   },
   "mickale": {
-    "week_seconds": 23370,
+    "week_seconds": 30165,
     "week_start": 1782166760,
-    "total_seconds": 30767
+    "total_seconds": 37562
   },
   "primalrex_3": {
     "week_seconds": 10462,
@@ -3590,9 +3590,9 @@
     "total_seconds": 2236
   },
   "karatef16": {
-    "week_seconds": 95,
+    "week_seconds": 1124,
     "week_start": 1782181160,
-    "total_seconds": 2360
+    "total_seconds": 3389
   },
   "shadowvdark": {
     "week_seconds": 502,
@@ -13627,6 +13627,11 @@
   "cowmovesgrass": {
     "week_seconds": 0,
     "week_start": 1782662722,
+    "total_seconds": 0
+  },
+  "bluebox97": {
+    "week_seconds": 0,
+    "week_start": 1782662866,
     "total_seconds": 0
   }
 }
