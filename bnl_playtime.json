@@ -870,9 +870,9 @@
     "total_seconds": 254105
   },
   "deerifius": {
-    "week_seconds": 52656,
+    "week_seconds": 53414,
     "week_start": 1782091160,
-    "total_seconds": 172285
+    "total_seconds": 173043
   },
   "dreadyheadyyn": {
     "week_seconds": 0,
@@ -2415,9 +2415,9 @@
     "total_seconds": 47410
   },
   "sml128": {
-    "week_seconds": 64000,
+    "week_seconds": 64112,
     "week_start": 1782141560,
-    "total_seconds": 148901
+    "total_seconds": 149013
   },
   "malipan": {
     "week_seconds": 36344,
@@ -6180,9 +6180,9 @@
     "total_seconds": 49
   },
   "pinkphantxm": {
-    "week_seconds": 74191,
+    "week_seconds": 77325,
     "week_start": 1782411560,
-    "total_seconds": 191342
+    "total_seconds": 194476
   },
   "supersameee": {
     "week_seconds": 0,
@@ -13623,5 +13623,10 @@
     "week_seconds": 230,
     "week_start": 1782662469,
     "total_seconds": 230
+  },
+  "cowmovesgrass": {
+    "week_seconds": 0,
+    "week_start": 1782662722,
+    "total_seconds": 0
   }
 }
