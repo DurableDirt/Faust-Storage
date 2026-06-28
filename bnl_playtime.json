@@ -150,9 +150,9 @@
     "total_seconds": 100
   },
   "jqkz": {
-    "week_seconds": 53238,
+    "week_seconds": 55503,
     "week_start": 1782083960,
-    "total_seconds": 67225
+    "total_seconds": 69490
   },
   "lightningboi4": {
     "week_seconds": 210882,
@@ -2070,9 +2070,9 @@
     "total_seconds": 14725
   },
   "leonardus07": {
-    "week_seconds": 67360,
+    "week_seconds": 69996,
     "week_start": 1782130760,
-    "total_seconds": 166388
+    "total_seconds": 169024
   },
   "thomasdetrein0_0": {
     "week_seconds": 135969,
@@ -3730,9 +3730,9 @@
     "total_seconds": 240
   },
   "salizandar2": {
-    "week_seconds": 74549,
+    "week_seconds": 77801,
     "week_start": 1782188360,
-    "total_seconds": 157497
+    "total_seconds": 160749
   },
   "milkyoreo": {
     "week_seconds": 5412,
@@ -13433,5 +13433,10 @@
     "week_seconds": 104,
     "week_start": 1782644139,
     "total_seconds": 104
+  },
+  "duno_": {
+    "week_seconds": 0,
+    "week_start": 1782644989,
+    "total_seconds": 0
   }
 }
