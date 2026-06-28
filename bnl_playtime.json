@@ -3225,9 +3225,9 @@
     "total_seconds": 104664
   },
   "pixitchi_o3o": {
-    "week_seconds": 5488,
+    "week_seconds": 6417,
     "week_start": 1782166760,
-    "total_seconds": 15270
+    "total_seconds": 16199
   },
   "solid_pandaman": {
     "week_seconds": 51170,
@@ -6460,9 +6460,9 @@
     "total_seconds": 409
   },
   "gemster108": {
-    "week_seconds": 7689,
+    "week_seconds": 7968,
     "week_start": 1782425960,
-    "total_seconds": 10749
+    "total_seconds": 11028
   },
   "rabya23": {
     "week_seconds": 0,
@@ -13652,6 +13652,11 @@
   "nekosancz": {
     "week_seconds": 0,
     "week_start": 1782664304,
+    "total_seconds": 0
+  },
+  "paperboy343": {
+    "week_seconds": 0,
+    "week_start": 1782665716,
     "total_seconds": 0
   }
 }
