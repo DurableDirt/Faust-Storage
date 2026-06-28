@@ -280,9 +280,9 @@
     "total_seconds": 12721
   },
   "ansgardd": {
-    "week_seconds": 62407,
+    "week_seconds": 62585,
     "week_start": 1782083960,
-    "total_seconds": 143735
+    "total_seconds": 143913
   },
   "mechanicalrift": {
     "week_seconds": 184389,
@@ -4110,9 +4110,9 @@
     "total_seconds": 10991
   },
   "hplaptop": {
-    "week_seconds": 71460,
+    "week_seconds": 71770,
     "week_start": 1782227960,
-    "total_seconds": 212940
+    "total_seconds": 213250
   },
   "kablevz": {
     "week_seconds": 0,
@@ -11280,9 +11280,9 @@
     "total_seconds": 20863
   },
   "47loken": {
-    "week_seconds": 20709,
+    "week_seconds": 24964,
     "week_start": 1782422294,
-    "total_seconds": 20709
+    "total_seconds": 24964
   },
   "genius_flint": {
     "week_seconds": 1834,
@@ -13748,5 +13748,15 @@
     "week_seconds": 305,
     "week_start": 1782675467,
     "total_seconds": 305
+  },
+  "maddiejean05": {
+    "week_seconds": 0,
+    "week_start": 1782676221,
+    "total_seconds": 0
+  },
+  "vinbing": {
+    "week_seconds": 0,
+    "week_start": 1782676228,
+    "total_seconds": 0
   }
 }
