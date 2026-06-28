@@ -2050,9 +2050,9 @@
     "total_seconds": 53397
   },
   "busy_donut": {
-    "week_seconds": 33638,
+    "week_seconds": 39168,
     "week_start": 1782130760,
-    "total_seconds": 61887
+    "total_seconds": 67417
   },
   "spearitz": {
     "week_seconds": 0,
@@ -13577,6 +13577,11 @@
   "nicovski22": {
     "week_seconds": 0,
     "week_start": 1782660260,
+    "total_seconds": 0
+  },
+  "itzcinder1": {
+    "week_seconds": 0,
+    "week_start": 1782661124,
     "total_seconds": 0
   }
 }
