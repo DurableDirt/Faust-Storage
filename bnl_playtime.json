@@ -40,9 +40,9 @@
     "total_seconds": 120106
   },
   "piotato": {
-    "week_seconds": 124032,
+    "week_seconds": 124288,
     "week_start": 1782080360,
-    "total_seconds": 231335
+    "total_seconds": 231591
   },
   "lucifer420xx": {
     "week_seconds": 48229,
@@ -70,9 +70,9 @@
     "total_seconds": 124114
   },
   "jindosh": {
-    "week_seconds": 57874,
+    "week_seconds": 91749,
     "week_start": 1782080360,
-    "total_seconds": 187350
+    "total_seconds": 221225
   },
   "40mm": {
     "week_seconds": 152522,
@@ -13248,5 +13248,10 @@
     "week_seconds": 50,
     "week_start": 1782616760,
     "total_seconds": 50
+  },
+  "captoun": {
+    "week_seconds": 0,
+    "week_start": 1782617130,
+    "total_seconds": 0
   }
 }
