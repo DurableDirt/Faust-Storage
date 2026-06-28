@@ -2050,9 +2050,9 @@
     "total_seconds": 53397
   },
   "busy_donut": {
-    "week_seconds": 39168,
+    "week_seconds": 41148,
     "week_start": 1782130760,
-    "total_seconds": 67417
+    "total_seconds": 69397
   },
   "spearitz": {
     "week_seconds": 0,
@@ -13650,9 +13650,9 @@
     "total_seconds": 587
   },
   "nekosancz": {
-    "week_seconds": 2709,
+    "week_seconds": 3645,
     "week_start": 1782664304,
-    "total_seconds": 2709
+    "total_seconds": 3645
   },
   "paperboy343": {
     "week_seconds": 2019,
@@ -13708,5 +13708,10 @@
     "week_seconds": 2,
     "week_start": 1782667862,
     "total_seconds": 2
+  },
+  "helo20": {
+    "week_seconds": 5,
+    "week_start": 1782667944,
+    "total_seconds": 5
   }
 }
