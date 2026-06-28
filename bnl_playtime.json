@@ -70,9 +70,9 @@
     "total_seconds": 124114
   },
   "jindosh": {
-    "week_seconds": 91749,
+    "week_seconds": 91755,
     "week_start": 1782080360,
-    "total_seconds": 221225
+    "total_seconds": 221231
   },
   "40mm": {
     "week_seconds": 152522,
@@ -885,9 +885,9 @@
     "total_seconds": 3443
   },
   "espec17": {
-    "week_seconds": 46107,
+    "week_seconds": 46268,
     "week_start": 1782091160,
-    "total_seconds": 70513
+    "total_seconds": 70674
   },
   "c32shark": {
     "week_seconds": 28946,
