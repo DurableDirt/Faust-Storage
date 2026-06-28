@@ -8225,28 +8225,28 @@
     "total_seconds": 700
   },
   "cleanertrack198": {
-    "week_seconds": 6193,
-    "week_start": 1782038864,
+    "week_seconds": 0,
+    "week_start": 1782646558,
     "total_seconds": 6193
   },
   "dve_olivki": {
-    "week_seconds": 1010,
-    "week_start": 1782039754,
+    "week_seconds": 0,
+    "week_start": 1782646558,
     "total_seconds": 1010
   },
   "pinkfloyd12": {
-    "week_seconds": 4644,
-    "week_start": 1782040392,
+    "week_seconds": 0,
+    "week_start": 1782646558,
     "total_seconds": 4644
   },
   "ch4m3leon": {
-    "week_seconds": 132266,
-    "week_start": 1782040861,
+    "week_seconds": 0,
+    "week_start": 1782646558,
     "total_seconds": 132266
   },
   "destroyerplayz99": {
-    "week_seconds": 13,
-    "week_start": 1782041409,
+    "week_seconds": 0,
+    "week_start": 1782646558,
     "total_seconds": 13
   },
   "nateob": {
@@ -13447,6 +13447,11 @@
   "duckythebird": {
     "week_seconds": 0,
     "week_start": 1782646029,
+    "total_seconds": 0
+  },
+  "eclipsereborn": {
+    "week_seconds": 0,
+    "week_start": 1782646641,
     "total_seconds": 0
   }
 }
