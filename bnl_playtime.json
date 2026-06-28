@@ -190,9 +190,9 @@
     "total_seconds": 231444
   },
   "princess__bow": {
-    "week_seconds": 138114,
+    "week_seconds": 138138,
     "week_start": 1782083960,
-    "total_seconds": 221352
+    "total_seconds": 221376
   },
   "262i": {
     "week_seconds": 106157,
@@ -715,9 +715,9 @@
     "total_seconds": 24277
   },
   "limtingus1": {
-    "week_seconds": 243581,
+    "week_seconds": 248521,
     "week_start": 1782087560,
-    "total_seconds": 520769
+    "total_seconds": 525709
   },
   "the_montenegrin": {
     "week_seconds": 0,
@@ -5240,9 +5240,9 @@
     "total_seconds": 520
   },
   "mx_premo": {
-    "week_seconds": 8335,
+    "week_seconds": 9332,
     "week_start": 1782317960,
-    "total_seconds": 15041
+    "total_seconds": 16038
   },
   "yannoks": {
     "week_seconds": 0,
@@ -13768,5 +13768,10 @@
     "week_seconds": 281,
     "week_start": 1782676733,
     "total_seconds": 281
+  },
+  "niue11": {
+    "week_seconds": 0,
+    "week_start": 1782677142,
+    "total_seconds": 0
   }
 }
