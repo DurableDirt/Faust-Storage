@@ -5715,9 +5715,9 @@
     "total_seconds": 7676
   },
   "rurfu": {
-    "week_seconds": 70236,
+    "week_seconds": 70240,
     "week_start": 1782353960,
-    "total_seconds": 164395
+    "total_seconds": 164399
   },
   "binks4362": {
     "week_seconds": 0,
@@ -13287,6 +13287,11 @@
   "cheekgripper79": {
     "week_seconds": 0,
     "week_start": 1782622148,
+    "total_seconds": 0
+  },
+  "exbenitix": {
+    "week_seconds": 0,
+    "week_start": 1782622648,
     "total_seconds": 0
   }
 }
