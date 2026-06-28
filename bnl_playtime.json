@@ -2015,9 +2015,9 @@
     "total_seconds": 50026
   },
   "xlamdg96_": {
-    "week_seconds": 67748,
+    "week_seconds": 69082,
     "week_start": 1782130760,
-    "total_seconds": 132589
+    "total_seconds": 133923
   },
   "luxleee_58": {
     "week_seconds": 7120,
@@ -3730,9 +3730,9 @@
     "total_seconds": 240
   },
   "salizandar2": {
-    "week_seconds": 77801,
+    "week_seconds": 77919,
     "week_start": 1782188360,
-    "total_seconds": 160749
+    "total_seconds": 160867
   },
   "milkyoreo": {
     "week_seconds": 5412,
@@ -3950,9 +3950,9 @@
     "total_seconds": 67653
   },
   "fealsom_": {
-    "week_seconds": 9786,
+    "week_seconds": 10234,
     "week_start": 1782217160,
-    "total_seconds": 41144
+    "total_seconds": 41592
   },
   "azuremc": {
     "week_seconds": 365,
@@ -5115,9 +5115,9 @@
     "total_seconds": 1425
   },
   "ripoffpingu": {
-    "week_seconds": 11510,
+    "week_seconds": 14836,
     "week_start": 1782310760,
-    "total_seconds": 24823
+    "total_seconds": 28149
   },
   "roachkingsupreme": {
     "week_seconds": 44821,
@@ -6095,9 +6095,9 @@
     "total_seconds": 116
   },
   "diurdi": {
-    "week_seconds": 60803,
+    "week_seconds": 64252,
     "week_start": 1782404360,
-    "total_seconds": 240833
+    "total_seconds": 244282
   },
   "dj10_": {
     "week_seconds": 0,
@@ -7035,9 +7035,9 @@
     "total_seconds": 226
   },
   "vitalcoin3800": {
-    "week_seconds": 17758,
+    "week_seconds": 18466,
     "week_start": 1782494360,
-    "total_seconds": 65834
+    "total_seconds": 66542
   },
   "goosie1238": {
     "week_seconds": 13228,
@@ -9660,9 +9660,9 @@
     "total_seconds": 27
   },
   "sheinuxofire": {
-    "week_seconds": 41435,
+    "week_seconds": 41596,
     "week_start": 1782220099,
-    "total_seconds": 41435
+    "total_seconds": 41596
   },
   "pixel_side": {
     "week_seconds": 3951,
@@ -13435,8 +13435,13 @@
     "total_seconds": 104
   },
   "duno_": {
-    "week_seconds": 0,
+    "week_seconds": 288,
     "week_start": 1782644989,
+    "total_seconds": 288
+  },
+  "ares2176": {
+    "week_seconds": 0,
+    "week_start": 1782645296,
     "total_seconds": 0
   }
 }
