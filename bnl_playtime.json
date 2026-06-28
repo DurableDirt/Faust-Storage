@@ -1580,9 +1580,9 @@
     "total_seconds": 300532
   },
   "gobblin": {
-    "week_seconds": 54604,
+    "week_seconds": 58170,
     "week_start": 1782112760,
-    "total_seconds": 121205
+    "total_seconds": 124771
   },
   "vlinar": {
     "week_seconds": 64094,
@@ -1815,9 +1815,9 @@
     "total_seconds": 4975
   },
   "airdav": {
-    "week_seconds": 33971,
+    "week_seconds": 36860,
     "week_start": 1782123560,
-    "total_seconds": 52335
+    "total_seconds": 55224
   },
   "ch0rk": {
     "week_seconds": 0,
@@ -11870,9 +11870,9 @@
     "total_seconds": 437
   },
   "duhhhhhhhhhh11": {
-    "week_seconds": 18729,
+    "week_seconds": 19090,
     "week_start": 1782496619,
-    "total_seconds": 18729
+    "total_seconds": 19090
   },
   "sippy_cup24": {
     "week_seconds": 1442,
