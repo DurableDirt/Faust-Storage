@@ -7445,9 +7445,9 @@
     "total_seconds": 830
   },
   "_sublim3": {
-    "week_seconds": 7838,
+    "week_seconds": 7858,
     "week_start": 1782542158,
-    "total_seconds": 13311
+    "total_seconds": 13331
   },
   "sigmaguy83297": {
     "week_seconds": 0,
@@ -7710,9 +7710,9 @@
     "total_seconds": 6575
   },
   "gladiatus13": {
-    "week_seconds": 38924,
+    "week_seconds": 38989,
     "week_start": 1782578158,
-    "total_seconds": 193687
+    "total_seconds": 193752
   },
   "dark_phoenixs": {
     "week_seconds": 0,
@@ -13687,6 +13687,11 @@
   "daniosam21": {
     "week_seconds": 0,
     "week_start": 1782667418,
+    "total_seconds": 0
+  },
+  "bluemikkel1": {
+    "week_seconds": 0,
+    "week_start": 1782667484,
     "total_seconds": 0
   }
 }
