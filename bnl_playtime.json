@@ -7035,9 +7035,9 @@
     "total_seconds": 226
   },
   "vitalcoin3800": {
-    "week_seconds": 15222,
+    "week_seconds": 17642,
     "week_start": 1782494360,
-    "total_seconds": 63298
+    "total_seconds": 65718
   },
   "goosie1238": {
     "week_seconds": 11023,
@@ -12840,9 +12840,9 @@
     "total_seconds": 1802
   },
   "taters01": {
-    "week_seconds": 1626,
+    "week_seconds": 2462,
     "week_start": 1782581274,
-    "total_seconds": 1626
+    "total_seconds": 2462
   },
   "fiyingcow2": {
     "week_seconds": 728,
@@ -13350,8 +13350,8 @@
     "total_seconds": 514
   },
   "theundyingabyss": {
-    "week_seconds": 0,
+    "week_seconds": 24,
     "week_start": 1782631116,
-    "total_seconds": 0
+    "total_seconds": 24
   }
 }
