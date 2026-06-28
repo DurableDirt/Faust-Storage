@@ -6945,9 +6945,9 @@
     "total_seconds": 55
   },
   "dominater1230": {
-    "week_seconds": 43314,
+    "week_seconds": 50092,
     "week_start": 1782483560,
-    "total_seconds": 134605
+    "total_seconds": 141383
   },
   "jonmerisyt": {
     "week_seconds": 0,
@@ -13380,9 +13380,9 @@
     "total_seconds": 430
   },
   "credixyt": {
-    "week_seconds": 11922,
+    "week_seconds": 12079,
     "week_start": 1782637789,
-    "total_seconds": 11922
+    "total_seconds": 12079
   },
   "blunderoustyrone": {
     "week_seconds": 5,
@@ -13558,5 +13558,10 @@
     "week_seconds": 12,
     "week_start": 1782658060,
     "total_seconds": 12
+  },
+  "inozus": {
+    "week_seconds": 0,
+    "week_start": 1782659207,
+    "total_seconds": 0
   }
 }
