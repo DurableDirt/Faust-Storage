@@ -570,9 +570,9 @@
     "total_seconds": 499397
   },
   "angie_dovie111": {
-    "week_seconds": 151685,
+    "week_seconds": 151728,
     "week_start": 1782087560,
-    "total_seconds": 246013
+    "total_seconds": 246056
   },
   "balderbert": {
     "week_seconds": 51358,
@@ -13328,5 +13328,10 @@
     "week_seconds": 12,
     "week_start": 1782627134,
     "total_seconds": 12
+  },
+  "weqrowae": {
+    "week_seconds": 0,
+    "week_start": 1782628015,
+    "total_seconds": 0
   }
 }
