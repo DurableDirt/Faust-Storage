@@ -9165,9 +9165,9 @@
     "total_seconds": 4185
   },
   "luc4s_rc": {
-    "week_seconds": 16843,
+    "week_seconds": 17006,
     "week_start": 1782154755,
-    "total_seconds": 16843
+    "total_seconds": 17006
   },
   "matking66": {
     "week_seconds": 16811,
@@ -13513,5 +13513,10 @@
     "week_seconds": 473,
     "week_start": 1782654619,
     "total_seconds": 473
+  },
+  "zebis_": {
+    "week_seconds": 0,
+    "week_start": 1782655236,
+    "total_seconds": 0
   }
 }
