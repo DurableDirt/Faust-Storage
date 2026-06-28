@@ -3945,9 +3945,9 @@
     "total_seconds": 136
   },
   "chaudmoi": {
-    "week_seconds": 1975,
+    "week_seconds": 2006,
     "week_start": 1782217160,
-    "total_seconds": 67484
+    "total_seconds": 67515
   },
   "fealsom_": {
     "week_seconds": 8836,
@@ -12965,9 +12965,9 @@
     "total_seconds": 2686
   },
   "logus16": {
-    "week_seconds": 4530,
+    "week_seconds": 7796,
     "week_start": 1782591032,
-    "total_seconds": 4530
+    "total_seconds": 7796
   },
   "masmelao": {
     "week_seconds": 658,
@@ -13198,5 +13198,10 @@
     "week_seconds": 26,
     "week_start": 1782608850,
     "total_seconds": 26
+  },
+  "jekrane": {
+    "week_seconds": 0,
+    "week_start": 1782608927,
+    "total_seconds": 0
   }
 }
