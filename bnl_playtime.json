@@ -40,9 +40,9 @@
     "total_seconds": 120106
   },
   "piotato": {
-    "week_seconds": 124003,
+    "week_seconds": 124032,
     "week_start": 1782080360,
-    "total_seconds": 231306
+    "total_seconds": 231335
   },
   "lucifer420xx": {
     "week_seconds": 48229,
@@ -1345,9 +1345,9 @@
     "total_seconds": 232787
   },
   "choripancaliente": {
-    "week_seconds": 29336,
+    "week_seconds": 31908,
     "week_start": 1782101960,
-    "total_seconds": 145855
+    "total_seconds": 148427
   },
   "magicmars345": {
     "week_seconds": 58616,
@@ -8895,9 +8895,9 @@
     "total_seconds": 43
   },
   "faseplay": {
-    "week_seconds": 160124,
+    "week_seconds": 168057,
     "week_start": 1782124080,
-    "total_seconds": 160124
+    "total_seconds": 168057
   },
   "jaskowanie": {
     "week_seconds": 3,
@@ -13243,5 +13243,10 @@
     "week_seconds": 300,
     "week_start": 1782614872,
     "total_seconds": 300
+  },
+  "matrixia_": {
+    "week_seconds": 50,
+    "week_start": 1782616760,
+    "total_seconds": 50
   }
 }
