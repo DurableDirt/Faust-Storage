@@ -1575,9 +1575,9 @@
     "total_seconds": 325576
   },
   "_2k42_": {
-    "week_seconds": 211770,
+    "week_seconds": 212468,
     "week_start": 1782112760,
-    "total_seconds": 299834
+    "total_seconds": 300532
   },
   "gobblin": {
     "week_seconds": 54604,
@@ -2715,9 +2715,9 @@
     "total_seconds": 227327
   },
   "landopotato712": {
-    "week_seconds": 26216,
+    "week_seconds": 26953,
     "week_start": 1782148760,
-    "total_seconds": 70090
+    "total_seconds": 70827
   },
   "hierophant1319": {
     "week_seconds": 992,
@@ -13462,6 +13462,11 @@
   "mintypie_": {
     "week_seconds": 0,
     "week_start": 1782650107,
+    "total_seconds": 0
+  },
+  "rhaleed": {
+    "week_seconds": 0,
+    "week_start": 1782650827,
     "total_seconds": 0
   }
 }
