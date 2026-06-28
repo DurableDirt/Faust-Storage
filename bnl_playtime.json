@@ -415,9 +415,9 @@
     "total_seconds": 396
   },
   "maverick1351": {
-    "week_seconds": 155562,
+    "week_seconds": 161963,
     "week_start": 1782083960,
-    "total_seconds": 210935
+    "total_seconds": 217336
   },
   "hg__80": {
     "week_seconds": 97505,
@@ -13823,5 +13823,10 @@
     "week_seconds": 651,
     "week_start": 1782683502,
     "total_seconds": 651
+  },
+  "gttcupcake": {
+    "week_seconds": 0,
+    "week_start": 1782685624,
+    "total_seconds": 0
   }
 }
