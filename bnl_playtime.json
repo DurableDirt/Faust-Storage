@@ -385,9 +385,9 @@
     "total_seconds": 21360
   },
   "opriva": {
-    "week_seconds": 38375,
+    "week_seconds": 38404,
     "week_start": 1782083960,
-    "total_seconds": 172097
+    "total_seconds": 172126
   },
   "kokomiology": {
     "week_seconds": 77659,
@@ -4110,9 +4110,9 @@
     "total_seconds": 10991
   },
   "hplaptop": {
-    "week_seconds": 67466,
+    "week_seconds": 67523,
     "week_start": 1782227960,
-    "total_seconds": 208946
+    "total_seconds": 209003
   },
   "kablevz": {
     "week_seconds": 0,
