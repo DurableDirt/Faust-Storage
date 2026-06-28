@@ -805,9 +805,9 @@
     "total_seconds": 45098
   },
   "theunreales": {
-    "week_seconds": 35746,
+    "week_seconds": 35780,
     "week_start": 1782091160,
-    "total_seconds": 142957
+    "total_seconds": 142991
   },
   "timantha": {
     "week_seconds": 91022,
@@ -7710,9 +7710,9 @@
     "total_seconds": 6575
   },
   "gladiatus13": {
-    "week_seconds": 26867,
+    "week_seconds": 28345,
     "week_start": 1782578158,
-    "total_seconds": 181630
+    "total_seconds": 183108
   },
   "dark_phoenixs": {
     "week_seconds": 0,
@@ -13283,5 +13283,10 @@
     "week_seconds": 434,
     "week_start": 1782619886,
     "total_seconds": 434
+  },
+  "cheekgripper79": {
+    "week_seconds": 0,
+    "week_start": 1782622148,
+    "total_seconds": 0
   }
 }
