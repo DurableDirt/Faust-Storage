@@ -1080,9 +1080,9 @@
     "total_seconds": 214
   },
   "orestraya": {
-    "week_seconds": 143990,
+    "week_seconds": 147716,
     "week_start": 1782094760,
-    "total_seconds": 301714
+    "total_seconds": 305440
   },
   "satava": {
     "week_seconds": 24448,
@@ -7010,9 +7010,9 @@
     "total_seconds": 73
   },
   "pfp_nexl": {
-    "week_seconds": 39667,
+    "week_seconds": 39817,
     "week_start": 1782490760,
-    "total_seconds": 131200
+    "total_seconds": 131350
   },
   "blizardxace": {
     "week_seconds": 0,
@@ -13497,6 +13497,11 @@
   "da_bandman": {
     "week_seconds": 0,
     "week_start": 1782653499,
+    "total_seconds": 0
+  },
+  "shogxn": {
+    "week_seconds": 0,
+    "week_start": 1782653821,
     "total_seconds": 0
   }
 }
