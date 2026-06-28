@@ -870,9 +870,9 @@
     "total_seconds": 256814
   },
   "deerifius": {
-    "week_seconds": 55994,
+    "week_seconds": 56242,
     "week_start": 1782091160,
-    "total_seconds": 175623
+    "total_seconds": 175871
   },
   "dreadyheadyyn": {
     "week_seconds": 0,
@@ -2375,9 +2375,9 @@
     "total_seconds": 295203
   },
   "technogameryt": {
-    "week_seconds": 148,
+    "week_seconds": 2796,
     "week_start": 1782137960,
-    "total_seconds": 178
+    "total_seconds": 2826
   },
   "proverbsmyboys": {
     "week_seconds": 0,
@@ -13657,6 +13657,11 @@
   "paperboy343": {
     "week_seconds": 0,
     "week_start": 1782665716,
+    "total_seconds": 0
+  },
+  "mrbriefmoment": {
+    "week_seconds": 0,
+    "week_start": 1782665850,
     "total_seconds": 0
   }
 }
