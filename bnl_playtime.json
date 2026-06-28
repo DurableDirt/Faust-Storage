@@ -1770,9 +1770,9 @@
     "total_seconds": 29567
   },
   "wandrumdum": {
-    "week_seconds": 133601,
+    "week_seconds": 142665,
     "week_start": 1782119960,
-    "total_seconds": 226917
+    "total_seconds": 235981
   },
   "badwaffles_": {
     "week_seconds": 48534,
@@ -13187,6 +13187,11 @@
   "thelightdark": {
     "week_seconds": 0,
     "week_start": 1782607710,
+    "total_seconds": 0
+  },
+  "superchinchilla_": {
+    "week_seconds": 0,
+    "week_start": 1782608460,
     "total_seconds": 0
   }
 }
