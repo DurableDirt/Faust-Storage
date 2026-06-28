@@ -1145,9 +1145,9 @@
     "total_seconds": 29298
   },
   "hitmehn": {
-    "week_seconds": 349887,
+    "week_seconds": 350341,
     "week_start": 1782094760,
-    "total_seconds": 683945
+    "total_seconds": 684399
   },
   "moahbalin": {
     "week_seconds": 7622,
@@ -13178,5 +13178,10 @@
     "week_seconds": 60,
     "week_start": 1782606407,
     "total_seconds": 60
+  },
+  "tehkeko": {
+    "week_seconds": 0,
+    "week_start": 1782607676,
+    "total_seconds": 0
   }
 }
