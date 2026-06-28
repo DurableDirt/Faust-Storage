@@ -3920,9 +3920,9 @@
     "total_seconds": 103078
   },
   "plumily": {
-    "week_seconds": 69433,
+    "week_seconds": 78963,
     "week_start": 1782209960,
-    "total_seconds": 168560
+    "total_seconds": 178090
   },
   "soul9594": {
     "week_seconds": 0,
@@ -4150,9 +4150,9 @@
     "total_seconds": 146919
   },
   "stick_ix_nex": {
-    "week_seconds": 87392,
+    "week_seconds": 91990,
     "week_start": 1782235160,
-    "total_seconds": 238713
+    "total_seconds": 243311
   },
   "dashingyang": {
     "week_seconds": 26954,
@@ -8240,9 +8240,9 @@
     "total_seconds": 4644
   },
   "ch4m3leon": {
-    "week_seconds": 10457,
+    "week_seconds": 10489,
     "week_start": 1782646558,
-    "total_seconds": 142723
+    "total_seconds": 142755
   },
   "destroyerplayz99": {
     "week_seconds": 0,
@@ -13565,8 +13565,13 @@
     "total_seconds": 86
   },
   "sus_boiii": {
-    "week_seconds": 353,
+    "week_seconds": 453,
     "week_start": 1782659509,
-    "total_seconds": 353
+    "total_seconds": 453
+  },
+  "lilbootsgaming": {
+    "week_seconds": 0,
+    "week_start": 1782659946,
+    "total_seconds": 0
   }
 }
