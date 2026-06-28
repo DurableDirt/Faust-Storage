@@ -2805,9 +2805,9 @@
     "total_seconds": 27512
   },
   "koklushz": {
-    "week_seconds": 9024,
+    "week_seconds": 9098,
     "week_start": 1782152360,
-    "total_seconds": 54688
+    "total_seconds": 54762
   },
   "nemesiscy": {
     "week_seconds": 18936,
@@ -7445,9 +7445,9 @@
     "total_seconds": 830
   },
   "_sublim3": {
-    "week_seconds": 7054,
+    "week_seconds": 7108,
     "week_start": 1782542158,
-    "total_seconds": 12527
+    "total_seconds": 12581
   },
   "sigmaguy83297": {
     "week_seconds": 0,
@@ -13543,5 +13543,10 @@
     "week_seconds": 22,
     "week_start": 1782656309,
     "total_seconds": 22
+  },
+  "erwinnn": {
+    "week_seconds": 0,
+    "week_start": 1782657959,
+    "total_seconds": 0
   }
 }
