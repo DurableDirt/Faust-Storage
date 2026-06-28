@@ -7010,9 +7010,9 @@
     "total_seconds": 73
   },
   "pfp_nexl": {
-    "week_seconds": 48384,
+    "week_seconds": 49006,
     "week_start": 1782490760,
-    "total_seconds": 139917
+    "total_seconds": 140539
   },
   "blizardxace": {
     "week_seconds": 0,
@@ -7710,9 +7710,9 @@
     "total_seconds": 6575
   },
   "gladiatus13": {
-    "week_seconds": 38855,
+    "week_seconds": 38924,
     "week_start": 1782578158,
-    "total_seconds": 193618
+    "total_seconds": 193687
   },
   "dark_phoenixs": {
     "week_seconds": 0,
@@ -13682,6 +13682,11 @@
   "supitsjulian": {
     "week_seconds": 0,
     "week_start": 1782667352,
+    "total_seconds": 0
+  },
+  "daniosam21": {
+    "week_seconds": 0,
+    "week_start": 1782667418,
     "total_seconds": 0
   }
 }
