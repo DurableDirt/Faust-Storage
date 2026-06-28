@@ -13230,9 +13230,9 @@
     "total_seconds": 39
   },
   "trelyx_10324": {
-    "week_seconds": 369,
+    "week_seconds": 1016,
     "week_start": 1782614337,
-    "total_seconds": 369
+    "total_seconds": 1016
   },
   "lode1sg0d": {
     "week_seconds": 2,
@@ -13252,6 +13252,11 @@
   "captoun": {
     "week_seconds": 0,
     "week_start": 1782617130,
+    "total_seconds": 0
+  },
+  "ajz34": {
+    "week_seconds": 0,
+    "week_start": 1782617531,
     "total_seconds": 0
   }
 }
