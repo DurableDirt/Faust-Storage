@@ -1140,9 +1140,9 @@
     "total_seconds": 222
   },
   "steelhand7": {
-    "week_seconds": 15160,
+    "week_seconds": 15289,
     "week_start": 1782094760,
-    "total_seconds": 29298
+    "total_seconds": 29427
   },
   "hitmehn": {
     "week_seconds": 350341,
@@ -13218,5 +13218,10 @@
     "week_seconds": 674,
     "week_start": 1782610145,
     "total_seconds": 674
+  },
+  "hogwild777": {
+    "week_seconds": 0,
+    "week_start": 1782612812,
+    "total_seconds": 0
   }
 }
