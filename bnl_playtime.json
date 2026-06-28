@@ -4205,9 +4205,9 @@
     "total_seconds": 66793
   },
   "britishwanderer": {
-    "week_seconds": 24443,
+    "week_seconds": 30894,
     "week_start": 1782235160,
-    "total_seconds": 32092
+    "total_seconds": 38543
   },
   "cheesyspaceguy": {
     "week_seconds": 0,
@@ -7305,9 +7305,9 @@
     "total_seconds": 31269
   },
   "donutmt": {
-    "week_seconds": 8072,
+    "week_seconds": 8165,
     "week_start": 1782524158,
-    "total_seconds": 49906
+    "total_seconds": 49999
   },
   "bobroos8": {
     "week_seconds": 0,
@@ -13807,6 +13807,11 @@
   "spiderition": {
     "week_seconds": 0,
     "week_start": 1782681868,
+    "total_seconds": 0
+  },
+  "amoebic_serpent": {
+    "week_seconds": 0,
+    "week_start": 1782681925,
     "total_seconds": 0
   }
 }
