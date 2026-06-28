@@ -475,9 +475,9 @@
     "total_seconds": 624416
   },
   "tntfortress": {
-    "week_seconds": 22984,
+    "week_seconds": 23803,
     "week_start": 1782087560,
-    "total_seconds": 136250
+    "total_seconds": 137069
   },
   "crafterkid50009": {
     "week_seconds": 0,
@@ -1775,9 +1775,9 @@
     "total_seconds": 251259
   },
   "badwaffles_": {
-    "week_seconds": 56797,
+    "week_seconds": 59185,
     "week_start": 1782119960,
-    "total_seconds": 67512
+    "total_seconds": 69900
   },
   "nanajshi": {
     "week_seconds": 5855,
@@ -13482,6 +13482,11 @@
   "bummitheking": {
     "week_seconds": 0,
     "week_start": 1782652406,
+    "total_seconds": 0
+  },
+  "epicnet": {
+    "week_seconds": 0,
+    "week_start": 1782652465,
     "total_seconds": 0
   }
 }
