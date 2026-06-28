@@ -13145,9 +13145,9 @@
     "total_seconds": 91
   },
   "mr_dead_bells": {
-    "week_seconds": 0,
+    "week_seconds": 1804,
     "week_start": 1782604177,
-    "total_seconds": 0
+    "total_seconds": 1804
   },
   "lucixanaa2010": {
     "week_seconds": 78,
@@ -13162,6 +13162,11 @@
   "m1stt_mc": {
     "week_seconds": 0,
     "week_start": 1782605921,
+    "total_seconds": 0
+  },
+  "zerkanators": {
+    "week_seconds": 0,
+    "week_start": 1782605991,
     "total_seconds": 0
   }
 }
