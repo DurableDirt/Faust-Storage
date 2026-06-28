@@ -12870,9 +12870,9 @@
     "total_seconds": 2442
   },
   "zigzot": {
-    "week_seconds": 20589,
+    "week_seconds": 29348,
     "week_start": 1782584193,
-    "total_seconds": 20589
+    "total_seconds": 29348
   },
   "himchi": {
     "week_seconds": 914,
@@ -13560,8 +13560,8 @@
     "total_seconds": 12
   },
   "inozus": {
-    "week_seconds": 0,
+    "week_seconds": 86,
     "week_start": 1782659207,
-    "total_seconds": 0
+    "total_seconds": 86
   }
 }
