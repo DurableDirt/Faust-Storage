@@ -1175,9 +1175,9 @@
     "total_seconds": 224867
   },
   "astralchroma": {
-    "week_seconds": 163401,
+    "week_seconds": 169995,
     "week_start": 1782094760,
-    "total_seconds": 342687
+    "total_seconds": 349281
   },
   "kingstell": {
     "week_seconds": 5615,
@@ -1930,9 +1930,9 @@
     "total_seconds": 70073
   },
   "impadme5996": {
-    "week_seconds": 47960,
+    "week_seconds": 48209,
     "week_start": 1782127160,
-    "total_seconds": 59876
+    "total_seconds": 60125
   },
   "walkers": {
     "week_seconds": 145491,
@@ -3435,9 +3435,9 @@
     "total_seconds": 10528
   },
   "huskydog9988": {
-    "week_seconds": 71692,
+    "week_seconds": 71769,
     "week_start": 1782173960,
-    "total_seconds": 161331
+    "total_seconds": 161408
   },
   "jromeasfsniper": {
     "week_seconds": 26094,
@@ -13718,5 +13718,10 @@
     "week_seconds": 766,
     "week_start": 1782670675,
     "total_seconds": 766
+  },
+  "broimbetter": {
+    "week_seconds": 0,
+    "week_start": 1782672444,
+    "total_seconds": 0
   }
 }
