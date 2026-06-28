@@ -5715,9 +5715,9 @@
     "total_seconds": 7676
   },
   "rurfu": {
-    "week_seconds": 70240,
+    "week_seconds": 72283,
     "week_start": 1782353960,
-    "total_seconds": 164399
+    "total_seconds": 166442
   },
   "binks4362": {
     "week_seconds": 0,
@@ -13312,6 +13312,11 @@
   "kamolso": {
     "week_seconds": 0,
     "week_start": 1782624016,
+    "total_seconds": 0
+  },
+  "dukeyboyhepburn": {
+    "week_seconds": 0,
+    "week_start": 1782624767,
     "total_seconds": 0
   }
 }
