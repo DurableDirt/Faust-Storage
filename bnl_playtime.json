@@ -13408,5 +13408,10 @@
     "week_seconds": 236,
     "week_start": 1782640559,
     "total_seconds": 236
+  },
+  "amz_grinder": {
+    "week_seconds": 6,
+    "week_start": 1782641818,
+    "total_seconds": 6
   }
 }
