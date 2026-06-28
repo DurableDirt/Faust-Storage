@@ -450,9 +450,9 @@
     "total_seconds": 348530
   },
   "mrtnt1925": {
-    "week_seconds": 124653,
+    "week_seconds": 126569,
     "week_start": 1782083960,
-    "total_seconds": 285609
+    "total_seconds": 287525
   },
   "axsld": {
     "week_seconds": 72240,
@@ -13203,5 +13203,10 @@
     "week_seconds": 31,
     "week_start": 1782608927,
     "total_seconds": 31
+  },
+  "almq": {
+    "week_seconds": 11,
+    "week_start": 1782609377,
+    "total_seconds": 11
   }
 }
