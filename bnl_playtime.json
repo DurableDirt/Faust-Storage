@@ -13830,9 +13830,9 @@
     "total_seconds": 99
   },
   "elandresito2013": {
-    "week_seconds": 1343,
+    "week_seconds": 1375,
     "week_start": 1782685762,
-    "total_seconds": 1343
+    "total_seconds": 1375
   },
   "dkrise": {
     "week_seconds": 0,
@@ -13858,5 +13858,10 @@
     "week_seconds": 450,
     "week_start": 1782689909,
     "total_seconds": 450
+  },
+  "run_cat4": {
+    "week_seconds": 43,
+    "week_start": 1782690578,
+    "total_seconds": 43
   }
 }
