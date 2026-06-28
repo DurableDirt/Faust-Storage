@@ -1815,9 +1815,9 @@
     "total_seconds": 4975
   },
   "airdav": {
-    "week_seconds": 36860,
+    "week_seconds": 40409,
     "week_start": 1782123560,
-    "total_seconds": 55224
+    "total_seconds": 58773
   },
   "ch0rk": {
     "week_seconds": 0,
@@ -13563,5 +13563,10 @@
     "week_seconds": 86,
     "week_start": 1782659207,
     "total_seconds": 86
+  },
+  "sus_boiii": {
+    "week_seconds": 0,
+    "week_start": 1782659509,
+    "total_seconds": 0
   }
 }
