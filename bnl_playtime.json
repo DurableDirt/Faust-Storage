@@ -445,9 +445,9 @@
     "total_seconds": 133821
   },
   "iron600": {
-    "week_seconds": 27823,
+    "week_seconds": 27840,
     "week_start": 1782689758,
-    "total_seconds": 400846
+    "total_seconds": 400863
   },
   "mrtnt1925": {
     "week_seconds": 2637,
@@ -4415,9 +4415,9 @@
     "total_seconds": 131
   },
   "zeroql": {
-    "week_seconds": 37137,
+    "week_seconds": 43061,
     "week_start": 1782242360,
-    "total_seconds": 40133
+    "total_seconds": 46057
   },
   "formidable01": {
     "week_seconds": 26478,
