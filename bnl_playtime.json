@@ -4955,9 +4955,9 @@
     "total_seconds": 7757
   },
   "dero_zero": {
-    "week_seconds": 0,
+    "week_seconds": 18,
     "week_start": 1782285560,
-    "total_seconds": 1844
+    "total_seconds": 1862
   },
   "xlaser2014": {
     "week_seconds": 51612,
@@ -14010,8 +14010,8 @@
     "total_seconds": 117
   },
   "nitr_oaf": {
-    "week_seconds": 113,
+    "week_seconds": 231,
     "week_start": 1782705541,
-    "total_seconds": 113
+    "total_seconds": 231
   }
 }
