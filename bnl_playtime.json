@@ -890,9 +890,9 @@
     "total_seconds": 71811
   },
   "c32shark": {
-    "week_seconds": 44,
+    "week_seconds": 8837,
     "week_start": 1782696958,
-    "total_seconds": 56352
+    "total_seconds": 65145
   },
   "bigg2010": {
     "week_seconds": 0,
@@ -14115,8 +14115,8 @@
     "total_seconds": 1499
   },
   "ofly_277": {
-    "week_seconds": 0,
+    "week_seconds": 981,
     "week_start": 1782723994,
-    "total_seconds": 0
+    "total_seconds": 981
   }
 }
