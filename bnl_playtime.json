@@ -7725,9 +7725,9 @@
     "total_seconds": 145
   },
   "carter_t23": {
-    "week_seconds": 20771,
+    "week_seconds": 21853,
     "week_start": 1782581758,
-    "total_seconds": 73404
+    "total_seconds": 74486
   },
   "mr_unwanted": {
     "week_seconds": 0,
@@ -14025,8 +14025,8 @@
     "total_seconds": 145
   },
   "gastrell": {
-    "week_seconds": 0,
+    "week_seconds": 75,
     "week_start": 1782709358,
-    "total_seconds": 0
+    "total_seconds": 75
   }
 }
