@@ -300,9 +300,9 @@
     "total_seconds": 6375
   },
   "tatsu007": {
-    "week_seconds": 0,
+    "week_seconds": 40659,
     "week_start": 1782689758,
-    "total_seconds": 697939
+    "total_seconds": 738598
   },
   "olderastory": {
     "week_seconds": 24096,
@@ -12700,9 +12700,9 @@
     "total_seconds": 3059
   },
   "goldeagle2317": {
-    "week_seconds": 13529,
+    "week_seconds": 20054,
     "week_start": 1782567353,
-    "total_seconds": 13529
+    "total_seconds": 20054
   },
   "bruzztuah": {
     "week_seconds": 50,
@@ -14097,6 +14097,11 @@
   "firedandan": {
     "week_seconds": 0,
     "week_start": 1782721672,
+    "total_seconds": 0
+  },
+  "paintedeel": {
+    "week_seconds": 0,
+    "week_start": 1782721965,
     "total_seconds": 0
   }
 }
