@@ -1990,9 +1990,9 @@
     "total_seconds": 46025
   },
   "pl_y3r": {
-    "week_seconds": 0,
+    "week_seconds": 4178,
     "week_start": 1782736558,
-    "total_seconds": 41077
+    "total_seconds": 45255
   },
   "bytetheiv": {
     "week_seconds": 0,
@@ -14270,9 +14270,9 @@
     "total_seconds": 259
   },
   "icy_craft": {
-    "week_seconds": 20,
+    "week_seconds": 580,
     "week_start": 1782746026,
-    "total_seconds": 20
+    "total_seconds": 580
   },
   "eminentchain955": {
     "week_seconds": 966,
@@ -14358,5 +14358,10 @@
     "week_seconds": 1,
     "week_start": 1782753711,
     "total_seconds": 1
+  },
+  "remyies": {
+    "week_seconds": 0,
+    "week_start": 1782754107,
+    "total_seconds": 0
   }
 }
