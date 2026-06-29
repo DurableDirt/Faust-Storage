@@ -3810,9 +3810,9 @@
     "total_seconds": 20
   },
   "paddington_bear": {
-    "week_seconds": 31854,
+    "week_seconds": 32834,
     "week_start": 1782199160,
-    "total_seconds": 71081
+    "total_seconds": 72061
   },
   "refe1k": {
     "week_seconds": 16187,
@@ -14148,5 +14148,10 @@
     "week_seconds": 0,
     "week_start": 1782729754,
     "total_seconds": 0
+  },
+  "curly1147": {
+    "week_seconds": 62,
+    "week_start": 1782729797,
+    "total_seconds": 62
   }
 }
