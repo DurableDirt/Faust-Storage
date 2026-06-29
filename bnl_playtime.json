@@ -285,9 +285,9 @@
     "total_seconds": 151761
   },
   "mechanicalrift": {
-    "week_seconds": 2623,
+    "week_seconds": 2666,
     "week_start": 1782689758,
-    "total_seconds": 473946
+    "total_seconds": 473989
   },
   "aguscon": {
     "week_seconds": 0,
@@ -7765,9 +7765,9 @@
     "total_seconds": 42849
   },
   "x_teach_x": {
-    "week_seconds": 45161,
+    "week_seconds": 58112,
     "week_start": 1782585358,
-    "total_seconds": 179192
+    "total_seconds": 192143
   },
   "watermashen": {
     "week_seconds": 353,
@@ -13893,5 +13893,10 @@
     "week_seconds": 6,
     "week_start": 1782693092,
     "total_seconds": 6
+  },
+  "lungdweller": {
+    "week_seconds": 0,
+    "week_start": 1782693784,
+    "total_seconds": 0
   }
 }
