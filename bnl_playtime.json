@@ -1515,9 +1515,9 @@
     "total_seconds": 31020
   },
   "fang_op": {
-    "week_seconds": 1398,
+    "week_seconds": 1678,
     "week_start": 1782714958,
-    "total_seconds": 224112
+    "total_seconds": 224392
   },
   "_jaek": {
     "week_seconds": 12936,
@@ -14217,6 +14217,11 @@
   "luc_045": {
     "week_seconds": 0,
     "week_start": 1782738091,
+    "total_seconds": 0
+  },
+  "mkwolf97": {
+    "week_seconds": 0,
+    "week_start": 1782738235,
     "total_seconds": 0
   }
 }
