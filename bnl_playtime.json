@@ -14320,9 +14320,9 @@
     "total_seconds": 4
   },
   "ghost91299": {
-    "week_seconds": 804,
+    "week_seconds": 2986,
     "week_start": 1782750726,
-    "total_seconds": 804
+    "total_seconds": 2986
   },
   "bloublux": {
     "week_seconds": 178,
@@ -14470,9 +14470,9 @@
     "total_seconds": 99
   },
   "rxse_gxrden": {
-    "week_seconds": 0,
+    "week_seconds": 740,
     "week_start": 1782761862,
-    "total_seconds": 0
+    "total_seconds": 740
   },
   "_ally_killer": {
     "week_seconds": 23,
@@ -14480,8 +14480,18 @@
     "total_seconds": 23
   },
   "treefirethereal": {
-    "week_seconds": 0,
+    "week_seconds": 152,
     "week_start": 1782762445,
+    "total_seconds": 152
+  },
+  "zixycl": {
+    "week_seconds": 0,
+    "week_start": 1782762599,
+    "total_seconds": 0
+  },
+  "scarlett_beats": {
+    "week_seconds": 0,
+    "week_start": 1782762612,
     "total_seconds": 0
   }
 }
