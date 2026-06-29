@@ -1555,9 +1555,9 @@
     "total_seconds": 4262
   },
   "hakr_": {
-    "week_seconds": 29631,
+    "week_seconds": 33390,
     "week_start": 1782714958,
-    "total_seconds": 758530
+    "total_seconds": 762289
   },
   "nsiv28": {
     "week_seconds": 0,
@@ -14290,8 +14290,8 @@
     "total_seconds": 27
   },
   "opanyi4": {
-    "week_seconds": 0,
+    "week_seconds": 54,
     "week_start": 1782748986,
-    "total_seconds": 0
+    "total_seconds": 54
   }
 }
