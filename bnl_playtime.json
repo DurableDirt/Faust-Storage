@@ -5415,9 +5415,9 @@
     "total_seconds": 3913
   },
   "rosepoop": {
-    "week_seconds": 2736,
+    "week_seconds": 2988,
     "week_start": 1782332360,
-    "total_seconds": 3377
+    "total_seconds": 3629
   },
   "riftonhc": {
     "week_seconds": 0,
@@ -13755,9 +13755,9 @@
     "total_seconds": 2772
   },
   "vinbing": {
-    "week_seconds": 8592,
+    "week_seconds": 8625,
     "week_start": 1782676228,
-    "total_seconds": 8592
+    "total_seconds": 8625
   },
   "cloalbo": {
     "week_seconds": 23,
@@ -14573,5 +14573,10 @@
     "week_seconds": 108,
     "week_start": 1782774657,
     "total_seconds": 108
+  },
+  "blackfigure0": {
+    "week_seconds": 0,
+    "week_start": 1782774993,
+    "total_seconds": 0
   }
 }
