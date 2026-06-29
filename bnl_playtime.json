@@ -3760,9 +3760,9 @@
     "total_seconds": 144058
   },
   "arbidos": {
-    "week_seconds": 8224,
+    "week_seconds": 9935,
     "week_start": 1782191960,
-    "total_seconds": 43750
+    "total_seconds": 45461
   },
   "fallen_screw": {
     "week_seconds": 97811,
@@ -13970,8 +13970,8 @@
     "total_seconds": 0
   },
   "checkerzmc": {
-    "week_seconds": 0,
+    "week_seconds": 259,
     "week_start": 1782700789,
-    "total_seconds": 0
+    "total_seconds": 259
   }
 }
