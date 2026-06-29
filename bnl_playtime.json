@@ -285,9 +285,9 @@
     "total_seconds": 153286
   },
   "mechanicalrift": {
-    "week_seconds": 19421,
+    "week_seconds": 19438,
     "week_start": 1782689758,
-    "total_seconds": 490744
+    "total_seconds": 490761
   },
   "aguscon": {
     "week_seconds": 0,
@@ -8815,9 +8815,9 @@
     "total_seconds": 676
   },
   "cxmplement": {
-    "week_seconds": 105,
+    "week_seconds": 117,
     "week_start": 1782718558,
-    "total_seconds": 3413
+    "total_seconds": 3425
   },
   "_andrew_zagarah": {
     "week_seconds": 0,
@@ -14453,5 +14453,10 @@
     "week_seconds": 0,
     "week_start": 1782760254,
     "total_seconds": 0
+  },
+  "lonewolfhen": {
+    "week_seconds": 6,
+    "week_start": 1782760424,
+    "total_seconds": 6
   }
 }
