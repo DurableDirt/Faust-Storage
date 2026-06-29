@@ -1100,9 +1100,9 @@
     "total_seconds": 194227
   },
   "nevergrimm": {
-    "week_seconds": 2662,
+    "week_seconds": 2701,
     "week_start": 1782700558,
-    "total_seconds": 145710
+    "total_seconds": 145749
   },
   "lagiacrus": {
     "week_seconds": 0,
@@ -4390,9 +4390,9 @@
     "total_seconds": 3356
   },
   "thebiodino": {
-    "week_seconds": 25443,
+    "week_seconds": 26805,
     "week_start": 1782242360,
-    "total_seconds": 74551
+    "total_seconds": 75913
   },
   "plrog": {
     "week_seconds": 0,
@@ -14328,5 +14328,10 @@
     "week_seconds": 178,
     "week_start": 1782751134,
     "total_seconds": 178
+  },
+  "jayhastrousers": {
+    "week_seconds": 0,
+    "week_start": 1782752468,
+    "total_seconds": 0
   }
 }
