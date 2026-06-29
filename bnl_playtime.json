@@ -1570,9 +1570,9 @@
     "total_seconds": 26749
   },
   "physicsgamer": {
-    "week_seconds": 11669,
+    "week_seconds": 12738,
     "week_start": 1782714958,
-    "total_seconds": 341500
+    "total_seconds": 342569
   },
   "_2k42_": {
     "week_seconds": 10614,
@@ -2155,9 +2155,9 @@
     "total_seconds": 1142
   },
   "dryna1825": {
-    "week_seconds": 1728,
+    "week_seconds": 1984,
     "week_start": 1782134360,
-    "total_seconds": 1776
+    "total_seconds": 2032
   },
   "voidhecker": {
     "week_seconds": 0,
@@ -14177,6 +14177,11 @@
   "mustard1792": {
     "week_seconds": 0,
     "week_start": 1782733012,
+    "total_seconds": 0
+  },
+  "void_flame_0173": {
+    "week_seconds": 0,
+    "week_start": 1782733439,
     "total_seconds": 0
   }
 }
