@@ -4960,9 +4960,9 @@
     "total_seconds": 4618
   },
   "xlaser2014": {
-    "week_seconds": 64021,
+    "week_seconds": 65815,
     "week_start": 1782285560,
-    "total_seconds": 77010
+    "total_seconds": 78804
   },
   "plutouz": {
     "week_seconds": 47839,
@@ -14223,5 +14223,10 @@
     "week_seconds": 1429,
     "week_start": 1782738235,
     "total_seconds": 1429
+  },
+  "shopork": {
+    "week_seconds": 0,
+    "week_start": 1782740299,
+    "total_seconds": 0
   }
 }
