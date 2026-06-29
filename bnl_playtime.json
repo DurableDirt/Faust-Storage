@@ -7710,9 +7710,9 @@
     "total_seconds": 6575
   },
   "gladiatus13": {
-    "week_seconds": 66203,
+    "week_seconds": 66287,
     "week_start": 1782578158,
-    "total_seconds": 220966
+    "total_seconds": 221050
   },
   "dark_phoenixs": {
     "week_seconds": 0,
@@ -13913,5 +13913,15 @@
     "week_seconds": 5,
     "week_start": 1782695322,
     "total_seconds": 5
+  },
+  "ekan12345": {
+    "week_seconds": 0,
+    "week_start": 1782695415,
+    "total_seconds": 0
+  },
+  "alutraa": {
+    "week_seconds": 0,
+    "week_start": 1782695421,
+    "total_seconds": 0
   }
 }
