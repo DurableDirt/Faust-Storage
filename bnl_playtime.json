@@ -2325,9 +2325,9 @@
     "total_seconds": 8083
   },
   "bluechickpro": {
-    "week_seconds": 856,
+    "week_seconds": 927,
     "week_start": 1782743758,
-    "total_seconds": 78774
+    "total_seconds": 78845
   },
   "xa_n": {
     "week_seconds": 0,
@@ -5985,9 +5985,9 @@
     "total_seconds": 45806
   },
   "what777": {
-    "week_seconds": 311794,
+    "week_seconds": 311878,
     "week_start": 1782389960,
-    "total_seconds": 622733
+    "total_seconds": 622817
   },
   "arealfriedwing": {
     "week_seconds": 0,
@@ -6095,9 +6095,9 @@
     "total_seconds": 116
   },
   "diurdi": {
-    "week_seconds": 79023,
+    "week_seconds": 81821,
     "week_start": 1782404360,
-    "total_seconds": 259053
+    "total_seconds": 261851
   },
   "dj10_": {
     "week_seconds": 0,
@@ -14387,6 +14387,11 @@
   "rando_no": {
     "week_seconds": 0,
     "week_start": 1782754685,
+    "total_seconds": 0
+  },
+  "jinu11tan": {
+    "week_seconds": 0,
+    "week_start": 1782754755,
     "total_seconds": 0
   }
 }
