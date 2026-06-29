@@ -1100,9 +1100,9 @@
     "total_seconds": 194227
   },
   "nevergrimm": {
-    "week_seconds": 2755,
+    "week_seconds": 3959,
     "week_start": 1782700558,
-    "total_seconds": 145803
+    "total_seconds": 147007
   },
   "lagiacrus": {
     "week_seconds": 0,
@@ -14458,5 +14458,10 @@
     "week_seconds": 6,
     "week_start": 1782760424,
     "total_seconds": 6
+  },
+  "kk154306": {
+    "week_seconds": 0,
+    "week_start": 1782761080,
+    "total_seconds": 0
   }
 }
