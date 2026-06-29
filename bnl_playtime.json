@@ -6765,9 +6765,9 @@
     "total_seconds": 14121
   },
   "gabrielmaennl5": {
-    "week_seconds": 78065,
+    "week_seconds": 78214,
     "week_start": 1782461960,
-    "total_seconds": 185570
+    "total_seconds": 185719
   },
   "big_shadow0": {
     "week_seconds": 826,
@@ -14103,5 +14103,10 @@
     "week_seconds": 1134,
     "week_start": 1782721965,
     "total_seconds": 1134
+  },
+  "dogdevo0765": {
+    "week_seconds": 0,
+    "week_start": 1782723200,
+    "total_seconds": 0
   }
 }
