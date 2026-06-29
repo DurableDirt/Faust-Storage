@@ -2555,9 +2555,9 @@
     "total_seconds": 1116
   },
   "yunfi": {
-    "week_seconds": 151872,
+    "week_seconds": 162774,
     "week_start": 1782145160,
-    "total_seconds": 281145
+    "total_seconds": 292047
   },
   "myng11": {
     "week_seconds": 23374,
@@ -14083,5 +14083,15 @@
     "week_seconds": 254,
     "week_start": 1782719359,
     "total_seconds": 254
+  },
+  "vertt1go": {
+    "week_seconds": 0,
+    "week_start": 1782720742,
+    "total_seconds": 0
+  },
+  "spaceram": {
+    "week_seconds": 0,
+    "week_start": 1782720823,
+    "total_seconds": 0
   }
 }
