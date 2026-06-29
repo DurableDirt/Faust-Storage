@@ -7305,9 +7305,9 @@
     "total_seconds": 31269
   },
   "donutmt": {
-    "week_seconds": 12983,
+    "week_seconds": 13025,
     "week_start": 1782524158,
-    "total_seconds": 54817
+    "total_seconds": 54859
   },
   "bobroos8": {
     "week_seconds": 0,
@@ -13835,9 +13835,9 @@
     "total_seconds": 1740
   },
   "dkrise": {
-    "week_seconds": 0,
+    "week_seconds": 5237,
     "week_start": 1782686459,
-    "total_seconds": 0
+    "total_seconds": 5237
   },
   "lucifer386240": {
     "week_seconds": 0,
@@ -13878,5 +13878,10 @@
     "week_seconds": 10,
     "week_start": 1782691669,
     "total_seconds": 10
+  },
+  "jaqueasyy": {
+    "week_seconds": 25,
+    "week_start": 1782691693,
+    "total_seconds": 25
   }
 }
