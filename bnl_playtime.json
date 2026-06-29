@@ -14255,8 +14255,13 @@
     "total_seconds": 0
   },
   "auguststealth": {
-    "week_seconds": 0,
+    "week_seconds": 271,
     "week_start": 1782744496,
+    "total_seconds": 271
+  },
+  "brixboy8": {
+    "week_seconds": 0,
+    "week_start": 1782744791,
     "total_seconds": 0
   }
 }
