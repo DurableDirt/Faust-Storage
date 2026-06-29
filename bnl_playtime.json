@@ -3615,9 +3615,9 @@
     "total_seconds": 1211
   },
   "luminous15": {
-    "week_seconds": 134255,
+    "week_seconds": 136532,
     "week_start": 1782181160,
-    "total_seconds": 203553
+    "total_seconds": 205830
   },
   "frostythorgrim": {
     "week_seconds": 0,
@@ -14052,6 +14052,11 @@
   "vtxanonymous": {
     "week_seconds": 0,
     "week_start": 1782714015,
+    "total_seconds": 0
+  },
+  "zim0ng": {
+    "week_seconds": 0,
+    "week_start": 1782714199,
     "total_seconds": 0
   }
 }
