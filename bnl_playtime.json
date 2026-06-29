@@ -1700,9 +1700,9 @@
     "total_seconds": 52955
   },
   "eyestrainz": {
-    "week_seconds": 127,
+    "week_seconds": 160,
     "week_start": 1782722158,
-    "total_seconds": 120989
+    "total_seconds": 121022
   },
   "snailytrail": {
     "week_seconds": 0,
@@ -14107,6 +14107,11 @@
   "dogdevo0765": {
     "week_seconds": 0,
     "week_start": 1782723200,
+    "total_seconds": 0
+  },
+  "owenthebrowo": {
+    "week_seconds": 0,
+    "week_start": 1782723247,
     "total_seconds": 0
   }
 }
