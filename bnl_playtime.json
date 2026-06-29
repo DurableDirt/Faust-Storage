@@ -5645,9 +5645,9 @@
     "total_seconds": 174
   },
   "skippydx": {
-    "week_seconds": 54328,
+    "week_seconds": 56713,
     "week_start": 1782346760,
-    "total_seconds": 144617
+    "total_seconds": 147002
   },
   "ultraman2": {
     "week_seconds": 0,
@@ -14590,8 +14590,8 @@
     "total_seconds": 0
   },
   "the_spacepope": {
-    "week_seconds": 0,
+    "week_seconds": 196,
     "week_start": 1782775900,
-    "total_seconds": 0
+    "total_seconds": 196
   }
 }
