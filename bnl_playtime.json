@@ -1580,9 +1580,9 @@
     "total_seconds": 311186
   },
   "gobblin": {
-    "week_seconds": 393,
+    "week_seconds": 510,
     "week_start": 1782718558,
-    "total_seconds": 129363
+    "total_seconds": 129480
   },
   "vlinar": {
     "week_seconds": 0,
@@ -11275,9 +11275,9 @@
     "total_seconds": 87
   },
   "duskenfloof": {
-    "week_seconds": 21218,
+    "week_seconds": 34865,
     "week_start": 1782422093,
-    "total_seconds": 21218
+    "total_seconds": 34865
   },
   "47loken": {
     "week_seconds": 27747,
