@@ -45,9 +45,9 @@
     "total_seconds": 257022
   },
   "lucifer420xx": {
-    "week_seconds": 8601,
+    "week_seconds": 9065,
     "week_start": 1782686158,
-    "total_seconds": 143309
+    "total_seconds": 143773
   },
   "meenos": {
     "week_seconds": 2539,
@@ -285,9 +285,9 @@
     "total_seconds": 151761
   },
   "mechanicalrift": {
-    "week_seconds": 6515,
+    "week_seconds": 6530,
     "week_start": 1782689758,
-    "total_seconds": 477838
+    "total_seconds": 477853
   },
   "aguscon": {
     "week_seconds": 0,
@@ -385,9 +385,9 @@
     "total_seconds": 21405
   },
   "opriva": {
-    "week_seconds": 3449,
+    "week_seconds": 4353,
     "week_start": 1782689758,
-    "total_seconds": 202141
+    "total_seconds": 203045
   },
   "kokomiology": {
     "week_seconds": 0,
@@ -13948,5 +13948,10 @@
     "week_seconds": 27,
     "week_start": 1782698051,
     "total_seconds": 27
+  },
+  "iluvbubbles": {
+    "week_seconds": 5,
+    "week_start": 1782698474,
+    "total_seconds": 5
   }
 }
