@@ -2415,9 +2415,9 @@
     "total_seconds": 47410
   },
   "sml128": {
-    "week_seconds": 0,
+    "week_seconds": 289,
     "week_start": 1782747358,
-    "total_seconds": 155406
+    "total_seconds": 155695
   },
   "malipan": {
     "week_seconds": 0,
@@ -8340,9 +8340,9 @@
     "total_seconds": 25474
   },
   "jwmgregory": {
-    "week_seconds": 0,
+    "week_seconds": 18540,
     "week_start": 1782664558,
-    "total_seconds": 48484
+    "total_seconds": 67024
   },
   "flutschrobbe": {
     "week_seconds": 0,
