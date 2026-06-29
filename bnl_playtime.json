@@ -285,9 +285,9 @@
     "total_seconds": 153286
   },
   "mechanicalrift": {
-    "week_seconds": 17410,
+    "week_seconds": 17431,
     "week_start": 1782689758,
-    "total_seconds": 488733
+    "total_seconds": 488754
   },
   "aguscon": {
     "week_seconds": 0,
@@ -815,9 +815,9 @@
     "total_seconds": 216834
   },
   "gnathope": {
-    "week_seconds": 2926,
+    "week_seconds": 3538,
     "week_start": 1782696958,
-    "total_seconds": 206070
+    "total_seconds": 206682
   },
   "freeblade999": {
     "week_seconds": 0,
@@ -13235,9 +13235,9 @@
     "total_seconds": 5223
   },
   "lode1sg0d": {
-    "week_seconds": 5401,
+    "week_seconds": 6755,
     "week_start": 1782614839,
-    "total_seconds": 5401
+    "total_seconds": 6755
   },
   "kaue1011": {
     "week_seconds": 447,
@@ -14423,5 +14423,10 @@
     "week_seconds": 40,
     "week_start": 1782757783,
     "total_seconds": 40
+  },
+  "_dxni": {
+    "week_seconds": 0,
+    "week_start": 1782758306,
+    "total_seconds": 0
   }
 }
