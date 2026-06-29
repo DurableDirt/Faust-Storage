@@ -115,9 +115,9 @@
     "total_seconds": 14813
   },
   "xjetistuff": {
-    "week_seconds": 2044,
+    "week_seconds": 3017,
     "week_start": 1782686158,
-    "total_seconds": 99572
+    "total_seconds": 100545
   },
   "popshotx9": {
     "week_seconds": 0,
@@ -14168,5 +14168,10 @@
     "week_seconds": 357,
     "week_start": 1782731103,
     "total_seconds": 357
+  },
+  "gombolo": {
+    "week_seconds": 0,
+    "week_start": 1782731962,
+    "total_seconds": 0
   }
 }
