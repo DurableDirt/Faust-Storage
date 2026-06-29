@@ -4415,9 +4415,9 @@
     "total_seconds": 131
   },
   "zeroql": {
-    "week_seconds": 33648,
+    "week_seconds": 36502,
     "week_start": 1782242360,
-    "total_seconds": 36644
+    "total_seconds": 39498
   },
   "formidable01": {
     "week_seconds": 26478,
@@ -14238,5 +14238,10 @@
     "week_seconds": 0,
     "week_start": 1782743354,
     "total_seconds": 0
+  },
+  "slinmystic": {
+    "week_seconds": 16,
+    "week_start": 1782743515,
+    "total_seconds": 16
   }
 }
