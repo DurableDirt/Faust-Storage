@@ -14118,5 +14118,10 @@
     "week_seconds": 981,
     "week_start": 1782723994,
     "total_seconds": 981
+  },
+  "breakingglitch": {
+    "week_seconds": 13,
+    "week_start": 1782725286,
+    "total_seconds": 13
   }
 }
