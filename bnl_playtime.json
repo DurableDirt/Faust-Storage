@@ -5195,9 +5195,9 @@
     "total_seconds": 26206
   },
   "itzhoover": {
-    "week_seconds": 41403,
+    "week_seconds": 41476,
     "week_start": 1782314360,
-    "total_seconds": 117568
+    "total_seconds": 117641
   },
   "rayunlucke": {
     "week_seconds": 218733,
@@ -13830,9 +13830,9 @@
     "total_seconds": 99
   },
   "elandresito2013": {
-    "week_seconds": 17647,
+    "week_seconds": 17679,
     "week_start": 1782685762,
-    "total_seconds": 17647
+    "total_seconds": 17679
   },
   "dkrise": {
     "week_seconds": 5237,
@@ -14548,5 +14548,10 @@
     "week_seconds": 50,
     "week_start": 1782772707,
     "total_seconds": 50
+  },
+  "dancoriscool": {
+    "week_seconds": 0,
+    "week_start": 1782773745,
+    "total_seconds": 0
   }
 }
