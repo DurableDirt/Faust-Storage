@@ -1575,63 +1575,63 @@
     "total_seconds": 332737
   },
   "_2k42_": {
-    "week_seconds": 212508,
-    "week_start": 1782112760,
+    "week_seconds": 0,
+    "week_start": 1782718558,
     "total_seconds": 300572
   },
   "gobblin": {
-    "week_seconds": 62369,
-    "week_start": 1782112760,
+    "week_seconds": 0,
+    "week_start": 1782718558,
     "total_seconds": 128970
   },
   "vlinar": {
-    "week_seconds": 64094,
-    "week_start": 1782112760,
+    "week_seconds": 0,
+    "week_start": 1782718558,
     "total_seconds": 132503
   },
   "nevicilia": {
     "week_seconds": 0,
-    "week_start": 1782112760,
+    "week_start": 1782718558,
     "total_seconds": 7534
   },
   "pyrokineticcow7": {
     "week_seconds": 0,
-    "week_start": 1782112760,
+    "week_start": 1782718558,
     "total_seconds": 5
   },
   "guvn0r_uk": {
-    "week_seconds": 713,
-    "week_start": 1782112760,
+    "week_seconds": 0,
+    "week_start": 1782718558,
     "total_seconds": 31255
   },
   "scavedr": {
     "week_seconds": 0,
-    "week_start": 1782112760,
+    "week_start": 1782718558,
     "total_seconds": 766
   },
   "adeadhead": {
-    "week_seconds": 410058,
-    "week_start": 1782112760,
+    "week_seconds": 0,
+    "week_start": 1782718558,
     "total_seconds": 899344
   },
   "cedarvaliant": {
-    "week_seconds": 47631,
-    "week_start": 1782112760,
+    "week_seconds": 0,
+    "week_start": 1782718558,
     "total_seconds": 82929
   },
   "jejames27": {
-    "week_seconds": 2382,
-    "week_start": 1782112760,
+    "week_seconds": 0,
+    "week_start": 1782718558,
     "total_seconds": 8424
   },
   "mryellowtail": {
-    "week_seconds": 95404,
-    "week_start": 1782112760,
+    "week_seconds": 0,
+    "week_start": 1782718558,
     "total_seconds": 221570
   },
   "alternativchik": {
     "week_seconds": 0,
-    "week_start": 1782112760,
+    "week_start": 1782718558,
     "total_seconds": 385
   },
   "aesth1te": {
@@ -8815,13 +8815,13 @@
     "total_seconds": 676
   },
   "cxmplement": {
-    "week_seconds": 3308,
-    "week_start": 1782112674,
+    "week_seconds": 0,
+    "week_start": 1782718558,
     "total_seconds": 3308
   },
   "_andrew_zagarah": {
-    "week_seconds": 63,
-    "week_start": 1782113512,
+    "week_seconds": 0,
+    "week_start": 1782718558,
     "total_seconds": 63
   },
   "exoliun": {
@@ -14073,5 +14073,10 @@
     "week_seconds": 28,
     "week_start": 1782718290,
     "total_seconds": 28
+  },
+  "wannabepurple": {
+    "week_seconds": 0,
+    "week_start": 1782718596,
+    "total_seconds": 0
   }
 }
