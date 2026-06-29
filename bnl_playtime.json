@@ -285,9 +285,9 @@
     "total_seconds": 151761
   },
   "mechanicalrift": {
-    "week_seconds": 1419,
+    "week_seconds": 1462,
     "week_start": 1782689758,
-    "total_seconds": 472742
+    "total_seconds": 472785
   },
   "aguscon": {
     "week_seconds": 0,
@@ -13830,9 +13830,9 @@
     "total_seconds": 99
   },
   "elandresito2013": {
-    "week_seconds": 1638,
+    "week_seconds": 1673,
     "week_start": 1782685762,
-    "total_seconds": 1638
+    "total_seconds": 1673
   },
   "dkrise": {
     "week_seconds": 0,
@@ -13868,5 +13868,10 @@
     "week_seconds": 148,
     "week_start": 1782690864,
     "total_seconds": 148
+  },
+  "sel3ct0r": {
+    "week_seconds": 23,
+    "week_start": 1782691476,
+    "total_seconds": 23
   }
 }
