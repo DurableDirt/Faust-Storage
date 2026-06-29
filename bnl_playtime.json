@@ -9350,9 +9350,9 @@
     "total_seconds": 8863
   },
   "lord_pancakes": {
-    "week_seconds": 56672,
+    "week_seconds": 56705,
     "week_start": 1782169725,
-    "total_seconds": 56672
+    "total_seconds": 56705
   },
   "empirecorsica": {
     "week_seconds": 14855,
@@ -14527,6 +14527,11 @@
   "vetoomnia4564": {
     "week_seconds": 0,
     "week_start": 1782765553,
+    "total_seconds": 0
+  },
+  "nyekoarc": {
+    "week_seconds": 0,
+    "week_start": 1782766834,
     "total_seconds": 0
   }
 }
