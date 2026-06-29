@@ -1520,9 +1520,9 @@
     "total_seconds": 224392
   },
   "_jaek": {
-    "week_seconds": 22794,
+    "week_seconds": 26508,
     "week_start": 1782714958,
-    "total_seconds": 448498
+    "total_seconds": 452212
   },
   "deuteriumoxide1": {
     "week_seconds": 0,
@@ -1650,9 +1650,9 @@
     "total_seconds": 96116
   },
   "virexil": {
-    "week_seconds": 557,
+    "week_seconds": 818,
     "week_start": 1782722158,
-    "total_seconds": 54508
+    "total_seconds": 54769
   },
   "voidvin": {
     "week_seconds": 0,
@@ -14393,5 +14393,10 @@
     "week_seconds": 48,
     "week_start": 1782754755,
     "total_seconds": 48
+  },
+  "drewdawg43": {
+    "week_seconds": 0,
+    "week_start": 1782755623,
+    "total_seconds": 0
   }
 }
