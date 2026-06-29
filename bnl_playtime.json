@@ -190,9 +190,9 @@
     "total_seconds": 231444
   },
   "princess__bow": {
-    "week_seconds": 22888,
+    "week_seconds": 23797,
     "week_start": 1782689758,
-    "total_seconds": 244558
+    "total_seconds": 245467
   },
   "262i": {
     "week_seconds": 0,
@@ -14278,5 +14278,10 @@
     "week_seconds": 840,
     "week_start": 1782747038,
     "total_seconds": 840
+  },
+  "immediatedescent": {
+    "week_seconds": 0,
+    "week_start": 1782748028,
+    "total_seconds": 0
   }
 }
