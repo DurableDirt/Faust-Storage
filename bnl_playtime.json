@@ -3615,9 +3615,9 @@
     "total_seconds": 1211
   },
   "luminous15": {
-    "week_seconds": 139658,
+    "week_seconds": 140539,
     "week_start": 1782181160,
-    "total_seconds": 208956
+    "total_seconds": 209837
   },
   "frostythorgrim": {
     "week_seconds": 0,
@@ -4340,9 +4340,9 @@
     "total_seconds": 120899
   },
   "redvictini": {
-    "week_seconds": 123158,
+    "week_seconds": 131253,
     "week_start": 1782242360,
-    "total_seconds": 125458
+    "total_seconds": 133553
   },
   "koentinius": {
     "week_seconds": 114826,
@@ -14068,5 +14068,10 @@
     "week_seconds": 31,
     "week_start": 1782718233,
     "total_seconds": 31
+  },
+  "cheesytoby27": {
+    "week_seconds": 28,
+    "week_start": 1782718290,
+    "total_seconds": 28
   }
 }
