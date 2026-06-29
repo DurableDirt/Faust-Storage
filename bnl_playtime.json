@@ -14180,9 +14180,9 @@
     "total_seconds": 472
   },
   "void_flame_0173": {
-    "week_seconds": 571,
+    "week_seconds": 1427,
     "week_start": 1782733439,
-    "total_seconds": 571
+    "total_seconds": 1427
   },
   "infiniteshadowx": {
     "week_seconds": 143,
@@ -14192,6 +14192,11 @@
   "notayush_18": {
     "week_seconds": 0,
     "week_start": 1782734196,
+    "total_seconds": 0
+  },
+  "butlerkino_": {
+    "week_seconds": 0,
+    "week_start": 1782734991,
     "total_seconds": 0
   }
 }
