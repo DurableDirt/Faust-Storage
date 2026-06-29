@@ -470,9 +470,9 @@
     "total_seconds": 129856
   },
   "anotnot": {
-    "week_seconds": 38751,
+    "week_seconds": 40900,
     "week_start": 1782693358,
-    "total_seconds": 679205
+    "total_seconds": 681354
   },
   "tntfortress": {
     "week_seconds": 1969,
@@ -14550,9 +14550,9 @@
     "total_seconds": 50
   },
   "dancoriscool": {
-    "week_seconds": 0,
+    "week_seconds": 2174,
     "week_start": 1782773745,
-    "total_seconds": 0
+    "total_seconds": 2174
   },
   "niceguy_2you": {
     "week_seconds": 210,
@@ -14587,6 +14587,11 @@
   "benjibbenji": {
     "week_seconds": 0,
     "week_start": 1782775453,
+    "total_seconds": 0
+  },
+  "the_spacepope": {
+    "week_seconds": 0,
+    "week_start": 1782775900,
     "total_seconds": 0
   }
 }
