@@ -285,9 +285,9 @@
     "total_seconds": 153286
   },
   "mechanicalrift": {
-    "week_seconds": 20704,
+    "week_seconds": 20772,
     "week_start": 1782689758,
-    "total_seconds": 492027
+    "total_seconds": 492095
   },
   "aguscon": {
     "week_seconds": 0,
@@ -14465,8 +14465,8 @@
     "total_seconds": 482
   },
   "n_mate": {
-    "week_seconds": 65,
+    "week_seconds": 99,
     "week_start": 1782761627,
-    "total_seconds": 65
+    "total_seconds": 99
   }
 }
