@@ -9370,9 +9370,9 @@
     "total_seconds": 451
   },
   "aabcdp": {
-    "week_seconds": 63590,
+    "week_seconds": 63762,
     "week_start": 1782171629,
-    "total_seconds": 63590
+    "total_seconds": 63762
   },
   "itbruns": {
     "week_seconds": 117,
@@ -14128,5 +14128,10 @@
     "week_seconds": 338,
     "week_start": 1782725595,
     "total_seconds": 338
+  },
+  "silencedvc": {
+    "week_seconds": 0,
+    "week_start": 1782726164,
+    "total_seconds": 0
   }
 }
