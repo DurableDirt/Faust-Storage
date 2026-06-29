@@ -1755,9 +1755,9 @@
     "total_seconds": 103614
   },
   "facocero09": {
-    "week_seconds": 2103,
+    "week_seconds": 2217,
     "week_start": 1782725758,
-    "total_seconds": 327305
+    "total_seconds": 327419
   },
   "happyfeet4607": {
     "week_seconds": 0,
@@ -2220,9 +2220,9 @@
     "total_seconds": 75
   },
   "falphaeus": {
-    "week_seconds": 0,
+    "week_seconds": 3815,
     "week_start": 1782740158,
-    "total_seconds": 218799
+    "total_seconds": 222614
   },
   "dorthit_0194a8au": {
     "week_seconds": 0,
@@ -8145,9 +8145,9 @@
     "total_seconds": 526
   },
   "sheeve_": {
-    "week_seconds": 1296,
+    "week_seconds": 1305,
     "week_start": 1782628558,
-    "total_seconds": 30171
+    "total_seconds": 30180
   },
   "coolmike17": {
     "week_seconds": 0,
@@ -14228,5 +14228,10 @@
     "week_seconds": 354,
     "week_start": 1782740299,
     "total_seconds": 354
+  },
+  "z0xet": {
+    "week_seconds": 0,
+    "week_start": 1782742295,
+    "total_seconds": 0
   }
 }
