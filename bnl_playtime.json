@@ -10565,9 +10565,9 @@
     "total_seconds": 158
   },
   "toddhoward123": {
-    "week_seconds": 9296,
+    "week_seconds": 9324,
     "week_start": 1782331711,
-    "total_seconds": 9296
+    "total_seconds": 9324
   },
   "zkwss_": {
     "week_seconds": 42,
@@ -14567,6 +14567,11 @@
   "kalamitykevo": {
     "week_seconds": 0,
     "week_start": 1782774344,
+    "total_seconds": 0
+  },
+  "wheatleycrab12": {
+    "week_seconds": 0,
+    "week_start": 1782774657,
     "total_seconds": 0
   }
 }
