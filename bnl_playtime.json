@@ -1080,9 +1080,9 @@
     "total_seconds": 214
   },
   "orestraya": {
-    "week_seconds": 32430,
+    "week_seconds": 34761,
     "week_start": 1782700558,
-    "total_seconds": 337870
+    "total_seconds": 340201
   },
   "satava": {
     "week_seconds": 0,
@@ -7650,9 +7650,9 @@
     "total_seconds": 1029
   },
   "chronoswilson": {
-    "week_seconds": 50488,
+    "week_seconds": 51658,
     "week_start": 1782570958,
-    "total_seconds": 187582
+    "total_seconds": 188752
   },
   "sabife": {
     "week_seconds": 0,
