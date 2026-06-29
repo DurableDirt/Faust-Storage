@@ -8815,9 +8815,9 @@
     "total_seconds": 676
   },
   "cxmplement": {
-    "week_seconds": 4010,
+    "week_seconds": 4022,
     "week_start": 1782718558,
-    "total_seconds": 7318
+    "total_seconds": 7330
   },
   "_andrew_zagarah": {
     "week_seconds": 0,
@@ -13830,9 +13830,9 @@
     "total_seconds": 99
   },
   "elandresito2013": {
-    "week_seconds": 17244,
+    "week_seconds": 17275,
     "week_start": 1782685762,
-    "total_seconds": 17244
+    "total_seconds": 17275
   },
   "dkrise": {
     "week_seconds": 5237,
@@ -14518,5 +14518,10 @@
     "week_seconds": 8,
     "week_start": 1782763669,
     "total_seconds": 8
+  },
+  "bronnakus": {
+    "week_seconds": 0,
+    "week_start": 1782764665,
+    "total_seconds": 0
   }
 }
