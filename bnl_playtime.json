@@ -725,9 +725,9 @@
     "total_seconds": 329
   },
   "zzcqmbozz": {
-    "week_seconds": 17235,
+    "week_seconds": 22329,
     "week_start": 1782693358,
-    "total_seconds": 204557
+    "total_seconds": 209651
   },
   "marc_1500": {
     "week_seconds": 0,
@@ -1045,9 +1045,9 @@
     "total_seconds": 91
   },
   "endville360": {
-    "week_seconds": 0,
+    "week_seconds": 52199,
     "week_start": 1782700558,
-    "total_seconds": 313032
+    "total_seconds": 365231
   },
   "rodragonlux": {
     "week_seconds": 0,
@@ -13975,9 +13975,9 @@
     "total_seconds": 259
   },
   "fondapollo3900": {
-    "week_seconds": 0,
+    "week_seconds": 2433,
     "week_start": 1782701377,
-    "total_seconds": 0
+    "total_seconds": 2433
   },
   "darksquid61": {
     "week_seconds": 12,
@@ -13993,5 +13993,10 @@
     "week_seconds": 96,
     "week_start": 1782703475,
     "total_seconds": 96
+  },
+  "redskilzz": {
+    "week_seconds": 10,
+    "week_start": 1782703808,
+    "total_seconds": 10
   }
 }
