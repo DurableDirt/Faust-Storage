@@ -1095,9 +1095,9 @@
     "total_seconds": 77842
   },
   "magickponch": {
-    "week_seconds": 22422,
+    "week_seconds": 33614,
     "week_start": 1782700558,
-    "total_seconds": 194227
+    "total_seconds": 205419
   },
   "nevergrimm": {
     "week_seconds": 4731,
@@ -3935,9 +3935,9 @@
     "total_seconds": 27
   },
   "forrestmoss": {
-    "week_seconds": 35694,
+    "week_seconds": 35896,
     "week_start": 1782213560,
-    "total_seconds": 42439
+    "total_seconds": 42641
   },
   "edvinsvanis": {
     "week_seconds": 0,
@@ -14473,5 +14473,10 @@
     "week_seconds": 0,
     "week_start": 1782761862,
     "total_seconds": 0
+  },
+  "_ally_killer": {
+    "week_seconds": 23,
+    "week_start": 1782762090,
+    "total_seconds": 23
   }
 }
