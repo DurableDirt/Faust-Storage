@@ -6780,9 +6780,9 @@
     "total_seconds": 33010
   },
   "monk_icarus": {
-    "week_seconds": 59563,
+    "week_seconds": 59584,
     "week_start": 1782461960,
-    "total_seconds": 101385
+    "total_seconds": 101406
   },
   "yycnbnb": {
     "week_seconds": 701,
@@ -8815,9 +8815,9 @@
     "total_seconds": 676
   },
   "cxmplement": {
-    "week_seconds": 5460,
+    "week_seconds": 5512,
     "week_start": 1782718558,
-    "total_seconds": 8768
+    "total_seconds": 8820
   },
   "_andrew_zagarah": {
     "week_seconds": 0,
@@ -13755,9 +13755,9 @@
     "total_seconds": 2772
   },
   "vinbing": {
-    "week_seconds": 7516,
+    "week_seconds": 7553,
     "week_start": 1782676228,
-    "total_seconds": 7516
+    "total_seconds": 7553
   },
   "cloalbo": {
     "week_seconds": 23,
@@ -14532,6 +14532,16 @@
   "nyekoarc": {
     "week_seconds": 0,
     "week_start": 1782766834,
+    "total_seconds": 0
+  },
+  "mayibane": {
+    "week_seconds": 0,
+    "week_start": 1782771294,
+    "total_seconds": 0
+  },
+  "m0v_4r": {
+    "week_seconds": 0,
+    "week_start": 1782771306,
     "total_seconds": 0
   }
 }
