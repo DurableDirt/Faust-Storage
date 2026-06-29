@@ -725,9 +725,9 @@
     "total_seconds": 329
   },
   "zzcqmbozz": {
-    "week_seconds": 45501,
+    "week_seconds": 45573,
     "week_start": 1782693358,
-    "total_seconds": 232823
+    "total_seconds": 232895
   },
   "marc_1500": {
     "week_seconds": 864,
@@ -4025,9 +4025,9 @@
     "total_seconds": 13250
   },
   "tactihawk": {
-    "week_seconds": 114085,
+    "week_seconds": 126273,
     "week_start": 1782224360,
-    "total_seconds": 198186
+    "total_seconds": 210374
   },
   "_1_m": {
     "week_seconds": 6,
@@ -8895,9 +8895,9 @@
     "total_seconds": 43
   },
   "faseplay": {
-    "week_seconds": 10498,
+    "week_seconds": 11509,
     "week_start": 1782729358,
-    "total_seconds": 229711
+    "total_seconds": 230722
   },
   "jaskowanie": {
     "week_seconds": 0,
@@ -14233,5 +14233,10 @@
     "week_seconds": 175,
     "week_start": 1782742295,
     "total_seconds": 175
+  },
+  "itznotquackity": {
+    "week_seconds": 0,
+    "week_start": 1782743354,
+    "total_seconds": 0
   }
 }
