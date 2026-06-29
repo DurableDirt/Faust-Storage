@@ -1175,9 +1175,9 @@
     "total_seconds": 224867
   },
   "astralchroma": {
-    "week_seconds": 175759,
+    "week_seconds": 185271,
     "week_start": 1782094760,
-    "total_seconds": 355045
+    "total_seconds": 364557
   },
   "kingstell": {
     "week_seconds": 5615,
@@ -3135,9 +3135,9 @@
     "total_seconds": 49489
   },
   "stashman1780": {
-    "week_seconds": 207682,
+    "week_seconds": 209195,
     "week_start": 1782163160,
-    "total_seconds": 384944
+    "total_seconds": 386457
   },
   "cokebrothers12": {
     "week_seconds": 366,
@@ -7305,9 +7305,9 @@
     "total_seconds": 31269
   },
   "donutmt": {
-    "week_seconds": 15774,
+    "week_seconds": 15898,
     "week_start": 1782524158,
-    "total_seconds": 57608
+    "total_seconds": 57732
   },
   "bobroos8": {
     "week_seconds": 0,
@@ -13898,5 +13898,10 @@
     "week_seconds": 368,
     "week_start": 1782693784,
     "total_seconds": 368
+  },
+  "donnyvonnythebon": {
+    "week_seconds": 0,
+    "week_start": 1782694772,
+    "total_seconds": 0
   }
 }
