@@ -5715,9 +5715,9 @@
     "total_seconds": 7676
   },
   "rurfu": {
-    "week_seconds": 89337,
+    "week_seconds": 111705,
     "week_start": 1782353960,
-    "total_seconds": 183496
+    "total_seconds": 205864
   },
   "binks4362": {
     "week_seconds": 0,
@@ -14018,5 +14018,10 @@
     "week_seconds": 1994,
     "week_start": 1782706601,
     "total_seconds": 1994
+  },
+  "qpaint": {
+    "week_seconds": 0,
+    "week_start": 1782709092,
+    "total_seconds": 0
   }
 }
