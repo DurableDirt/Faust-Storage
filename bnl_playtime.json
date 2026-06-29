@@ -2555,9 +2555,9 @@
     "total_seconds": 1116
   },
   "yunfi": {
-    "week_seconds": 0,
+    "week_seconds": 1677,
     "week_start": 1782750958,
-    "total_seconds": 292047
+    "total_seconds": 293724
   },
   "myng11": {
     "week_seconds": 0,
@@ -9070,9 +9070,9 @@
     "total_seconds": 13018
   },
   "e_mac_": {
-    "week_seconds": 91319,
+    "week_seconds": 91398,
     "week_start": 1782146251,
-    "total_seconds": 91319
+    "total_seconds": 91398
   },
   "its_raiju_59": {
     "week_seconds": 1604,
@@ -13670,9 +13670,9 @@
     "total_seconds": 1743
   },
   "5_x2god": {
-    "week_seconds": 9411,
+    "week_seconds": 9647,
     "week_start": 1782666455,
-    "total_seconds": 9411
+    "total_seconds": 9647
   },
   "dreadsa": {
     "week_seconds": 6151,
@@ -14322,6 +14322,11 @@
   "ghost91299": {
     "week_seconds": 0,
     "week_start": 1782750726,
+    "total_seconds": 0
+  },
+  "bloublux": {
+    "week_seconds": 0,
+    "week_start": 1782751134,
     "total_seconds": 0
   }
 }
