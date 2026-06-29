@@ -285,9 +285,9 @@
     "total_seconds": 151761
   },
   "mechanicalrift": {
-    "week_seconds": 9895,
+    "week_seconds": 9934,
     "week_start": 1782689758,
-    "total_seconds": 481218
+    "total_seconds": 481257
   },
   "aguscon": {
     "week_seconds": 0,
@@ -13285,9 +13285,9 @@
     "total_seconds": 434
   },
   "cheekgripper79": {
-    "week_seconds": 11911,
+    "week_seconds": 12524,
     "week_start": 1782622148,
-    "total_seconds": 11911
+    "total_seconds": 12524
   },
   "exbenitix": {
     "week_seconds": 1396,
@@ -13977,6 +13977,11 @@
   "fondapollo3900": {
     "week_seconds": 0,
     "week_start": 1782701377,
+    "total_seconds": 0
+  },
+  "darksquid61": {
+    "week_seconds": 0,
+    "week_start": 1782701989,
     "total_seconds": 0
   }
 }
