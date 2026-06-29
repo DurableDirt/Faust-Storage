@@ -870,9 +870,9 @@
     "total_seconds": 260856
   },
   "deerifius": {
-    "week_seconds": 14133,
+    "week_seconds": 19923,
     "week_start": 1782696958,
-    "total_seconds": 210898
+    "total_seconds": 216688
   },
   "dreadyheadyyn": {
     "week_seconds": 0,
@@ -5185,9 +5185,9 @@
     "total_seconds": 118
   },
   "shafiahaz2478": {
-    "week_seconds": 20252,
+    "week_seconds": 20810,
     "week_start": 1782314360,
-    "total_seconds": 70055
+    "total_seconds": 70613
   },
   "ahmad_elayyen": {
     "week_seconds": 14216,
@@ -14262,6 +14262,11 @@
   "brixboy8": {
     "week_seconds": 0,
     "week_start": 1782744791,
+    "total_seconds": 0
+  },
+  "darthit": {
+    "week_seconds": 0,
+    "week_start": 1782745050,
     "total_seconds": 0
   }
 }
