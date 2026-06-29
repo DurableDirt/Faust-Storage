@@ -620,9 +620,9 @@
     "total_seconds": 325678
   },
   "justmicwa": {
-    "week_seconds": 21404,
+    "week_seconds": 23728,
     "week_start": 1782693358,
-    "total_seconds": 164553
+    "total_seconds": 166877
   },
   "ceceliarabbit": {
     "week_seconds": 0,
@@ -14112,6 +14112,11 @@
   "owenthebrowo": {
     "week_seconds": 0,
     "week_start": 1782723247,
+    "total_seconds": 0
+  },
+  "ofly_277": {
+    "week_seconds": 0,
+    "week_start": 1782723994,
     "total_seconds": 0
   }
 }
