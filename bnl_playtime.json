@@ -445,9 +445,9 @@
     "total_seconds": 133821
   },
   "iron600": {
-    "week_seconds": 27840,
+    "week_seconds": 31774,
     "week_start": 1782689758,
-    "total_seconds": 400863
+    "total_seconds": 404797
   },
   "mrtnt1925": {
     "week_seconds": 2637,
@@ -3635,9 +3635,9 @@
     "total_seconds": 116737
   },
   "dj121739": {
-    "week_seconds": 352174,
+    "week_seconds": 352202,
     "week_start": 1782184760,
-    "total_seconds": 759981
+    "total_seconds": 760009
   },
   "gaming_alex7": {
     "week_seconds": 0,
@@ -14513,5 +14513,10 @@
     "week_seconds": 209,
     "week_start": 1782763361,
     "total_seconds": 209
+  },
+  "nathasgyatt": {
+    "week_seconds": 8,
+    "week_start": 1782763669,
+    "total_seconds": 8
   }
 }
