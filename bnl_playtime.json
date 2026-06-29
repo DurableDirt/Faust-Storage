@@ -13830,9 +13830,9 @@
     "total_seconds": 99
   },
   "elandresito2013": {
-    "week_seconds": 16463,
+    "week_seconds": 16497,
     "week_start": 1782685762,
-    "total_seconds": 16463
+    "total_seconds": 16497
   },
   "dkrise": {
     "week_seconds": 5237,
@@ -14307,6 +14307,11 @@
   "banihukaus": {
     "week_seconds": 0,
     "week_start": 1782749887,
+    "total_seconds": 0
+  },
+  "mikey60209": {
+    "week_seconds": 0,
+    "week_start": 1782750278,
     "total_seconds": 0
   }
 }
