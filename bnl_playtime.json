@@ -1095,9 +1095,9 @@
     "total_seconds": 77842
   },
   "magickponch": {
-    "week_seconds": 8282,
+    "week_seconds": 18130,
     "week_start": 1782700558,
-    "total_seconds": 180087
+    "total_seconds": 189935
   },
   "nevergrimm": {
     "week_seconds": 0,
@@ -1700,9 +1700,9 @@
     "total_seconds": 52955
   },
   "eyestrainz": {
-    "week_seconds": 58148,
+    "week_seconds": 58509,
     "week_start": 1782116360,
-    "total_seconds": 120423
+    "total_seconds": 120784
   },
   "snailytrail": {
     "week_seconds": 0,
@@ -4415,9 +4415,9 @@
     "total_seconds": 131
   },
   "zeroql": {
-    "week_seconds": 23398,
+    "week_seconds": 24307,
     "week_start": 1782242360,
-    "total_seconds": 26394
+    "total_seconds": 27303
   },
   "formidable01": {
     "week_seconds": 26478,
@@ -14093,5 +14093,10 @@
     "week_seconds": 831,
     "week_start": 1782720823,
     "total_seconds": 831
+  },
+  "firedandan": {
+    "week_seconds": 0,
+    "week_start": 1782721672,
+    "total_seconds": 0
   }
 }
