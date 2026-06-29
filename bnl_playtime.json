@@ -5870,9 +5870,9 @@
     "total_seconds": 242014
   },
   "peakman2": {
-    "week_seconds": 25343,
+    "week_seconds": 28456,
     "week_start": 1782364760,
-    "total_seconds": 33027
+    "total_seconds": 36140
   },
   "jacob43246769": {
     "week_seconds": 0,
@@ -9255,9 +9255,9 @@
     "total_seconds": 1192
   },
   "aletheiad": {
-    "week_seconds": 56960,
+    "week_seconds": 57663,
     "week_start": 1782164335,
-    "total_seconds": 56960
+    "total_seconds": 57663
   },
   "td_xgodx": {
     "week_seconds": 3291,
@@ -14297,6 +14297,11 @@
   "cserepj": {
     "week_seconds": 0,
     "week_start": 1782749423,
+    "total_seconds": 0
+  },
+  "xxfronkekxx": {
+    "week_seconds": 0,
+    "week_start": 1782749644,
     "total_seconds": 0
   }
 }
