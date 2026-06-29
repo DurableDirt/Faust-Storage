@@ -3495,9 +3495,9 @@
     "total_seconds": 6
   },
   "leafchalice": {
-    "week_seconds": 170446,
+    "week_seconds": 182722,
     "week_start": 1782173960,
-    "total_seconds": 247458
+    "total_seconds": 259734
   },
   "h3dge5": {
     "week_seconds": 64,
@@ -6635,9 +6635,9 @@
     "total_seconds": 5305
   },
   "strangefungus": {
-    "week_seconds": 37982,
+    "week_seconds": 38700,
     "week_start": 1782440360,
-    "total_seconds": 237390
+    "total_seconds": 238108
   },
   "legxi7622": {
     "week_seconds": 0,
@@ -14028,5 +14028,10 @@
     "week_seconds": 75,
     "week_start": 1782709358,
     "total_seconds": 75
+  },
+  "cron1kxs": {
+    "week_seconds": 0,
+    "week_start": 1782710043,
+    "total_seconds": 0
   }
 }
