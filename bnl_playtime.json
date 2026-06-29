@@ -10740,9 +10740,9 @@
     "total_seconds": 359
   },
   "purpleangelwings": {
-    "week_seconds": 20038,
+    "week_seconds": 20213,
     "week_start": 1782351930,
-    "total_seconds": 20038
+    "total_seconds": 20213
   },
   "puretrounce": {
     "week_seconds": 7,
@@ -13923,5 +13923,10 @@
     "week_seconds": 42,
     "week_start": 1782695421,
     "total_seconds": 42
+  },
+  "thelotusflowerr": {
+    "week_seconds": 0,
+    "week_start": 1782695924,
+    "total_seconds": 0
   }
 }
