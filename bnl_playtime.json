@@ -815,9 +815,9 @@
     "total_seconds": 216834
   },
   "gnathope": {
-    "week_seconds": 0,
+    "week_seconds": 15,
     "week_start": 1782696958,
-    "total_seconds": 203144
+    "total_seconds": 203159
   },
   "freeblade999": {
     "week_seconds": 0,
@@ -7210,9 +7210,9 @@
     "total_seconds": 50907
   },
   "kav8": {
-    "week_seconds": 0,
+    "week_seconds": 30,
     "week_start": 1782512360,
-    "total_seconds": 5355
+    "total_seconds": 5385
   },
   "mrsbeens3": {
     "week_seconds": 0,
