@@ -2325,9 +2325,9 @@
     "total_seconds": 8083
   },
   "bluechickpro": {
-    "week_seconds": 712,
+    "week_seconds": 856,
     "week_start": 1782743758,
-    "total_seconds": 78630
+    "total_seconds": 78774
   },
   "xa_n": {
     "week_seconds": 0,
@@ -14363,5 +14363,15 @@
     "week_seconds": 8,
     "week_start": 1782754107,
     "total_seconds": 8
+  },
+  "ssjbleu": {
+    "week_seconds": 0,
+    "week_start": 1782754432,
+    "total_seconds": 0
+  },
+  "vrackliff13": {
+    "week_seconds": 0,
+    "week_start": 1782754452,
+    "total_seconds": 0
   }
 }
