@@ -3675,9 +3675,9 @@
     "total_seconds": 3957
   },
   "swampbog": {
-    "week_seconds": 38679,
+    "week_seconds": 39445,
     "week_start": 1782184760,
-    "total_seconds": 113873
+    "total_seconds": 114639
   },
   "2lynx2": {
     "week_seconds": 139040,
@@ -4800,9 +4800,9 @@
     "total_seconds": 25
   },
   "vadimblin": {
-    "week_seconds": 52695,
+    "week_seconds": 53246,
     "week_start": 1782271160,
-    "total_seconds": 134427
+    "total_seconds": 134978
   },
   "yummyspacebar": {
     "week_seconds": 0,
@@ -13925,8 +13925,13 @@
     "total_seconds": 42
   },
   "thelotusflowerr": {
-    "week_seconds": 0,
+    "week_seconds": 46,
     "week_start": 1782695924,
+    "total_seconds": 46
+  },
+  "1lonestarranger": {
+    "week_seconds": 0,
+    "week_start": 1782696003,
     "total_seconds": 0
   }
 }
