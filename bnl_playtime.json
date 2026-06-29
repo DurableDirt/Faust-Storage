@@ -1450,9 +1450,9 @@
     "total_seconds": 37397
   },
   "xenoum": {
-    "week_seconds": 4326,
+    "week_seconds": 5006,
     "week_start": 1782711358,
-    "total_seconds": 170219
+    "total_seconds": 170899
   },
   "earrthfall": {
     "week_seconds": 0,
@@ -8815,9 +8815,9 @@
     "total_seconds": 676
   },
   "cxmplement": {
-    "week_seconds": 2053,
+    "week_seconds": 2331,
     "week_start": 1782718558,
-    "total_seconds": 5361
+    "total_seconds": 5639
   },
   "_andrew_zagarah": {
     "week_seconds": 0,
@@ -13830,9 +13830,9 @@
     "total_seconds": 99
   },
   "elandresito2013": {
-    "week_seconds": 16826,
+    "week_seconds": 16859,
     "week_start": 1782685762,
-    "total_seconds": 16826
+    "total_seconds": 16859
   },
   "dkrise": {
     "week_seconds": 5237,
@@ -14497,6 +14497,11 @@
   "asoapytoad": {
     "week_seconds": 0,
     "week_start": 1782762628,
+    "total_seconds": 0
+  },
+  "kolvoc": {
+    "week_seconds": 0,
+    "week_start": 1782762831,
     "total_seconds": 0
   }
 }
