@@ -285,9 +285,9 @@
     "total_seconds": 151761
   },
   "mechanicalrift": {
-    "week_seconds": 1584,
+    "week_seconds": 1632,
     "week_start": 1782689758,
-    "total_seconds": 472907
+    "total_seconds": 472955
   },
   "aguscon": {
     "week_seconds": 0,
@@ -2245,9 +2245,9 @@
     "total_seconds": 135168
   },
   "ambersolberg205": {
-    "week_seconds": 73991,
+    "week_seconds": 74188,
     "week_start": 1782134360,
-    "total_seconds": 121949
+    "total_seconds": 122146
   },
   "scottytohoty420": {
     "week_seconds": 9017,
@@ -13830,9 +13830,9 @@
     "total_seconds": 99
   },
   "elandresito2013": {
-    "week_seconds": 1707,
+    "week_seconds": 1740,
     "week_start": 1782685762,
-    "total_seconds": 1707
+    "total_seconds": 1740
   },
   "dkrise": {
     "week_seconds": 0,
@@ -13873,5 +13873,10 @@
     "week_seconds": 97,
     "week_start": 1782691476,
     "total_seconds": 97
+  },
+  "omnicompetent": {
+    "week_seconds": 10,
+    "week_start": 1782691669,
+    "total_seconds": 10
   }
 }
