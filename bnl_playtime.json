@@ -980,9 +980,9 @@
     "total_seconds": 4077
   },
   "shadedoom": {
-    "week_seconds": 0,
+    "week_seconds": 6841,
     "week_start": 1782696958,
-    "total_seconds": 168949
+    "total_seconds": 175790
   },
   "ms_enchanted": {
     "week_seconds": 0,
@@ -12610,9 +12610,9 @@
     "total_seconds": 140
   },
   "sv_the_goat": {
-    "week_seconds": 1902,
+    "week_seconds": 4189,
     "week_start": 1782558598,
-    "total_seconds": 1902
+    "total_seconds": 4189
   },
   "clemenselclemen": {
     "week_seconds": 477,
@@ -14090,8 +14090,8 @@
     "total_seconds": 0
   },
   "spaceram": {
-    "week_seconds": 0,
+    "week_seconds": 831,
     "week_start": 1782720823,
-    "total_seconds": 0
+    "total_seconds": 831
   }
 }
