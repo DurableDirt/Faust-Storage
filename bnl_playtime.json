@@ -385,9 +385,9 @@
     "total_seconds": 21405
   },
   "opriva": {
-    "week_seconds": 15116,
+    "week_seconds": 18192,
     "week_start": 1782689758,
-    "total_seconds": 213808
+    "total_seconds": 216884
   },
   "kokomiology": {
     "week_seconds": 0,
@@ -2220,9 +2220,9 @@
     "total_seconds": 75
   },
   "falphaeus": {
-    "week_seconds": 104783,
+    "week_seconds": 105914,
     "week_start": 1782134360,
-    "total_seconds": 215487
+    "total_seconds": 216618
   },
   "dorthit_0194a8au": {
     "week_seconds": 0,
@@ -14048,5 +14048,10 @@
     "week_seconds": 538,
     "week_start": 1782712385,
     "total_seconds": 538
+  },
+  "vtxanonymous": {
+    "week_seconds": 0,
+    "week_start": 1782714015,
+    "total_seconds": 0
   }
 }
