@@ -565,9 +565,9 @@
     "total_seconds": 81282
   },
   "graydawn_": {
-    "week_seconds": 45787,
+    "week_seconds": 45974,
     "week_start": 1782693358,
-    "total_seconds": 584098
+    "total_seconds": 584285
   },
   "angie_dovie111": {
     "week_seconds": 10323,
@@ -9255,9 +9255,9 @@
     "total_seconds": 1192
   },
   "aletheiad": {
-    "week_seconds": 57663,
+    "week_seconds": 61737,
     "week_start": 1782164335,
-    "total_seconds": 57663
+    "total_seconds": 61737
   },
   "td_xgodx": {
     "week_seconds": 3291,
@@ -14370,8 +14370,13 @@
     "total_seconds": 0
   },
   "vrackliff13": {
-    "week_seconds": 0,
+    "week_seconds": 23,
     "week_start": 1782754452,
+    "total_seconds": 23
+  },
+  "popogamez91": {
+    "week_seconds": 0,
+    "week_start": 1782754502,
     "total_seconds": 0
   }
 }
