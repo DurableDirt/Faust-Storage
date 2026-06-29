@@ -5415,9 +5415,9 @@
     "total_seconds": 3913
   },
   "rosepoop": {
-    "week_seconds": 2988,
+    "week_seconds": 3402,
     "week_start": 1782332360,
-    "total_seconds": 3629
+    "total_seconds": 4043
   },
   "riftonhc": {
     "week_seconds": 0,
@@ -14583,5 +14583,10 @@
     "week_seconds": 56,
     "week_start": 1782775125,
     "total_seconds": 56
+  },
+  "benjibbenji": {
+    "week_seconds": 0,
+    "week_start": 1782775453,
+    "total_seconds": 0
   }
 }
