@@ -6725,9 +6725,9 @@
     "total_seconds": 309
   },
   "notshawnfrog": {
-    "week_seconds": 7151,
+    "week_seconds": 7154,
     "week_start": 1782451160,
-    "total_seconds": 10756
+    "total_seconds": 10759
   },
   "monkeyanjing": {
     "week_seconds": 0,
@@ -13943,5 +13943,10 @@
     "week_seconds": 19,
     "week_start": 1782697141,
     "total_seconds": 19
+  },
+  "edwarddasigma": {
+    "week_seconds": 27,
+    "week_start": 1782698051,
+    "total_seconds": 27
   }
 }
