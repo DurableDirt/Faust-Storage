@@ -1255,9 +1255,9 @@
     "total_seconds": 216
   },
   "blu9710": {
-    "week_seconds": 42769,
+    "week_seconds": 43044,
     "week_start": 1782704158,
-    "total_seconds": 378832
+    "total_seconds": 379107
   },
   "krabs123": {
     "week_seconds": 0,
@@ -2175,9 +2175,9 @@
     "total_seconds": 29
   },
   "mike5905": {
-    "week_seconds": 8319,
+    "week_seconds": 9741,
     "week_start": 1782740158,
-    "total_seconds": 179271
+    "total_seconds": 180693
   },
   "lopsterbisque": {
     "week_seconds": 0,
@@ -14463,5 +14463,10 @@
     "week_seconds": 482,
     "week_start": 1782761080,
     "total_seconds": 482
+  },
+  "n_mate": {
+    "week_seconds": 32,
+    "week_start": 1782761627,
+    "total_seconds": 32
   }
 }
