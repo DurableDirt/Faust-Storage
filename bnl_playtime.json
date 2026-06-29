@@ -4025,9 +4025,9 @@
     "total_seconds": 18689
   },
   "tactihawk": {
-    "week_seconds": 132809,
+    "week_seconds": 133942,
     "week_start": 1782224360,
-    "total_seconds": 216910
+    "total_seconds": 218043
   },
   "_1_m": {
     "week_seconds": 6,
@@ -8815,9 +8815,9 @@
     "total_seconds": 676
   },
   "cxmplement": {
-    "week_seconds": 2331,
+    "week_seconds": 2332,
     "week_start": 1782718558,
-    "total_seconds": 5639
+    "total_seconds": 5640
   },
   "_andrew_zagarah": {
     "week_seconds": 0,
@@ -10565,9 +10565,9 @@
     "total_seconds": 158
   },
   "toddhoward123": {
-    "week_seconds": 5827,
+    "week_seconds": 5948,
     "week_start": 1782331711,
-    "total_seconds": 5827
+    "total_seconds": 5948
   },
   "zkwss_": {
     "week_seconds": 42,
@@ -14502,6 +14502,11 @@
   "kolvoc": {
     "week_seconds": 0,
     "week_start": 1782762831,
+    "total_seconds": 0
+  },
+  "somaliangeeker": {
+    "week_seconds": 0,
+    "week_start": 1782762876,
     "total_seconds": 0
   }
 }
