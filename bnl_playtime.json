@@ -13650,9 +13650,9 @@
     "total_seconds": 587
   },
   "nekosancz": {
-    "week_seconds": 23122,
+    "week_seconds": 23154,
     "week_start": 1782664304,
-    "total_seconds": 23122
+    "total_seconds": 23154
   },
   "paperboy343": {
     "week_seconds": 2019,
@@ -13830,9 +13830,9 @@
     "total_seconds": 99
   },
   "elandresito2013": {
-    "week_seconds": 16531,
+    "week_seconds": 16565,
     "week_start": 1782685762,
-    "total_seconds": 16531
+    "total_seconds": 16565
   },
   "dkrise": {
     "week_seconds": 5237,
@@ -14313,5 +14313,10 @@
     "week_seconds": 0,
     "week_start": 1782750278,
     "total_seconds": 0
+  },
+  "evilrobomonk": {
+    "week_seconds": 4,
+    "week_start": 1782750487,
+    "total_seconds": 4
   }
 }
