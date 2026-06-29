@@ -2490,9 +2490,9 @@
     "total_seconds": 232112
   },
   "sailorwillis": {
-    "week_seconds": 268155,
+    "week_seconds": 280738,
     "week_start": 1782141560,
-    "total_seconds": 510762
+    "total_seconds": 523345
   },
   "blazelogic": {
     "week_seconds": 15659,
@@ -14033,5 +14033,10 @@
     "week_seconds": 118,
     "week_start": 1782710043,
     "total_seconds": 118
+  },
+  "g_guppy": {
+    "week_seconds": 0,
+    "week_start": 1782710500,
+    "total_seconds": 0
   }
 }
