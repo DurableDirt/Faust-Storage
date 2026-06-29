@@ -7445,9 +7445,9 @@
     "total_seconds": 830
   },
   "_sublim3": {
-    "week_seconds": 9792,
+    "week_seconds": 9799,
     "week_start": 1782542158,
-    "total_seconds": 15265
+    "total_seconds": 15272
   },
   "sigmaguy83297": {
     "week_seconds": 0,
@@ -8145,9 +8145,9 @@
     "total_seconds": 526
   },
   "sheeve_": {
-    "week_seconds": 2527,
+    "week_seconds": 2574,
     "week_start": 1782628558,
-    "total_seconds": 31402
+    "total_seconds": 31449
   },
   "coolmike17": {
     "week_seconds": 0,
@@ -14243,5 +14243,10 @@
     "week_seconds": 16,
     "week_start": 1782743515,
     "total_seconds": 16
+  },
+  "toxicgamer38": {
+    "week_seconds": 0,
+    "week_start": 1782744052,
+    "total_seconds": 0
   }
 }
