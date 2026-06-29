@@ -870,9 +870,9 @@
     "total_seconds": 256814
   },
   "deerifius": {
-    "week_seconds": 11969,
+    "week_seconds": 13048,
     "week_start": 1782696958,
-    "total_seconds": 208734
+    "total_seconds": 209813
   },
   "dreadyheadyyn": {
     "week_seconds": 0,
@@ -14142,6 +14142,11 @@
   "cosmiccruser": {
     "week_seconds": 0,
     "week_start": 1782728811,
+    "total_seconds": 0
+  },
+  "immrrat_14": {
+    "week_seconds": 0,
+    "week_start": 1782729754,
     "total_seconds": 0
   }
 }
