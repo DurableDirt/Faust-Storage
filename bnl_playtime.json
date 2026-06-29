@@ -13650,9 +13650,9 @@
     "total_seconds": 587
   },
   "nekosancz": {
-    "week_seconds": 26237,
+    "week_seconds": 26256,
     "week_start": 1782664304,
-    "total_seconds": 26237
+    "total_seconds": 26256
   },
   "paperboy343": {
     "week_seconds": 2019,
@@ -14348,5 +14348,10 @@
     "week_seconds": 13,
     "week_start": 1782753391,
     "total_seconds": 13
+  },
+  "dirtbikekid950": {
+    "week_seconds": 40,
+    "week_start": 1782753660,
+    "total_seconds": 40
   }
 }
