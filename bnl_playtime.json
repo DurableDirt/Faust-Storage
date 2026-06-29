@@ -445,9 +445,9 @@
     "total_seconds": 133821
   },
   "iron600": {
-    "week_seconds": 8642,
+    "week_seconds": 9097,
     "week_start": 1782689758,
-    "total_seconds": 381665
+    "total_seconds": 382120
   },
   "mrtnt1925": {
     "week_seconds": 0,
@@ -11275,9 +11275,9 @@
     "total_seconds": 87
   },
   "duskenfloof": {
-    "week_seconds": 21037,
+    "week_seconds": 21070,
     "week_start": 1782422093,
-    "total_seconds": 21037
+    "total_seconds": 21070
   },
   "47loken": {
     "week_seconds": 27747,
@@ -13830,9 +13830,9 @@
     "total_seconds": 99
   },
   "elandresito2013": {
-    "week_seconds": 1940,
+    "week_seconds": 1972,
     "week_start": 1782685762,
-    "total_seconds": 1940
+    "total_seconds": 1972
   },
   "dkrise": {
     "week_seconds": 5237,
@@ -13883,5 +13883,10 @@
     "week_seconds": 63,
     "week_start": 1782691693,
     "total_seconds": 63
+  },
+  "dustyrayton2": {
+    "week_seconds": 0,
+    "week_start": 1782692349,
+    "total_seconds": 0
   }
 }
