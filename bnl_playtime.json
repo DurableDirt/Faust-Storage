@@ -285,9 +285,9 @@
     "total_seconds": 153286
   },
   "mechanicalrift": {
-    "week_seconds": 19197,
+    "week_seconds": 19211,
     "week_start": 1782689758,
-    "total_seconds": 490520
+    "total_seconds": 490534
   },
   "aguscon": {
     "week_seconds": 0,
@@ -815,9 +815,9 @@
     "total_seconds": 216834
   },
   "gnathope": {
-    "week_seconds": 3571,
+    "week_seconds": 5405,
     "week_start": 1782696958,
-    "total_seconds": 206715
+    "total_seconds": 208549
   },
   "freeblade999": {
     "week_seconds": 0,
@@ -2265,9 +2265,9 @@
     "total_seconds": 63396
   },
   "pergyskeel": {
-    "week_seconds": 0,
+    "week_seconds": 11131,
     "week_start": 1782743758,
-    "total_seconds": 342763
+    "total_seconds": 353894
   },
   "wickedmartin": {
     "week_seconds": 4404,
@@ -14443,5 +14443,15 @@
     "week_seconds": 849,
     "week_start": 1782759178,
     "total_seconds": 849
+  },
+  "justcrepper": {
+    "week_seconds": 17,
+    "week_start": 1782760219,
+    "total_seconds": 17
+  },
+  "nanojuniorog": {
+    "week_seconds": 0,
+    "week_start": 1782760254,
+    "total_seconds": 0
   }
 }
