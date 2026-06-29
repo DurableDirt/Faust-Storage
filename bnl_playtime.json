@@ -285,9 +285,9 @@
     "total_seconds": 153286
   },
   "mechanicalrift": {
-    "week_seconds": 20810,
+    "week_seconds": 20884,
     "week_start": 1782689758,
-    "total_seconds": 492133
+    "total_seconds": 492207
   },
   "aguscon": {
     "week_seconds": 0,
@@ -1100,9 +1100,9 @@
     "total_seconds": 194227
   },
   "nevergrimm": {
-    "week_seconds": 3991,
+    "week_seconds": 4731,
     "week_start": 1782700558,
-    "total_seconds": 147039
+    "total_seconds": 147779
   },
   "lagiacrus": {
     "week_seconds": 0,
@@ -14468,5 +14468,10 @@
     "week_seconds": 99,
     "week_start": 1782761627,
     "total_seconds": 99
+  },
+  "rxse_gxrden": {
+    "week_seconds": 0,
+    "week_start": 1782761862,
+    "total_seconds": 0
   }
 }
