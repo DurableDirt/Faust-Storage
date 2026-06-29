@@ -3680,9 +3680,9 @@
     "total_seconds": 122235
   },
   "2lynx2": {
-    "week_seconds": 158322,
+    "week_seconds": 158581,
     "week_start": 1782184760,
-    "total_seconds": 369350
+    "total_seconds": 369609
   },
   "dredgarzomboss": {
     "week_seconds": 0,
@@ -14563,5 +14563,10 @@
     "week_seconds": 271,
     "week_start": 1782774001,
     "total_seconds": 271
+  },
+  "kalamitykevo": {
+    "week_seconds": 0,
+    "week_start": 1782774344,
+    "total_seconds": 0
   }
 }
