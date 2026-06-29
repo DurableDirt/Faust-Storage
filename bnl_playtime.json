@@ -155,9 +155,9 @@
     "total_seconds": 75570
   },
   "lightningboi4": {
-    "week_seconds": 24347,
+    "week_seconds": 25249,
     "week_start": 1782689758,
-    "total_seconds": 412340
+    "total_seconds": 413242
   },
   "aaroni_macaroni": {
     "week_seconds": 0,
@@ -1095,9 +1095,9 @@
     "total_seconds": 77842
   },
   "magickponch": {
-    "week_seconds": 21244,
+    "week_seconds": 22337,
     "week_start": 1782700558,
-    "total_seconds": 193049
+    "total_seconds": 194142
   },
   "nevergrimm": {
     "week_seconds": 1923,
@@ -2135,9 +2135,9 @@
     "total_seconds": 208
   },
   "captainaxes": {
-    "week_seconds": 0,
+    "week_seconds": 2691,
     "week_start": 1782740158,
-    "total_seconds": 292659
+    "total_seconds": 295350
   },
   "sqopenspellbook": {
     "week_seconds": 2988,
@@ -2270,9 +2270,9 @@
     "total_seconds": 342763
   },
   "wickedmartin": {
-    "week_seconds": 1703,
+    "week_seconds": 2496,
     "week_start": 1782743758,
-    "total_seconds": 94970
+    "total_seconds": 95763
   },
   "fighterferret": {
     "week_seconds": 0,
@@ -14288,5 +14288,10 @@
     "week_seconds": 27,
     "week_start": 1782748631,
     "total_seconds": 27
+  },
+  "opanyi4": {
+    "week_seconds": 0,
+    "week_start": 1782748986,
+    "total_seconds": 0
   }
 }
