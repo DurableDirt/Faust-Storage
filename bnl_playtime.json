@@ -725,9 +725,9 @@
     "total_seconds": 329
   },
   "zzcqmbozz": {
-    "week_seconds": 64202,
+    "week_seconds": 64498,
     "week_start": 1782693358,
-    "total_seconds": 251524
+    "total_seconds": 251820
   },
   "marc_1500": {
     "week_seconds": 22401,
@@ -14555,13 +14555,13 @@
     "total_seconds": 0
   },
   "niceguy_2you": {
-    "week_seconds": 0,
+    "week_seconds": 210,
     "week_start": 1782773976,
-    "total_seconds": 0
+    "total_seconds": 210
   },
   "flixzy1109": {
-    "week_seconds": 64,
+    "week_seconds": 182,
     "week_start": 1782774001,
-    "total_seconds": 64
+    "total_seconds": 182
   }
 }
