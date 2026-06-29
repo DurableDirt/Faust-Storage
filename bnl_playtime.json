@@ -8815,9 +8815,9 @@
     "total_seconds": 676
   },
   "cxmplement": {
-    "week_seconds": 5789,
+    "week_seconds": 5823,
     "week_start": 1782718558,
-    "total_seconds": 9097
+    "total_seconds": 9131
   },
   "_andrew_zagarah": {
     "week_seconds": 0,
@@ -13815,9 +13815,9 @@
     "total_seconds": 16690
   },
   "fonchox9": {
-    "week_seconds": 6927,
+    "week_seconds": 7265,
     "week_start": 1782682913,
-    "total_seconds": 6927
+    "total_seconds": 7265
   },
   "grizsen": {
     "week_seconds": 651,
@@ -14543,5 +14543,10 @@
     "week_seconds": 172,
     "week_start": 1782771306,
     "total_seconds": 172
+  },
+  "jeremy092387": {
+    "week_seconds": 0,
+    "week_start": 1782772707,
+    "total_seconds": 0
   }
 }
