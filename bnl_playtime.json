@@ -8750,9 +8750,9 @@
     "total_seconds": 14410
   },
   "notduffy": {
-    "week_seconds": 5253,
+    "week_seconds": 5268,
     "week_start": 1782707758,
-    "total_seconds": 67074
+    "total_seconds": 67089
   },
   "hairystoochie": {
     "week_seconds": 0,
@@ -14558,5 +14558,10 @@
     "week_seconds": 0,
     "week_start": 1782773976,
     "total_seconds": 0
+  },
+  "flixzy1109": {
+    "week_seconds": 64,
+    "week_start": 1782774001,
+    "total_seconds": 64
   }
 }
