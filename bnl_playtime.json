@@ -5715,9 +5715,9 @@
     "total_seconds": 7676
   },
   "rurfu": {
-    "week_seconds": 111705,
+    "week_seconds": 113308,
     "week_start": 1782353960,
-    "total_seconds": 205864
+    "total_seconds": 207467
   },
   "binks4362": {
     "week_seconds": 0,
@@ -14037,6 +14037,11 @@
   "g_guppy": {
     "week_seconds": 0,
     "week_start": 1782710500,
+    "total_seconds": 0
+  },
+  "aetherix": {
+    "week_seconds": 0,
+    "week_start": 1782710786,
     "total_seconds": 0
   }
 }
