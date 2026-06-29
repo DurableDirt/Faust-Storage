@@ -285,9 +285,9 @@
     "total_seconds": 151761
   },
   "mechanicalrift": {
-    "week_seconds": 2106,
+    "week_seconds": 2137,
     "week_start": 1782689758,
-    "total_seconds": 473429
+    "total_seconds": 473460
   },
   "aguscon": {
     "week_seconds": 0,
@@ -7710,9 +7710,9 @@
     "total_seconds": 6575
   },
   "gladiatus13": {
-    "week_seconds": 64296,
+    "week_seconds": 64343,
     "week_start": 1782578158,
-    "total_seconds": 219059
+    "total_seconds": 219106
   },
   "dark_phoenixs": {
     "week_seconds": 0,
@@ -13888,5 +13888,10 @@
     "week_seconds": 256,
     "week_start": 1782692349,
     "total_seconds": 256
+  },
+  "offthew": {
+    "week_seconds": 6,
+    "week_start": 1782693092,
+    "total_seconds": 6
   }
 }
