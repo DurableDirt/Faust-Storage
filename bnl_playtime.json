@@ -105,9 +105,9 @@
     "total_seconds": 154000
   },
   "slothinasuit": {
-    "week_seconds": 26171,
+    "week_seconds": 26572,
     "week_start": 1782686158,
-    "total_seconds": 489682
+    "total_seconds": 490083
   },
   "jck20h": {
     "week_seconds": 0,
@@ -1930,9 +1930,9 @@
     "total_seconds": 70073
   },
   "impadme5996": {
-    "week_seconds": 5247,
+    "week_seconds": 5666,
     "week_start": 1782732958,
-    "total_seconds": 68894
+    "total_seconds": 69313
   },
   "walkers": {
     "week_seconds": 0,
@@ -14402,6 +14402,11 @@
   "odinzx6r": {
     "week_seconds": 0,
     "week_start": 1782755800,
+    "total_seconds": 0
+  },
+  "rawentheo": {
+    "week_seconds": 0,
+    "week_start": 1782755830,
     "total_seconds": 0
   }
 }
