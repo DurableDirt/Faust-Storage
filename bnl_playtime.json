@@ -1110,9 +1110,9 @@
     "total_seconds": 10607
   },
   "warendrop": {
-    "week_seconds": 0,
+    "week_seconds": 39922,
     "week_start": 1782700558,
-    "total_seconds": 387769
+    "total_seconds": 427691
   },
   "boatcat": {
     "week_seconds": 0,
@@ -14008,5 +14008,10 @@
     "week_seconds": 117,
     "week_start": 1782704850,
     "total_seconds": 117
+  },
+  "nitr_oaf": {
+    "week_seconds": 0,
+    "week_start": 1782705541,
+    "total_seconds": 0
   }
 }
