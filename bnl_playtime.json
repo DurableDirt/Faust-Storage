@@ -2485,9 +2485,9 @@
     "total_seconds": 75915
   },
   "emperorashina": {
-    "week_seconds": 137568,
+    "week_seconds": 139006,
     "week_start": 1782141560,
-    "total_seconds": 230674
+    "total_seconds": 232112
   },
   "sailorwillis": {
     "week_seconds": 268155,
@@ -13810,9 +13810,9 @@
     "total_seconds": 376
   },
   "amoebic_serpent": {
-    "week_seconds": 16534,
+    "week_seconds": 16690,
     "week_start": 1782681925,
-    "total_seconds": 16534
+    "total_seconds": 16690
   },
   "fonchox9": {
     "week_seconds": 3739,
@@ -14013,5 +14013,10 @@
     "week_seconds": 231,
     "week_start": 1782705541,
     "total_seconds": 231
+  },
+  "gortuka": {
+    "week_seconds": 0,
+    "week_start": 1782706601,
+    "total_seconds": 0
   }
 }
