@@ -1520,9 +1520,9 @@
     "total_seconds": 222714
   },
   "_jaek": {
-    "week_seconds": 287123,
+    "week_seconds": 287384,
     "week_start": 1782109160,
-    "total_seconds": 425443
+    "total_seconds": 425704
   },
   "deuteriumoxide1": {
     "week_seconds": 4501,
@@ -6725,9 +6725,9 @@
     "total_seconds": 309
   },
   "notshawnfrog": {
-    "week_seconds": 9303,
+    "week_seconds": 10830,
     "week_start": 1782451160,
-    "total_seconds": 12908
+    "total_seconds": 14435
   },
   "monkeyanjing": {
     "week_seconds": 0,
@@ -13990,8 +13990,8 @@
     "total_seconds": 34
   },
   "mtndew98": {
-    "week_seconds": 0,
+    "week_seconds": 96,
     "week_start": 1782703475,
-    "total_seconds": 0
+    "total_seconds": 96
   }
 }
