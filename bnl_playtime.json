@@ -385,9 +385,9 @@
     "total_seconds": 21405
   },
   "opriva": {
-    "week_seconds": 970,
+    "week_seconds": 2313,
     "week_start": 1782689758,
-    "total_seconds": 199662
+    "total_seconds": 201005
   },
   "kokomiology": {
     "week_seconds": 0,
@@ -815,9 +815,9 @@
     "total_seconds": 216834
   },
   "gnathope": {
-    "week_seconds": 99665,
+    "week_seconds": 101148,
     "week_start": 1782091160,
-    "total_seconds": 201661
+    "total_seconds": 203144
   },
   "freeblade999": {
     "week_seconds": 34205,
@@ -7305,9 +7305,9 @@
     "total_seconds": 31269
   },
   "donutmt": {
-    "week_seconds": 17041,
+    "week_seconds": 17417,
     "week_start": 1782524158,
-    "total_seconds": 58875
+    "total_seconds": 59251
   },
   "bobroos8": {
     "week_seconds": 0,
@@ -13932,6 +13932,11 @@
   "1lonestarranger": {
     "week_seconds": 0,
     "week_start": 1782696003,
+    "total_seconds": 0
+  },
+  "maszekromanc": {
+    "week_seconds": 0,
+    "week_start": 1782696410,
     "total_seconds": 0
   }
 }
