@@ -14365,9 +14365,9 @@
     "total_seconds": 8
   },
   "ssjbleu": {
-    "week_seconds": 0,
+    "week_seconds": 847,
     "week_start": 1782754432,
-    "total_seconds": 0
+    "total_seconds": 847
   },
   "vrackliff13": {
     "week_seconds": 356,
@@ -14385,9 +14385,9 @@
     "total_seconds": 71
   },
   "rando_no": {
-    "week_seconds": 0,
+    "week_seconds": 601,
     "week_start": 1782754685,
-    "total_seconds": 0
+    "total_seconds": 601
   },
   "jinu11tan": {
     "week_seconds": 48,
