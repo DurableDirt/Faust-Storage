@@ -1690,9 +1690,9 @@
     "total_seconds": 45519
   },
   "solitaire7": {
-    "week_seconds": 4283,
+    "week_seconds": 17275,
     "week_start": 1782722158,
-    "total_seconds": 377980
+    "total_seconds": 390972
   },
   "masqo_": {
     "week_seconds": 0,
@@ -14247,6 +14247,11 @@
   "toxicgamer38": {
     "week_seconds": 0,
     "week_start": 1782744052,
+    "total_seconds": 0
+  },
+  "spiikex": {
+    "week_seconds": 0,
+    "week_start": 1782744082,
     "total_seconds": 0
   }
 }
