@@ -2805,9 +2805,9 @@
     "total_seconds": 27595
   },
   "koklushz": {
-    "week_seconds": 13581,
+    "week_seconds": 13660,
     "week_start": 1782152360,
-    "total_seconds": 59245
+    "total_seconds": 59324
   },
   "nemesiscy": {
     "week_seconds": 18936,
@@ -13650,9 +13650,9 @@
     "total_seconds": 587
   },
   "nekosancz": {
-    "week_seconds": 19837,
+    "week_seconds": 19879,
     "week_start": 1782664304,
-    "total_seconds": 19837
+    "total_seconds": 19879
   },
   "paperboy343": {
     "week_seconds": 2019,
@@ -14273,5 +14273,10 @@
     "week_seconds": 20,
     "week_start": 1782746026,
     "total_seconds": 20
+  },
+  "eminentchain955": {
+    "week_seconds": 0,
+    "week_start": 1782747038,
+    "total_seconds": 0
   }
 }
