@@ -285,9 +285,9 @@
     "total_seconds": 153286
   },
   "mechanicalrift": {
-    "week_seconds": 17665,
+    "week_seconds": 17693,
     "week_start": 1782689758,
-    "total_seconds": 488988
+    "total_seconds": 489016
   },
   "aguscon": {
     "week_seconds": 0,
@@ -1665,9 +1665,9 @@
     "total_seconds": 29933
   },
   "polysemic": {
-    "week_seconds": 267,
+    "week_seconds": 6274,
     "week_start": 1782722158,
-    "total_seconds": 141986
+    "total_seconds": 147993
   },
   "wuli": {
     "week_seconds": 1844,
@@ -14432,6 +14432,11 @@
   "chrqmated": {
     "week_seconds": 0,
     "week_start": 1782758433,
+    "total_seconds": 0
+  },
+  "mediterraneides": {
+    "week_seconds": 0,
+    "week_start": 1782758583,
     "total_seconds": 0
   }
 }
