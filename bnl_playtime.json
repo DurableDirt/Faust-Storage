@@ -285,9 +285,9 @@
     "total_seconds": 151761
   },
   "mechanicalrift": {
-    "week_seconds": 7051,
+    "week_seconds": 7084,
     "week_start": 1782689758,
-    "total_seconds": 478374
+    "total_seconds": 478407
   },
   "aguscon": {
     "week_seconds": 0,
@@ -4155,9 +4155,9 @@
     "total_seconds": 265492
   },
   "dashingyang": {
-    "week_seconds": 26954,
+    "week_seconds": 35476,
     "week_start": 1782235160,
-    "total_seconds": 128099
+    "total_seconds": 136621
   },
   "gunslingerzach": {
     "week_seconds": 62380,
@@ -13958,5 +13958,10 @@
     "week_seconds": 0,
     "week_start": 1782698846,
     "total_seconds": 0
+  },
+  "panda_lanks": {
+    "week_seconds": 5,
+    "week_start": 1782699030,
+    "total_seconds": 5
   }
 }
