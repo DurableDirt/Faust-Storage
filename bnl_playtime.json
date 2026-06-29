@@ -285,9 +285,9 @@
     "total_seconds": 151761
   },
   "mechanicalrift": {
-    "week_seconds": 10088,
+    "week_seconds": 10144,
     "week_start": 1782689758,
-    "total_seconds": 481411
+    "total_seconds": 481467
   },
   "aguscon": {
     "week_seconds": 0,
@@ -660,9 +660,9 @@
     "total_seconds": 19807
   },
   "demobottle12": {
-    "week_seconds": 0,
+    "week_seconds": 12309,
     "week_start": 1782693358,
-    "total_seconds": 128291
+    "total_seconds": 140600
   },
   "unique_nullptr": {
     "week_seconds": 0,
@@ -7265,9 +7265,9 @@
     "total_seconds": 95777
   },
   "swiftyscissors": {
-    "week_seconds": 16797,
+    "week_seconds": 18891,
     "week_start": 1782520558,
-    "total_seconds": 312177
+    "total_seconds": 314271
   },
   "beinbean13": {
     "week_seconds": 0,
@@ -13983,5 +13983,10 @@
     "week_seconds": 12,
     "week_start": 1782701989,
     "total_seconds": 12
+  },
+  "goober3696": {
+    "week_seconds": 0,
+    "week_start": 1782702215,
+    "total_seconds": 0
   }
 }
