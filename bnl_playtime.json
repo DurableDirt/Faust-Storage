@@ -285,9 +285,9 @@
     "total_seconds": 151761
   },
   "mechanicalrift": {
-    "week_seconds": 6820,
+    "week_seconds": 6907,
     "week_start": 1782689758,
-    "total_seconds": 478143
+    "total_seconds": 478230
   },
   "aguscon": {
     "week_seconds": 0,
@@ -13250,9 +13250,9 @@
     "total_seconds": 50
   },
   "captoun": {
-    "week_seconds": 22272,
+    "week_seconds": 26536,
     "week_start": 1782617130,
-    "total_seconds": 22272
+    "total_seconds": 26536
   },
   "ajz34": {
     "week_seconds": 497,
@@ -13953,5 +13953,10 @@
     "week_seconds": 5,
     "week_start": 1782698474,
     "total_seconds": 5
+  },
+  "itz_halos_yt": {
+    "week_seconds": 0,
+    "week_start": 1782698846,
+    "total_seconds": 0
   }
 }
