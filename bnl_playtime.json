@@ -7660,9 +7660,9 @@
     "total_seconds": 32
   },
   "endu_112": {
-    "week_seconds": 3410,
+    "week_seconds": 3970,
     "week_start": 1782570958,
-    "total_seconds": 12937
+    "total_seconds": 13497
   },
   "dinonoogeet": {
     "week_seconds": 0,
@@ -15090,8 +15090,8 @@
     "total_seconds": 6
   },
   "phazinthrough": {
-    "week_seconds": 35,
+    "week_seconds": 70,
     "week_start": 1782851515,
-    "total_seconds": 35
+    "total_seconds": 70
   }
 }
