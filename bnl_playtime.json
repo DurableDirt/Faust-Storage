@@ -365,9 +365,9 @@
     "total_seconds": 71759
   },
   "wheaties24": {
-    "week_seconds": 2837,
+    "week_seconds": 2888,
     "week_start": 1782689758,
-    "total_seconds": 26553
+    "total_seconds": 26604
   },
   "spicon17": {
     "week_seconds": 0,
@@ -14948,5 +14948,10 @@
     "week_seconds": 11,
     "week_start": 1782845512,
     "total_seconds": 11
+  },
+  "jewelzrlz": {
+    "week_seconds": 0,
+    "week_start": 1782845575,
+    "total_seconds": 0
   }
 }
