@@ -285,9 +285,9 @@
     "total_seconds": 157516
   },
   "mechanicalrift": {
-    "week_seconds": 25866,
+    "week_seconds": 25905,
     "week_start": 1782689758,
-    "total_seconds": 497189
+    "total_seconds": 497228
   },
   "aguscon": {
     "week_seconds": 0,
@@ -1490,9 +1490,9 @@
     "total_seconds": 111370
   },
   "benpuma25": {
-    "week_seconds": 152,
+    "week_seconds": 5861,
     "week_start": 1782711358,
-    "total_seconds": 53611
+    "total_seconds": 59320
   },
   "naglafer": {
     "week_seconds": 13705,
@@ -14435,9 +14435,9 @@
     "total_seconds": 494
   },
   "mediterraneides": {
-    "week_seconds": 22840,
+    "week_seconds": 29226,
     "week_start": 1782758583,
-    "total_seconds": 22840
+    "total_seconds": 29226
   },
   "bytecodes_": {
     "week_seconds": 849,
@@ -15198,5 +15198,10 @@
     "week_seconds": 50,
     "week_start": 1782858898,
     "total_seconds": 50
+  },
+  "eugeniocrazy123": {
+    "week_seconds": 0,
+    "week_start": 1782858959,
+    "total_seconds": 0
   }
 }
