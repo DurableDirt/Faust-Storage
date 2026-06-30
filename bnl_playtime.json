@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 20894,
+    "week_seconds": 25661,
     "week_start": 1782732958,
-    "total_seconds": 252071
+    "total_seconds": 256838
   },
   "hxrl": {
     "week_seconds": 11941,
@@ -15213,5 +15213,10 @@
     "week_seconds": 5,
     "week_start": 1782861071,
     "total_seconds": 5
+  },
+  "be_gamer1775": {
+    "week_seconds": 30,
+    "week_start": 1782861848,
+    "total_seconds": 30
   }
 }
