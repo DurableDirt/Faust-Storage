@@ -4640,9 +4640,9 @@
     "total_seconds": 633
   },
   "isahelle": {
-    "week_seconds": 5235,
+    "week_seconds": 5487,
     "week_start": 1782260360,
-    "total_seconds": 32191
+    "total_seconds": 32443
   },
   "itsalreadygold": {
     "week_seconds": 5683,
@@ -6725,9 +6725,9 @@
     "total_seconds": 309
   },
   "notshawnfrog": {
-    "week_seconds": 21418,
+    "week_seconds": 21623,
     "week_start": 1782451160,
-    "total_seconds": 25023
+    "total_seconds": 25228
   },
   "monkeyanjing": {
     "week_seconds": 0,
@@ -15180,8 +15180,8 @@
     "total_seconds": 0
   },
   "chocchips": {
-    "week_seconds": 0,
+    "week_seconds": 747,
     "week_start": 1782857024,
-    "total_seconds": 0
+    "total_seconds": 747
   }
 }
