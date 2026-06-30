@@ -360,9 +360,9 @@
     "total_seconds": 201
   },
   "astrosandwich": {
-    "week_seconds": 2231,
+    "week_seconds": 5267,
     "week_start": 1782689758,
-    "total_seconds": 68520
+    "total_seconds": 71556
   },
   "wheaties24": {
     "week_seconds": 2837,
@@ -14702,6 +14702,11 @@
   "not_kewin": {
     "week_seconds": 0,
     "week_start": 1782786333,
+    "total_seconds": 0
+  },
+  "ungodlywrath": {
+    "week_seconds": 0,
+    "week_start": 1782787268,
     "total_seconds": 0
   }
 }
