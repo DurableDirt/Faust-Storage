@@ -285,9 +285,9 @@
     "total_seconds": 156292
   },
   "mechanicalrift": {
-    "week_seconds": 24834,
+    "week_seconds": 24914,
     "week_start": 1782689758,
-    "total_seconds": 496157
+    "total_seconds": 496237
   },
   "aguscon": {
     "week_seconds": 0,
@@ -1170,9 +1170,9 @@
     "total_seconds": 141152
   },
   "opozzumz": {
-    "week_seconds": 21287,
+    "week_seconds": 21395,
     "week_start": 1782700558,
-    "total_seconds": 246154
+    "total_seconds": 246262
   },
   "astralchroma": {
     "week_seconds": 16308,
@@ -15183,5 +15183,10 @@
     "week_seconds": 747,
     "week_start": 1782857024,
     "total_seconds": 747
+  },
+  "pinkladyclub": {
+    "week_seconds": 0,
+    "week_start": 1782857976,
+    "total_seconds": 0
   }
 }
