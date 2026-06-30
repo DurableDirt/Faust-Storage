@@ -2995,9 +2995,9 @@
     "total_seconds": 128041
   },
   "theoneofthevoid": {
-    "week_seconds": 0,
+    "week_seconds": 29,
     "week_start": 1782765358,
-    "total_seconds": 65560
+    "total_seconds": 65589
   },
   "t0ast_realtoast": {
     "week_seconds": 0,
@@ -14932,6 +14932,11 @@
   "ipgeo": {
     "week_seconds": 0,
     "week_start": 1782844661,
+    "total_seconds": 0
+  },
+  "rhaenor1661": {
+    "week_seconds": 0,
+    "week_start": 1782845266,
     "total_seconds": 0
   }
 }
