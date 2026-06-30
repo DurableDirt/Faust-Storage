@@ -445,9 +445,9 @@
     "total_seconds": 133821
   },
   "iron600": {
-    "week_seconds": 37077,
+    "week_seconds": 37413,
     "week_start": 1782689758,
-    "total_seconds": 410100
+    "total_seconds": 410436
   },
   "mrtnt1925": {
     "week_seconds": 9482,
@@ -6200,9 +6200,9 @@
     "total_seconds": 20456
   },
   "acronymt": {
-    "week_seconds": 27279,
+    "week_seconds": 28732,
     "week_start": 1782411560,
-    "total_seconds": 36050
+    "total_seconds": 37503
   },
   "sv2drifttdv": {
     "week_seconds": 0,
@@ -14860,9 +14860,9 @@
     "total_seconds": 2050
   },
   "swe_iskan": {
-    "week_seconds": 150,
+    "week_seconds": 167,
     "week_start": 1782821135,
-    "total_seconds": 150
+    "total_seconds": 167
   },
   "radiance011": {
     "week_seconds": 1291,
