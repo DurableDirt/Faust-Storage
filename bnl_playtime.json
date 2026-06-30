@@ -150,9 +150,9 @@
     "total_seconds": 100
   },
   "jqkz": {
-    "week_seconds": 9819,
+    "week_seconds": 12221,
     "week_start": 1782689758,
-    "total_seconds": 79612
+    "total_seconds": 82014
   },
   "lightningboi4": {
     "week_seconds": 41059,
@@ -14852,6 +14852,11 @@
   "vcrust": {
     "week_seconds": 0,
     "week_start": 1782820372,
+    "total_seconds": 0
+  },
+  "pug3am": {
+    "week_seconds": 0,
+    "week_start": 1782821035,
     "total_seconds": 0
   }
 }
