@@ -5195,9 +5195,9 @@
     "total_seconds": 26206
   },
   "itzhoover": {
-    "week_seconds": 50771,
+    "week_seconds": 51125,
     "week_start": 1782314360,
-    "total_seconds": 126936
+    "total_seconds": 127290
   },
   "rayunlucke": {
     "week_seconds": 227660,
@@ -15218,5 +15218,10 @@
     "week_seconds": 30,
     "week_start": 1782861848,
     "total_seconds": 30
+  },
+  "ilomarpazzo": {
+    "week_seconds": 0,
+    "week_start": 1782862589,
+    "total_seconds": 0
   }
 }
