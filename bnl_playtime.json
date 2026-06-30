@@ -2115,9 +2115,9 @@
     "total_seconds": 255864
   },
   "trizzzx": {
-    "week_seconds": 5099,
+    "week_seconds": 5539,
     "week_start": 1782740158,
-    "total_seconds": 208102
+    "total_seconds": 208542
   },
   "reffelruz": {
     "week_seconds": 11087,
@@ -14705,8 +14705,13 @@
     "total_seconds": 0
   },
   "ungodlywrath": {
-    "week_seconds": 115,
+    "week_seconds": 1122,
     "week_start": 1782787268,
-    "total_seconds": 115
+    "total_seconds": 1122
+  },
+  "destinydonut": {
+    "week_seconds": 0,
+    "week_start": 1782788434,
+    "total_seconds": 0
   }
 }
