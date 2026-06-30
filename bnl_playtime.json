@@ -620,9 +620,9 @@
     "total_seconds": 325678
   },
   "justmicwa": {
-    "week_seconds": 32130,
+    "week_seconds": 33000,
     "week_start": 1782693358,
-    "total_seconds": 175279
+    "total_seconds": 176149
   },
   "ceceliarabbit": {
     "week_seconds": 0,
@@ -14662,6 +14662,11 @@
   "emeris4017": {
     "week_seconds": 0,
     "week_start": 1782783732,
+    "total_seconds": 0
+  },
+  "lonelaw": {
+    "week_seconds": 0,
+    "week_start": 1782784030,
     "total_seconds": 0
   }
 }
