@@ -6905,9 +6905,9 @@
     "total_seconds": 96
   },
   "tsepnos": {
-    "week_seconds": 383,
+    "week_seconds": 1568,
     "week_start": 1782479960,
-    "total_seconds": 2134
+    "total_seconds": 3319
   },
   "demian1254": {
     "week_seconds": 0,
@@ -14857,6 +14857,11 @@
   "pug3am": {
     "week_seconds": 0,
     "week_start": 1782821035,
+    "total_seconds": 0
+  },
+  "swe_iskan": {
+    "week_seconds": 0,
+    "week_start": 1782821135,
     "total_seconds": 0
   }
 }
