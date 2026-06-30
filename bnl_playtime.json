@@ -2320,9 +2320,9 @@
     "total_seconds": 120
   },
   "yiantrk": {
-    "week_seconds": 6961,
+    "week_seconds": 7755,
     "week_start": 1782743758,
-    "total_seconds": 15044
+    "total_seconds": 15838
   },
   "bluechickpro": {
     "week_seconds": 927,
@@ -15098,5 +15098,10 @@
     "week_seconds": 74,
     "week_start": 1782851809,
     "total_seconds": 74
+  },
+  "immortql69": {
+    "week_seconds": 5,
+    "week_start": 1782852372,
+    "total_seconds": 5
   }
 }
