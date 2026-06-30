@@ -580,9 +580,9 @@
     "total_seconds": 92499
   },
   "ethn__": {
-    "week_seconds": 3371,
+    "week_seconds": 3509,
     "week_start": 1782693358,
-    "total_seconds": 158087
+    "total_seconds": 158225
   },
   "suderp": {
     "week_seconds": 0,
@@ -5235,9 +5235,9 @@
     "total_seconds": 470
   },
   "murrvas": {
-    "week_seconds": 298,
+    "week_seconds": 336,
     "week_start": 1782317960,
-    "total_seconds": 520
+    "total_seconds": 558
   },
   "mx_premo": {
     "week_seconds": 14367,
