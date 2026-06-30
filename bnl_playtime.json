@@ -6200,9 +6200,9 @@
     "total_seconds": 20456
   },
   "acronymt": {
-    "week_seconds": 28732,
+    "week_seconds": 29933,
     "week_start": 1782411560,
-    "total_seconds": 37503
+    "total_seconds": 38704
   },
   "sv2drifttdv": {
     "week_seconds": 0,
@@ -6220,9 +6220,9 @@
     "total_seconds": 615
   },
   "victorivictoric": {
-    "week_seconds": 29909,
+    "week_seconds": 31014,
     "week_start": 1782415160,
-    "total_seconds": 38936
+    "total_seconds": 40041
   },
   "fur": {
     "week_seconds": 38,
@@ -15057,6 +15057,11 @@
   "banaan7878": {
     "week_seconds": 0,
     "week_start": 1782850342,
+    "total_seconds": 0
+  },
+  "gingerlice": {
+    "week_seconds": 0,
+    "week_start": 1782850461,
     "total_seconds": 0
   }
 }
