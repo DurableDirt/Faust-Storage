@@ -435,9 +435,9 @@
     "total_seconds": 12
   },
   "morphobutterfly": {
-    "week_seconds": 2920,
+    "week_seconds": 2953,
     "week_start": 1782689758,
-    "total_seconds": 68220
+    "total_seconds": 68253
   },
   "screamteam2005": {
     "week_seconds": 0,
@@ -14705,8 +14705,8 @@
     "total_seconds": 0
   },
   "ungodlywrath": {
-    "week_seconds": 0,
+    "week_seconds": 115,
     "week_start": 1782787268,
-    "total_seconds": 0
+    "total_seconds": 115
   }
 }
