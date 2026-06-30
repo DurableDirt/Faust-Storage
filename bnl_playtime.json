@@ -420,9 +420,9 @@
     "total_seconds": 261702
   },
   "hg__80": {
-    "week_seconds": 26635,
+    "week_seconds": 26792,
     "week_start": 1782689758,
-    "total_seconds": 435887
+    "total_seconds": 436044
   },
   "hekghlkegh": {
     "week_seconds": 0,
@@ -725,9 +725,9 @@
     "total_seconds": 329
   },
   "zzcqmbozz": {
-    "week_seconds": 71592,
+    "week_seconds": 79654,
     "week_start": 1782693358,
-    "total_seconds": 258914
+    "total_seconds": 266976
   },
   "marc_1500": {
     "week_seconds": 25605,
@@ -15122,6 +15122,11 @@
   "barend110": {
     "week_seconds": 0,
     "week_start": 1782853506,
+    "total_seconds": 0
+  },
+  "leezzzzzz11": {
+    "week_seconds": 0,
+    "week_start": 1782853627,
     "total_seconds": 0
   }
 }
