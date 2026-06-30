@@ -14800,9 +14800,9 @@
     "total_seconds": 0
   },
   "pokedex101": {
-    "week_seconds": 0,
+    "week_seconds": 140,
     "week_start": 1782815463,
-    "total_seconds": 0
+    "total_seconds": 140
   },
   "bemicraft": {
     "week_seconds": 29,
@@ -14810,8 +14810,8 @@
     "total_seconds": 29
   },
   "goalkeepereagle": {
-    "week_seconds": 0,
+    "week_seconds": 36,
     "week_start": 1782815552,
-    "total_seconds": 0
+    "total_seconds": 36
   }
 }
