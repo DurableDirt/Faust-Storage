@@ -1690,9 +1690,9 @@
     "total_seconds": 45519
   },
   "solitaire7": {
-    "week_seconds": 26361,
+    "week_seconds": 33914,
     "week_start": 1782722158,
-    "total_seconds": 400058
+    "total_seconds": 407611
   },
   "masqo_": {
     "week_seconds": 0,
@@ -14877,6 +14877,16 @@
   "dragoun2021": {
     "week_seconds": 0,
     "week_start": 1782822126,
+    "total_seconds": 0
+  },
+  "mrlambertos": {
+    "week_seconds": 0,
+    "week_start": 1782822206,
+    "total_seconds": 0
+  },
+  "_misak_cz": {
+    "week_seconds": 0,
+    "week_start": 1782822234,
     "total_seconds": 0
   }
 }
