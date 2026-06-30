@@ -11985,9 +11985,9 @@
     "total_seconds": 360
   },
   "kitamiblueheart": {
-    "week_seconds": 23705,
+    "week_seconds": 25074,
     "week_start": 1782510416,
-    "total_seconds": 23705
+    "total_seconds": 25074
   },
   "oppsecc": {
     "week_seconds": 196,
@@ -14922,6 +14922,11 @@
   "never_seen123": {
     "week_seconds": 0,
     "week_start": 1782844168,
+    "total_seconds": 0
+  },
+  "vixxerrun": {
+    "week_seconds": 0,
+    "week_start": 1782844609,
     "total_seconds": 0
   }
 }
