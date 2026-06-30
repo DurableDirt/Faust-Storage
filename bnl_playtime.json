@@ -14860,9 +14860,9 @@
     "total_seconds": 2050
   },
   "swe_iskan": {
-    "week_seconds": 21,
+    "week_seconds": 77,
     "week_start": 1782821135,
-    "total_seconds": 21
+    "total_seconds": 77
   },
   "radiance011": {
     "week_seconds": 1291,
@@ -14900,8 +14900,8 @@
     "total_seconds": 0
   },
   "locky914": {
-    "week_seconds": 0,
+    "week_seconds": 56,
     "week_start": 1782843152,
-    "total_seconds": 0
+    "total_seconds": 56
   }
 }
