@@ -3810,13 +3810,13 @@
     "total_seconds": 20
   },
   "paddington_bear": {
-    "week_seconds": 40630,
-    "week_start": 1782199160,
+    "week_seconds": 0,
+    "week_start": 1782804958,
     "total_seconds": 79857
   },
   "refe1k": {
-    "week_seconds": 16187,
-    "week_start": 1782199160,
+    "week_seconds": 0,
+    "week_start": 1782804958,
     "total_seconds": 31173
   },
   "toasterbreaker": {
@@ -7765,9 +7765,9 @@
     "total_seconds": 42849
   },
   "x_teach_x": {
-    "week_seconds": 79703,
+    "week_seconds": 79738,
     "week_start": 1782585358,
-    "total_seconds": 213734
+    "total_seconds": 213769
   },
   "watermashen": {
     "week_seconds": 353,
@@ -9595,13 +9595,13 @@
     "total_seconds": 867
   },
   "baroquoli": {
-    "week_seconds": 35266,
-    "week_start": 1782196578,
+    "week_seconds": 0,
+    "week_start": 1782804958,
     "total_seconds": 35266
   },
   "frickin_sausage": {
-    "week_seconds": 2763,
-    "week_start": 1782196955,
+    "week_seconds": 0,
+    "week_start": 1782804958,
     "total_seconds": 2763
   },
   "wolfishsmile": {
