@@ -1570,9 +1570,9 @@
     "total_seconds": 26749
   },
   "physicsgamer": {
-    "week_seconds": 36532,
+    "week_seconds": 36569,
     "week_start": 1782714958,
-    "total_seconds": 366363
+    "total_seconds": 366400
   },
   "_2k42_": {
     "week_seconds": 12644,
@@ -14840,8 +14840,8 @@
     "total_seconds": 0
   },
   "pentasible2": {
-    "week_seconds": 0,
+    "week_seconds": 70,
     "week_start": 1782818480,
-    "total_seconds": 0
+    "total_seconds": 70
   }
 }
