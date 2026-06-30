@@ -14825,9 +14825,9 @@
     "total_seconds": 2999
   },
   "sixeno": {
-    "week_seconds": 89,
+    "week_seconds": 139,
     "week_start": 1782817554,
-    "total_seconds": 89
+    "total_seconds": 139
   },
   "hemer_lfc": {
     "week_seconds": 5,
@@ -14957,6 +14957,11 @@
   "tako_88": {
     "week_seconds": 0,
     "week_start": 1782846097,
+    "total_seconds": 0
+  },
+  "snorlaxplayz": {
+    "week_seconds": 0,
+    "week_start": 1782846239,
     "total_seconds": 0
   }
 }
