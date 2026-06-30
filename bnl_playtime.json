@@ -7660,9 +7660,9 @@
     "total_seconds": 32
   },
   "endu_112": {
-    "week_seconds": 2375,
+    "week_seconds": 3410,
     "week_start": 1782570958,
-    "total_seconds": 11902
+    "total_seconds": 12937
   },
   "dinonoogeet": {
     "week_seconds": 0,
@@ -14987,6 +14987,11 @@
   "timik123": {
     "week_seconds": 0,
     "week_start": 1782847146,
+    "total_seconds": 0
+  },
+  "soscissors": {
+    "week_seconds": 0,
+    "week_start": 1782847454,
     "total_seconds": 0
   }
 }
