@@ -1520,9 +1520,9 @@
     "total_seconds": 224392
   },
   "_jaek": {
-    "week_seconds": 46547,
+    "week_seconds": 50400,
     "week_start": 1782714958,
-    "total_seconds": 472251
+    "total_seconds": 476104
   },
   "deuteriumoxide1": {
     "week_seconds": 0,
@@ -14777,6 +14777,11 @@
   "partipi4a": {
     "week_seconds": 0,
     "week_start": 1782807419,
+    "total_seconds": 0
+  },
+  "epicdigger1234": {
+    "week_seconds": 0,
+    "week_start": 1782808766,
     "total_seconds": 0
   }
 }
