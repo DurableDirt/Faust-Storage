@@ -470,9 +470,9 @@
     "total_seconds": 129856
   },
   "anotnot": {
-    "week_seconds": 65162,
+    "week_seconds": 66969,
     "week_start": 1782693358,
-    "total_seconds": 705616
+    "total_seconds": 707423
   },
   "tntfortress": {
     "week_seconds": 1969,
@@ -15020,9 +15020,9 @@
     "total_seconds": 328
   },
   "hikmet_": {
-    "week_seconds": 0,
+    "week_seconds": 747,
     "week_start": 1782848347,
-    "total_seconds": 0
+    "total_seconds": 747
   },
   "kiruko_": {
     "week_seconds": 12,
@@ -15038,5 +15038,10 @@
     "week_seconds": 0,
     "week_start": 1782848877,
     "total_seconds": 0
+  },
+  "mpslapshot76": {
+    "week_seconds": 38,
+    "week_start": 1782849013,
+    "total_seconds": 38
   }
 }
