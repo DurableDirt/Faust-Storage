@@ -6070,9 +6070,9 @@
     "total_seconds": 32400
   },
   "mrcheesepizzaguy": {
-    "week_seconds": 27280,
+    "week_seconds": 32761,
     "week_start": 1782400760,
-    "total_seconds": 36729
+    "total_seconds": 42210
   },
   "martink2": {
     "week_seconds": 0,
@@ -14840,9 +14840,9 @@
     "total_seconds": 2704
   },
   "pentasible2": {
-    "week_seconds": 2408,
+    "week_seconds": 3619,
     "week_start": 1782818480,
-    "total_seconds": 2408
+    "total_seconds": 3619
   },
   "jojerom": {
     "week_seconds": 0,
@@ -14872,6 +14872,11 @@
   "megabad2014": {
     "week_seconds": 0,
     "week_start": 1782821647,
+    "total_seconds": 0
+  },
+  "dragoun2021": {
+    "week_seconds": 0,
+    "week_start": 1782822126,
     "total_seconds": 0
   }
 }
