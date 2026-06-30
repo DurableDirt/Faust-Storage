@@ -5645,9 +5645,9 @@
     "total_seconds": 174
   },
   "skippydx": {
-    "week_seconds": 56739,
+    "week_seconds": 56914,
     "week_start": 1782346760,
-    "total_seconds": 147028
+    "total_seconds": 147203
   },
   "ultraman2": {
     "week_seconds": 0,
@@ -15015,9 +15015,9 @@
     "total_seconds": 565
   },
   "mrcow124": {
-    "week_seconds": 393,
+    "week_seconds": 606,
     "week_start": 1782848228,
-    "total_seconds": 393
+    "total_seconds": 606
   },
   "hikmet_": {
     "week_seconds": 747,
@@ -15077,6 +15077,11 @@
   "bluedragonthe1st": {
     "week_seconds": 0,
     "week_start": 1782850714,
+    "total_seconds": 0
+  },
+  "curzz_": {
+    "week_seconds": 0,
+    "week_start": 1782850813,
     "total_seconds": 0
   }
 }
