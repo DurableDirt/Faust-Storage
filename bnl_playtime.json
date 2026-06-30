@@ -3730,9 +3730,9 @@
     "total_seconds": 240
   },
   "salizandar2": {
-    "week_seconds": 0,
+    "week_seconds": 6218,
     "week_start": 1782794158,
-    "total_seconds": 199945
+    "total_seconds": 206163
   },
   "milkyoreo": {
     "week_seconds": 0,
@@ -14760,8 +14760,8 @@
     "total_seconds": 378
   },
   "matitko": {
-    "week_seconds": 0,
+    "week_seconds": 565,
     "week_start": 1782804519,
-    "total_seconds": 0
+    "total_seconds": 565
   }
 }
