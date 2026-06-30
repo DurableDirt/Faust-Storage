@@ -435,9 +435,9 @@
     "total_seconds": 12
   },
   "morphobutterfly": {
-    "week_seconds": 11621,
+    "week_seconds": 11652,
     "week_start": 1782689758,
-    "total_seconds": 76921
+    "total_seconds": 76952
   },
   "screamteam2005": {
     "week_seconds": 0,
@@ -6635,9 +6635,9 @@
     "total_seconds": 5305
   },
   "strangefungus": {
-    "week_seconds": 56178,
+    "week_seconds": 56520,
     "week_start": 1782440360,
-    "total_seconds": 255586
+    "total_seconds": 255928
   },
   "legxi7622": {
     "week_seconds": 0,
@@ -14737,6 +14737,11 @@
   "vulcan1776": {
     "week_seconds": 0,
     "week_start": 1782796105,
+    "total_seconds": 0
+  },
+  "thefrickyricky": {
+    "week_seconds": 0,
+    "week_start": 1782798510,
     "total_seconds": 0
   }
 }
