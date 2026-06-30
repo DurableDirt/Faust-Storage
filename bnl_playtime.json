@@ -7040,9 +7040,9 @@
     "total_seconds": 86950
   },
   "goosie1238": {
-    "week_seconds": 18451,
+    "week_seconds": 18469,
     "week_start": 1782497960,
-    "total_seconds": 75619
+    "total_seconds": 75637
   },
   "davosforum": {
     "week_seconds": 2,
@@ -14917,6 +14917,11 @@
   "kiki23scp": {
     "week_seconds": 0,
     "week_start": 1782844020,
+    "total_seconds": 0
+  },
+  "never_seen123": {
+    "week_seconds": 0,
+    "week_start": 1782844168,
     "total_seconds": 0
   }
 }
