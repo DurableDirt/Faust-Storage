@@ -1240,9 +1240,9 @@
     "total_seconds": 24498
   },
   "mtfuji": {
-    "week_seconds": 35146,
+    "week_seconds": 35180,
     "week_start": 1782704158,
-    "total_seconds": 718924
+    "total_seconds": 718958
   },
   "intelligences": {
     "week_seconds": 3997,
@@ -14820,9 +14820,9 @@
     "total_seconds": 362
   },
   "enchant3dpencil": {
-    "week_seconds": 0,
+    "week_seconds": 2999,
     "week_start": 1782817146,
-    "total_seconds": 0
+    "total_seconds": 2999
   },
   "sixeno": {
     "week_seconds": 89,
