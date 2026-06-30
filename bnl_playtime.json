@@ -1365,9 +1365,9 @@
     "total_seconds": 24396
   },
   "rammyls": {
-    "week_seconds": 0,
+    "week_seconds": 1779,
     "week_start": 1782707758,
-    "total_seconds": 193600
+    "total_seconds": 195379
   },
   "adelover01": {
     "week_seconds": 0,
@@ -15220,13 +15220,18 @@
     "total_seconds": 30
   },
   "ilomarpazzo": {
-    "week_seconds": 32,
+    "week_seconds": 1058,
     "week_start": 1782862589,
-    "total_seconds": 32
+    "total_seconds": 1058
   },
   "5gd": {
     "week_seconds": 6,
     "week_start": 1782862698,
     "total_seconds": 6
+  },
+  "endlessimagina": {
+    "week_seconds": 0,
+    "week_start": 1782863774,
+    "total_seconds": 0
   }
 }
