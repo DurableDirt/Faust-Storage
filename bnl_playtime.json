@@ -180,9 +180,9 @@
     "total_seconds": 197343
   },
   "pasteldepapa777": {
-    "week_seconds": 300,
+    "week_seconds": 325,
     "week_start": 1782689758,
-    "total_seconds": 73962
+    "total_seconds": 73987
   },
   "ahrimanne": {
     "week_seconds": 0,
@@ -305,9 +305,9 @@
     "total_seconds": 757731
   },
   "olderastory": {
-    "week_seconds": 24590,
+    "week_seconds": 26533,
     "week_start": 1782689758,
-    "total_seconds": 261501
+    "total_seconds": 263444
   },
   "willowpox": {
     "week_seconds": 0,
@@ -1245,9 +1245,9 @@
     "total_seconds": 686071
   },
   "intelligences": {
-    "week_seconds": 2633,
+    "week_seconds": 3997,
     "week_start": 1782704158,
-    "total_seconds": 84670
+    "total_seconds": 86034
   },
   "drippydippy": {
     "week_seconds": 0,
@@ -3220,9 +3220,9 @@
     "total_seconds": 98390
   },
   "mannami": {
-    "week_seconds": 3466,
+    "week_seconds": 3540,
     "week_start": 1782772558,
-    "total_seconds": 137642
+    "total_seconds": 137716
   },
   "pixitchi_o3o": {
     "week_seconds": 0,
@@ -14630,9 +14630,9 @@
     "total_seconds": 2010
   },
   "tanksds": {
-    "week_seconds": 1477,
+    "week_seconds": 4609,
     "week_start": 1782781250,
-    "total_seconds": 1477
+    "total_seconds": 4609
   },
   "intuitiveness": {
     "week_seconds": 1532,
@@ -14697,6 +14697,11 @@
   "kaleidico": {
     "week_seconds": 0,
     "week_start": 1782786273,
+    "total_seconds": 0
+  },
+  "not_kewin": {
+    "week_seconds": 0,
+    "week_start": 1782786333,
     "total_seconds": 0
   }
 }
