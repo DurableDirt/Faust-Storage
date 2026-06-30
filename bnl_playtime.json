@@ -12920,9 +12920,9 @@
     "total_seconds": 270
   },
   "beefybun": {
-    "week_seconds": 2898,
+    "week_seconds": 3360,
     "week_start": 1782587627,
-    "total_seconds": 2898
+    "total_seconds": 3360
   },
   "moocinder": {
     "week_seconds": 5175,
@@ -15072,6 +15072,11 @@
   "greltam": {
     "week_seconds": 0,
     "week_start": 1782850563,
+    "total_seconds": 0
+  },
+  "bluedragonthe1st": {
+    "week_seconds": 0,
+    "week_start": 1782850714,
     "total_seconds": 0
   }
 }
