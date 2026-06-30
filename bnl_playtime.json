@@ -640,9 +640,9 @@
     "total_seconds": 185761
   },
   "beepcar": {
-    "week_seconds": 32177,
+    "week_seconds": 45822,
     "week_start": 1782693358,
-    "total_seconds": 479186
+    "total_seconds": 492831
   },
   "moopie50": {
     "week_seconds": 0,
@@ -3810,9 +3810,9 @@
     "total_seconds": 20
   },
   "paddington_bear": {
-    "week_seconds": 32966,
+    "week_seconds": 40630,
     "week_start": 1782199160,
-    "total_seconds": 72193
+    "total_seconds": 79857
   },
   "refe1k": {
     "week_seconds": 16187,
