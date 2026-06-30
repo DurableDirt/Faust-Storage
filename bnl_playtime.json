@@ -580,9 +580,9 @@
     "total_seconds": 92499
   },
   "ethn__": {
-    "week_seconds": 21940,
+    "week_seconds": 22314,
     "week_start": 1782693358,
-    "total_seconds": 176656
+    "total_seconds": 177030
   },
   "suderp": {
     "week_seconds": 0,
@@ -14953,5 +14953,10 @@
     "week_seconds": 14,
     "week_start": 1782845575,
     "total_seconds": 14
+  },
+  "tako_88": {
+    "week_seconds": 0,
+    "week_start": 1782846097,
+    "total_seconds": 0
   }
 }
