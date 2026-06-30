@@ -2730,9 +2730,9 @@
     "total_seconds": 8328
   },
   "witherstorm2446": {
-    "week_seconds": 122,
+    "week_seconds": 200,
     "week_start": 1782754558,
-    "total_seconds": 719
+    "total_seconds": 797
   },
   "anttolisa": {
     "week_seconds": 0,
@@ -9280,9 +9280,9 @@
     "total_seconds": 9165
   },
   "vai_": {
-    "week_seconds": 292,
+    "week_seconds": 464,
     "week_start": 1782772558,
-    "total_seconds": 51526
+    "total_seconds": 51698
   },
   "mis_misato": {
     "week_seconds": 0,
@@ -15110,8 +15110,8 @@
     "total_seconds": 0
   },
   "bobbythegoof": {
-    "week_seconds": 0,
+    "week_seconds": 18,
     "week_start": 1782852722,
-    "total_seconds": 0
+    "total_seconds": 18
   }
 }
