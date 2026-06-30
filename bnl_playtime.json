@@ -14730,9 +14730,9 @@
     "total_seconds": 36
   },
   "marvin2013": {
-    "week_seconds": 10191,
+    "week_seconds": 10831,
     "week_start": 1782793383,
-    "total_seconds": 10191
+    "total_seconds": 10831
   },
   "vulcan1776": {
     "week_seconds": 5227,
@@ -14797,6 +14797,21 @@
   "eyegle": {
     "week_seconds": 0,
     "week_start": 1782815197,
+    "total_seconds": 0
+  },
+  "pokedex101": {
+    "week_seconds": 0,
+    "week_start": 1782815463,
+    "total_seconds": 0
+  },
+  "bemicraft": {
+    "week_seconds": 29,
+    "week_start": 1782815544,
+    "total_seconds": 29
+  },
+  "goalkeepereagle": {
+    "week_seconds": 0,
+    "week_start": 1782815552,
     "total_seconds": 0
   }
 }
