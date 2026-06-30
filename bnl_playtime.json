@@ -570,9 +570,9 @@
     "total_seconds": 594078
   },
   "angie_dovie111": {
-    "week_seconds": 10323,
+    "week_seconds": 10655,
     "week_start": 1782693358,
-    "total_seconds": 283025
+    "total_seconds": 283357
   },
   "balderbert": {
     "week_seconds": 1483,
@@ -14610,8 +14610,13 @@
     "total_seconds": 0
   },
   "blandseablack": {
-    "week_seconds": 0,
+    "week_seconds": 120,
     "week_start": 1782779156,
+    "total_seconds": 120
+  },
+  "royg_biv": {
+    "week_seconds": 0,
+    "week_start": 1782779270,
     "total_seconds": 0
   }
 }
