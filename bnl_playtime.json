@@ -870,9 +870,9 @@
     "total_seconds": 269482
   },
   "deerifius": {
-    "week_seconds": 25402,
+    "week_seconds": 26784,
     "week_start": 1782696958,
-    "total_seconds": 222167
+    "total_seconds": 223549
   },
   "dreadyheadyyn": {
     "week_seconds": 0,
@@ -15053,5 +15053,10 @@
     "week_seconds": 54,
     "week_start": 1782850131,
     "total_seconds": 54
+  },
+  "banaan7878": {
+    "week_seconds": 0,
+    "week_start": 1782850342,
+    "total_seconds": 0
   }
 }
