@@ -15,9 +15,9 @@
     "total_seconds": 300418
   },
   "dragran": {
-    "week_seconds": 99064,
+    "week_seconds": 99783,
     "week_start": 1782686158,
-    "total_seconds": 860821
+    "total_seconds": 861540
   },
   "turkishflavour": {
     "week_seconds": 0,
@@ -14893,5 +14893,10 @@
     "week_seconds": 593,
     "week_start": 1782822375,
     "total_seconds": 593
+  },
+  "burak8075": {
+    "week_seconds": 0,
+    "week_start": 1782823127,
+    "total_seconds": 0
   }
 }
