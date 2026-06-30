@@ -1080,9 +1080,9 @@
     "total_seconds": 214
   },
   "orestraya": {
-    "week_seconds": 38171,
+    "week_seconds": 44301,
     "week_start": 1782700558,
-    "total_seconds": 343611
+    "total_seconds": 349741
   },
   "satava": {
     "week_seconds": 0,
@@ -14710,8 +14710,8 @@
     "total_seconds": 1345
   },
   "destinydonut": {
-    "week_seconds": 0,
+    "week_seconds": 1138,
     "week_start": 1782788434,
-    "total_seconds": 0
+    "total_seconds": 1138
   }
 }
