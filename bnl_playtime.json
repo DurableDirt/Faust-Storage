@@ -15,9 +15,9 @@
     "total_seconds": 300418
   },
   "dragran": {
-    "week_seconds": 96579,
+    "week_seconds": 97059,
     "week_start": 1782686158,
-    "total_seconds": 858336
+    "total_seconds": 858816
   },
   "turkishflavour": {
     "week_seconds": 0,
@@ -12700,9 +12700,9 @@
     "total_seconds": 3059
   },
   "goldeagle2317": {
-    "week_seconds": 35319,
+    "week_seconds": 35844,
     "week_start": 1782567353,
-    "total_seconds": 35319
+    "total_seconds": 35844
   },
   "bruzztuah": {
     "week_seconds": 50,
@@ -14843,5 +14843,15 @@
     "week_seconds": 398,
     "week_start": 1782818480,
     "total_seconds": 398
+  },
+  "jojerom": {
+    "week_seconds": 0,
+    "week_start": 1782820365,
+    "total_seconds": 0
+  },
+  "vcrust": {
+    "week_seconds": 0,
+    "week_start": 1782820372,
+    "total_seconds": 0
   }
 }
