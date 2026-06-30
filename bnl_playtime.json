@@ -1170,9 +1170,9 @@
     "total_seconds": 141152
   },
   "opozzumz": {
-    "week_seconds": 20428,
+    "week_seconds": 20494,
     "week_start": 1782700558,
-    "total_seconds": 245295
+    "total_seconds": 245361
   },
   "astralchroma": {
     "week_seconds": 16308,
@@ -15177,6 +15177,11 @@
   "hamsteripro2013": {
     "week_seconds": 0,
     "week_start": 1782856293,
+    "total_seconds": 0
+  },
+  "chocchips": {
+    "week_seconds": 0,
+    "week_start": 1782857024,
     "total_seconds": 0
   }
 }
