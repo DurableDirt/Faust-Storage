@@ -1520,9 +1520,9 @@
     "total_seconds": 224392
   },
   "_jaek": {
-    "week_seconds": 50400,
+    "week_seconds": 50442,
     "week_start": 1782714958,
-    "total_seconds": 476104
+    "total_seconds": 476146
   },
   "deuteriumoxide1": {
     "week_seconds": 0,
@@ -4415,9 +4415,9 @@
     "total_seconds": 131
   },
   "zeroql": {
-    "week_seconds": 45793,
+    "week_seconds": 53011,
     "week_start": 1782242360,
-    "total_seconds": 48789
+    "total_seconds": 56007
   },
   "formidable01": {
     "week_seconds": 26478,
@@ -14788,5 +14788,10 @@
     "week_seconds": 3253,
     "week_start": 1782808871,
     "total_seconds": 3253
+  },
+  "lvj_glo": {
+    "week_seconds": 0,
+    "week_start": 1782813391,
+    "total_seconds": 0
   }
 }
