@@ -10565,9 +10565,9 @@
     "total_seconds": 158
   },
   "toddhoward123": {
-    "week_seconds": 9814,
+    "week_seconds": 9945,
     "week_start": 1782331711,
-    "total_seconds": 9814
+    "total_seconds": 9945
   },
   "zkwss_": {
     "week_seconds": 42,
@@ -15127,6 +15127,11 @@
   "leezzzzzz11": {
     "week_seconds": 0,
     "week_start": 1782853627,
+    "total_seconds": 0
+  },
+  "markercereal": {
+    "week_seconds": 0,
+    "week_start": 1782853640,
     "total_seconds": 0
   }
 }
