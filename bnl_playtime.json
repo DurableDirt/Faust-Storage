@@ -1175,9 +1175,9 @@
     "total_seconds": 240069
   },
   "astralchroma": {
-    "week_seconds": 10943,
+    "week_seconds": 11152,
     "week_start": 1782700558,
-    "total_seconds": 376966
+    "total_seconds": 377175
   },
   "kingstell": {
     "week_seconds": 0,
@@ -1240,9 +1240,9 @@
     "total_seconds": 24498
   },
   "mtfuji": {
-    "week_seconds": 35375,
+    "week_seconds": 39415,
     "week_start": 1782704158,
-    "total_seconds": 719153
+    "total_seconds": 723193
   },
   "intelligences": {
     "week_seconds": 3997,
