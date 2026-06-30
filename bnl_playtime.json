@@ -10920,9 +10920,9 @@
     "total_seconds": 110
   },
   "wemze9": {
-    "week_seconds": 16608,
+    "week_seconds": 17337,
     "week_start": 1782378220,
-    "total_seconds": 16608
+    "total_seconds": 17337
   },
   "fuzzelmuzzel": {
     "week_seconds": 8,
@@ -15090,8 +15090,8 @@
     "total_seconds": 6
   },
   "phazinthrough": {
-    "week_seconds": 0,
+    "week_seconds": 35,
     "week_start": 1782851515,
-    "total_seconds": 0
+    "total_seconds": 35
   }
 }
