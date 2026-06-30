@@ -14340,9 +14340,9 @@
     "total_seconds": 3933
   },
   "goatthenoob": {
-    "week_seconds": 14692,
+    "week_seconds": 14777,
     "week_start": 1782753359,
-    "total_seconds": 14692
+    "total_seconds": 14777
   },
   "bleuclaire": {
     "week_seconds": 13,
@@ -14828,5 +14828,10 @@
     "week_seconds": 89,
     "week_start": 1782817554,
     "total_seconds": 89
+  },
+  "hemer_lfc": {
+    "week_seconds": 5,
+    "week_start": 1782817779,
+    "total_seconds": 5
   }
 }
