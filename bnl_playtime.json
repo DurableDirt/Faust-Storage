@@ -30,9 +30,9 @@
     "total_seconds": 226821
   },
   "harved": {
-    "week_seconds": 14596,
+    "week_seconds": 14630,
     "week_start": 1782686158,
-    "total_seconds": 136556
+    "total_seconds": 136590
   },
   "maxxyrose": {
     "week_seconds": 11471,
@@ -15012,6 +15012,11 @@
   "hicham92": {
     "week_seconds": 0,
     "week_start": 1782848119,
+    "total_seconds": 0
+  },
+  "mrcow124": {
+    "week_seconds": 0,
+    "week_start": 1782848228,
     "total_seconds": 0
   }
 }
