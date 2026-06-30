@@ -1170,9 +1170,9 @@
     "total_seconds": 141152
   },
   "opozzumz": {
-    "week_seconds": 9826,
+    "week_seconds": 12858,
     "week_start": 1782700558,
-    "total_seconds": 234693
+    "total_seconds": 237725
   },
   "astralchroma": {
     "week_seconds": 9638,
@@ -6635,9 +6635,9 @@
     "total_seconds": 5305
   },
   "strangefungus": {
-    "week_seconds": 51439,
+    "week_seconds": 51449,
     "week_start": 1782440360,
-    "total_seconds": 250847
+    "total_seconds": 250857
   },
   "legxi7622": {
     "week_seconds": 0,
@@ -14718,5 +14718,10 @@
     "week_seconds": 63,
     "week_start": 1782790429,
     "total_seconds": 63
+  },
+  "sissel_c": {
+    "week_seconds": 0,
+    "week_start": 1782791263,
+    "total_seconds": 0
   }
 }
