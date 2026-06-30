@@ -14500,9 +14500,9 @@
     "total_seconds": 806
   },
   "kolvoc": {
-    "week_seconds": 1143,
+    "week_seconds": 1736,
     "week_start": 1782762831,
-    "total_seconds": 1143
+    "total_seconds": 1736
   },
   "somaliangeeker": {
     "week_seconds": 2518,
@@ -14793,5 +14793,10 @@
     "week_seconds": 222,
     "week_start": 1782813391,
     "total_seconds": 222
+  },
+  "eyegle": {
+    "week_seconds": 0,
+    "week_start": 1782815197,
+    "total_seconds": 0
   }
 }
