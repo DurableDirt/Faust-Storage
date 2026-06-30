@@ -14823,5 +14823,10 @@
     "week_seconds": 0,
     "week_start": 1782817146,
     "total_seconds": 0
+  },
+  "sixeno": {
+    "week_seconds": 89,
+    "week_start": 1782817554,
+    "total_seconds": 89
   }
 }
