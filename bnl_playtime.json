@@ -1170,9 +1170,9 @@
     "total_seconds": 141152
   },
   "opozzumz": {
-    "week_seconds": 21436,
+    "week_seconds": 21475,
     "week_start": 1782700558,
-    "total_seconds": 246303
+    "total_seconds": 246342
   },
   "astralchroma": {
     "week_seconds": 16308,
@@ -9350,9 +9350,9 @@
     "total_seconds": 10835
   },
   "lord_pancakes": {
-    "week_seconds": 5379,
+    "week_seconds": 5470,
     "week_start": 1782776158,
-    "total_seconds": 62084
+    "total_seconds": 62175
   },
   "empirecorsica": {
     "week_seconds": 0,
@@ -15185,8 +15185,8 @@
     "total_seconds": 747
   },
   "pinkladyclub": {
-    "week_seconds": 0,
+    "week_seconds": 91,
     "week_start": 1782857976,
-    "total_seconds": 0
+    "total_seconds": 91
   }
 }
