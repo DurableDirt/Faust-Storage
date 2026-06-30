@@ -2470,9 +2470,9 @@
     "total_seconds": 130
   },
   "vechozzz": {
-    "week_seconds": 299,
+    "week_seconds": 952,
     "week_start": 1782747358,
-    "total_seconds": 57572
+    "total_seconds": 58225
   },
   "potatooverlord13": {
     "week_seconds": 0,
@@ -14995,9 +14995,9 @@
     "total_seconds": 625
   },
   "smelta": {
-    "week_seconds": 2872,
+    "week_seconds": 4236,
     "week_start": 1782847989,
-    "total_seconds": 2872
+    "total_seconds": 4236
   },
   "kevking2": {
     "week_seconds": 15,
@@ -15107,6 +15107,11 @@
   "pathetic_olive": {
     "week_seconds": 0,
     "week_start": 1782852430,
+    "total_seconds": 0
+  },
+  "bobbythegoof": {
+    "week_seconds": 0,
+    "week_start": 1782852722,
     "total_seconds": 0
   }
 }
