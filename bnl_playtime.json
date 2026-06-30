@@ -2265,9 +2265,9 @@
     "total_seconds": 66668
   },
   "pergyskeel": {
-    "week_seconds": 16665,
+    "week_seconds": 18420,
     "week_start": 1782743758,
-    "total_seconds": 359428
+    "total_seconds": 361183
   },
   "wickedmartin": {
     "week_seconds": 4404,
@@ -14630,9 +14630,9 @@
     "total_seconds": 0
   },
   "tanksds": {
-    "week_seconds": 595,
+    "week_seconds": 650,
     "week_start": 1782781250,
-    "total_seconds": 595
+    "total_seconds": 650
   },
   "intuitiveness": {
     "week_seconds": 0,
@@ -14648,5 +14648,10 @@
     "week_seconds": 0,
     "week_start": 1782781813,
     "total_seconds": 0
+  },
+  "hekiruhs": {
+    "week_seconds": 6,
+    "week_start": 1782782314,
+    "total_seconds": 6
   }
 }
