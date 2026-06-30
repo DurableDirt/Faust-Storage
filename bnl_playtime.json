@@ -1580,9 +1580,9 @@
     "total_seconds": 313216
   },
   "gobblin": {
-    "week_seconds": 8935,
+    "week_seconds": 14012,
     "week_start": 1782718558,
-    "total_seconds": 137905
+    "total_seconds": 142982
   },
   "vlinar": {
     "week_seconds": 0,
@@ -8585,9 +8585,9 @@
     "total_seconds": 33975
   },
   "gregy165": {
-    "week_seconds": 0,
+    "week_seconds": 388,
     "week_start": 1782686158,
-    "total_seconds": 206139
+    "total_seconds": 206527
   },
   "yungsgt": {
     "week_seconds": 0,
