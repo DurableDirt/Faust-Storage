@@ -1045,9 +1045,9 @@
     "total_seconds": 91
   },
   "endville360": {
-    "week_seconds": 90469,
+    "week_seconds": 90495,
     "week_start": 1782700558,
-    "total_seconds": 403501
+    "total_seconds": 403527
   },
   "rodragonlux": {
     "week_seconds": 0,
@@ -2370,9 +2370,9 @@
     "total_seconds": 62814
   },
   "jaxkats": {
-    "week_seconds": 1696,
+    "week_seconds": 3231,
     "week_start": 1782743758,
-    "total_seconds": 373246
+    "total_seconds": 374781
   },
   "technogameryt": {
     "week_seconds": 0,
@@ -15190,8 +15190,8 @@
     "total_seconds": 91
   },
   "nmack2021": {
-    "week_seconds": 0,
+    "week_seconds": 99,
     "week_start": 1782858679,
-    "total_seconds": 0
+    "total_seconds": 99
   }
 }
