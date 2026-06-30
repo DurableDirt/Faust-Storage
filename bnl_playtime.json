@@ -1090,9 +1090,9 @@
     "total_seconds": 133915
   },
   "majjcrunsgf": {
-    "week_seconds": 5836,
+    "week_seconds": 5850,
     "week_start": 1782700558,
-    "total_seconds": 81360
+    "total_seconds": 81374
   },
   "magickponch": {
     "week_seconds": 39832,
@@ -14753,5 +14753,10 @@
     "week_seconds": 0,
     "week_start": 1782802127,
     "total_seconds": 0
+  },
+  "xrx_dev7": {
+    "week_seconds": 6,
+    "week_start": 1782802475,
+    "total_seconds": 6
   }
 }
