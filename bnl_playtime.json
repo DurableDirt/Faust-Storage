@@ -13830,9 +13830,9 @@
     "total_seconds": 99
   },
   "elandresito2013": {
-    "week_seconds": 18448,
+    "week_seconds": 20671,
     "week_start": 1782685762,
-    "total_seconds": 18448
+    "total_seconds": 20671
   },
   "dkrise": {
     "week_seconds": 5237,
@@ -15083,5 +15083,10 @@
     "week_seconds": 0,
     "week_start": 1782850813,
     "total_seconds": 0
+  },
+  "kumiho_0": {
+    "week_seconds": 6,
+    "week_start": 1782850897,
+    "total_seconds": 6
   }
 }
