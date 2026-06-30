@@ -14795,9 +14795,9 @@
     "total_seconds": 222
   },
   "eyegle": {
-    "week_seconds": 0,
+    "week_seconds": 1175,
     "week_start": 1782815197,
-    "total_seconds": 0
+    "total_seconds": 1175
   },
   "pokedex101": {
     "week_seconds": 140,
@@ -14813,5 +14813,10 @@
     "week_seconds": 36,
     "week_start": 1782815552,
     "total_seconds": 36
+  },
+  "smothyishere": {
+    "week_seconds": 0,
+    "week_start": 1782816175,
+    "total_seconds": 0
   }
 }
