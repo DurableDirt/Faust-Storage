@@ -955,9 +955,9 @@
     "total_seconds": 347507
   },
   "pointy_hii": {
-    "week_seconds": 2577,
+    "week_seconds": 3141,
     "week_start": 1782696958,
-    "total_seconds": 262142
+    "total_seconds": 262706
   },
   "blewo": {
     "week_seconds": 0,
@@ -14693,5 +14693,10 @@
     "week_seconds": 33,
     "week_start": 1782785464,
     "total_seconds": 33
+  },
+  "kaleidico": {
+    "week_seconds": 0,
+    "week_start": 1782786273,
+    "total_seconds": 0
   }
 }
