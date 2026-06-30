@@ -2480,9 +2480,9 @@
     "total_seconds": 14454
   },
   "a_penguin_pal": {
-    "week_seconds": 11910,
+    "week_seconds": 15391,
     "week_start": 1782747358,
-    "total_seconds": 87825
+    "total_seconds": 91306
   },
   "emperorashina": {
     "week_seconds": 16108,
@@ -15047,6 +15047,11 @@
   "provensis": {
     "week_seconds": 0,
     "week_start": 1782849828,
+    "total_seconds": 0
+  },
+  "smokeypoet": {
+    "week_seconds": 0,
+    "week_start": 1782850131,
     "total_seconds": 0
   }
 }
