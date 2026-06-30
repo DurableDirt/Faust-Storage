@@ -15,9 +15,9 @@
     "total_seconds": 300418
   },
   "dragran": {
-    "week_seconds": 97059,
+    "week_seconds": 99064,
     "week_start": 1782686158,
-    "total_seconds": 858816
+    "total_seconds": 860821
   },
   "turkishflavour": {
     "week_seconds": 0,
@@ -14887,6 +14887,11 @@
   "_misak_cz": {
     "week_seconds": 0,
     "week_start": 1782822234,
+    "total_seconds": 0
+  },
+  "x_enzo": {
+    "week_seconds": 0,
+    "week_start": 1782822375,
     "total_seconds": 0
   }
 }
