@@ -4960,9 +4960,9 @@
     "total_seconds": 4618
   },
   "xlaser2014": {
-    "week_seconds": 74194,
+    "week_seconds": 81545,
     "week_start": 1782285560,
-    "total_seconds": 87183
+    "total_seconds": 94534
   },
   "plutouz": {
     "week_seconds": 48973,
@@ -14865,9 +14865,9 @@
     "total_seconds": 0
   },
   "radiance011": {
-    "week_seconds": 0,
+    "week_seconds": 1291,
     "week_start": 1782821482,
-    "total_seconds": 0
+    "total_seconds": 1291
   },
   "megabad2014": {
     "week_seconds": 694,
@@ -14885,9 +14885,9 @@
     "total_seconds": 380
   },
   "_misak_cz": {
-    "week_seconds": 243,
+    "week_seconds": 405,
     "week_start": 1782822234,
-    "total_seconds": 243
+    "total_seconds": 405
   },
   "x_enzo": {
     "week_seconds": 0,
