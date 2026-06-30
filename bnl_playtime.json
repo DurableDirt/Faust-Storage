@@ -1790,9 +1790,9 @@
     "total_seconds": 4286
   },
   "battleofsky": {
-    "week_seconds": 21269,
+    "week_seconds": 30693,
     "week_start": 1782729358,
-    "total_seconds": 131114
+    "total_seconds": 140538
   },
   "lgamant": {
     "week_seconds": 0,
@@ -8670,9 +8670,9 @@
     "total_seconds": 6178
   },
   "obsidian_mike": {
-    "week_seconds": 41221,
+    "week_seconds": 44319,
     "week_start": 1782696958,
-    "total_seconds": 211322
+    "total_seconds": 214420
   },
   "rygysofly": {
     "week_seconds": 0,
@@ -15203,5 +15203,10 @@
     "week_seconds": 390,
     "week_start": 1782858959,
     "total_seconds": 390
+  },
+  "ymgp08": {
+    "week_seconds": 9,
+    "week_start": 1782860827,
+    "total_seconds": 9
   }
 }
