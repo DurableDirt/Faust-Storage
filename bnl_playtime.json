@@ -3295,9 +3295,9 @@
     "total_seconds": 667
   },
   "twinkieexpresss": {
-    "week_seconds": 0,
+    "week_seconds": 5993,
     "week_start": 1782772558,
-    "total_seconds": 151097
+    "total_seconds": 157090
   },
   "senkucola": {
     "week_seconds": 0,
@@ -14715,8 +14715,8 @@
     "total_seconds": 1138
   },
   "can_is_bean": {
-    "week_seconds": 0,
+    "week_seconds": 63,
     "week_start": 1782790429,
-    "total_seconds": 0
+    "total_seconds": 63
   }
 }
