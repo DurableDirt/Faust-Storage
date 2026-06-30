@@ -1240,9 +1240,9 @@
     "total_seconds": 24498
   },
   "mtfuji": {
-    "week_seconds": 35228,
+    "week_seconds": 35262,
     "week_start": 1782704158,
-    "total_seconds": 719006
+    "total_seconds": 719040
   },
   "intelligences": {
     "week_seconds": 3997,
@@ -1650,9 +1650,9 @@
     "total_seconds": 96116
   },
   "virexil": {
-    "week_seconds": 974,
+    "week_seconds": 986,
     "week_start": 1782722158,
-    "total_seconds": 54925
+    "total_seconds": 54937
   },
   "voidvin": {
     "week_seconds": 0,
