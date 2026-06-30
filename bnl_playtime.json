@@ -2370,9 +2370,9 @@
     "total_seconds": 62814
   },
   "jaxkats": {
-    "week_seconds": 0,
+    "week_seconds": 1696,
     "week_start": 1782743758,
-    "total_seconds": 371550
+    "total_seconds": 373246
   },
   "technogameryt": {
     "week_seconds": 0,
@@ -4200,9 +4200,9 @@
     "total_seconds": 258235
   },
   "cissonius": {
-    "week_seconds": 0,
+    "week_seconds": 2144,
     "week_start": 1782842974,
-    "total_seconds": 69524
+    "total_seconds": 71668
   },
   "britishwanderer": {
     "week_seconds": 126,
@@ -15017,6 +15017,11 @@
   "mrcow124": {
     "week_seconds": 0,
     "week_start": 1782848228,
+    "total_seconds": 0
+  },
+  "hikmet_": {
+    "week_seconds": 0,
+    "week_start": 1782848347,
     "total_seconds": 0
   }
 }
