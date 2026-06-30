@@ -60,9 +60,9 @@
     "total_seconds": 62316
   },
   "mitthraw91": {
-    "week_seconds": 53510,
+    "week_seconds": 53685,
     "week_start": 1782686158,
-    "total_seconds": 826056
+    "total_seconds": 826231
   },
   "rainsinger": {
     "week_seconds": 0,
@@ -14962,6 +14962,16 @@
   "snorlaxplayz": {
     "week_seconds": 0,
     "week_start": 1782846239,
+    "total_seconds": 0
+  },
+  "blockgodthethird": {
+    "week_seconds": 0,
+    "week_start": 1782846295,
+    "total_seconds": 0
+  },
+  "u_gawd": {
+    "week_seconds": 0,
+    "week_start": 1782846433,
     "total_seconds": 0
   }
 }
