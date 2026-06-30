@@ -320,9 +320,9 @@
     "total_seconds": 257593
   },
   "skormcel": {
-    "week_seconds": 3025,
+    "week_seconds": 3185,
     "week_start": 1782689758,
-    "total_seconds": 155941
+    "total_seconds": 156101
   },
   "catgifs": {
     "week_seconds": 11295,
@@ -14688,5 +14688,10 @@
     "week_seconds": 48,
     "week_start": 1782784691,
     "total_seconds": 48
+  },
+  "afifaassassinate": {
+    "week_seconds": 0,
+    "week_start": 1782785464,
+    "total_seconds": 0
   }
 }
