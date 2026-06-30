@@ -15130,14 +15130,14 @@
     "total_seconds": 58
   },
   "markercereal": {
-    "week_seconds": 0,
+    "week_seconds": 2630,
     "week_start": 1782853640,
-    "total_seconds": 0
+    "total_seconds": 2630
   },
   "xyogi7": {
-    "week_seconds": 522,
+    "week_seconds": 2250,
     "week_start": 1782853694,
-    "total_seconds": 522
+    "total_seconds": 2250
   },
   "heiiokittylover2": {
     "week_seconds": 88,
@@ -15167,6 +15167,16 @@
   "galaxystar241": {
     "week_seconds": 0,
     "week_start": 1782855952,
+    "total_seconds": 0
+  },
+  "crown_crack": {
+    "week_seconds": 0,
+    "week_start": 1782856264,
+    "total_seconds": 0
+  },
+  "hamsteripro2013": {
+    "week_seconds": 0,
+    "week_start": 1782856293,
     "total_seconds": 0
   }
 }
