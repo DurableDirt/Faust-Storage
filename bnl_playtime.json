@@ -3775,9 +3775,9 @@
     "total_seconds": 3463
   },
   "walleyefish": {
-    "week_seconds": 8952,
+    "week_seconds": 8959,
     "week_start": 1782797758,
-    "total_seconds": 246853
+    "total_seconds": 246860
   },
   "nukinmouse01": {
     "week_seconds": 0,
@@ -14767,6 +14767,11 @@
   "nevd": {
     "week_seconds": 0,
     "week_start": 1782806221,
+    "total_seconds": 0
+  },
+  "entrie": {
+    "week_seconds": 0,
+    "week_start": 1782806402,
     "total_seconds": 0
   }
 }
