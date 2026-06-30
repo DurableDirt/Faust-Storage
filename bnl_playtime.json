@@ -725,9 +725,9 @@
     "total_seconds": 329
   },
   "zzcqmbozz": {
-    "week_seconds": 67700,
+    "week_seconds": 67763,
     "week_start": 1782693358,
-    "total_seconds": 255022
+    "total_seconds": 255085
   },
   "marc_1500": {
     "week_seconds": 22468,
@@ -14770,9 +14770,9 @@
     "total_seconds": 812
   },
   "entrie": {
-    "week_seconds": 2248,
+    "week_seconds": 2380,
     "week_start": 1782806402,
-    "total_seconds": 2248
+    "total_seconds": 2380
   },
   "partipi4a": {
     "week_seconds": 0,
@@ -14780,8 +14780,13 @@
     "total_seconds": 0
   },
   "epicdigger1234": {
-    "week_seconds": 0,
+    "week_seconds": 97,
     "week_start": 1782808766,
+    "total_seconds": 97
+  },
+  "kabclock0": {
+    "week_seconds": 0,
+    "week_start": 1782808871,
     "total_seconds": 0
   }
 }
