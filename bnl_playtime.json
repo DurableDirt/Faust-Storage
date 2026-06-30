@@ -385,9 +385,9 @@
     "total_seconds": 21405
   },
   "opriva": {
-    "week_seconds": 51143,
+    "week_seconds": 54502,
     "week_start": 1782689758,
-    "total_seconds": 249835
+    "total_seconds": 253194
   },
   "kokomiology": {
     "week_seconds": 0,
@@ -15007,6 +15007,11 @@
   "beetza_": {
     "week_seconds": 0,
     "week_start": 1782848007,
+    "total_seconds": 0
+  },
+  "hicham92": {
+    "week_seconds": 0,
+    "week_start": 1782848119,
     "total_seconds": 0
   }
 }
