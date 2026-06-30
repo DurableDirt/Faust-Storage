@@ -5810,9 +5810,9 @@
     "total_seconds": 6272
   },
   "thinker33": {
-    "week_seconds": 156674,
+    "week_seconds": 156910,
     "week_start": 1782361160,
-    "total_seconds": 203886
+    "total_seconds": 204122
   },
   "wolfganglessth3n": {
     "week_seconds": 0,
@@ -15158,5 +15158,10 @@
     "week_seconds": 9,
     "week_start": 1782855283,
     "total_seconds": 9
+  },
+  "igneol": {
+    "week_seconds": 0,
+    "week_start": 1782855550,
+    "total_seconds": 0
   }
 }
