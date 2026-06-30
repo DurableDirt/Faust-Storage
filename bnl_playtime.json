@@ -525,9 +525,9 @@
     "total_seconds": 7709
   },
   "shadno": {
-    "week_seconds": 937,
+    "week_seconds": 1206,
     "week_start": 1782693358,
-    "total_seconds": 378136
+    "total_seconds": 378405
   },
   "hexayn": {
     "week_seconds": 0,
@@ -14280,9 +14280,9 @@
     "total_seconds": 966
   },
   "immediatedescent": {
-    "week_seconds": 3351,
+    "week_seconds": 3352,
     "week_start": 1782748028,
-    "total_seconds": 3351
+    "total_seconds": 3352
   },
   "beyhammer": {
     "week_seconds": 104,
@@ -14633,5 +14633,10 @@
     "week_seconds": 31,
     "week_start": 1782781250,
     "total_seconds": 31
+  },
+  "intuitiveness": {
+    "week_seconds": 0,
+    "week_start": 1782781479,
+    "total_seconds": 0
   }
 }
