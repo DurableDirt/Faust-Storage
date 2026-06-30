@@ -730,9 +730,9 @@
     "total_seconds": 258914
   },
   "marc_1500": {
-    "week_seconds": 22468,
+    "week_seconds": 25605,
     "week_start": 1782693358,
-    "total_seconds": 223034
+    "total_seconds": 226171
   },
   "zipjaw3979": {
     "week_seconds": 0,
@@ -1450,9 +1450,9 @@
     "total_seconds": 37397
   },
   "xenoum": {
-    "week_seconds": 8330,
+    "week_seconds": 10313,
     "week_start": 1782711358,
-    "total_seconds": 174223
+    "total_seconds": 176206
   },
   "earrthfall": {
     "week_seconds": 0,
@@ -4275,9 +4275,9 @@
     "total_seconds": 103
   },
   "dark_ffc": {
-    "week_seconds": 0,
+    "week_seconds": 1960,
     "week_start": 1782846574,
-    "total_seconds": 93995
+    "total_seconds": 95955
   },
   "legodanielgo67": {
     "week_seconds": 0,
@@ -15043,5 +15043,10 @@
     "week_seconds": 38,
     "week_start": 1782849013,
     "total_seconds": 38
+  },
+  "provensis": {
+    "week_seconds": 0,
+    "week_start": 1782849828,
+    "total_seconds": 0
   }
 }
