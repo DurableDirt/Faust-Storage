@@ -8475,9 +8475,9 @@
     "total_seconds": 14084
   },
   "butter_villager": {
-    "week_seconds": 68,
+    "week_seconds": 411,
     "week_start": 1782678958,
-    "total_seconds": 24281
+    "total_seconds": 24624
   },
   "highjaco123": {
     "week_seconds": 0,
@@ -15903,5 +15903,10 @@
     "week_seconds": 382,
     "week_start": 1782945724,
     "total_seconds": 382
+  },
+  "moonhorison": {
+    "week_seconds": 0,
+    "week_start": 1782947365,
+    "total_seconds": 0
   }
 }
