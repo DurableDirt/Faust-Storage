@@ -15710,9 +15710,9 @@
     "total_seconds": 99
   },
   "plumtesteryt": {
-    "week_seconds": 1585,
+    "week_seconds": 1587,
     "week_start": 1782926412,
-    "total_seconds": 1585
+    "total_seconds": 1587
   },
   "ljnotwafl": {
     "week_seconds": 537,
@@ -15827,6 +15827,11 @@
   "bearking158": {
     "week_seconds": 0,
     "week_start": 1782935058,
+    "total_seconds": 0
+  },
+  "webendia303": {
+    "week_seconds": 0,
+    "week_start": 1782935365,
     "total_seconds": 0
   }
 }
