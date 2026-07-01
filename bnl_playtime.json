@@ -2995,9 +2995,9 @@
     "total_seconds": 128041
   },
   "theoneofthevoid": {
-    "week_seconds": 6868,
+    "week_seconds": 7233,
     "week_start": 1782765358,
-    "total_seconds": 72428
+    "total_seconds": 72793
   },
   "t0ast_realtoast": {
     "week_seconds": 0,
@@ -4445,9 +4445,9 @@
     "total_seconds": 118087
   },
   "blackoutknight": {
-    "week_seconds": 0,
+    "week_seconds": 737,
     "week_start": 1782853774,
-    "total_seconds": 7732
+    "total_seconds": 8469
   },
   "xbitzl": {
     "week_seconds": 0,
@@ -15622,6 +15622,11 @@
   "yacine_aitk": {
     "week_seconds": 0,
     "week_start": 1782919713,
+    "total_seconds": 0
+  },
+  "zerocraftsman": {
+    "week_seconds": 0,
+    "week_start": 1782919808,
     "total_seconds": 0
   }
 }
