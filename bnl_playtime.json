@@ -1580,9 +1580,9 @@
     "total_seconds": 313239
   },
   "gobblin": {
-    "week_seconds": 23552,
+    "week_seconds": 24492,
     "week_start": 1782718558,
-    "total_seconds": 152522
+    "total_seconds": 153462
   },
   "vlinar": {
     "week_seconds": 0,
@@ -15455,9 +15455,9 @@
     "total_seconds": 9
   },
   "urukhaithijs250": {
-    "week_seconds": 1256,
+    "week_seconds": 3317,
     "week_start": 1782898749,
-    "total_seconds": 1256
+    "total_seconds": 3317
   },
   "konifr": {
     "week_seconds": 346,
