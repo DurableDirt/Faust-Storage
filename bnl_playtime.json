@@ -285,9 +285,9 @@
     "total_seconds": 161886
   },
   "mechanicalrift": {
-    "week_seconds": 49774,
+    "week_seconds": 49804,
     "week_start": 1782689758,
-    "total_seconds": 521097
+    "total_seconds": 521127
   },
   "aguscon": {
     "week_seconds": 0,
@@ -3905,9 +3905,9 @@
     "total_seconds": 206
   },
   "kinghasantheone": {
-    "week_seconds": 5298,
+    "week_seconds": 12374,
     "week_start": 1782812158,
-    "total_seconds": 483476
+    "total_seconds": 490552
   },
   "stefanmakker": {
     "week_seconds": 0,
@@ -15805,9 +15805,9 @@
     "total_seconds": 48
   },
   "frescah": {
-    "week_seconds": 1449,
+    "week_seconds": 2157,
     "week_start": 1782934395,
-    "total_seconds": 1449
+    "total_seconds": 2157
   },
   "ancestorofthesun": {
     "week_seconds": 19,
@@ -15845,8 +15845,8 @@
     "total_seconds": 94
   },
   "1anxious": {
-    "week_seconds": 0,
+    "week_seconds": 262,
     "week_start": 1782936409,
-    "total_seconds": 0
+    "total_seconds": 262
   }
 }
