@@ -8895,9 +8895,9 @@
     "total_seconds": 43
   },
   "faseplay": {
-    "week_seconds": 47674,
+    "week_seconds": 49363,
     "week_start": 1782729358,
-    "total_seconds": 266887
+    "total_seconds": 268576
   },
   "jaskowanie": {
     "week_seconds": 0,
@@ -15628,5 +15628,10 @@
     "week_seconds": 49,
     "week_start": 1782919808,
     "total_seconds": 49
+  },
+  "dawciu13811": {
+    "week_seconds": 0,
+    "week_start": 1782920123,
+    "total_seconds": 0
   }
 }
