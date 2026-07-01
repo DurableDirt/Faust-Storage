@@ -445,9 +445,9 @@
     "total_seconds": 133821
   },
   "iron600": {
-    "week_seconds": 68885,
+    "week_seconds": 69383,
     "week_start": 1782689758,
-    "total_seconds": 441908
+    "total_seconds": 442406
   },
   "mrtnt1925": {
     "week_seconds": 41159,
@@ -8745,9 +8745,9 @@
     "total_seconds": 1044
   },
   "poolpartycolin": {
-    "week_seconds": 18266,
+    "week_seconds": 22923,
     "week_start": 1782704158,
-    "total_seconds": 32676
+    "total_seconds": 37333
   },
   "notduffy": {
     "week_seconds": 19655,
@@ -15910,8 +15910,8 @@
     "total_seconds": 0
   },
   "benitofriskito": {
-    "week_seconds": 0,
+    "week_seconds": 340,
     "week_start": 1782947497,
-    "total_seconds": 0
+    "total_seconds": 340
   }
 }
