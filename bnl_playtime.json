@@ -3435,9 +3435,9 @@
     "total_seconds": 10528
   },
   "huskydog9988": {
-    "week_seconds": 5264,
+    "week_seconds": 5341,
     "week_start": 1782779758,
-    "total_seconds": 167586
+    "total_seconds": 167663
   },
   "jromeasfsniper": {
     "week_seconds": 0,
@@ -6765,9 +6765,9 @@
     "total_seconds": 14121
   },
   "gabrielmaennl5": {
-    "week_seconds": 108431,
+    "week_seconds": 108783,
     "week_start": 1782461960,
-    "total_seconds": 215936
+    "total_seconds": 216288
   },
   "big_shadow0": {
     "week_seconds": 826,
@@ -15685,8 +15685,13 @@
     "total_seconds": 18
   },
   "supermc1": {
-    "week_seconds": 0,
+    "week_seconds": 98,
     "week_start": 1782925466,
+    "total_seconds": 98
+  },
+  "felfit_92": {
+    "week_seconds": 0,
+    "week_start": 1782925560,
     "total_seconds": 0
   }
 }
