@@ -15070,9 +15070,9 @@
     "total_seconds": 4652
   },
   "greltam": {
-    "week_seconds": 88572,
+    "week_seconds": 92873,
     "week_start": 1782850563,
-    "total_seconds": 88572
+    "total_seconds": 92873
   },
   "bluedragonthe1st": {
     "week_seconds": 156,
@@ -15730,9 +15730,9 @@
     "total_seconds": 458
   },
   "minigunmaster4": {
-    "week_seconds": 953,
+    "week_seconds": 1893,
     "week_start": 1782927058,
-    "total_seconds": 953
+    "total_seconds": 1893
   },
   "cog_o_war": {
     "week_seconds": 4062,
@@ -15907,6 +15907,11 @@
   "moonhorison": {
     "week_seconds": 0,
     "week_start": 1782947365,
+    "total_seconds": 0
+  },
+  "benitofriskito": {
+    "week_seconds": 0,
+    "week_start": 1782947497,
     "total_seconds": 0
   }
 }
