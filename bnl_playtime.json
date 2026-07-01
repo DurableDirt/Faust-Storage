@@ -285,9 +285,9 @@
     "total_seconds": 161886
   },
   "mechanicalrift": {
-    "week_seconds": 51714,
+    "week_seconds": 51792,
     "week_start": 1782689758,
-    "total_seconds": 523037
+    "total_seconds": 523115
   },
   "aguscon": {
     "week_seconds": 0,
@@ -13800,9 +13800,9 @@
     "total_seconds": 1972
   },
   "wormseed": {
-    "week_seconds": 7625,
+    "week_seconds": 7647,
     "week_start": 1782680928,
-    "total_seconds": 7625
+    "total_seconds": 7647
   },
   "spiderition": {
     "week_seconds": 376,
