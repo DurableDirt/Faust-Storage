@@ -3625,9 +3625,9 @@
     "total_seconds": 11243
   },
   "madrafe1": {
-    "week_seconds": 0,
+    "week_seconds": 2466,
     "week_start": 1782786958,
-    "total_seconds": 161260
+    "total_seconds": 163726
   },
   "realmichael": {
     "week_seconds": 0,
@@ -15533,5 +15533,15 @@
     "week_seconds": 90,
     "week_start": 1782914461,
     "total_seconds": 90
+  },
+  "hyper500": {
+    "week_seconds": 0,
+    "week_start": 1782915265,
+    "total_seconds": 0
+  },
+  "simo5126": {
+    "week_seconds": 0,
+    "week_start": 1782915284,
+    "total_seconds": 0
   }
 }
