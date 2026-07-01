@@ -90,9 +90,9 @@
     "total_seconds": 129391
   },
   "chips_and_salsa_": {
-    "week_seconds": 6508,
+    "week_seconds": 9173,
     "week_start": 1782686158,
-    "total_seconds": 149004
+    "total_seconds": 151669
   },
   "booger_godslayer": {
     "week_seconds": 0,
@@ -8850,9 +8850,9 @@
     "total_seconds": 4556
   },
   "vickypere": {
-    "week_seconds": 0,
+    "week_seconds": 62,
     "week_start": 1782722158,
-    "total_seconds": 4788
+    "total_seconds": 4850
   },
   "trulyareal": {
     "week_seconds": 1,
@@ -15618,5 +15618,10 @@
     "week_seconds": 150,
     "week_start": 1782919334,
     "total_seconds": 150
+  },
+  "yacine_aitk": {
+    "week_seconds": 0,
+    "week_start": 1782919713,
+    "total_seconds": 0
   }
 }
