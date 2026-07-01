@@ -285,9 +285,9 @@
     "total_seconds": 161886
   },
   "mechanicalrift": {
-    "week_seconds": 51264,
+    "week_seconds": 51322,
     "week_start": 1782689758,
-    "total_seconds": 522587
+    "total_seconds": 522645
   },
   "aguscon": {
     "week_seconds": 0,
@@ -770,9 +770,9 @@
     "total_seconds": 4059
   },
   "nextstian": {
-    "week_seconds": 0,
+    "week_seconds": 168,
     "week_start": 1782696958,
-    "total_seconds": 64
+    "total_seconds": 232
   },
   "deskjockey": {
     "week_seconds": 10059,
