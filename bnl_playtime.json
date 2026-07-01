@@ -285,9 +285,9 @@
     "total_seconds": 161886
   },
   "mechanicalrift": {
-    "week_seconds": 57473,
+    "week_seconds": 59905,
     "week_start": 1782689758,
-    "total_seconds": 528796
+    "total_seconds": 531228
   },
   "aguscon": {
     "week_seconds": 0,
@@ -15917,6 +15917,16 @@
   "shadowninjaad": {
     "week_seconds": 0,
     "week_start": 1782949596,
+    "total_seconds": 0
+  },
+  "rainegraves": {
+    "week_seconds": 0,
+    "week_start": 1782949676,
+    "total_seconds": 0
+  },
+  "mumei49": {
+    "week_seconds": 0,
+    "week_start": 1782949713,
     "total_seconds": 0
   }
 }
