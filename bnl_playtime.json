@@ -285,9 +285,9 @@
     "total_seconds": 161886
   },
   "mechanicalrift": {
-    "week_seconds": 47665,
+    "week_seconds": 47788,
     "week_start": 1782689758,
-    "total_seconds": 518988
+    "total_seconds": 519111
   },
   "aguscon": {
     "week_seconds": 0,
@@ -2410,9 +2410,9 @@
     "total_seconds": 758
   },
   "tuomasz_": {
-    "week_seconds": 53114,
+    "week_seconds": 66823,
     "week_start": 1782747358,
-    "total_seconds": 100524
+    "total_seconds": 114233
   },
   "sml128": {
     "week_seconds": 14131,
@@ -7445,9 +7445,9 @@
     "total_seconds": 830
   },
   "_sublim3": {
-    "week_seconds": 19195,
+    "week_seconds": 20360,
     "week_start": 1782542158,
-    "total_seconds": 24668
+    "total_seconds": 25833
   },
   "sigmaguy83297": {
     "week_seconds": 0,
@@ -7710,9 +7710,9 @@
     "total_seconds": 22087
   },
   "gladiatus13": {
-    "week_seconds": 132718,
+    "week_seconds": 144626,
     "week_start": 1782578158,
-    "total_seconds": 287481
+    "total_seconds": 299389
   },
   "dark_phoenixs": {
     "week_seconds": 0,
@@ -15797,6 +15797,11 @@
   "foughel": {
     "week_seconds": 0,
     "week_start": 1782934212,
+    "total_seconds": 0
+  },
+  "iams0me1": {
+    "week_seconds": 0,
+    "week_start": 1782934281,
     "total_seconds": 0
   }
 }
