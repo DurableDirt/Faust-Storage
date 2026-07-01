@@ -285,9 +285,9 @@
     "total_seconds": 159891
   },
   "mechanicalrift": {
-    "week_seconds": 31414,
+    "week_seconds": 31444,
     "week_start": 1782689758,
-    "total_seconds": 502737
+    "total_seconds": 502767
   },
   "aguscon": {
     "week_seconds": 0,
@@ -1175,9 +1175,9 @@
     "total_seconds": 251267
   },
   "astralchroma": {
-    "week_seconds": 25188,
+    "week_seconds": 25206,
     "week_start": 1782700558,
-    "total_seconds": 391211
+    "total_seconds": 391229
   },
   "kingstell": {
     "week_seconds": 1726,
@@ -15265,13 +15265,18 @@
     "total_seconds": 164
   },
   "slipyally": {
-    "week_seconds": 5,
+    "week_seconds": 8,
     "week_start": 1782867213,
-    "total_seconds": 5
+    "total_seconds": 8
   },
   "_gooby_goob_": {
     "week_seconds": 0,
     "week_start": 1782867220,
+    "total_seconds": 0
+  },
+  "carrere_games": {
+    "week_seconds": 0,
+    "week_start": 1782867249,
     "total_seconds": 0
   }
 }
