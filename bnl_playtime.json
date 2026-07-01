@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 33143,
+    "week_seconds": 33157,
     "week_start": 1782732958,
-    "total_seconds": 264320
+    "total_seconds": 264334
   },
   "hxrl": {
     "week_seconds": 21675,
@@ -15850,8 +15850,8 @@
     "total_seconds": 262
   },
   "waterhoodx": {
-    "week_seconds": 0,
+    "week_seconds": 87,
     "week_start": 1782937355,
-    "total_seconds": 0
+    "total_seconds": 87
   }
 }
