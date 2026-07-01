@@ -3435,9 +3435,9 @@
     "total_seconds": 10528
   },
   "huskydog9988": {
-    "week_seconds": 4593,
+    "week_seconds": 5264,
     "week_start": 1782779758,
-    "total_seconds": 166915
+    "total_seconds": 167586
   },
   "jromeasfsniper": {
     "week_seconds": 0,
@@ -15683,5 +15683,10 @@
     "week_seconds": 18,
     "week_start": 1782924968,
     "total_seconds": 18
+  },
+  "supermc1": {
+    "week_seconds": 0,
+    "week_start": 1782925466,
+    "total_seconds": 0
   }
 }
