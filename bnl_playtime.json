@@ -2320,9 +2320,9 @@
     "total_seconds": 120
   },
   "yiantrk": {
-    "week_seconds": 9084,
+    "week_seconds": 9112,
     "week_start": 1782743758,
-    "total_seconds": 17167
+    "total_seconds": 17195
   },
   "bluechickpro": {
     "week_seconds": 927,
@@ -4025,9 +4025,9 @@
     "total_seconds": 18689
   },
   "tactihawk": {
-    "week_seconds": 30688,
+    "week_seconds": 36058,
     "week_start": 1782842974,
-    "total_seconds": 259734
+    "total_seconds": 265104
   },
   "_1_m": {
     "week_seconds": 0,
@@ -15580,8 +15580,8 @@
     "total_seconds": 0
   },
   "ansy": {
-    "week_seconds": 0,
+    "week_seconds": 245,
     "week_start": 1782917246,
-    "total_seconds": 0
+    "total_seconds": 245
   }
 }
