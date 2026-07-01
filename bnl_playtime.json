@@ -555,9 +555,9 @@
     "total_seconds": 158
   },
   "zolo17": {
-    "week_seconds": 144409,
+    "week_seconds": 145066,
     "week_start": 1782693358,
-    "total_seconds": 1076886
+    "total_seconds": 1077543
   },
   "dutchcringe": {
     "week_seconds": 0,
@@ -2630,9 +2630,9 @@
     "total_seconds": 147905
   },
   "joldidk": {
-    "week_seconds": 8511,
+    "week_seconds": 9556,
     "week_start": 1782750958,
-    "total_seconds": 174017
+    "total_seconds": 175062
   },
   "hegghogaming": {
     "week_seconds": 0,
@@ -15325,9 +15325,9 @@
     "total_seconds": 399
   },
   "pollennote": {
-    "week_seconds": 0,
+    "week_seconds": 1283,
     "week_start": 1782871963,
-    "total_seconds": 0
+    "total_seconds": 1283
   },
   "pepsllord": {
     "week_seconds": 631,
@@ -15338,5 +15338,10 @@
     "week_seconds": 200,
     "week_start": 1782872607,
     "total_seconds": 200
+  },
+  "dippyknuckles": {
+    "week_seconds": 0,
+    "week_start": 1782873171,
+    "total_seconds": 0
   }
 }
