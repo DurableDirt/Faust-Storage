@@ -285,9 +285,9 @@
     "total_seconds": 159891
   },
   "mechanicalrift": {
-    "week_seconds": 31914,
+    "week_seconds": 32241,
     "week_start": 1782689758,
-    "total_seconds": 503237
+    "total_seconds": 503564
   },
   "aguscon": {
     "week_seconds": 0,
@@ -15150,9 +15150,9 @@
     "total_seconds": 5397
   },
   "slightlycringe": {
-    "week_seconds": 10622,
+    "week_seconds": 10909,
     "week_start": 1782854553,
-    "total_seconds": 10622
+    "total_seconds": 10909
   },
   "haitzs": {
     "week_seconds": 2123,
@@ -15283,5 +15283,10 @@
     "week_seconds": 6,
     "week_start": 1782867655,
     "total_seconds": 6
+  },
+  "trashmen": {
+    "week_seconds": 0,
+    "week_start": 1782868065,
+    "total_seconds": 0
   }
 }
