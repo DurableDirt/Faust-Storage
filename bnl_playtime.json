@@ -195,9 +195,9 @@
     "total_seconds": 263737
   },
   "262i": {
-    "week_seconds": 6671,
+    "week_seconds": 6846,
     "week_start": 1782689758,
-    "total_seconds": 216407
+    "total_seconds": 216582
   },
   "jalhf": {
     "week_seconds": 0,
@@ -9600,9 +9600,9 @@
     "total_seconds": 52344
   },
   "frickin_sausage": {
-    "week_seconds": 1549,
+    "week_seconds": 1669,
     "week_start": 1782804958,
-    "total_seconds": 4312
+    "total_seconds": 4432
   },
   "wolfishsmile": {
     "week_seconds": 0,
@@ -15563,5 +15563,15 @@
     "week_seconds": 52,
     "week_start": 1782916017,
     "total_seconds": 52
+  },
+  "osliderr": {
+    "week_seconds": 0,
+    "week_start": 1782916169,
+    "total_seconds": 0
+  },
+  "p1xels_": {
+    "week_seconds": 33,
+    "week_start": 1782916182,
+    "total_seconds": 33
   }
 }
