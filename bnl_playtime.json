@@ -285,9 +285,9 @@
     "total_seconds": 161886
   },
   "mechanicalrift": {
-    "week_seconds": 47829,
+    "week_seconds": 47864,
     "week_start": 1782689758,
-    "total_seconds": 519152
+    "total_seconds": 519187
   },
   "aguscon": {
     "week_seconds": 0,
@@ -2045,9 +2045,9 @@
     "total_seconds": 390255
   },
   "nareik01": {
-    "week_seconds": 0,
+    "week_seconds": 1423,
     "week_start": 1782736558,
-    "total_seconds": 53397
+    "total_seconds": 54820
   },
   "busy_donut": {
     "week_seconds": 10336,
@@ -3220,9 +3220,9 @@
     "total_seconds": 107934
   },
   "mannami": {
-    "week_seconds": 30669,
+    "week_seconds": 39115,
     "week_start": 1782772558,
-    "total_seconds": 164845
+    "total_seconds": 173291
   },
   "pixitchi_o3o": {
     "week_seconds": 5341,
@@ -5465,9 +5465,9 @@
     "total_seconds": 260
   },
   "bluben12": {
-    "week_seconds": 23424,
+    "week_seconds": 23882,
     "week_start": 1782332360,
-    "total_seconds": 25359
+    "total_seconds": 25817
   },
   "quinnyvt2": {
     "week_seconds": 0,
@@ -15803,5 +15803,10 @@
     "week_seconds": 48,
     "week_start": 1782934281,
     "total_seconds": 48
+  },
+  "frescah": {
+    "week_seconds": 0,
+    "week_start": 1782934395,
+    "total_seconds": 0
   }
 }
