@@ -1750,14 +1750,14 @@
     "total_seconds": 475985
   },
   "stavros_ell": {
-    "week_seconds": 15277,
+    "week_seconds": 21984,
     "week_start": 1782725758,
-    "total_seconds": 118891
+    "total_seconds": 125598
   },
   "facocero09": {
-    "week_seconds": 20140,
+    "week_seconds": 20170,
     "week_start": 1782725758,
-    "total_seconds": 345342
+    "total_seconds": 345372
   },
   "happyfeet4607": {
     "week_seconds": 0,
@@ -3765,9 +3765,9 @@
     "total_seconds": 57392
   },
   "fallen_screw": {
-    "week_seconds": 33703,
+    "week_seconds": 35503,
     "week_start": 1782797758,
-    "total_seconds": 277067
+    "total_seconds": 278867
   },
   "porterpore9": {
     "week_seconds": 0,
@@ -15730,13 +15730,18 @@
     "total_seconds": 113
   },
   "minigunmaster4": {
-    "week_seconds": 0,
+    "week_seconds": 634,
     "week_start": 1782927058,
-    "total_seconds": 0
+    "total_seconds": 634
   },
   "cog_o_war": {
     "week_seconds": 0,
     "week_start": 1782927468,
+    "total_seconds": 0
+  },
+  "xxcheappicklexx": {
+    "week_seconds": 0,
+    "week_start": 1782927683,
     "total_seconds": 0
   }
 }
