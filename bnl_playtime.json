@@ -285,9 +285,9 @@
     "total_seconds": 161886
   },
   "mechanicalrift": {
-    "week_seconds": 40523,
+    "week_seconds": 40544,
     "week_start": 1782689758,
-    "total_seconds": 511846
+    "total_seconds": 511867
   },
   "aguscon": {
     "week_seconds": 0,
@@ -15710,14 +15710,14 @@
     "total_seconds": 99
   },
   "plumtesteryt": {
-    "week_seconds": 0,
+    "week_seconds": 628,
     "week_start": 1782926412,
-    "total_seconds": 0
+    "total_seconds": 628
   },
   "ljnotwafl": {
-    "week_seconds": 441,
+    "week_seconds": 537,
     "week_start": 1782926499,
-    "total_seconds": 441
+    "total_seconds": 537
   },
   "breadedsandwich": {
     "week_seconds": 0,
@@ -15727,6 +15727,11 @@
   "bloonsmaster23": {
     "week_seconds": 0,
     "week_start": 1782927026,
+    "total_seconds": 0
+  },
+  "minigunmaster4": {
+    "week_seconds": 0,
+    "week_start": 1782927058,
     "total_seconds": 0
   }
 }
