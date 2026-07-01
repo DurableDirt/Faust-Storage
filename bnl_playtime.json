@@ -155,9 +155,9 @@
     "total_seconds": 82014
   },
   "lightningboi4": {
-    "week_seconds": 64456,
+    "week_seconds": 65186,
     "week_start": 1782689758,
-    "total_seconds": 452449
+    "total_seconds": 453179
   },
   "aaroni_macaroni": {
     "week_seconds": 0,
@@ -15408,5 +15408,10 @@
     "week_seconds": 1054,
     "week_start": 1782880858,
     "total_seconds": 1054
+  },
+  "db_ibrahim44": {
+    "week_seconds": 0,
+    "week_start": 1782884219,
+    "total_seconds": 0
   }
 }
