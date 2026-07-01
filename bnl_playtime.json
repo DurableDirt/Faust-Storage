@@ -4445,9 +4445,9 @@
     "total_seconds": 118087
   },
   "blackoutknight": {
-    "week_seconds": 737,
+    "week_seconds": 763,
     "week_start": 1782853774,
-    "total_seconds": 8469
+    "total_seconds": 8495
   },
   "xbitzl": {
     "week_seconds": 0,
@@ -15625,8 +15625,8 @@
     "total_seconds": 0
   },
   "zerocraftsman": {
-    "week_seconds": 0,
+    "week_seconds": 49,
     "week_start": 1782919808,
-    "total_seconds": 0
+    "total_seconds": 49
   }
 }
