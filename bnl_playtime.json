@@ -6180,9 +6180,9 @@
     "total_seconds": 49
   },
   "pinkphantxm": {
-    "week_seconds": 88423,
+    "week_seconds": 88470,
     "week_start": 1782411560,
-    "total_seconds": 205574
+    "total_seconds": 205621
   },
   "supersameee": {
     "week_seconds": 0,
@@ -15518,5 +15518,10 @@
     "week_seconds": 5,
     "week_start": 1782911411,
     "total_seconds": 5
+  },
+  "bariees": {
+    "week_seconds": 21,
+    "week_start": 1782912571,
+    "total_seconds": 21
   }
 }
