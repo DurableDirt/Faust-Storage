@@ -1825,9 +1825,9 @@
     "total_seconds": 767
   },
   "castorguy": {
-    "week_seconds": 31246,
+    "week_seconds": 41197,
     "week_start": 1782729358,
-    "total_seconds": 210551
+    "total_seconds": 220502
   },
   "yinz001": {
     "week_seconds": 20731,
@@ -15438,5 +15438,10 @@
     "week_seconds": 32,
     "week_start": 1782892215,
     "total_seconds": 32
+  },
+  "daundertaker": {
+    "week_seconds": 30,
+    "week_start": 1782895560,
+    "total_seconds": 30
   }
 }
