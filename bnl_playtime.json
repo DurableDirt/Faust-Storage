@@ -1450,9 +1450,9 @@
     "total_seconds": 37397
   },
   "xenoum": {
-    "week_seconds": 10313,
+    "week_seconds": 10584,
     "week_start": 1782711358,
-    "total_seconds": 176206
+    "total_seconds": 176477
   },
   "earrthfall": {
     "week_seconds": 0,
@@ -15480,9 +15480,9 @@
     "total_seconds": 57
   },
   "misterlukkii": {
-    "week_seconds": 789,
+    "week_seconds": 1545,
     "week_start": 1782905866,
-    "total_seconds": 789
+    "total_seconds": 1545
   },
   "redeye7272": {
     "week_seconds": 587,
@@ -15523,5 +15523,10 @@
     "week_seconds": 21,
     "week_start": 1782912571,
     "total_seconds": 21
+  },
+  "probably_teal": {
+    "week_seconds": 0,
+    "week_start": 1782912806,
+    "total_seconds": 0
   }
 }
