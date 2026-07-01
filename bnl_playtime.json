@@ -155,9 +155,9 @@
     "total_seconds": 93375
   },
   "lightningboi4": {
-    "week_seconds": 65323,
+    "week_seconds": 73423,
     "week_start": 1782689758,
-    "total_seconds": 453316
+    "total_seconds": 461416
   },
   "aaroni_macaroni": {
     "week_seconds": 0,
@@ -285,9 +285,9 @@
     "total_seconds": 161886
   },
   "mechanicalrift": {
-    "week_seconds": 47488,
+    "week_seconds": 47536,
     "week_start": 1782689758,
-    "total_seconds": 518811
+    "total_seconds": 518859
   },
   "aguscon": {
     "week_seconds": 0,
@@ -15790,8 +15790,8 @@
     "total_seconds": 1
   },
   "turtle_is_tobi": {
-    "week_seconds": 0,
+    "week_seconds": 56,
     "week_start": 1782933965,
-    "total_seconds": 0
+    "total_seconds": 56
   }
 }
