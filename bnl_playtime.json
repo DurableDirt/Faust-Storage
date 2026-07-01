@@ -285,9 +285,9 @@
     "total_seconds": 161886
   },
   "mechanicalrift": {
-    "week_seconds": 47428,
+    "week_seconds": 47488,
     "week_start": 1782689758,
-    "total_seconds": 518751
+    "total_seconds": 518811
   },
   "aguscon": {
     "week_seconds": 0,
@@ -3135,9 +3135,9 @@
     "total_seconds": 49489
   },
   "stashman1780": {
-    "week_seconds": 11853,
+    "week_seconds": 23308,
     "week_start": 1782768958,
-    "total_seconds": 422641
+    "total_seconds": 434096
   },
   "cokebrothers12": {
     "week_seconds": 0,
@@ -15788,5 +15788,10 @@
     "week_seconds": 1,
     "week_start": 1782933686,
     "total_seconds": 1
+  },
+  "turtle_is_tobi": {
+    "week_seconds": 0,
+    "week_start": 1782933965,
+    "total_seconds": 0
   }
 }
