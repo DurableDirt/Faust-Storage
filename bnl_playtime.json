@@ -15665,8 +15665,13 @@
     "total_seconds": 0
   },
   "_hurr": {
-    "week_seconds": 0,
+    "week_seconds": 146,
     "week_start": 1782924520,
+    "total_seconds": 146
+  },
+  "not_a_grape": {
+    "week_seconds": 0,
+    "week_start": 1782924685,
     "total_seconds": 0
   }
 }
