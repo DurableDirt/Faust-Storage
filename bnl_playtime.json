@@ -7085,9 +7085,9 @@
     "total_seconds": 5972
   },
   "ja_c0b": {
-    "week_seconds": 15531,
+    "week_seconds": 15817,
     "week_start": 1782501560,
-    "total_seconds": 45827
+    "total_seconds": 46113
   },
   "0nightshadow0": {
     "week_seconds": 0,
@@ -15492,6 +15492,11 @@
   "donald1167": {
     "week_seconds": 0,
     "week_start": 1782908092,
+    "total_seconds": 0
+  },
+  "yodevia": {
+    "week_seconds": 0,
+    "week_start": 1782909014,
     "total_seconds": 0
   }
 }
