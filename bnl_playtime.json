@@ -285,9 +285,9 @@
     "total_seconds": 161886
   },
   "mechanicalrift": {
-    "week_seconds": 53604,
+    "week_seconds": 53637,
     "week_start": 1782689758,
-    "total_seconds": 524927
+    "total_seconds": 524960
   },
   "aguscon": {
     "week_seconds": 0,
@@ -4475,9 +4475,9 @@
     "total_seconds": 2693
   },
   "raeders": {
-    "week_seconds": 29296,
+    "week_seconds": 29446,
     "week_start": 1782853774,
-    "total_seconds": 240525
+    "total_seconds": 240675
   },
   "alphatrom3041": {
     "week_seconds": 0,
@@ -15883,5 +15883,10 @@
     "week_seconds": 481,
     "week_start": 1782939736,
     "total_seconds": 481
+  },
+  "tendersphinx": {
+    "week_seconds": 0,
+    "week_start": 1782943363,
+    "total_seconds": 0
   }
 }
