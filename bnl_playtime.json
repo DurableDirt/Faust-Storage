@@ -10,9 +10,9 @@
     "total_seconds": 4
   },
   "logic_man": {
-    "week_seconds": 60471,
+    "week_seconds": 60542,
     "week_start": 1782686158,
-    "total_seconds": 314305
+    "total_seconds": 314376
   },
   "dragran": {
     "week_seconds": 180313,
@@ -7650,9 +7650,9 @@
     "total_seconds": 1029
   },
   "chronoswilson": {
-    "week_seconds": 82362,
+    "week_seconds": 82768,
     "week_start": 1782570958,
-    "total_seconds": 219456
+    "total_seconds": 219862
   },
   "sabife": {
     "week_seconds": 0,
