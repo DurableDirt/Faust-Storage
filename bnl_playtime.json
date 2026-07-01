@@ -3250,9 +3250,9 @@
     "total_seconds": 11169
   },
   "vilyanz": {
-    "week_seconds": 0,
+    "week_seconds": 2638,
     "week_start": 1782772558,
-    "total_seconds": 25123
+    "total_seconds": 27761
   },
   "mickale": {
     "week_seconds": 9161,
@@ -15928,5 +15928,10 @@
     "week_seconds": 5,
     "week_start": 1782949713,
     "total_seconds": 5
+  },
+  "sv2lynxqcr": {
+    "week_seconds": 0,
+    "week_start": 1782950341,
+    "total_seconds": 0
   }
 }
