@@ -15,9 +15,9 @@
     "total_seconds": 300418
   },
   "dragran": {
-    "week_seconds": 112200,
+    "week_seconds": 116623,
     "week_start": 1782686158,
-    "total_seconds": 873957
+    "total_seconds": 878380
   },
   "turkishflavour": {
     "week_seconds": 0,
@@ -285,9 +285,9 @@
     "total_seconds": 161683
   },
   "mechanicalrift": {
-    "week_seconds": 36124,
+    "week_seconds": 36216,
     "week_start": 1782689758,
-    "total_seconds": 507447
+    "total_seconds": 507539
   },
   "aguscon": {
     "week_seconds": 0,
@@ -4780,9 +4780,9 @@
     "total_seconds": 168734
   },
   "holisticjalapeno": {
-    "week_seconds": 0,
+    "week_seconds": 441,
     "week_start": 1782267560,
-    "total_seconds": 8666
+    "total_seconds": 9107
   },
   "unreadi": {
     "week_seconds": 51156,
@@ -15335,8 +15335,8 @@
     "total_seconds": 631
   },
   "hazelnutonmc": {
-    "week_seconds": 0,
+    "week_seconds": 200,
     "week_start": 1782872607,
-    "total_seconds": 0
+    "total_seconds": 200
   }
 }
