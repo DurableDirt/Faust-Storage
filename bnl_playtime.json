@@ -60,9 +60,9 @@
     "total_seconds": 62316
   },
   "mitthraw91": {
-    "week_seconds": 95089,
+    "week_seconds": 95255,
     "week_start": 1782686158,
-    "total_seconds": 867635
+    "total_seconds": 867801
   },
   "rainsinger": {
     "week_seconds": 0,
@@ -885,9 +885,9 @@
     "total_seconds": 3443
   },
   "espec17": {
-    "week_seconds": 21227,
+    "week_seconds": 21313,
     "week_start": 1782696958,
-    "total_seconds": 91901
+    "total_seconds": 91987
   },
   "c32shark": {
     "week_seconds": 10154,
@@ -15750,8 +15750,8 @@
     "total_seconds": 71
   },
   "endfle": {
-    "week_seconds": 0,
+    "week_seconds": 86,
     "week_start": 1782929361,
-    "total_seconds": 0
+    "total_seconds": 86
   }
 }
