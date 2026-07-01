@@ -15345,9 +15345,9 @@
     "total_seconds": 1400
   },
   "chominhngoc": {
-    "week_seconds": 4801,
+    "week_seconds": 5387,
     "week_start": 1782873450,
-    "total_seconds": 4801
+    "total_seconds": 5387
   },
   "notjacks0n_": {
     "week_seconds": 1002,
@@ -15468,5 +15468,10 @@
     "week_seconds": 57,
     "week_start": 1782901481,
     "total_seconds": 57
+  },
+  "mrpseudos": {
+    "week_seconds": 1,
+    "week_start": 1782902316,
+    "total_seconds": 1
   }
 }
