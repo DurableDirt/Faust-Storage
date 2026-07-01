@@ -15480,9 +15480,9 @@
     "total_seconds": 57
   },
   "misterlukkii": {
-    "week_seconds": 1715,
+    "week_seconds": 1778,
     "week_start": 1782905866,
-    "total_seconds": 1715
+    "total_seconds": 1778
   },
   "redeye7272": {
     "week_seconds": 587,
@@ -15548,5 +15548,10 @@
     "week_seconds": 79,
     "week_start": 1782915393,
     "total_seconds": 79
+  },
+  "xxalihamadxx": {
+    "week_seconds": 34,
+    "week_start": 1782915757,
+    "total_seconds": 34
   }
 }
