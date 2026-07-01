@@ -170,9 +170,9 @@
     "total_seconds": 188937
   },
   "snw": {
-    "week_seconds": 0,
+    "week_seconds": 596,
     "week_start": 1782689758,
-    "total_seconds": 72946
+    "total_seconds": 73542
   },
   "therisewarrior16": {
     "week_seconds": 13635,
@@ -15510,8 +15510,8 @@
     "total_seconds": 330
   },
   "nuumeli": {
-    "week_seconds": 0,
+    "week_seconds": 19,
     "week_start": 1782910958,
-    "total_seconds": 0
+    "total_seconds": 19
   }
 }
