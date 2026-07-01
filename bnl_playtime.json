@@ -600,9 +600,9 @@
     "total_seconds": 94362
   },
   "1stampy": {
-    "week_seconds": 7736,
+    "week_seconds": 9150,
     "week_start": 1782693358,
-    "total_seconds": 41685
+    "total_seconds": 43099
   },
   "hak0707": {
     "week_seconds": 0,
@@ -3295,9 +3295,9 @@
     "total_seconds": 667
   },
   "twinkieexpresss": {
-    "week_seconds": 19851,
+    "week_seconds": 20536,
     "week_start": 1782772558,
-    "total_seconds": 170948
+    "total_seconds": 171633
   },
   "senkucola": {
     "week_seconds": 0,
@@ -15150,9 +15150,9 @@
     "total_seconds": 5397
   },
   "slightlycringe": {
-    "week_seconds": 17594,
+    "week_seconds": 18266,
     "week_start": 1782854553,
-    "total_seconds": 17594
+    "total_seconds": 18266
   },
   "haitzs": {
     "week_seconds": 2123,
@@ -15325,9 +15325,9 @@
     "total_seconds": 399
   },
   "pollennote": {
-    "week_seconds": 1283,
+    "week_seconds": 1299,
     "week_start": 1782871963,
-    "total_seconds": 1283
+    "total_seconds": 1299
   },
   "pepsllord": {
     "week_seconds": 631,
@@ -15362,6 +15362,11 @@
   "cool6006": {
     "week_seconds": 0,
     "week_start": 1782875135,
+    "total_seconds": 0
+  },
+  "cattymeow": {
+    "week_seconds": 0,
+    "week_start": 1782875638,
     "total_seconds": 0
   }
 }
