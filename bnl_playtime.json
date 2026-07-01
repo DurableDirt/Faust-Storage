@@ -50,9 +50,9 @@
     "total_seconds": 154384
   },
   "meenos": {
-    "week_seconds": 48688,
+    "week_seconds": 48728,
     "week_start": 1782686158,
-    "total_seconds": 246670
+    "total_seconds": 246710
   },
   "jadenjb": {
     "week_seconds": 2585,
@@ -1735,9 +1735,9 @@
     "total_seconds": 315657
   },
   "mayaafox": {
-    "week_seconds": 17356,
+    "week_seconds": 22610,
     "week_start": 1782725758,
-    "total_seconds": 165248
+    "total_seconds": 170502
   },
   "colorkoded": {
     "week_seconds": 0,
@@ -15925,8 +15925,8 @@
     "total_seconds": 0
   },
   "mumei49": {
-    "week_seconds": 0,
+    "week_seconds": 5,
     "week_start": 1782949713,
-    "total_seconds": 0
+    "total_seconds": 5
   }
 }
