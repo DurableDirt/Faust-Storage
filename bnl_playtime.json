@@ -2295,9 +2295,9 @@
     "total_seconds": 322118
   },
   "stun2845": {
-    "week_seconds": 14491,
+    "week_seconds": 14517,
     "week_start": 1782743758,
-    "total_seconds": 47570
+    "total_seconds": 47596
   },
   "zeologue": {
     "week_seconds": 0,
@@ -15428,5 +15428,10 @@
     "week_seconds": 38,
     "week_start": 1782891030,
     "total_seconds": 38
+  },
+  "eepy_demon": {
+    "week_seconds": 0,
+    "week_start": 1782891838,
+    "total_seconds": 0
   }
 }
