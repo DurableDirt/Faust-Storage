@@ -285,9 +285,9 @@
     "total_seconds": 159891
   },
   "mechanicalrift": {
-    "week_seconds": 31094,
+    "week_seconds": 31139,
     "week_start": 1782689758,
-    "total_seconds": 502417
+    "total_seconds": 502462
   },
   "aguscon": {
     "week_seconds": 0,
@@ -3295,9 +3295,9 @@
     "total_seconds": 667
   },
   "twinkieexpresss": {
-    "week_seconds": 16175,
+    "week_seconds": 16538,
     "week_start": 1782772558,
-    "total_seconds": 167272
+    "total_seconds": 167635
   },
   "senkucola": {
     "week_seconds": 0,
@@ -15253,5 +15253,15 @@
     "week_seconds": 26,
     "week_start": 1782866420,
     "total_seconds": 26
+  },
+  "ch1ck3nbug": {
+    "week_seconds": 31,
+    "week_start": 1782866875,
+    "total_seconds": 31
+  },
+  "skebob_": {
+    "week_seconds": 0,
+    "week_start": 1782866899,
+    "total_seconds": 0
   }
 }
