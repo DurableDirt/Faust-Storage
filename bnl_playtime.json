@@ -5320,9 +5320,9 @@
     "total_seconds": 10081
   },
   "goneguy5": {
-    "week_seconds": 5811,
+    "week_seconds": 6062,
     "week_start": 1782932974,
-    "total_seconds": 38228
+    "total_seconds": 38479
   },
   "supermollyworld": {
     "week_seconds": 0,
@@ -8750,9 +8750,9 @@
     "total_seconds": 27329
   },
   "notduffy": {
-    "week_seconds": 19650,
+    "week_seconds": 19655,
     "week_start": 1782707758,
-    "total_seconds": 81471
+    "total_seconds": 81476
   },
   "hairystoochie": {
     "week_seconds": 0,
@@ -15853,5 +15853,10 @@
     "week_seconds": 87,
     "week_start": 1782937355,
     "total_seconds": 87
+  },
+  "chirestsyn": {
+    "week_seconds": 0,
+    "week_start": 1782938193,
+    "total_seconds": 0
   }
 }
