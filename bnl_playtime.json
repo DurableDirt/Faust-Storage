@@ -250,9 +250,9 @@
     "total_seconds": 435699
   },
   "mpusa": {
-    "week_seconds": 10967,
+    "week_seconds": 13544,
     "week_start": 1782689758,
-    "total_seconds": 127019
+    "total_seconds": 129596
   },
   "madmachinist25": {
     "week_seconds": 32918,
@@ -15822,6 +15822,11 @@
   "dukenim_s": {
     "week_seconds": 0,
     "week_start": 1782935032,
+    "total_seconds": 0
+  },
+  "bearking158": {
+    "week_seconds": 0,
+    "week_start": 1782935058,
     "total_seconds": 0
   }
 }
