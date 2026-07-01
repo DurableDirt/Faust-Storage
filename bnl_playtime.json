@@ -15495,13 +15495,13 @@
     "total_seconds": 0
   },
   "yodevia": {
-    "week_seconds": 72,
+    "week_seconds": 336,
     "week_start": 1782909014,
-    "total_seconds": 72
+    "total_seconds": 336
   },
   "trust_clown": {
-    "week_seconds": 0,
+    "week_seconds": 640,
     "week_start": 1782909233,
-    "total_seconds": 0
+    "total_seconds": 640
   }
 }
