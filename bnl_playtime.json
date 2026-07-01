@@ -1580,9 +1580,9 @@
     "total_seconds": 313239
   },
   "gobblin": {
-    "week_seconds": 24492,
+    "week_seconds": 24826,
     "week_start": 1782718558,
-    "total_seconds": 153462
+    "total_seconds": 153796
   },
   "vlinar": {
     "week_seconds": 0,
@@ -14730,9 +14730,9 @@
     "total_seconds": 36
   },
   "marvin2013": {
-    "week_seconds": 18154,
+    "week_seconds": 20385,
     "week_start": 1782793383,
-    "total_seconds": 18154
+    "total_seconds": 20385
   },
   "vulcan1776": {
     "week_seconds": 6763,
