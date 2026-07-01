@@ -1580,9 +1580,9 @@
     "total_seconds": 313239
   },
   "gobblin": {
-    "week_seconds": 16022,
+    "week_seconds": 19145,
     "week_start": 1782718558,
-    "total_seconds": 144992
+    "total_seconds": 148115
   },
   "vlinar": {
     "week_seconds": 0,
@@ -14695,9 +14695,9 @@
     "total_seconds": 33
   },
   "kaleidico": {
-    "week_seconds": 7935,
+    "week_seconds": 9680,
     "week_start": 1782786273,
-    "total_seconds": 7935
+    "total_seconds": 9680
   },
   "not_kewin": {
     "week_seconds": 13131,
