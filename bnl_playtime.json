@@ -13250,9 +13250,9 @@
     "total_seconds": 50
   },
   "captoun": {
-    "week_seconds": 35259,
+    "week_seconds": 35356,
     "week_start": 1782617130,
-    "total_seconds": 35259
+    "total_seconds": 35356
   },
   "ajz34": {
     "week_seconds": 497,
@@ -15367,6 +15367,11 @@
   "cattymeow": {
     "week_seconds": 0,
     "week_start": 1782875638,
+    "total_seconds": 0
+  },
+  "ezek1": {
+    "week_seconds": 0,
+    "week_start": 1782876552,
     "total_seconds": 0
   }
 }
