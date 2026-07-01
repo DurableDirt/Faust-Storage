@@ -3835,9 +3835,9 @@
     "total_seconds": 229204
   },
   "kashev": {
-    "week_seconds": 0,
+    "week_seconds": 359,
     "week_start": 1782808558,
-    "total_seconds": 102324
+    "total_seconds": 102683
   },
   "gracefulmomo_": {
     "week_seconds": 0,
@@ -14820,9 +14820,9 @@
     "total_seconds": 362
   },
   "enchant3dpencil": {
-    "week_seconds": 5623,
+    "week_seconds": 6641,
     "week_start": 1782817146,
-    "total_seconds": 5623
+    "total_seconds": 6641
   },
   "sixeno": {
     "week_seconds": 139,
@@ -15470,8 +15470,8 @@
     "total_seconds": 57
   },
   "mrpseudos": {
-    "week_seconds": 1,
+    "week_seconds": 2,
     "week_start": 1782902316,
-    "total_seconds": 1
+    "total_seconds": 2
   }
 }
