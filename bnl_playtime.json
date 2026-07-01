@@ -230,9 +230,9 @@
     "total_seconds": 76
   },
   "the_fella7441": {
-    "week_seconds": 53235,
+    "week_seconds": 56772,
     "week_start": 1782689758,
-    "total_seconds": 257921
+    "total_seconds": 261458
   },
   "hentlol": {
     "week_seconds": 31138,
@@ -445,9 +445,9 @@
     "total_seconds": 133821
   },
   "iron600": {
-    "week_seconds": 64304,
+    "week_seconds": 67827,
     "week_start": 1782689758,
-    "total_seconds": 437327
+    "total_seconds": 440850
   },
   "mrtnt1925": {
     "week_seconds": 24028,
@@ -15433,5 +15433,10 @@
     "week_seconds": 0,
     "week_start": 1782891838,
     "total_seconds": 0
+  },
+  "mac_donor3000": {
+    "week_seconds": 32,
+    "week_start": 1782892215,
+    "total_seconds": 32
   }
 }
