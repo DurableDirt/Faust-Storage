@@ -9660,9 +9660,9 @@
     "total_seconds": 27
   },
   "sheinuxofire": {
-    "week_seconds": 0,
+    "week_seconds": 4439,
     "week_start": 1782842974,
-    "total_seconds": 70666
+    "total_seconds": 75105
   },
   "pixel_side": {
     "week_seconds": 0,
@@ -15570,13 +15570,18 @@
     "total_seconds": 0
   },
   "p1xels_": {
-    "week_seconds": 33,
+    "week_seconds": 1090,
     "week_start": 1782916182,
-    "total_seconds": 33
+    "total_seconds": 1090
   },
   "connorwastaken1": {
     "week_seconds": 0,
     "week_start": 1782917138,
+    "total_seconds": 0
+  },
+  "ansy": {
+    "week_seconds": 0,
+    "week_start": 1782917246,
     "total_seconds": 0
   }
 }
