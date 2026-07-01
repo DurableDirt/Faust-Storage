@@ -1580,9 +1580,9 @@
     "total_seconds": 313239
   },
   "gobblin": {
-    "week_seconds": 14012,
+    "week_seconds": 16022,
     "week_start": 1782718558,
-    "total_seconds": 142982
+    "total_seconds": 144992
   },
   "vlinar": {
     "week_seconds": 0,
