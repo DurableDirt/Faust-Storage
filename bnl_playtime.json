@@ -50,9 +50,9 @@
     "total_seconds": 154384
   },
   "meenos": {
-    "week_seconds": 41641,
+    "week_seconds": 41683,
     "week_start": 1782686158,
-    "total_seconds": 239623
+    "total_seconds": 239665
   },
   "jadenjb": {
     "week_seconds": 2585,
@@ -525,9 +525,9 @@
     "total_seconds": 7709
   },
   "shadno": {
-    "week_seconds": 19332,
+    "week_seconds": 19416,
     "week_start": 1782693358,
-    "total_seconds": 396531
+    "total_seconds": 396615
   },
   "hexayn": {
     "week_seconds": 0,
@@ -14470,9 +14470,9 @@
     "total_seconds": 99
   },
   "rxse_gxrden": {
-    "week_seconds": 740,
+    "week_seconds": 2164,
     "week_start": 1782761862,
-    "total_seconds": 740
+    "total_seconds": 2164
   },
   "_ally_killer": {
     "week_seconds": 23,
@@ -15285,9 +15285,9 @@
     "total_seconds": 6
   },
   "trashmen": {
-    "week_seconds": 1316,
+    "week_seconds": 1702,
     "week_start": 1782868065,
-    "total_seconds": 1316
+    "total_seconds": 1702
   },
   "emillef": {
     "week_seconds": 235,
@@ -15305,8 +15305,8 @@
     "total_seconds": 0
   },
   "voidcipher": {
-    "week_seconds": 0,
+    "week_seconds": 86,
     "week_start": 1782870145,
-    "total_seconds": 0
+    "total_seconds": 86
   }
 }
