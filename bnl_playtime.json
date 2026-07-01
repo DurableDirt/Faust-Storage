@@ -470,9 +470,9 @@
     "total_seconds": 129856
   },
   "anotnot": {
-    "week_seconds": 109700,
+    "week_seconds": 112576,
     "week_start": 1782693358,
-    "total_seconds": 750154
+    "total_seconds": 753030
   },
   "tntfortress": {
     "week_seconds": 1969,
@@ -9925,9 +9925,9 @@
     "total_seconds": 28405
   },
   "bravecameraman": {
-    "week_seconds": 0,
+    "week_seconds": 473,
     "week_start": 1782850174,
-    "total_seconds": 7009
+    "total_seconds": 7482
   },
   "no_name_ghost": {
     "week_seconds": 0,
@@ -15900,8 +15900,8 @@
     "total_seconds": 969
   },
   "b0ssnuts": {
-    "week_seconds": 0,
+    "week_seconds": 382,
     "week_start": 1782945724,
-    "total_seconds": 0
+    "total_seconds": 382
   }
 }
