@@ -105,9 +105,9 @@
     "total_seconds": 154348
   },
   "slothinasuit": {
-    "week_seconds": 57031,
+    "week_seconds": 57163,
     "week_start": 1782686158,
-    "total_seconds": 520542
+    "total_seconds": 520674
   },
   "jck20h": {
     "week_seconds": 0,
@@ -7445,9 +7445,9 @@
     "total_seconds": 830
   },
   "_sublim3": {
-    "week_seconds": 12893,
+    "week_seconds": 13250,
     "week_start": 1782542158,
-    "total_seconds": 18366
+    "total_seconds": 18723
   },
   "sigmaguy83297": {
     "week_seconds": 0,
@@ -15665,13 +15665,18 @@
     "total_seconds": 0
   },
   "_hurr": {
-    "week_seconds": 146,
+    "week_seconds": 180,
     "week_start": 1782924520,
-    "total_seconds": 146
+    "total_seconds": 180
   },
   "not_a_grape": {
     "week_seconds": 0,
     "week_start": 1782924685,
+    "total_seconds": 0
+  },
+  "kaboomv2": {
+    "week_seconds": 0,
+    "week_start": 1782924762,
     "total_seconds": 0
   }
 }
