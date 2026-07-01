@@ -905,9 +905,9 @@
     "total_seconds": 34278
   },
   "ifriendiscool": {
-    "week_seconds": 39630,
+    "week_seconds": 39679,
     "week_start": 1782696958,
-    "total_seconds": 457307
+    "total_seconds": 457356
   },
   "ytrewq64": {
     "week_seconds": 25558,
@@ -15732,6 +15732,11 @@
   "minigunmaster4": {
     "week_seconds": 0,
     "week_start": 1782927058,
+    "total_seconds": 0
+  },
+  "cog_o_war": {
+    "week_seconds": 0,
+    "week_start": 1782927468,
     "total_seconds": 0
   }
 }
