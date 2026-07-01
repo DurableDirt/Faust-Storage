@@ -1790,9 +1790,9 @@
     "total_seconds": 4286
   },
   "battleofsky": {
-    "week_seconds": 37615,
+    "week_seconds": 37626,
     "week_start": 1782729358,
-    "total_seconds": 147460
+    "total_seconds": 147471
   },
   "lgamant": {
     "week_seconds": 0,
@@ -2920,9 +2920,9 @@
     "total_seconds": 26221
   },
   "sishi0417": {
-    "week_seconds": 473,
+    "week_seconds": 1582,
     "week_start": 1782761758,
-    "total_seconds": 64495
+    "total_seconds": 65604
   },
   "seiseitan": {
     "week_seconds": 0,
@@ -15388,5 +15388,10 @@
     "week_seconds": 313,
     "week_start": 1782878829,
     "total_seconds": 313
+  },
+  "gojacksonasher": {
+    "week_seconds": 0,
+    "week_start": 1782879897,
+    "total_seconds": 0
   }
 }
