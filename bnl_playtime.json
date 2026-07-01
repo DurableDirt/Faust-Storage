@@ -115,9 +115,9 @@
     "total_seconds": 14813
   },
   "xjetistuff": {
-    "week_seconds": 21700,
+    "week_seconds": 24224,
     "week_start": 1782686158,
-    "total_seconds": 119228
+    "total_seconds": 121752
   },
   "popshotx9": {
     "week_seconds": 0,
@@ -7445,9 +7445,9 @@
     "total_seconds": 830
   },
   "_sublim3": {
-    "week_seconds": 17843,
+    "week_seconds": 18237,
     "week_start": 1782542158,
-    "total_seconds": 23316
+    "total_seconds": 23710
   },
   "sigmaguy83297": {
     "week_seconds": 0,
@@ -15757,6 +15757,11 @@
   "jbhgby": {
     "week_seconds": 0,
     "week_start": 1782931477,
+    "total_seconds": 0
+  },
+  "wolfdrader": {
+    "week_seconds": 0,
+    "week_start": 1782931752,
     "total_seconds": 0
   }
 }
