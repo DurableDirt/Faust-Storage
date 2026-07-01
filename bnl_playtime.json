@@ -245,9 +245,9 @@
     "total_seconds": 54631
   },
   "aluminum_foil_": {
-    "week_seconds": 76230,
+    "week_seconds": 82001,
     "week_start": 1782689758,
-    "total_seconds": 428475
+    "total_seconds": 434246
   },
   "mpusa": {
     "week_seconds": 10940,
@@ -15397,6 +15397,11 @@
   "vialofmercury": {
     "week_seconds": 0,
     "week_start": 1782880215,
+    "total_seconds": 0
+  },
+  "internal_aaaa": {
+    "week_seconds": 0,
+    "week_start": 1782880717,
     "total_seconds": 0
   }
 }
