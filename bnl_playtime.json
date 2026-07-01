@@ -15,9 +15,9 @@
     "total_seconds": 300418
   },
   "dragran": {
-    "week_seconds": 108284,
+    "week_seconds": 112200,
     "week_start": 1782686158,
-    "total_seconds": 870041
+    "total_seconds": 873957
   },
   "turkishflavour": {
     "week_seconds": 0,
@@ -285,9 +285,9 @@
     "total_seconds": 159891
   },
   "mechanicalrift": {
-    "week_seconds": 32461,
+    "week_seconds": 32503,
     "week_start": 1782689758,
-    "total_seconds": 503784
+    "total_seconds": 503826
   },
   "aguscon": {
     "week_seconds": 0,
@@ -9565,9 +9565,9 @@
     "total_seconds": 32
   },
   "tommy17103": {
-    "week_seconds": 13885,
+    "week_seconds": 13977,
     "week_start": 1782797758,
-    "total_seconds": 102700
+    "total_seconds": 102792
   },
   "lbubteam_2ithy": {
     "week_seconds": 0,
@@ -15288,5 +15288,10 @@
     "week_seconds": 147,
     "week_start": 1782868065,
     "total_seconds": 147
+  },
+  "emillef": {
+    "week_seconds": 0,
+    "week_start": 1782868339,
+    "total_seconds": 0
   }
 }
