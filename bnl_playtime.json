@@ -8525,9 +8525,9 @@
     "total_seconds": 52118
   },
   "eliwastaken5": {
-    "week_seconds": 25253,
+    "week_seconds": 30345,
     "week_start": 1782682558,
-    "total_seconds": 85670
+    "total_seconds": 90762
   },
   "agentsquid2012": {
     "week_seconds": 0,
@@ -15913,5 +15913,10 @@
     "week_seconds": 340,
     "week_start": 1782947497,
     "total_seconds": 340
+  },
+  "shadowninjaad": {
+    "week_seconds": 0,
+    "week_start": 1782949596,
+    "total_seconds": 0
   }
 }
