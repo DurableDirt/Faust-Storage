@@ -580,9 +580,9 @@
     "total_seconds": 93122
   },
   "ethn__": {
-    "week_seconds": 84742,
+    "week_seconds": 97217,
     "week_start": 1782693358,
-    "total_seconds": 239458
+    "total_seconds": 251933
   },
   "suderp": {
     "week_seconds": 0,
@@ -15678,5 +15678,10 @@
     "week_seconds": 43,
     "week_start": 1782924762,
     "total_seconds": 43
+  },
+  "smilelike1": {
+    "week_seconds": 18,
+    "week_start": 1782924968,
+    "total_seconds": 18
   }
 }
