@@ -105,9 +105,9 @@
     "total_seconds": 154348
   },
   "slothinasuit": {
-    "week_seconds": 50323,
+    "week_seconds": 51873,
     "week_start": 1782686158,
-    "total_seconds": 513834
+    "total_seconds": 515384
   },
   "jck20h": {
     "week_seconds": 0,
@@ -285,9 +285,9 @@
     "total_seconds": 161683
   },
   "mechanicalrift": {
-    "week_seconds": 37883,
+    "week_seconds": 37925,
     "week_start": 1782689758,
-    "total_seconds": 509206
+    "total_seconds": 509248
   },
   "aguscon": {
     "week_seconds": 0,
@@ -305,9 +305,9 @@
     "total_seconds": 780994
   },
   "olderastory": {
-    "week_seconds": 38223,
+    "week_seconds": 41596,
     "week_start": 1782689758,
-    "total_seconds": 275134
+    "total_seconds": 278507
   },
   "willowpox": {
     "week_seconds": 0,
@@ -15355,8 +15355,8 @@
     "total_seconds": 0
   },
   "gamex3538": {
-    "week_seconds": 0,
+    "week_seconds": 267,
     "week_start": 1782874557,
-    "total_seconds": 0
+    "total_seconds": 267
   }
 }
