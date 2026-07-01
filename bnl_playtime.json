@@ -285,9 +285,9 @@
     "total_seconds": 159891
   },
   "mechanicalrift": {
-    "week_seconds": 31385,
+    "week_seconds": 31414,
     "week_start": 1782689758,
-    "total_seconds": 502708
+    "total_seconds": 502737
   },
   "aguscon": {
     "week_seconds": 0,
@@ -640,9 +640,9 @@
     "total_seconds": 197291
   },
   "beepcar": {
-    "week_seconds": 62522,
+    "week_seconds": 64308,
     "week_start": 1782693358,
-    "total_seconds": 509531
+    "total_seconds": 511317
   },
   "moopie50": {
     "week_seconds": 0,
@@ -15263,5 +15263,15 @@
     "week_seconds": 164,
     "week_start": 1782866899,
     "total_seconds": 164
+  },
+  "slipyally": {
+    "week_seconds": 5,
+    "week_start": 1782867213,
+    "total_seconds": 5
+  },
+  "_gooby_goob_": {
+    "week_seconds": 0,
+    "week_start": 1782867220,
+    "total_seconds": 0
   }
 }
