@@ -2630,9 +2630,9 @@
     "total_seconds": 147905
   },
   "joldidk": {
-    "week_seconds": 4788,
+    "week_seconds": 8511,
     "week_start": 1782750958,
-    "total_seconds": 170294
+    "total_seconds": 174017
   },
   "hegghogaming": {
     "week_seconds": 0,
@@ -6815,9 +6815,9 @@
     "total_seconds": 39779
   },
   "hemp_bone": {
-    "week_seconds": 1784,
+    "week_seconds": 2480,
     "week_start": 1782465560,
-    "total_seconds": 6804
+    "total_seconds": 7500
   },
   "lysika_lantariel": {
     "week_seconds": 11616,
@@ -15278,5 +15278,10 @@
     "week_seconds": 32,
     "week_start": 1782867249,
     "total_seconds": 32
+  },
+  "toshtiee": {
+    "week_seconds": 6,
+    "week_start": 1782867655,
+    "total_seconds": 6
   }
 }
