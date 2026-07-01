@@ -50,9 +50,9 @@
     "total_seconds": 154384
   },
   "meenos": {
-    "week_seconds": 42190,
+    "week_seconds": 42226,
     "week_start": 1782686158,
-    "total_seconds": 240172
+    "total_seconds": 240208
   },
   "jadenjb": {
     "week_seconds": 2585,
@@ -235,9 +235,9 @@
     "total_seconds": 246443
   },
   "hentlol": {
-    "week_seconds": 19956,
+    "week_seconds": 27893,
     "week_start": 1782689758,
-    "total_seconds": 244317
+    "total_seconds": 252254
   },
   "wasabiwhip": {
     "week_seconds": 0,
@@ -15308,5 +15308,10 @@
     "week_seconds": 86,
     "week_start": 1782870145,
     "total_seconds": 86
+  },
+  "vantainium": {
+    "week_seconds": 0,
+    "week_start": 1782870862,
+    "total_seconds": 0
   }
 }
