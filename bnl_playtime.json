@@ -3335,9 +3335,9 @@
     "total_seconds": 1152
   },
   "project_baxti": {
-    "week_seconds": 503,
+    "week_seconds": 868,
     "week_start": 1782776158,
-    "total_seconds": 199477
+    "total_seconds": 199842
   },
   "tintin360": {
     "week_seconds": 0,
@@ -15613,5 +15613,10 @@
     "week_seconds": 27,
     "week_start": 1782919121,
     "total_seconds": 27
+  },
+  "stome34": {
+    "week_seconds": 0,
+    "week_start": 1782919334,
+    "total_seconds": 0
   }
 }
