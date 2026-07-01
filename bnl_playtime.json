@@ -1815,9 +1815,9 @@
     "total_seconds": 4975
   },
   "airdav": {
-    "week_seconds": 3110,
+    "week_seconds": 4116,
     "week_start": 1782729358,
-    "total_seconds": 61883
+    "total_seconds": 62889
   },
   "ch0rk": {
     "week_seconds": 0,
@@ -15553,5 +15553,10 @@
     "week_seconds": 34,
     "week_start": 1782915757,
     "total_seconds": 34
+  },
+  "trottem": {
+    "week_seconds": 0,
+    "week_start": 1782915875,
+    "total_seconds": 0
   }
 }
