@@ -285,9 +285,9 @@
     "total_seconds": 161886
   },
   "mechanicalrift": {
-    "week_seconds": 47788,
+    "week_seconds": 47829,
     "week_start": 1782689758,
-    "total_seconds": 519111
+    "total_seconds": 519152
   },
   "aguscon": {
     "week_seconds": 0,
@@ -2410,9 +2410,9 @@
     "total_seconds": 758
   },
   "tuomasz_": {
-    "week_seconds": 66823,
+    "week_seconds": 66835,
     "week_start": 1782747358,
-    "total_seconds": 114233
+    "total_seconds": 114245
   },
   "sml128": {
     "week_seconds": 14131,
@@ -4475,9 +4475,9 @@
     "total_seconds": 2693
   },
   "raeders": {
-    "week_seconds": 23005,
+    "week_seconds": 29296,
     "week_start": 1782853774,
-    "total_seconds": 234234
+    "total_seconds": 240525
   },
   "alphatrom3041": {
     "week_seconds": 0,
@@ -15800,8 +15800,8 @@
     "total_seconds": 0
   },
   "iams0me1": {
-    "week_seconds": 0,
+    "week_seconds": 48,
     "week_start": 1782934281,
-    "total_seconds": 0
+    "total_seconds": 48
   }
 }
