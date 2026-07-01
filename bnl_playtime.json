@@ -730,9 +730,9 @@
     "total_seconds": 266976
   },
   "marc_1500": {
-    "week_seconds": 34202,
+    "week_seconds": 35595,
     "week_start": 1782693358,
-    "total_seconds": 234768
+    "total_seconds": 236161
   },
   "zipjaw3979": {
     "week_seconds": 0,
@@ -4905,9 +4905,9 @@
     "total_seconds": 165
   },
   "roguex7": {
-    "week_seconds": 9743,
+    "week_seconds": 9932,
     "week_start": 1782278360,
-    "total_seconds": 17377
+    "total_seconds": 17566
   },
   "raccon_leader": {
     "week_seconds": 0,
@@ -15347,6 +15347,11 @@
   "chominhngoc": {
     "week_seconds": 0,
     "week_start": 1782873450,
+    "total_seconds": 0
+  },
+  "notjacks0n_": {
+    "week_seconds": 0,
+    "week_start": 1782873943,
     "total_seconds": 0
   }
 }
