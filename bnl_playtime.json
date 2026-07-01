@@ -1755,9 +1755,9 @@
     "total_seconds": 118891
   },
   "facocero09": {
-    "week_seconds": 11117,
+    "week_seconds": 11149,
     "week_start": 1782725758,
-    "total_seconds": 336319
+    "total_seconds": 336351
   },
   "happyfeet4607": {
     "week_seconds": 0,
@@ -2190,9 +2190,9 @@
     "total_seconds": 92
   },
   "tohmatbc": {
-    "week_seconds": 7963,
+    "week_seconds": 7988,
     "week_start": 1782740158,
-    "total_seconds": 228203
+    "total_seconds": 228228
   },
   "cheetahboi2": {
     "week_seconds": 5986,
@@ -15457,6 +15457,11 @@
   "urukhaithijs250": {
     "week_seconds": 0,
     "week_start": 1782898749,
+    "total_seconds": 0
+  },
+  "konifr": {
+    "week_seconds": 0,
+    "week_start": 1782899228,
     "total_seconds": 0
   }
 }
