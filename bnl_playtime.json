@@ -50,9 +50,9 @@
     "total_seconds": 154384
   },
   "meenos": {
-    "week_seconds": 41287,
+    "week_seconds": 41589,
     "week_start": 1782686158,
-    "total_seconds": 239269
+    "total_seconds": 239571
   },
   "jadenjb": {
     "week_seconds": 2585,
@@ -600,9 +600,9 @@
     "total_seconds": 94362
   },
   "1stampy": {
-    "week_seconds": 3255,
+    "week_seconds": 4121,
     "week_start": 1782693358,
-    "total_seconds": 37204
+    "total_seconds": 38070
   },
   "hak0707": {
     "week_seconds": 0,
@@ -4305,9 +4305,9 @@
     "total_seconds": 606
   },
   "l1zz3": {
-    "week_seconds": 0,
+    "week_seconds": 1233,
     "week_start": 1782846574,
-    "total_seconds": 205514
+    "total_seconds": 206747
   },
   "toastisnear": {
     "week_seconds": 0,
@@ -15302,6 +15302,11 @@
   "qrcode4": {
     "week_seconds": 0,
     "week_start": 1782869654,
+    "total_seconds": 0
+  },
+  "voidcipher": {
+    "week_seconds": 0,
+    "week_start": 1782870145,
     "total_seconds": 0
   }
 }
