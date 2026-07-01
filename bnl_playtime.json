@@ -1580,9 +1580,9 @@
     "total_seconds": 313239
   },
   "gobblin": {
-    "week_seconds": 24860,
+    "week_seconds": 25489,
     "week_start": 1782718558,
-    "total_seconds": 153830
+    "total_seconds": 154459
   },
   "vlinar": {
     "week_seconds": 0,
@@ -7085,9 +7085,9 @@
     "total_seconds": 5972
   },
   "ja_c0b": {
-    "week_seconds": 15817,
+    "week_seconds": 15904,
     "week_start": 1782501560,
-    "total_seconds": 46113
+    "total_seconds": 46200
   },
   "0nightshadow0": {
     "week_seconds": 0,
