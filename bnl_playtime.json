@@ -245,9 +245,9 @@
     "total_seconds": 54631
   },
   "aluminum_foil_": {
-    "week_seconds": 82001,
+    "week_seconds": 83454,
     "week_start": 1782689758,
-    "total_seconds": 434246
+    "total_seconds": 435699
   },
   "mpusa": {
     "week_seconds": 10940,
@@ -1755,9 +1755,9 @@
     "total_seconds": 118891
   },
   "facocero09": {
-    "week_seconds": 14563,
+    "week_seconds": 16873,
     "week_start": 1782725758,
-    "total_seconds": 339765
+    "total_seconds": 342075
   },
   "happyfeet4607": {
     "week_seconds": 0,
@@ -15653,5 +15653,15 @@
     "week_seconds": 154,
     "week_start": 1782923433,
     "total_seconds": 154
+  },
+  "spoederman676769": {
+    "week_seconds": 0,
+    "week_start": 1782924209,
+    "total_seconds": 0
+  },
+  "minecrafter281": {
+    "week_seconds": 0,
+    "week_start": 1782924323,
+    "total_seconds": 0
   }
 }
