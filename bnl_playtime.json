@@ -15585,9 +15585,9 @@
     "total_seconds": 245
   },
   "d1t3": {
-    "week_seconds": 0,
+    "week_seconds": 1349,
     "week_start": 1782917590,
-    "total_seconds": 0
+    "total_seconds": 1349
   },
   "gort_the_third": {
     "week_seconds": 494,
@@ -15603,5 +15603,10 @@
     "week_seconds": 5,
     "week_start": 1782917864,
     "total_seconds": 5
+  },
+  "ayxb": {
+    "week_seconds": 11,
+    "week_start": 1782918938,
+    "total_seconds": 11
   }
 }
