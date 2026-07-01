@@ -500,9 +500,9 @@
     "total_seconds": 337668
   },
   "call_me_m1ke": {
-    "week_seconds": 144308,
+    "week_seconds": 146796,
     "week_start": 1782693358,
-    "total_seconds": 929120
+    "total_seconds": 931608
   },
   "josiekat": {
     "week_seconds": 0,
@@ -15897,6 +15897,11 @@
   "celofrancelin": {
     "week_seconds": 0,
     "week_start": 1782944888,
+    "total_seconds": 0
+  },
+  "b0ssnuts": {
+    "week_seconds": 0,
+    "week_start": 1782945724,
     "total_seconds": 0
   }
 }
