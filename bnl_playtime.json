@@ -210,9 +210,9 @@
     "total_seconds": 1075
   },
   "jeyhey": {
-    "week_seconds": 137661,
+    "week_seconds": 140555,
     "week_start": 1782689758,
-    "total_seconds": 535739
+    "total_seconds": 538633
   },
   "thetoxicy": {
     "week_seconds": 7616,
@@ -15722,6 +15722,11 @@
   "breadedsandwich": {
     "week_seconds": 0,
     "week_start": 1782926654,
+    "total_seconds": 0
+  },
+  "bloonsmaster23": {
+    "week_seconds": 0,
+    "week_start": 1782927026,
     "total_seconds": 0
   }
 }
