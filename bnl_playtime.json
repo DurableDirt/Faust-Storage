@@ -10565,9 +10565,9 @@
     "total_seconds": 158
   },
   "toddhoward123": {
-    "week_seconds": 18294,
+    "week_seconds": 18551,
     "week_start": 1782331711,
-    "total_seconds": 18294
+    "total_seconds": 18551
   },
   "zkwss_": {
     "week_seconds": 42,
@@ -15772,6 +15772,16 @@
   "muaddib2406": {
     "week_seconds": 0,
     "week_start": 1782932072,
+    "total_seconds": 0
+  },
+  "raider1118": {
+    "week_seconds": 0,
+    "week_start": 1782932313,
+    "total_seconds": 0
+  },
+  "metashield": {
+    "week_seconds": 0,
+    "week_start": 1782932386,
     "total_seconds": 0
   }
 }
