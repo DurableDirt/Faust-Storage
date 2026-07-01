@@ -3920,9 +3920,9 @@
     "total_seconds": 107922
   },
   "plumily": {
-    "week_seconds": 16543,
+    "week_seconds": 19441,
     "week_start": 1782815758,
-    "total_seconds": 194633
+    "total_seconds": 197531
   },
   "soul9594": {
     "week_seconds": 0,
@@ -15712,6 +15712,11 @@
   "plumtesteryt": {
     "week_seconds": 0,
     "week_start": 1782926412,
+    "total_seconds": 0
+  },
+  "ljnotwafl": {
+    "week_seconds": 0,
+    "week_start": 1782926499,
     "total_seconds": 0
   }
 }
