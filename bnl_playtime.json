@@ -8340,9 +8340,9 @@
     "total_seconds": 25474
   },
   "jwmgregory": {
-    "week_seconds": 29294,
+    "week_seconds": 29350,
     "week_start": 1782664558,
-    "total_seconds": 77778
+    "total_seconds": 77834
   },
   "flutschrobbe": {
     "week_seconds": 0,
@@ -15573,5 +15573,10 @@
     "week_seconds": 33,
     "week_start": 1782916182,
     "total_seconds": 33
+  },
+  "connorwastaken1": {
+    "week_seconds": 0,
+    "week_start": 1782917138,
+    "total_seconds": 0
   }
 }
