@@ -6195,9 +6195,9 @@
     "total_seconds": 21
   },
   "frostwarrior112": {
-    "week_seconds": 14831,
+    "week_seconds": 22647,
     "week_start": 1782411560,
-    "total_seconds": 20456
+    "total_seconds": 28272
   },
   "acronymt": {
     "week_seconds": 29933,
@@ -7020,9 +7020,9 @@
     "total_seconds": 278
   },
   "lucas_b77": {
-    "week_seconds": 200,
+    "week_seconds": 310,
     "week_start": 1782494360,
-    "total_seconds": 4920
+    "total_seconds": 5030
   },
   "azert324": {
     "week_seconds": 0,
@@ -15495,8 +15495,13 @@
     "total_seconds": 0
   },
   "yodevia": {
-    "week_seconds": 26,
+    "week_seconds": 27,
     "week_start": 1782909014,
-    "total_seconds": 26
+    "total_seconds": 27
+  },
+  "trust_clown": {
+    "week_seconds": 0,
+    "week_start": 1782909233,
+    "total_seconds": 0
   }
 }
