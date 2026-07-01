@@ -15,9 +15,9 @@
     "total_seconds": 314305
   },
   "dragran": {
-    "week_seconds": 169215,
+    "week_seconds": 176100,
     "week_start": 1782686158,
-    "total_seconds": 930972
+    "total_seconds": 937857
   },
   "turkishflavour": {
     "week_seconds": 0,
@@ -285,9 +285,9 @@
     "total_seconds": 161886
   },
   "mechanicalrift": {
-    "week_seconds": 49525,
+    "week_seconds": 49579,
     "week_start": 1782689758,
-    "total_seconds": 520848
+    "total_seconds": 520902
   },
   "aguscon": {
     "week_seconds": 0,
@@ -2295,9 +2295,9 @@
     "total_seconds": 331548
   },
   "stun2845": {
-    "week_seconds": 35635,
+    "week_seconds": 38346,
     "week_start": 1782743758,
-    "total_seconds": 68714
+    "total_seconds": 71425
   },
   "zeologue": {
     "week_seconds": 0,
@@ -3760,9 +3760,9 @@
     "total_seconds": 144058
   },
   "arbidos": {
-    "week_seconds": 0,
+    "week_seconds": 2,
     "week_start": 1782797758,
-    "total_seconds": 57392
+    "total_seconds": 57394
   },
   "fallen_screw": {
     "week_seconds": 35503,
@@ -15843,5 +15843,10 @@
     "week_seconds": 94,
     "week_start": 1782936196,
     "total_seconds": 94
+  },
+  "1anxious": {
+    "week_seconds": 0,
+    "week_start": 1782936409,
+    "total_seconds": 0
   }
 }
