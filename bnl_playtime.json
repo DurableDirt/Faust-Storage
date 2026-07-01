@@ -15670,9 +15670,9 @@
     "total_seconds": 180
   },
   "not_a_grape": {
-    "week_seconds": 0,
+    "week_seconds": 1452,
     "week_start": 1782924685,
-    "total_seconds": 0
+    "total_seconds": 1452
   },
   "kaboomv2": {
     "week_seconds": 43,
@@ -15703,5 +15703,10 @@
     "week_seconds": 0,
     "week_start": 1782925744,
     "total_seconds": 0
+  },
+  "chimapodoufu": {
+    "week_seconds": 99,
+    "week_start": 1782926048,
+    "total_seconds": 99
   }
 }
