@@ -60,9 +60,9 @@
     "total_seconds": 62316
   },
   "mitthraw91": {
-    "week_seconds": 84662,
+    "week_seconds": 84981,
     "week_start": 1782686158,
-    "total_seconds": 857208
+    "total_seconds": 857527
   },
   "rainsinger": {
     "week_seconds": 0,
@@ -15575,13 +15575,18 @@
     "total_seconds": 1125
   },
   "connorwastaken1": {
-    "week_seconds": 0,
+    "week_seconds": 510,
     "week_start": 1782917138,
-    "total_seconds": 0
+    "total_seconds": 510
   },
   "ansy": {
     "week_seconds": 245,
     "week_start": 1782917246,
     "total_seconds": 245
+  },
+  "d1t3": {
+    "week_seconds": 0,
+    "week_start": 1782917590,
+    "total_seconds": 0
   }
 }
