@@ -15340,9 +15340,9 @@
     "total_seconds": 200
   },
   "dippyknuckles": {
-    "week_seconds": 0,
+    "week_seconds": 1400,
     "week_start": 1782873171,
-    "total_seconds": 0
+    "total_seconds": 1400
   },
   "chominhngoc": {
     "week_seconds": 0,
@@ -15352,6 +15352,11 @@
   "notjacks0n_": {
     "week_seconds": 0,
     "week_start": 1782873943,
+    "total_seconds": 0
+  },
+  "gamex3538": {
+    "week_seconds": 0,
+    "week_start": 1782874557,
     "total_seconds": 0
   }
 }
