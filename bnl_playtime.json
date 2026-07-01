@@ -285,9 +285,9 @@
     "total_seconds": 161886
   },
   "mechanicalrift": {
-    "week_seconds": 47864,
+    "week_seconds": 47905,
     "week_start": 1782689758,
-    "total_seconds": 519187
+    "total_seconds": 519228
   },
   "aguscon": {
     "week_seconds": 0,
@@ -7085,9 +7085,9 @@
     "total_seconds": 5972
   },
   "ja_c0b": {
-    "week_seconds": 21058,
+    "week_seconds": 24452,
     "week_start": 1782501560,
-    "total_seconds": 51354
+    "total_seconds": 54748
   },
   "0nightshadow0": {
     "week_seconds": 0,
@@ -7445,9 +7445,9 @@
     "total_seconds": 830
   },
   "_sublim3": {
-    "week_seconds": 20360,
+    "week_seconds": 20445,
     "week_start": 1782542158,
-    "total_seconds": 25833
+    "total_seconds": 25918
   },
   "sigmaguy83297": {
     "week_seconds": 0,
@@ -11180,9 +11180,9 @@
     "total_seconds": 1502
   },
   "bumbusl": {
-    "week_seconds": 127815,
+    "week_seconds": 129850,
     "week_start": 1782412872,
-    "total_seconds": 127815
+    "total_seconds": 129850
   },
   "rdmsh": {
     "week_seconds": 10863,
@@ -15808,5 +15808,10 @@
     "week_seconds": 0,
     "week_start": 1782934395,
     "total_seconds": 0
+  },
+  "ancestorofthesun": {
+    "week_seconds": 19,
+    "week_start": 1782934418,
+    "total_seconds": 19
   }
 }
