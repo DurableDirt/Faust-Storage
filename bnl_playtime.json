@@ -285,9 +285,9 @@
     "total_seconds": 161886
   },
   "mechanicalrift": {
-    "week_seconds": 49431,
+    "week_seconds": 49440,
     "week_start": 1782689758,
-    "total_seconds": 520754
+    "total_seconds": 520763
   },
   "aguscon": {
     "week_seconds": 0,
@@ -15495,9 +15495,9 @@
     "total_seconds": 3340
   },
   "yodevia": {
-    "week_seconds": 4845,
+    "week_seconds": 5162,
     "week_start": 1782909014,
-    "total_seconds": 4845
+    "total_seconds": 5162
   },
   "trust_clown": {
     "week_seconds": 640,
@@ -15840,8 +15840,8 @@
     "total_seconds": 0
   },
   "young_zay": {
-    "week_seconds": 0,
+    "week_seconds": 94,
     "week_start": 1782936196,
-    "total_seconds": 0
+    "total_seconds": 94
   }
 }
