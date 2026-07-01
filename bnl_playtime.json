@@ -840,9 +840,9 @@
     "total_seconds": 20241
   },
   "socialistspectre": {
-    "week_seconds": 10275,
+    "week_seconds": 10322,
     "week_start": 1782696958,
-    "total_seconds": 227014
+    "total_seconds": 227061
   },
   "desmonddotjpeg": {
     "week_seconds": 7181,
@@ -15453,5 +15453,10 @@
     "week_seconds": 9,
     "week_start": 1782897469,
     "total_seconds": 9
+  },
+  "urukhaithijs250": {
+    "week_seconds": 0,
+    "week_start": 1782898749,
+    "total_seconds": 0
   }
 }
