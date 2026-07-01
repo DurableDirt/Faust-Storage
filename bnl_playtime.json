@@ -250,9 +250,9 @@
     "total_seconds": 435699
   },
   "mpusa": {
-    "week_seconds": 10940,
+    "week_seconds": 10967,
     "week_start": 1782689758,
-    "total_seconds": 126992
+    "total_seconds": 127019
   },
   "madmachinist25": {
     "week_seconds": 32918,
@@ -15780,8 +15780,8 @@
     "total_seconds": 0
   },
   "metashield": {
-    "week_seconds": 0,
+    "week_seconds": 13,
     "week_start": 1782932386,
-    "total_seconds": 0
+    "total_seconds": 13
   }
 }
