@@ -5985,9 +5985,9 @@
     "total_seconds": 45806
   },
   "what777": {
-    "week_seconds": 371663,
+    "week_seconds": 372085,
     "week_start": 1782389960,
-    "total_seconds": 682602
+    "total_seconds": 683024
   },
   "arealfriedwing": {
     "week_seconds": 371,
@@ -15633,5 +15633,10 @@
     "week_seconds": 358,
     "week_start": 1782920123,
     "total_seconds": 358
+  },
+  "awetik": {
+    "week_seconds": 0,
+    "week_start": 1782920558,
+    "total_seconds": 0
   }
 }
