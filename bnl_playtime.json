@@ -150,9 +150,9 @@
     "total_seconds": 100
   },
   "jqkz": {
-    "week_seconds": 23582,
+    "week_seconds": 24158,
     "week_start": 1782689758,
-    "total_seconds": 93375
+    "total_seconds": 93951
   },
   "lightningboi4": {
     "week_seconds": 76128,
@@ -9280,9 +9280,9 @@
     "total_seconds": 9165
   },
   "vai_": {
-    "week_seconds": 930,
+    "week_seconds": 1485,
     "week_start": 1782772558,
-    "total_seconds": 52164
+    "total_seconds": 52719
   },
   "mis_misato": {
     "week_seconds": 0,
@@ -15848,5 +15848,10 @@
     "week_seconds": 262,
     "week_start": 1782936409,
     "total_seconds": 262
+  },
+  "waterhoodx": {
+    "week_seconds": 0,
+    "week_start": 1782937355,
+    "total_seconds": 0
   }
 }
