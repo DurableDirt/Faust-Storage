@@ -12735,9 +12735,9 @@
     "total_seconds": 278
   },
   "heimrarnadalr": {
-    "week_seconds": 6317,
+    "week_seconds": 12425,
     "week_start": 1782572410,
-    "total_seconds": 6317
+    "total_seconds": 12425
   },
   "syg": {
     "week_seconds": 4765,
@@ -15508,5 +15508,10 @@
     "week_seconds": 330,
     "week_start": 1782910583,
     "total_seconds": 330
+  },
+  "nuumeli": {
+    "week_seconds": 0,
+    "week_start": 1782910958,
+    "total_seconds": 0
   }
 }
