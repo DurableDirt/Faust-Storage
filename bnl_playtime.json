@@ -3180,9 +3180,9 @@
     "total_seconds": 54
   },
   "1stev0": {
-    "week_seconds": 15088,
+    "week_seconds": 21820,
     "week_start": 1782768958,
-    "total_seconds": 415035
+    "total_seconds": 421767
   },
   "jonandr5735": {
     "week_seconds": 0,
@@ -8525,9 +8525,9 @@
     "total_seconds": 52118
   },
   "eliwastaken5": {
-    "week_seconds": 16650,
+    "week_seconds": 19605,
     "week_start": 1782682558,
-    "total_seconds": 77067
+    "total_seconds": 80022
   },
   "agentsquid2012": {
     "week_seconds": 0,
@@ -15383,5 +15383,10 @@
     "week_seconds": 345,
     "week_start": 1782877779,
     "total_seconds": 345
+  },
+  "arnoleo771112": {
+    "week_seconds": 0,
+    "week_start": 1782878829,
+    "total_seconds": 0
   }
 }
