@@ -2770,9 +2770,9 @@
     "total_seconds": 1555
   },
   "renero95": {
-    "week_seconds": 9114,
+    "week_seconds": 9453,
     "week_start": 1782758158,
-    "total_seconds": 65208
+    "total_seconds": 65547
   },
   "duskadmiral": {
     "week_seconds": 0,
@@ -15868,5 +15868,10 @@
     "week_seconds": 0,
     "week_start": 1782938928,
     "total_seconds": 0
+  },
+  "kingkasmo": {
+    "week_seconds": 5,
+    "week_start": 1782938963,
+    "total_seconds": 5
   }
 }
