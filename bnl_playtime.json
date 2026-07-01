@@ -885,9 +885,9 @@
     "total_seconds": 3443
   },
   "espec17": {
-    "week_seconds": 15294,
+    "week_seconds": 21227,
     "week_start": 1782696958,
-    "total_seconds": 85968
+    "total_seconds": 91901
   },
   "c32shark": {
     "week_seconds": 10154,
@@ -3635,9 +3635,9 @@
     "total_seconds": 116737
   },
   "dj121739": {
-    "week_seconds": 64629,
+    "week_seconds": 66263,
     "week_start": 1782790558,
-    "total_seconds": 834762
+    "total_seconds": 836396
   },
   "gaming_alex7": {
     "week_seconds": 9,
@@ -15748,5 +15748,10 @@
     "week_seconds": 71,
     "week_start": 1782929027,
     "total_seconds": 71
+  },
+  "endfle": {
+    "week_seconds": 0,
+    "week_start": 1782929361,
+    "total_seconds": 0
   }
 }
