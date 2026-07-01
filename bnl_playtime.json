@@ -2295,9 +2295,9 @@
     "total_seconds": 322118
   },
   "stun2845": {
-    "week_seconds": 25124,
+    "week_seconds": 25999,
     "week_start": 1782743758,
-    "total_seconds": 58203
+    "total_seconds": 59078
   },
   "zeologue": {
     "week_seconds": 0,
@@ -15487,6 +15487,11 @@
   "redeye7272": {
     "week_seconds": 0,
     "week_start": 1782908055,
+    "total_seconds": 0
+  },
+  "donald1167": {
+    "week_seconds": 0,
+    "week_start": 1782908092,
     "total_seconds": 0
   }
 }
