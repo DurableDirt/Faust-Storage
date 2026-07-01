@@ -30,9 +30,9 @@
     "total_seconds": 226821
   },
   "harved": {
-    "week_seconds": 40717,
+    "week_seconds": 58128,
     "week_start": 1782686158,
-    "total_seconds": 162677
+    "total_seconds": 180088
   },
   "maxxyrose": {
     "week_seconds": 11471,
@@ -1900,9 +1900,9 @@
     "total_seconds": 85
   },
   "evdan": {
-    "week_seconds": 25661,
+    "week_seconds": 28514,
     "week_start": 1782732958,
-    "total_seconds": 256838
+    "total_seconds": 259691
   },
   "hxrl": {
     "week_seconds": 11941,
@@ -15443,5 +15443,15 @@
     "week_seconds": 30,
     "week_start": 1782895560,
     "total_seconds": 30
+  },
+  "_mushmush_": {
+    "week_seconds": 0,
+    "week_start": 1782897447,
+    "total_seconds": 0
+  },
+  "rudij": {
+    "week_seconds": 9,
+    "week_start": 1782897469,
+    "total_seconds": 9
   }
 }
