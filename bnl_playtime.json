@@ -50,9 +50,9 @@
     "total_seconds": 154384
   },
   "meenos": {
-    "week_seconds": 41078,
+    "week_seconds": 41135,
     "week_start": 1782686158,
-    "total_seconds": 239060
+    "total_seconds": 239117
   },
   "jadenjb": {
     "week_seconds": 2585,
@@ -325,9 +325,9 @@
     "total_seconds": 156552
   },
   "catgifs": {
-    "week_seconds": 11295,
+    "week_seconds": 13673,
     "week_start": 1782689758,
-    "total_seconds": 121324
+    "total_seconds": 123702
   },
   "demboiiiii": {
     "week_seconds": 0,
@@ -640,9 +640,9 @@
     "total_seconds": 197291
   },
   "beepcar": {
-    "week_seconds": 65981,
+    "week_seconds": 66752,
     "week_start": 1782693358,
-    "total_seconds": 512990
+    "total_seconds": 513761
   },
   "moopie50": {
     "week_seconds": 0,
@@ -3640,9 +3640,9 @@
     "total_seconds": 779253
   },
   "gaming_alex7": {
-    "week_seconds": 0,
+    "week_seconds": 9,
     "week_start": 1782790558,
-    "total_seconds": 34
+    "total_seconds": 43
   },
   "konaieevee": {
     "week_seconds": 0,
@@ -15298,5 +15298,10 @@
     "week_seconds": 6,
     "week_start": 1782868455,
     "total_seconds": 6
+  },
+  "qrcode4": {
+    "week_seconds": 0,
+    "week_start": 1782869654,
+    "total_seconds": 0
   }
 }
