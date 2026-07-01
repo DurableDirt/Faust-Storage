@@ -90,9 +90,9 @@
     "total_seconds": 129391
   },
   "chips_and_salsa_": {
-    "week_seconds": 9173,
+    "week_seconds": 9186,
     "week_start": 1782686158,
-    "total_seconds": 151669
+    "total_seconds": 151682
   },
   "booger_godslayer": {
     "week_seconds": 0,
@@ -105,9 +105,9 @@
     "total_seconds": 154348
   },
   "slothinasuit": {
-    "week_seconds": 57163,
+    "week_seconds": 59025,
     "week_start": 1782686158,
-    "total_seconds": 520674
+    "total_seconds": 522536
   },
   "jck20h": {
     "week_seconds": 0,
@@ -1730,9 +1730,9 @@
     "total_seconds": 3139
   },
   "tacofromii": {
-    "week_seconds": 31792,
+    "week_seconds": 35615,
     "week_start": 1782725758,
-    "total_seconds": 310195
+    "total_seconds": 314018
   },
   "mayaafox": {
     "week_seconds": 17356,
@@ -15717,6 +15717,11 @@
   "ljnotwafl": {
     "week_seconds": 0,
     "week_start": 1782926499,
+    "total_seconds": 0
+  },
+  "breadedsandwich": {
+    "week_seconds": 0,
+    "week_start": 1782926654,
     "total_seconds": 0
   }
 }
