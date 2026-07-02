@@ -15465,9 +15465,9 @@
     "total_seconds": 346
   },
   "bloxxerishere": {
-    "week_seconds": 13849,
+    "week_seconds": 13999,
     "week_start": 1782901481,
-    "total_seconds": 13849
+    "total_seconds": 13999
   },
   "mrpseudos": {
     "week_seconds": 8160,
@@ -16262,6 +16262,11 @@
   "tenetofmime": {
     "week_seconds": 0,
     "week_start": 1783004122,
+    "total_seconds": 0
+  },
+  "ministrike": {
+    "week_seconds": 0,
+    "week_start": 1783004627,
     "total_seconds": 0
   }
 }
