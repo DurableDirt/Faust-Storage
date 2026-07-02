@@ -3220,9 +3220,9 @@
     "total_seconds": 107975
   },
   "mannami": {
-    "week_seconds": 72340,
+    "week_seconds": 73259,
     "week_start": 1782772558,
-    "total_seconds": 206516
+    "total_seconds": 207435
   },
   "pixitchi_o3o": {
     "week_seconds": 5341,
@@ -16065,8 +16065,13 @@
     "total_seconds": 0
   },
   "redtimtam": {
-    "week_seconds": 0,
+    "week_seconds": 140,
     "week_start": 1782969800,
+    "total_seconds": 140
+  },
+  "wiggleshark8722": {
+    "week_seconds": 0,
+    "week_start": 1782969959,
     "total_seconds": 0
   }
 }
