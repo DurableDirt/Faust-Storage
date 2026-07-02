@@ -1485,9 +1485,9 @@
     "total_seconds": 4545
   },
   "jpmiii": {
-    "week_seconds": 65566,
+    "week_seconds": 65643,
     "week_start": 1782711358,
-    "total_seconds": 159408
+    "total_seconds": 159485
   },
   "benpuma25": {
     "week_seconds": 8594,
@@ -16553,5 +16553,10 @@
     "week_seconds": 178,
     "week_start": 1783034326,
     "total_seconds": 178
+  },
+  "tjrulezr": {
+    "week_seconds": 0,
+    "week_start": 1783034575,
+    "total_seconds": 0
   }
 }
