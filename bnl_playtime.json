@@ -2590,9 +2590,9 @@
     "total_seconds": 20535
   },
   "dant481heman": {
-    "week_seconds": 31664,
+    "week_seconds": 39593,
     "week_start": 1782750958,
-    "total_seconds": 200844
+    "total_seconds": 208773
   },
   "aredstonegod378": {
     "week_seconds": 0,
@@ -2625,9 +2625,9 @@
     "total_seconds": 17786
   },
   "syvslime": {
-    "week_seconds": 3837,
+    "week_seconds": 4969,
     "week_start": 1782750958,
-    "total_seconds": 147905
+    "total_seconds": 149037
   },
   "joldidk": {
     "week_seconds": 13741,
@@ -16327,6 +16327,11 @@
   "ajmitev": {
     "week_seconds": 0,
     "week_start": 1783013037,
+    "total_seconds": 0
+  },
+  "master_trout": {
+    "week_seconds": 0,
+    "week_start": 1783013240,
     "total_seconds": 0
   }
 }
