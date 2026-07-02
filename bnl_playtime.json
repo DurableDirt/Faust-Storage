@@ -1750,9 +1750,9 @@
     "total_seconds": 491136
   },
   "stavros_ell": {
-    "week_seconds": 27455,
+    "week_seconds": 27732,
     "week_start": 1782725758,
-    "total_seconds": 131069
+    "total_seconds": 131346
   },
   "facocero09": {
     "week_seconds": 35510,
@@ -5320,9 +5320,9 @@
     "total_seconds": 10081
   },
   "goneguy5": {
-    "week_seconds": 12234,
+    "week_seconds": 12644,
     "week_start": 1782932974,
-    "total_seconds": 44651
+    "total_seconds": 45061
   },
   "supermollyworld": {
     "week_seconds": 0,
@@ -13815,9 +13815,9 @@
     "total_seconds": 19671
   },
   "fonchox9": {
-    "week_seconds": 19711,
+    "week_seconds": 21802,
     "week_start": 1782682913,
-    "total_seconds": 19711
+    "total_seconds": 21802
   },
   "grizsen": {
     "week_seconds": 651,
@@ -15465,9 +15465,9 @@
     "total_seconds": 346
   },
   "bloxxerishere": {
-    "week_seconds": 13999,
+    "week_seconds": 15296,
     "week_start": 1782901481,
-    "total_seconds": 13999
+    "total_seconds": 15296
   },
   "mrpseudos": {
     "week_seconds": 8160,
@@ -16268,5 +16268,10 @@
     "week_seconds": 1274,
     "week_start": 1783004627,
     "total_seconds": 1274
+  },
+  "thadon33": {
+    "week_seconds": 0,
+    "week_start": 1783006056,
+    "total_seconds": 0
   }
 }
