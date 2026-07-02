@@ -590,9 +590,9 @@
     "total_seconds": 3472
   },
   "cocobean1122": {
-    "week_seconds": 4935,
+    "week_seconds": 5501,
     "week_start": 1782693358,
-    "total_seconds": 41656
+    "total_seconds": 42222
   },
   "webchat427": {
     "week_seconds": 304,
@@ -4345,9 +4345,9 @@
     "total_seconds": 133553
   },
   "koentinius": {
-    "week_seconds": 2857,
+    "week_seconds": 2889,
     "week_start": 1782850174,
-    "total_seconds": 275894
+    "total_seconds": 275926
   },
   "hoax_mncrft": {
     "week_seconds": 0,
@@ -16468,5 +16468,10 @@
     "week_seconds": 165,
     "week_start": 1783024197,
     "total_seconds": 165
+  },
+  "arynade": {
+    "week_seconds": 0,
+    "week_start": 1783025613,
+    "total_seconds": 0
   }
 }
