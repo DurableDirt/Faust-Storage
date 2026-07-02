@@ -1255,9 +1255,9 @@
     "total_seconds": 216
   },
   "blu9710": {
-    "week_seconds": 94625,
+    "week_seconds": 102681,
     "week_start": 1782704158,
-    "total_seconds": 430688
+    "total_seconds": 438744
   },
   "krabs123": {
     "week_seconds": 0,
@@ -16338,5 +16338,10 @@
     "week_seconds": 734,
     "week_start": 1783013599,
     "total_seconds": 734
+  },
+  "romanitos": {
+    "week_seconds": 0,
+    "week_start": 1783014595,
+    "total_seconds": 0
   }
 }
