@@ -2260,9 +2260,9 @@
     "total_seconds": 105832
   },
   "nekroz09": {
-    "week_seconds": 8500,
+    "week_seconds": 8692,
     "week_start": 1782743758,
-    "total_seconds": 71896
+    "total_seconds": 72088
   },
   "pergyskeel": {
     "week_seconds": 57306,
@@ -15150,9 +15150,9 @@
     "total_seconds": 9690
   },
   "slightlycringe": {
-    "week_seconds": 26511,
+    "week_seconds": 26883,
     "week_start": 1782854553,
-    "total_seconds": 26511
+    "total_seconds": 26883
   },
   "haitzs": {
     "week_seconds": 2123,
@@ -16373,5 +16373,10 @@
     "week_seconds": 303,
     "week_start": 1783017455,
     "total_seconds": 303
+  },
+  "chucky444444": {
+    "week_seconds": 0,
+    "week_start": 1783017930,
+    "total_seconds": 0
   }
 }
