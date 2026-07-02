@@ -9145,9 +9145,9 @@
     "total_seconds": 3847
   },
   "bigbraingamr": {
-    "week_seconds": 0,
+    "week_seconds": 628,
     "week_start": 1782758158,
-    "total_seconds": 2732
+    "total_seconds": 3360
   },
   "signedwheat6134": {
     "week_seconds": 0,
@@ -16530,9 +16530,9 @@
     "total_seconds": 734
   },
   "the_mc_docctor": {
-    "week_seconds": 0,
+    "week_seconds": 2947,
     "week_start": 1783032731,
-    "total_seconds": 0
+    "total_seconds": 2947
   },
   "atidude": {
     "week_seconds": 5,
@@ -16563,5 +16563,10 @@
     "week_seconds": 39,
     "week_start": 1783035114,
     "total_seconds": 39
+  },
+  "thekannonfodder": {
+    "week_seconds": 33,
+    "week_start": 1783035671,
+    "total_seconds": 33
   }
 }
