@@ -8440,9 +8440,9 @@
     "total_seconds": 48197
   },
   "speedyfire1000": {
-    "week_seconds": 0,
+    "week_seconds": 918,
     "week_start": 1782675358,
-    "total_seconds": 17979
+    "total_seconds": 18897
   },
   "mattbruhr": {
     "week_seconds": 0,
@@ -16388,5 +16388,10 @@
     "week_seconds": 5,
     "week_start": 1783018397,
     "total_seconds": 5
+  },
+  "6el1": {
+    "week_seconds": 31,
+    "week_start": 1783018575,
+    "total_seconds": 31
   }
 }
