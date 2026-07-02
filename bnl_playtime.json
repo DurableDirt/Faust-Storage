@@ -5450,9 +5450,9 @@
     "total_seconds": 10
   },
   "mrcoco_cola": {
-    "week_seconds": 0,
+    "week_seconds": 7318,
     "week_start": 1782940174,
-    "total_seconds": 41416
+    "total_seconds": 48734
   },
   "odagroda": {
     "week_seconds": 0,
@@ -15933,5 +15933,10 @@
     "week_seconds": 5,
     "week_start": 1782950341,
     "total_seconds": 5
+  },
+  "thewilsoneye": {
+    "week_seconds": 0,
+    "week_start": 1782950480,
+    "total_seconds": 0
   }
 }
