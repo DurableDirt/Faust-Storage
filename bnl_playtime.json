@@ -15870,9 +15870,9 @@
     "total_seconds": 2951
   },
   "kingkasmo": {
-    "week_seconds": 5,
+    "week_seconds": 2073,
     "week_start": 1782938963,
-    "total_seconds": 5
+    "total_seconds": 2073
   },
   "jonskupvp": {
     "week_seconds": 6,
@@ -16547,6 +16547,11 @@
   "canadian8rit": {
     "week_seconds": 0,
     "week_start": 1783034249,
+    "total_seconds": 0
+  },
+  "masoncrafter201": {
+    "week_seconds": 0,
+    "week_start": 1783034326,
     "total_seconds": 0
   }
 }
