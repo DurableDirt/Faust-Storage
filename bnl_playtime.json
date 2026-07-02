@@ -195,9 +195,9 @@
     "total_seconds": 276222
   },
   "262i": {
-    "week_seconds": 19369,
+    "week_seconds": 19431,
     "week_start": 1782689758,
-    "total_seconds": 229105
+    "total_seconds": 229167
   },
   "jalhf": {
     "week_seconds": 0,
@@ -16167,6 +16167,11 @@
   "njury": {
     "week_seconds": 0,
     "week_start": 1782991339,
+    "total_seconds": 0
+  },
+  "kingu_11": {
+    "week_seconds": 0,
+    "week_start": 1782991855,
     "total_seconds": 0
   }
 }
