@@ -2090,9 +2090,9 @@
     "total_seconds": 313597
   },
   "m4xoff": {
-    "week_seconds": 0,
+    "week_seconds": 180,
     "week_start": 1782736558,
-    "total_seconds": 73026
+    "total_seconds": 73206
   },
   "thatguymisan": {
     "week_seconds": 0,
@@ -7265,9 +7265,9 @@
     "total_seconds": 159576
   },
   "swiftyscissors": {
-    "week_seconds": 121872,
+    "week_seconds": 125062,
     "week_start": 1782520558,
-    "total_seconds": 417252
+    "total_seconds": 420442
   },
   "beinbean13": {
     "week_seconds": 0,
