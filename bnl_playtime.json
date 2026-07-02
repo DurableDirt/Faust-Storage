@@ -450,9 +450,9 @@
     "total_seconds": 454426
   },
   "mrtnt1925": {
-    "week_seconds": 47851,
+    "week_seconds": 48214,
     "week_start": 1782689758,
-    "total_seconds": 375405
+    "total_seconds": 375768
   },
   "axsld": {
     "week_seconds": 0,
@@ -16503,5 +16503,10 @@
     "week_seconds": 8,
     "week_start": 1783028291,
     "total_seconds": 8
+  },
+  "noshoejesus1": {
+    "week_seconds": 0,
+    "week_start": 1783030773,
+    "total_seconds": 0
   }
 }
