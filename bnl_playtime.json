@@ -1060,9 +1060,9 @@
     "total_seconds": 30008
   },
   "___theboss___": {
-    "week_seconds": 64428,
+    "week_seconds": 64567,
     "week_start": 1782700558,
-    "total_seconds": 264927
+    "total_seconds": 265066
   },
   "goldlirio": {
     "week_seconds": 31201,
@@ -12515,9 +12515,9 @@
     "total_seconds": 2567
   },
   "spicyicy111": {
-    "week_seconds": 85402,
+    "week_seconds": 91896,
     "week_start": 1782546116,
-    "total_seconds": 85402
+    "total_seconds": 91896
   },
   "acopier": {
     "week_seconds": 54,
@@ -15967,6 +15967,11 @@
   "peterbot9000": {
     "week_seconds": 0,
     "week_start": 1782954675,
+    "total_seconds": 0
+  },
+  "hex_knight": {
+    "week_seconds": 0,
+    "week_start": 1782955404,
     "total_seconds": 0
   }
 }
