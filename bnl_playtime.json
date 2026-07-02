@@ -2660,9 +2660,9 @@
     "total_seconds": 2130
   },
   "binchymonkey": {
-    "week_seconds": 0,
+    "week_seconds": 139,
     "week_start": 1782754558,
-    "total_seconds": 22603
+    "total_seconds": 22742
   },
   "thehypercore": {
     "week_seconds": 0,
@@ -16238,5 +16238,10 @@
     "week_seconds": 133,
     "week_start": 1782999505,
     "total_seconds": 133
+  },
+  "babobousse": {
+    "week_seconds": 0,
+    "week_start": 1783000440,
+    "total_seconds": 0
   }
 }
