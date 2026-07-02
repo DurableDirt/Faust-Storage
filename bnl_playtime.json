@@ -1245,9 +1245,9 @@
     "total_seconds": 782046
   },
   "intelligences": {
-    "week_seconds": 5199,
+    "week_seconds": 6001,
     "week_start": 1782704158,
-    "total_seconds": 87236
+    "total_seconds": 88038
   },
   "drippydippy": {
     "week_seconds": 0,
@@ -16035,13 +16035,18 @@
     "total_seconds": 0
   },
   "justsomgudboi": {
-    "week_seconds": 0,
+    "week_seconds": 197,
     "week_start": 1782964206,
-    "total_seconds": 0
+    "total_seconds": 197
   },
   "tnt_whale": {
     "week_seconds": 0,
     "week_start": 1782964360,
+    "total_seconds": 0
+  },
+  "jacobmcduck": {
+    "week_seconds": 0,
+    "week_start": 1782964413,
     "total_seconds": 0
   }
 }
