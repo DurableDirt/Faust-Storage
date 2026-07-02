@@ -7765,9 +7765,9 @@
     "total_seconds": 42849
   },
   "x_teach_x": {
-    "week_seconds": 89355,
+    "week_seconds": 96182,
     "week_start": 1782585358,
-    "total_seconds": 223386
+    "total_seconds": 230213
   },
   "watermashen": {
     "week_seconds": 353,
@@ -15978,5 +15978,10 @@
     "week_seconds": 873,
     "week_start": 1782956388,
     "total_seconds": 873
+  },
+  "shahmon12": {
+    "week_seconds": 0,
+    "week_start": 1782957475,
+    "total_seconds": 0
   }
 }
