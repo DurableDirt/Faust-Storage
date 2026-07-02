@@ -815,9 +815,9 @@
     "total_seconds": 216834
   },
   "gnathope": {
-    "week_seconds": 52373,
+    "week_seconds": 65718,
     "week_start": 1782696958,
-    "total_seconds": 255517
+    "total_seconds": 268862
   },
   "freeblade999": {
     "week_seconds": 0,
@@ -16313,5 +16313,10 @@
     "week_seconds": 100,
     "week_start": 1783010931,
     "total_seconds": 100
+  },
+  "desani2277": {
+    "week_seconds": 0,
+    "week_start": 1783012604,
+    "total_seconds": 0
   }
 }
