@@ -5645,9 +5645,9 @@
     "total_seconds": 174
   },
   "skippydx": {
-    "week_seconds": 262,
+    "week_seconds": 394,
     "week_start": 1782954574,
-    "total_seconds": 162715
+    "total_seconds": 162847
   },
   "ultraman2": {
     "week_seconds": 0,
@@ -15998,5 +15998,10 @@
     "week_seconds": 0,
     "week_start": 1782959132,
     "total_seconds": 0
+  },
+  "randomguy0210": {
+    "week_seconds": 8,
+    "week_start": 1782959481,
+    "total_seconds": 8
   }
 }
