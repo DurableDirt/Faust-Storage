@@ -8525,9 +8525,9 @@
     "total_seconds": 52118
   },
   "eliwastaken5": {
-    "week_seconds": 38218,
+    "week_seconds": 43319,
     "week_start": 1782682558,
-    "total_seconds": 98635
+    "total_seconds": 103736
   },
   "agentsquid2012": {
     "week_seconds": 0,
@@ -16052,6 +16052,16 @@
   "guyfawk3s": {
     "week_seconds": 0,
     "week_start": 1782967952,
+    "total_seconds": 0
+  },
+  "lqading": {
+    "week_seconds": 0,
+    "week_start": 1782968617,
+    "total_seconds": 0
+  },
+  "molicay": {
+    "week_seconds": 0,
+    "week_start": 1782968624,
     "total_seconds": 0
   }
 }
