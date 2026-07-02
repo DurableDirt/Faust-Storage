@@ -555,9 +555,9 @@
     "total_seconds": 158
   },
   "zolo17": {
-    "week_seconds": 188812,
+    "week_seconds": 191019,
     "week_start": 1782693358,
-    "total_seconds": 1121289
+    "total_seconds": 1123496
   },
   "dutchcringe": {
     "week_seconds": 0,
@@ -16493,5 +16493,15 @@
     "week_seconds": 146,
     "week_start": 1783027360,
     "total_seconds": 146
+  },
+  "sevghgi90kj": {
+    "week_seconds": 30,
+    "week_start": 1783028273,
+    "total_seconds": 30
+  },
+  "hyperjp8": {
+    "week_seconds": 8,
+    "week_start": 1783028291,
+    "total_seconds": 8
   }
 }
