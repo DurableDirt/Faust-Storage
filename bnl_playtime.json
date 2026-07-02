@@ -1625,9 +1625,9 @@
     "total_seconds": 8763
   },
   "mryellowtail": {
-    "week_seconds": 45306,
+    "week_seconds": 56486,
     "week_start": 1782718558,
-    "total_seconds": 266876
+    "total_seconds": 278056
   },
   "alternativchik": {
     "week_seconds": 0,
@@ -16037,6 +16037,11 @@
   "justsomgudboi": {
     "week_seconds": 0,
     "week_start": 1782964206,
+    "total_seconds": 0
+  },
+  "tnt_whale": {
+    "week_seconds": 0,
+    "week_start": 1782964360,
     "total_seconds": 0
   }
 }
