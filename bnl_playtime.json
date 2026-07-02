@@ -7305,9 +7305,9 @@
     "total_seconds": 31269
   },
   "donutmt": {
-    "week_seconds": 30338,
+    "week_seconds": 30763,
     "week_start": 1782524158,
-    "total_seconds": 72172
+    "total_seconds": 72597
   },
   "bobroos8": {
     "week_seconds": 0,
@@ -16005,8 +16005,8 @@
     "total_seconds": 8
   },
   "wildweazel": {
-    "week_seconds": 0,
+    "week_seconds": 1102,
     "week_start": 1782960563,
-    "total_seconds": 0
+    "total_seconds": 1102
   }
 }
