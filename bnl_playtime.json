@@ -5155,9 +5155,9 @@
     "total_seconds": 1749
   },
   "cubinegaming": {
-    "week_seconds": 0,
+    "week_seconds": 890,
     "week_start": 1782922174,
-    "total_seconds": 2747
+    "total_seconds": 3637
   },
   "csibesz89": {
     "week_seconds": 0,
@@ -16577,6 +16577,11 @@
   "nobou_7": {
     "week_seconds": 0,
     "week_start": 1783036339,
+    "total_seconds": 0
+  },
+  "sosbanfawrr": {
+    "week_seconds": 0,
+    "week_start": 1783036672,
     "total_seconds": 0
   }
 }
