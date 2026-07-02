@@ -8440,9 +8440,9 @@
     "total_seconds": 48197
   },
   "speedyfire1000": {
-    "week_seconds": 1248,
+    "week_seconds": 1546,
     "week_start": 1782675358,
-    "total_seconds": 19227
+    "total_seconds": 19525
   },
   "mattbruhr": {
     "week_seconds": 0,
@@ -16423,5 +16423,10 @@
     "week_seconds": 6,
     "week_start": 1783020004,
     "total_seconds": 6
+  },
+  "underkirby": {
+    "week_seconds": 24,
+    "week_start": 1783020136,
+    "total_seconds": 24
   }
 }
