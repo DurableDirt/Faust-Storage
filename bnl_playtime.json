@@ -730,9 +730,9 @@
     "total_seconds": 296215
   },
   "marc_1500": {
-    "week_seconds": 42931,
+    "week_seconds": 45478,
     "week_start": 1782693358,
-    "total_seconds": 243497
+    "total_seconds": 246044
   },
   "zipjaw3979": {
     "week_seconds": 0,
@@ -6930,9 +6930,9 @@
     "total_seconds": 42
   },
   "mr_quakston": {
-    "week_seconds": 9950,
+    "week_seconds": 10915,
     "week_start": 1782483560,
-    "total_seconds": 34255
+    "total_seconds": 35220
   },
   "sunflower73": {
     "week_seconds": 195,
@@ -16008,5 +16008,10 @@
     "week_seconds": 1102,
     "week_start": 1782960563,
     "total_seconds": 1102
+  },
+  "potonator01": {
+    "week_seconds": 13,
+    "week_start": 1782961691,
+    "total_seconds": 13
   }
 }
