@@ -4960,9 +4960,9 @@
     "total_seconds": 4618
   },
   "xlaser2014": {
-    "week_seconds": 24002,
+    "week_seconds": 24702,
     "week_start": 1782893374,
-    "total_seconds": 119440
+    "total_seconds": 120140
   },
   "plutouz": {
     "week_seconds": 4180,
@@ -16148,5 +16148,10 @@
     "week_seconds": 28,
     "week_start": 1782988480,
     "total_seconds": 28
+  },
+  "amisuflame": {
+    "week_seconds": 0,
+    "week_start": 1782988600,
+    "total_seconds": 0
   }
 }
