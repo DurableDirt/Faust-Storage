@@ -15070,9 +15070,9 @@
     "total_seconds": 4652
   },
   "greltam": {
-    "week_seconds": 159878,
+    "week_seconds": 160428,
     "week_start": 1782850563,
-    "total_seconds": 159878
+    "total_seconds": 160428
   },
   "bluedragonthe1st": {
     "week_seconds": 156,
@@ -16353,5 +16353,10 @@
     "week_seconds": 0,
     "week_start": 1783016289,
     "total_seconds": 0
+  },
+  "w_thefarmer": {
+    "week_seconds": 18,
+    "week_start": 1783016363,
+    "total_seconds": 18
   }
 }
