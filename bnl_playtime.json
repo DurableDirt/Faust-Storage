@@ -1580,9 +1580,9 @@
     "total_seconds": 313239
   },
   "gobblin": {
-    "week_seconds": 26670,
+    "week_seconds": 26870,
     "week_start": 1782718558,
-    "total_seconds": 155640
+    "total_seconds": 155840
   },
   "vlinar": {
     "week_seconds": 0,
@@ -1745,9 +1745,9 @@
     "total_seconds": 41
   },
   "ferohan11": {
-    "week_seconds": 54313,
+    "week_seconds": 54552,
     "week_start": 1782725758,
-    "total_seconds": 487760
+    "total_seconds": 487999
   },
   "stavros_ell": {
     "week_seconds": 27455,
