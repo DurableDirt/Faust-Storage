@@ -660,9 +660,9 @@
     "total_seconds": 19807
   },
   "demobottle12": {
-    "week_seconds": 74467,
+    "week_seconds": 75734,
     "week_start": 1782693358,
-    "total_seconds": 202758
+    "total_seconds": 204025
   },
   "unique_nullptr": {
     "week_seconds": 0,
@@ -8440,9 +8440,9 @@
     "total_seconds": 48197
   },
   "speedyfire1000": {
-    "week_seconds": 3249,
+    "week_seconds": 3333,
     "week_start": 1782675358,
-    "total_seconds": 21228
+    "total_seconds": 21312
   },
   "mattbruhr": {
     "week_seconds": 0,
@@ -16452,6 +16452,11 @@
   "wolfiesteve1": {
     "week_seconds": 0,
     "week_start": 1783022207,
+    "total_seconds": 0
+  },
+  "itsdanro": {
+    "week_seconds": 0,
+    "week_start": 1783022529,
     "total_seconds": 0
   }
 }
