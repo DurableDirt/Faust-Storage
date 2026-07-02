@@ -5500,9 +5500,9 @@
     "total_seconds": 18054
   },
   "quickster750": {
-    "week_seconds": 17117,
+    "week_seconds": 20136,
     "week_start": 1782947374,
-    "total_seconds": 226747
+    "total_seconds": 229766
   },
   "vvolfiee": {
     "week_seconds": 0,
@@ -7985,9 +7985,9 @@
     "total_seconds": 27682
   },
   "gamer_time69": {
-    "week_seconds": 52157,
+    "week_seconds": 72214,
     "week_start": 1782606958,
-    "total_seconds": 52304
+    "total_seconds": 72361
   },
   "mrnuems": {
     "week_seconds": 16528,
@@ -16032,6 +16032,11 @@
   "duazy": {
     "week_seconds": 0,
     "week_start": 1782963721,
+    "total_seconds": 0
+  },
+  "justsomgudboi": {
+    "week_seconds": 0,
+    "week_start": 1782964206,
     "total_seconds": 0
   }
 }
