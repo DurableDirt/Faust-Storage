@@ -280,9 +280,9 @@
     "total_seconds": 12721
   },
   "ansgardd": {
-    "week_seconds": 14257,
+    "week_seconds": 14302,
     "week_start": 1782689758,
-    "total_seconds": 165912
+    "total_seconds": 165957
   },
   "mechanicalrift": {
     "week_seconds": 65534,
@@ -1145,9 +1145,9 @@
     "total_seconds": 34382
   },
   "hitmehn": {
-    "week_seconds": 219093,
+    "week_seconds": 219157,
     "week_start": 1782700558,
-    "total_seconds": 920973
+    "total_seconds": 921037
   },
   "moahbalin": {
     "week_seconds": 13261,
@@ -16185,8 +16185,8 @@
     "total_seconds": 56
   },
   "flypinkstar": {
-    "week_seconds": 0,
+    "week_seconds": 62,
     "week_start": 1782993984,
-    "total_seconds": 0
+    "total_seconds": 62
   }
 }
