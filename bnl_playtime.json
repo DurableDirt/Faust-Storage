@@ -155,9 +155,9 @@
     "total_seconds": 103955
   },
   "lightningboi4": {
-    "week_seconds": 98665,
+    "week_seconds": 99969,
     "week_start": 1782689758,
-    "total_seconds": 486658
+    "total_seconds": 487962
   },
   "aaroni_macaroni": {
     "week_seconds": 0,
@@ -8440,9 +8440,9 @@
     "total_seconds": 48197
   },
   "speedyfire1000": {
-    "week_seconds": 1546,
+    "week_seconds": 3249,
     "week_start": 1782675358,
-    "total_seconds": 19525
+    "total_seconds": 21228
   },
   "mattbruhr": {
     "week_seconds": 0,
@@ -16425,9 +16425,9 @@
     "total_seconds": 6
   },
   "underkirby": {
-    "week_seconds": 24,
+    "week_seconds": 1908,
     "week_start": 1783020136,
-    "total_seconds": 24
+    "total_seconds": 1908
   },
   "kingston201211": {
     "week_seconds": 33,
@@ -16447,6 +16447,11 @@
   "rtm2021": {
     "week_seconds": 0,
     "week_start": 1783022038,
+    "total_seconds": 0
+  },
+  "wolfiesteve1": {
+    "week_seconds": 0,
+    "week_start": 1783022207,
     "total_seconds": 0
   }
 }
