@@ -150,9 +150,9 @@
     "total_seconds": 100
   },
   "jqkz": {
-    "week_seconds": 28990,
+    "week_seconds": 29581,
     "week_start": 1782689758,
-    "total_seconds": 98783
+    "total_seconds": 99374
   },
   "lightningboi4": {
     "week_seconds": 82182,
@@ -15485,9 +15485,9 @@
     "total_seconds": 2297
   },
   "redeye7272": {
-    "week_seconds": 3613,
+    "week_seconds": 4346,
     "week_start": 1782908055,
-    "total_seconds": 3613
+    "total_seconds": 4346
   },
   "donald1167": {
     "week_seconds": 3340,
@@ -16222,6 +16222,11 @@
   "father_thames": {
     "week_seconds": 0,
     "week_start": 1782998831,
+    "total_seconds": 0
+  },
+  "nivin_voidwalker": {
+    "week_seconds": 0,
+    "week_start": 1782999156,
     "total_seconds": 0
   }
 }
