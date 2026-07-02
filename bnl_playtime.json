@@ -50,9 +50,9 @@
     "total_seconds": 160339
   },
   "meenos": {
-    "week_seconds": 48983,
+    "week_seconds": 49846,
     "week_start": 1782686158,
-    "total_seconds": 246965
+    "total_seconds": 247828
   },
   "jadenjb": {
     "week_seconds": 8861,
@@ -4715,9 +4715,9 @@
     "total_seconds": 62936
   },
   "tubbzie": {
-    "week_seconds": 20261,
+    "week_seconds": 27047,
     "week_start": 1782871774,
-    "total_seconds": 450731
+    "total_seconds": 457517
   },
   "fakersfemboy": {
     "week_seconds": 2925,
@@ -15150,9 +15150,9 @@
     "total_seconds": 12567
   },
   "slightlycringe": {
-    "week_seconds": 40957,
+    "week_seconds": 40983,
     "week_start": 1782854553,
-    "total_seconds": 40957
+    "total_seconds": 40983
   },
   "haitzs": {
     "week_seconds": 2123,
@@ -16568,5 +16568,10 @@
     "week_seconds": 33,
     "week_start": 1783035671,
     "total_seconds": 33
+  },
+  "mcluvin408": {
+    "week_seconds": 0,
+    "week_start": 1783036011,
+    "total_seconds": 0
   }
 }
