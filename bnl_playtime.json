@@ -1690,9 +1690,9 @@
     "total_seconds": 45519
   },
   "solitaire7": {
-    "week_seconds": 73101,
+    "week_seconds": 73235,
     "week_start": 1782722158,
-    "total_seconds": 446798
+    "total_seconds": 446932
   },
   "masqo_": {
     "week_seconds": 0,
@@ -16172,6 +16172,11 @@
   "kingu_11": {
     "week_seconds": 0,
     "week_start": 1782991855,
+    "total_seconds": 0
+  },
+  "mickboypvp_": {
+    "week_seconds": 0,
+    "week_start": 1782992128,
     "total_seconds": 0
   }
 }
