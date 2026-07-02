@@ -14080,9 +14080,9 @@
     "total_seconds": 1927
   },
   "1spicy_chicken1": {
-    "week_seconds": 15592,
+    "week_seconds": 15845,
     "week_start": 1782719359,
-    "total_seconds": 15592
+    "total_seconds": 15845
   },
   "vertt1go": {
     "week_seconds": 4499,
@@ -16155,8 +16155,13 @@
     "total_seconds": 217
   },
   "rsn_msmc_av8": {
-    "week_seconds": 0,
+    "week_seconds": 630,
     "week_start": 1782990562,
+    "total_seconds": 630
+  },
+  "yeachrolo": {
+    "week_seconds": 0,
+    "week_start": 1782991050,
     "total_seconds": 0
   }
 }
