@@ -1580,9 +1580,9 @@
     "total_seconds": 313239
   },
   "gobblin": {
-    "week_seconds": 26010,
+    "week_seconds": 26202,
     "week_start": 1782718558,
-    "total_seconds": 154980
+    "total_seconds": 155172
   },
   "vlinar": {
     "week_seconds": 0,
@@ -4265,9 +4265,9 @@
     "total_seconds": 3512
   },
   "tallestthetall": {
-    "week_seconds": 36744,
+    "week_seconds": 45364,
     "week_start": 1782846574,
-    "total_seconds": 454837
+    "total_seconds": 463457
   },
   "stickyfishdaedae": {
     "week_seconds": 0,
