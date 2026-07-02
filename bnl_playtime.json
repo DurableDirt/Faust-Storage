@@ -1690,9 +1690,9 @@
     "total_seconds": 45665
   },
   "solitaire7": {
-    "week_seconds": 78202,
+    "week_seconds": 78763,
     "week_start": 1782722158,
-    "total_seconds": 451899
+    "total_seconds": 452460
   },
   "masqo_": {
     "week_seconds": 0,
@@ -16332,6 +16332,11 @@
   "master_trout": {
     "week_seconds": 0,
     "week_start": 1783013240,
+    "total_seconds": 0
+  },
+  "rateriver3449": {
+    "week_seconds": 0,
+    "week_start": 1783013599,
     "total_seconds": 0
   }
 }
