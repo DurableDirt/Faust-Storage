@@ -3295,9 +3295,9 @@
     "total_seconds": 667
   },
   "twinkieexpresss": {
-    "week_seconds": 33968,
+    "week_seconds": 33996,
     "week_start": 1782772558,
-    "total_seconds": 185065
+    "total_seconds": 185093
   },
   "senkucola": {
     "week_seconds": 0,
@@ -16528,5 +16528,10 @@
     "week_seconds": 315,
     "week_start": 1783032290,
     "total_seconds": 315
+  },
+  "the_mc_docctor": {
+    "week_seconds": 0,
+    "week_start": 1783032731,
+    "total_seconds": 0
   }
 }
