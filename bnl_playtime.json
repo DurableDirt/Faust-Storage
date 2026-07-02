@@ -16340,9 +16340,9 @@
     "total_seconds": 1410
   },
   "romanitos": {
-    "week_seconds": 437,
+    "week_seconds": 867,
     "week_start": 1783014595,
-    "total_seconds": 437
+    "total_seconds": 867
   },
   "malyjarvis": {
     "week_seconds": 5,
@@ -16378,5 +16378,15 @@
     "week_seconds": 0,
     "week_start": 1783017930,
     "total_seconds": 0
+  },
+  "thekeeper88": {
+    "week_seconds": 0,
+    "week_start": 1783018389,
+    "total_seconds": 0
+  },
+  "whitefox333": {
+    "week_seconds": 5,
+    "week_start": 1783018397,
+    "total_seconds": 5
   }
 }
