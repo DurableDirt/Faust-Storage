@@ -3215,9 +3215,9 @@
     "total_seconds": 125758
   },
   "tikrainegedvilas": {
-    "week_seconds": 9820,
+    "week_seconds": 10031,
     "week_start": 1782772558,
-    "total_seconds": 108210
+    "total_seconds": 108421
   },
   "mannami": {
     "week_seconds": 73259,
@@ -9680,9 +9680,9 @@
     "total_seconds": 1134
   },
   "omo23536": {
-    "week_seconds": 15236,
+    "week_seconds": 15395,
     "week_start": 1782842974,
-    "total_seconds": 78548
+    "total_seconds": 78707
   },
   "pryy": {
     "week_seconds": 0,
@@ -16317,6 +16317,11 @@
   "desani2277": {
     "week_seconds": 0,
     "week_start": 1783012604,
+    "total_seconds": 0
+  },
+  "bankruptcybarrel": {
+    "week_seconds": 0,
+    "week_start": 1783012966,
     "total_seconds": 0
   }
 }
