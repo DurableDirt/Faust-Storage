@@ -16473,5 +16473,10 @@
     "week_seconds": 260,
     "week_start": 1783025613,
     "total_seconds": 260
+  },
+  "lil_red_roster": {
+    "week_seconds": 10,
+    "week_start": 1783026380,
+    "total_seconds": 10
   }
 }
