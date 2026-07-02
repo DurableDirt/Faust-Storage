@@ -1815,9 +1815,9 @@
     "total_seconds": 4975
   },
   "airdav": {
-    "week_seconds": 4845,
+    "week_seconds": 8038,
     "week_start": 1782729358,
-    "total_seconds": 63618
+    "total_seconds": 66811
   },
   "ch0rk": {
     "week_seconds": 0,
@@ -2295,9 +2295,9 @@
     "total_seconds": 356678
   },
   "stun2845": {
-    "week_seconds": 47877,
+    "week_seconds": 49048,
     "week_start": 1782743758,
-    "total_seconds": 80956
+    "total_seconds": 82127
   },
   "zeologue": {
     "week_seconds": 0,
@@ -16302,6 +16302,11 @@
   "dewdroppp_": {
     "week_seconds": 0,
     "week_start": 1783009891,
+    "total_seconds": 0
+  },
+  "zeytiii": {
+    "week_seconds": 0,
+    "week_start": 1783010637,
     "total_seconds": 0
   }
 }
