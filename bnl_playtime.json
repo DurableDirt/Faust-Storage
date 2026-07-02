@@ -6765,9 +6765,9 @@
     "total_seconds": 14121
   },
   "gabrielmaennl5": {
-    "week_seconds": 128178,
+    "week_seconds": 128211,
     "week_start": 1782461960,
-    "total_seconds": 235683
+    "total_seconds": 235716
   },
   "big_shadow0": {
     "week_seconds": 826,
@@ -16108,5 +16108,10 @@
     "week_seconds": 56,
     "week_start": 1782977959,
     "total_seconds": 56
+  },
+  "serano22": {
+    "week_seconds": 0,
+    "week_start": 1782978268,
+    "total_seconds": 0
   }
 }
