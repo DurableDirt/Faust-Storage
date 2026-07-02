@@ -1790,9 +1790,9 @@
     "total_seconds": 4286
   },
   "battleofsky": {
-    "week_seconds": 40963,
+    "week_seconds": 43002,
     "week_start": 1782729358,
-    "total_seconds": 150808
+    "total_seconds": 152847
   },
   "lgamant": {
     "week_seconds": 262,
@@ -7400,9 +7400,9 @@
     "total_seconds": 76510
   },
   "_medb_": {
-    "week_seconds": 87931,
+    "week_seconds": 88832,
     "week_start": 1782534958,
-    "total_seconds": 121311
+    "total_seconds": 122212
   },
   "ritalinabuser": {
     "week_seconds": 0,
@@ -16078,5 +16078,10 @@
     "week_seconds": 4137,
     "week_start": 1782970010,
     "total_seconds": 4137
+  },
+  "jcasta_765": {
+    "week_seconds": 0,
+    "week_start": 1782974782,
+    "total_seconds": 0
   }
 }
