@@ -285,9 +285,9 @@
     "total_seconds": 161886
   },
   "mechanicalrift": {
-    "week_seconds": 59905,
+    "week_seconds": 65534,
     "week_start": 1782689758,
-    "total_seconds": 531228
+    "total_seconds": 536857
   },
   "aguscon": {
     "week_seconds": 0,
@@ -15980,8 +15980,13 @@
     "total_seconds": 873
   },
   "shahmon12": {
-    "week_seconds": 0,
+    "week_seconds": 250,
     "week_start": 1782957475,
+    "total_seconds": 250
+  },
+  "thomasprivatized": {
+    "week_seconds": 0,
+    "week_start": 1782957727,
     "total_seconds": 0
   }
 }
