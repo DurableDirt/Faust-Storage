@@ -470,9 +470,9 @@
     "total_seconds": 129856
   },
   "anotnot": {
-    "week_seconds": 151813,
+    "week_seconds": 152126,
     "week_start": 1782693358,
-    "total_seconds": 792267
+    "total_seconds": 792580
   },
   "tntfortress": {
     "week_seconds": 1969,
@@ -16557,6 +16557,11 @@
   "tjrulezr": {
     "week_seconds": 0,
     "week_start": 1783034575,
+    "total_seconds": 0
+  },
+  "moho531": {
+    "week_seconds": 0,
+    "week_start": 1783035114,
     "total_seconds": 0
   }
 }
