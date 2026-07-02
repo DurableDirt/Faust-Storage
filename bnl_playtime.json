@@ -8875,9 +8875,9 @@
     "total_seconds": 9037
   },
   "morningsoda": {
-    "week_seconds": 20016,
+    "week_seconds": 21040,
     "week_start": 1782725758,
-    "total_seconds": 61364
+    "total_seconds": 62388
   },
   "nitando1234": {
     "week_seconds": 0,
@@ -16075,9 +16075,9 @@
     "total_seconds": 1686
   },
   "sharpredux": {
-    "week_seconds": 10287,
+    "week_seconds": 10359,
     "week_start": 1782970010,
-    "total_seconds": 10287
+    "total_seconds": 10359
   },
   "jcasta_765": {
     "week_seconds": 215,
@@ -16198,5 +16198,10 @@
     "week_seconds": 8,
     "week_start": 1782994598,
     "total_seconds": 8
+  },
+  "fightmaster64": {
+    "week_seconds": 0,
+    "week_start": 1782996569,
+    "total_seconds": 0
   }
 }
