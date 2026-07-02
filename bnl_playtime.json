@@ -615,9 +615,9 @@
     "total_seconds": 8502
   },
   "yodabird19": {
-    "week_seconds": 35403,
+    "week_seconds": 36550,
     "week_start": 1782693358,
-    "total_seconds": 361081
+    "total_seconds": 362228
   },
   "justmicwa": {
     "week_seconds": 68326,
@@ -4425,9 +4425,9 @@
     "total_seconds": 69150
   },
   "spacepaww": {
-    "week_seconds": 29491,
+    "week_seconds": 32070,
     "week_start": 1782850174,
-    "total_seconds": 98032
+    "total_seconds": 100611
   },
   "shrimpwashere_": {
     "week_seconds": 0,
@@ -8670,9 +8670,9 @@
     "total_seconds": 6178
   },
   "obsidian_mike": {
-    "week_seconds": 51864,
+    "week_seconds": 51917,
     "week_start": 1782696958,
-    "total_seconds": 221965
+    "total_seconds": 222018
   },
   "rygysofly": {
     "week_seconds": 0,
@@ -15948,5 +15948,10 @@
     "week_seconds": 333,
     "week_start": 1782951558,
     "total_seconds": 333
+  },
+  "des23": {
+    "week_seconds": 3,
+    "week_start": 1782952069,
+    "total_seconds": 3
   }
 }
