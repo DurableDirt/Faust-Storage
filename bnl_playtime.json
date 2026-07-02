@@ -15160,9 +15160,9 @@
     "total_seconds": 2123
   },
   "igneol": {
-    "week_seconds": 22363,
+    "week_seconds": 22822,
     "week_start": 1782855550,
-    "total_seconds": 22363
+    "total_seconds": 22822
   },
   "galaxystar241": {
     "week_seconds": 451,
@@ -16488,5 +16488,10 @@
     "week_seconds": 311,
     "week_start": 1783027003,
     "total_seconds": 311
+  },
+  "chrisftn": {
+    "week_seconds": 0,
+    "week_start": 1783027360,
+    "total_seconds": 0
   }
 }
