@@ -3295,9 +3295,9 @@
     "total_seconds": 667
   },
   "twinkieexpresss": {
-    "week_seconds": 30987,
+    "week_seconds": 31555,
     "week_start": 1782772558,
-    "total_seconds": 182084
+    "total_seconds": 182652
   },
   "senkucola": {
     "week_seconds": 0,
@@ -16455,8 +16455,8 @@
     "total_seconds": 0
   },
   "itsdanro": {
-    "week_seconds": 0,
+    "week_seconds": 185,
     "week_start": 1783022529,
-    "total_seconds": 0
+    "total_seconds": 185
   }
 }
