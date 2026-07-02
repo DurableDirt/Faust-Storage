@@ -15070,9 +15070,9 @@
     "total_seconds": 4652
   },
   "greltam": {
-    "week_seconds": 175498,
+    "week_seconds": 176283,
     "week_start": 1782850563,
-    "total_seconds": 175498
+    "total_seconds": 176283
   },
   "bluedragonthe1st": {
     "week_seconds": 156,
@@ -16540,8 +16540,13 @@
     "total_seconds": 5
   },
   "begonwombocombo": {
-    "week_seconds": 0,
+    "week_seconds": 178,
     "week_start": 1783034093,
+    "total_seconds": 178
+  },
+  "canadian8rit": {
+    "week_seconds": 0,
+    "week_start": 1783034249,
     "total_seconds": 0
   }
 }
