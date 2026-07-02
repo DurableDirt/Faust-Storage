@@ -1690,9 +1690,9 @@
     "total_seconds": 45665
   },
   "solitaire7": {
-    "week_seconds": 75769,
+    "week_seconds": 78202,
     "week_start": 1782722158,
-    "total_seconds": 449466
+    "total_seconds": 451899
   },
   "masqo_": {
     "week_seconds": 0,
@@ -7710,9 +7710,9 @@
     "total_seconds": 22087
   },
   "gladiatus13": {
-    "week_seconds": 179687,
+    "week_seconds": 181098,
     "week_start": 1782578158,
-    "total_seconds": 334450
+    "total_seconds": 335861
   },
   "dark_phoenixs": {
     "week_seconds": 0,
@@ -16298,5 +16298,10 @@
     "week_seconds": 2,
     "week_start": 1783009671,
     "total_seconds": 2
+  },
+  "dewdroppp_": {
+    "week_seconds": 0,
+    "week_start": 1783009891,
+    "total_seconds": 0
   }
 }
