@@ -1790,9 +1790,9 @@
     "total_seconds": 4286
   },
   "battleofsky": {
-    "week_seconds": 43002,
+    "week_seconds": 46133,
     "week_start": 1782729358,
-    "total_seconds": 152847
+    "total_seconds": 155978
   },
   "lgamant": {
     "week_seconds": 262,
@@ -3775,9 +3775,9 @@
     "total_seconds": 3463
   },
   "walleyefish": {
-    "week_seconds": 24727,
+    "week_seconds": 25870,
     "week_start": 1782797758,
-    "total_seconds": 262628
+    "total_seconds": 263771
   },
   "nukinmouse01": {
     "week_seconds": 7054,
@@ -7400,9 +7400,9 @@
     "total_seconds": 76510
   },
   "_medb_": {
-    "week_seconds": 89548,
+    "week_seconds": 89814,
     "week_start": 1782534958,
-    "total_seconds": 122928
+    "total_seconds": 123194
   },
   "ritalinabuser": {
     "week_seconds": 0,
@@ -16103,5 +16103,10 @@
     "week_seconds": 5,
     "week_start": 1782977781,
     "total_seconds": 5
+  },
+  "tankitten6296": {
+    "week_seconds": 2,
+    "week_start": 1782977959,
+    "total_seconds": 2
   }
 }
