@@ -10,9 +10,9 @@
     "total_seconds": 4
   },
   "logic_man": {
-    "week_seconds": 89365,
+    "week_seconds": 90503,
     "week_start": 1782686158,
-    "total_seconds": 343199
+    "total_seconds": 344337
   },
   "dragran": {
     "week_seconds": 180313,
@@ -16093,5 +16093,10 @@
     "week_seconds": 0,
     "week_start": 1782977192,
     "total_seconds": 0
+  },
+  "woman": {
+    "week_seconds": 5,
+    "week_start": 1782977724,
+    "total_seconds": 5
   }
 }
