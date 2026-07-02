@@ -390,9 +390,9 @@
     "total_seconds": 295396
   },
   "kokomiology": {
-    "week_seconds": 25542,
+    "week_seconds": 29664,
     "week_start": 1782689758,
-    "total_seconds": 183718
+    "total_seconds": 187840
   },
   "toasted745": {
     "week_seconds": 0,
@@ -5235,9 +5235,9 @@
     "total_seconds": 470
   },
   "murrvas": {
-    "week_seconds": 0,
+    "week_seconds": 545,
     "week_start": 1782925774,
-    "total_seconds": 715
+    "total_seconds": 1260
   },
   "mx_premo": {
     "week_seconds": 0,
@@ -16465,8 +16465,8 @@
     "total_seconds": 44
   },
   "ny11z": {
-    "week_seconds": 0,
+    "week_seconds": 165,
     "week_start": 1783024197,
-    "total_seconds": 0
+    "total_seconds": 165
   }
 }
