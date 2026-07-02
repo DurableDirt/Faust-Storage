@@ -1570,9 +1570,9 @@
     "total_seconds": 26749
   },
   "physicsgamer": {
-    "week_seconds": 98135,
+    "week_seconds": 98166,
     "week_start": 1782714958,
-    "total_seconds": 427966
+    "total_seconds": 427997
   },
   "_2k42_": {
     "week_seconds": 12667,
@@ -16430,8 +16430,8 @@
     "total_seconds": 24
   },
   "kingston201211": {
-    "week_seconds": 8,
+    "week_seconds": 33,
     "week_start": 1783020675,
-    "total_seconds": 8
+    "total_seconds": 33
   }
 }
