@@ -3950,9 +3950,9 @@
     "total_seconds": 67653
   },
   "fealsom_": {
-    "week_seconds": 32,
+    "week_seconds": 42,
     "week_start": 1782822958,
-    "total_seconds": 51330
+    "total_seconds": 51340
   },
   "azuremc": {
     "week_seconds": 0,
@@ -15150,9 +15150,9 @@
     "total_seconds": 12567
   },
   "slightlycringe": {
-    "week_seconds": 30926,
+    "week_seconds": 33599,
     "week_start": 1782854553,
-    "total_seconds": 30926
+    "total_seconds": 33599
   },
   "haitzs": {
     "week_seconds": 2123,
@@ -16470,8 +16470,8 @@
     "total_seconds": 165
   },
   "arynade": {
-    "week_seconds": 0,
+    "week_seconds": 260,
     "week_start": 1783025613,
-    "total_seconds": 0
+    "total_seconds": 260
   }
 }
