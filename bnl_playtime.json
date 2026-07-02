@@ -3990,9 +3990,9 @@
     "total_seconds": 52359
   },
   "frosterjr5": {
-    "week_seconds": 11741,
+    "week_seconds": 18809,
     "week_start": 1782842974,
-    "total_seconds": 43442
+    "total_seconds": 50510
   },
   "kookoobirdie235": {
     "week_seconds": 0,
@@ -16113,5 +16113,10 @@
     "week_seconds": 0,
     "week_start": 1782978268,
     "total_seconds": 0
+  },
+  "bladehunter75x": {
+    "week_seconds": 116,
+    "week_start": 1782979069,
+    "total_seconds": 116
   }
 }
