@@ -12515,9 +12515,9 @@
     "total_seconds": 2567
   },
   "spicyicy111": {
-    "week_seconds": 91896,
+    "week_seconds": 98344,
     "week_start": 1782546116,
-    "total_seconds": 91896
+    "total_seconds": 98344
   },
   "acopier": {
     "week_seconds": 54,
@@ -15940,9 +15940,9 @@
     "total_seconds": 8322
   },
   "eljoseds": {
-    "week_seconds": 0,
+    "week_seconds": 11021,
     "week_start": 1782951369,
-    "total_seconds": 0
+    "total_seconds": 11021
   },
   "iitalyy": {
     "week_seconds": 7480,
@@ -16013,5 +16013,10 @@
     "week_seconds": 13,
     "week_start": 1782961691,
     "total_seconds": 13
+  },
+  "stonebindercuffs": {
+    "week_seconds": 0,
+    "week_start": 1782962299,
+    "total_seconds": 0
   }
 }
