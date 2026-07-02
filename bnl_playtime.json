@@ -10,9 +10,9 @@
     "total_seconds": 4
   },
   "logic_man": {
-    "week_seconds": 92233,
+    "week_seconds": 92369,
     "week_start": 1782686158,
-    "total_seconds": 346067
+    "total_seconds": 346203
   },
   "dragran": {
     "week_seconds": 180313,
@@ -16090,9 +16090,9 @@
     "total_seconds": 1144
   },
   "bedrockboy04": {
-    "week_seconds": 0,
+    "week_seconds": 3127,
     "week_start": 1782977192,
-    "total_seconds": 0
+    "total_seconds": 3127
   },
   "woman": {
     "week_seconds": 5,
@@ -16118,5 +16118,10 @@
     "week_seconds": 116,
     "week_start": 1782979069,
     "total_seconds": 116
+  },
+  "falconstrikerx3": {
+    "week_seconds": 0,
+    "week_start": 1782980246,
+    "total_seconds": 0
   }
 }
