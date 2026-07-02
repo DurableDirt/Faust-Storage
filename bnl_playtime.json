@@ -7085,9 +7085,9 @@
     "total_seconds": 5972
   },
   "ja_c0b": {
-    "week_seconds": 26016,
+    "week_seconds": 26382,
     "week_start": 1782501560,
-    "total_seconds": 56312
+    "total_seconds": 56678
   },
   "0nightshadow0": {
     "week_seconds": 0,
@@ -16243,5 +16243,10 @@
     "week_seconds": 1326,
     "week_start": 1783000440,
     "total_seconds": 1326
+  },
+  "lethal_donut": {
+    "week_seconds": 27,
+    "week_start": 1783002604,
+    "total_seconds": 27
   }
 }
