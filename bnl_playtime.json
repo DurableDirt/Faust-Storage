@@ -60,9 +60,9 @@
     "total_seconds": 66415
   },
   "mitthraw91": {
-    "week_seconds": 161308,
+    "week_seconds": 161908,
     "week_start": 1782686158,
-    "total_seconds": 933854
+    "total_seconds": 934454
   },
   "rainsinger": {
     "week_seconds": 0,
@@ -16307,6 +16307,11 @@
   "zeytiii": {
     "week_seconds": 0,
     "week_start": 1783010637,
+    "total_seconds": 0
+  },
+  "itzm3felipe": {
+    "week_seconds": 0,
+    "week_start": 1783010931,
     "total_seconds": 0
   }
 }
