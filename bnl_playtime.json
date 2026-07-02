@@ -16555,9 +16555,9 @@
     "total_seconds": 178
   },
   "tjrulezr": {
-    "week_seconds": 0,
+    "week_seconds": 1820,
     "week_start": 1783034575,
-    "total_seconds": 0
+    "total_seconds": 1820
   },
   "moho531": {
     "week_seconds": 39,
@@ -16573,5 +16573,10 @@
     "week_seconds": 140,
     "week_start": 1783036011,
     "total_seconds": 140
+  },
+  "nobou_7": {
+    "week_seconds": 0,
+    "week_start": 1783036339,
+    "total_seconds": 0
   }
 }
