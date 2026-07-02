@@ -2555,9 +2555,9 @@
     "total_seconds": 1116
   },
   "yunfi": {
-    "week_seconds": 49187,
+    "week_seconds": 49217,
     "week_start": 1782750958,
-    "total_seconds": 341234
+    "total_seconds": 341264
   },
   "myng11": {
     "week_seconds": 0,
@@ -12700,9 +12700,9 @@
     "total_seconds": 3059
   },
   "goldeagle2317": {
-    "week_seconds": 51731,
+    "week_seconds": 51868,
     "week_start": 1782567353,
-    "total_seconds": 51731
+    "total_seconds": 51868
   },
   "bruzztuah": {
     "week_seconds": 50,
@@ -16088,5 +16088,10 @@
     "week_seconds": 1144,
     "week_start": 1782975150,
     "total_seconds": 1144
+  },
+  "bedrockboy04": {
+    "week_seconds": 0,
+    "week_start": 1782977192,
+    "total_seconds": 0
   }
 }
