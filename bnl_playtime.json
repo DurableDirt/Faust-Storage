@@ -285,9 +285,9 @@
     "total_seconds": 177525
   },
   "mechanicalrift": {
-    "week_seconds": 65534,
+    "week_seconds": 76835,
     "week_start": 1782689758,
-    "total_seconds": 536857
+    "total_seconds": 548158
   },
   "aguscon": {
     "week_seconds": 0,
@@ -14435,9 +14435,9 @@
     "total_seconds": 494
   },
   "mediterraneides": {
-    "week_seconds": 66393,
+    "week_seconds": 66447,
     "week_start": 1782758583,
-    "total_seconds": 66393
+    "total_seconds": 66447
   },
   "bytecodes_": {
     "week_seconds": 849,
