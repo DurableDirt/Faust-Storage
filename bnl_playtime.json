@@ -5910,13 +5910,13 @@
     "total_seconds": 106197
   },
   "br_brine": {
-    "week_seconds": 11356,
-    "week_start": 1782379160,
+    "week_seconds": 0,
+    "week_start": 1782986974,
     "total_seconds": 21346
   },
   "jisaku": {
     "week_seconds": 0,
-    "week_start": 1782379160,
+    "week_start": 1782986974,
     "total_seconds": 615
   },
   "gamergoodplay": {
@@ -10930,13 +10930,13 @@
     "total_seconds": 8
   },
   "gldenpotato": {
-    "week_seconds": 28,
-    "week_start": 1782379678,
+    "week_seconds": 0,
+    "week_start": 1782986974,
     "total_seconds": 28
   },
   "p1n3_4pple": {
-    "week_seconds": 538,
-    "week_start": 1782381085,
+    "week_seconds": 0,
+    "week_start": 1782986974,
     "total_seconds": 538
   },
   "humansflesh": {
