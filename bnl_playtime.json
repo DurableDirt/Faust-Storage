@@ -15080,9 +15080,9 @@
     "total_seconds": 156
   },
   "curzz_": {
-    "week_seconds": 3060,
+    "week_seconds": 6530,
     "week_start": 1782850813,
-    "total_seconds": 3060
+    "total_seconds": 6530
   },
   "kumiho_0": {
     "week_seconds": 6,
@@ -16073,5 +16073,10 @@
     "week_seconds": 28,
     "week_start": 1782969959,
     "total_seconds": 28
+  },
+  "sharpredux": {
+    "week_seconds": 0,
+    "week_start": 1782970010,
+    "total_seconds": 0
   }
 }
