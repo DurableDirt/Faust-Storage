@@ -8855,9 +8855,9 @@
     "total_seconds": 4850
   },
   "trulyareal": {
-    "week_seconds": 1,
+    "week_seconds": 12,
     "week_start": 1782725758,
-    "total_seconds": 203
+    "total_seconds": 214
   },
   "maxi12390": {
     "week_seconds": 0,
@@ -16390,8 +16390,13 @@
     "total_seconds": 5
   },
   "6el1": {
-    "week_seconds": 65,
+    "week_seconds": 98,
     "week_start": 1783018575,
-    "total_seconds": 65
+    "total_seconds": 98
+  },
+  "cheezboi36": {
+    "week_seconds": 0,
+    "week_start": 1783018766,
+    "total_seconds": 0
   }
 }
