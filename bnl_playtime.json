@@ -115,9 +115,9 @@
     "total_seconds": 14813
   },
   "xjetistuff": {
-    "week_seconds": 38333,
+    "week_seconds": 38359,
     "week_start": 1782686158,
-    "total_seconds": 135861
+    "total_seconds": 135887
   },
   "popshotx9": {
     "week_seconds": 0,
@@ -2020,9 +2020,9 @@
     "total_seconds": 160423
   },
   "luxleee_58": {
-    "week_seconds": 10249,
+    "week_seconds": 10928,
     "week_start": 1782736558,
-    "total_seconds": 29353
+    "total_seconds": 30032
   },
   "skylaxlove": {
     "week_seconds": 0,
@@ -16248,5 +16248,10 @@
     "week_seconds": 27,
     "week_start": 1783002604,
     "total_seconds": 27
+  },
+  "hecc_53": {
+    "week_seconds": 0,
+    "week_start": 1783002748,
+    "total_seconds": 0
   }
 }
