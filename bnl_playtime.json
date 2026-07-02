@@ -6930,9 +6930,9 @@
     "total_seconds": 42
   },
   "mr_quakston": {
-    "week_seconds": 10915,
+    "week_seconds": 11162,
     "week_start": 1782483560,
-    "total_seconds": 35220
+    "total_seconds": 35467
   },
   "sunflower73": {
     "week_seconds": 195,
@@ -16015,8 +16015,8 @@
     "total_seconds": 13
   },
   "stonebindercuffs": {
-    "week_seconds": 0,
+    "week_seconds": 123,
     "week_start": 1782962299,
-    "total_seconds": 0
+    "total_seconds": 123
   }
 }
