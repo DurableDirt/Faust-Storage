@@ -1145,9 +1145,9 @@
     "total_seconds": 34382
   },
   "hitmehn": {
-    "week_seconds": 218734,
+    "week_seconds": 218774,
     "week_start": 1782700558,
-    "total_seconds": 920614
+    "total_seconds": 920654
   },
   "moahbalin": {
     "week_seconds": 13261,
@@ -16143,5 +16143,10 @@
     "week_seconds": 0,
     "week_start": 1782987854,
     "total_seconds": 0
+  },
+  "craftbuilder10": {
+    "week_seconds": 28,
+    "week_start": 1782988480,
+    "total_seconds": 28
   }
 }
