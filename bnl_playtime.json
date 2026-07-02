@@ -2940,9 +2940,9 @@
     "total_seconds": 7614
   },
   "dr_bacon_hair": {
-    "week_seconds": 5662,
+    "week_seconds": 7228,
     "week_start": 1782761758,
-    "total_seconds": 28712
+    "total_seconds": 30278
   },
   "_excalibur": {
     "week_seconds": 6619,
@@ -16442,6 +16442,11 @@
   "banditoz": {
     "week_seconds": 0,
     "week_start": 1783021966,
+    "total_seconds": 0
+  },
+  "rtm2021": {
+    "week_seconds": 0,
+    "week_start": 1783022038,
     "total_seconds": 0
   }
 }
