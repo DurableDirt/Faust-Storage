@@ -2295,9 +2295,9 @@
     "total_seconds": 356678
   },
   "stun2845": {
-    "week_seconds": 42498,
+    "week_seconds": 42813,
     "week_start": 1782743758,
-    "total_seconds": 75577
+    "total_seconds": 75892
   },
   "zeologue": {
     "week_seconds": 0,
@@ -9660,9 +9660,9 @@
     "total_seconds": 27
   },
   "sheinuxofire": {
-    "week_seconds": 6595,
+    "week_seconds": 6988,
     "week_start": 1782842974,
-    "total_seconds": 77261
+    "total_seconds": 77654
   },
   "pixel_side": {
     "week_seconds": 0,
@@ -16188,5 +16188,10 @@
     "week_seconds": 62,
     "week_start": 1782993984,
     "total_seconds": 62
+  },
+  "aquainfiniteyt": {
+    "week_seconds": 0,
+    "week_start": 1782994500,
+    "total_seconds": 0
   }
 }
