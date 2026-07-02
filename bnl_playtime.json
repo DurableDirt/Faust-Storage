@@ -3780,9 +3780,9 @@
     "total_seconds": 262628
   },
   "nukinmouse01": {
-    "week_seconds": 5955,
+    "week_seconds": 6789,
     "week_start": 1782797758,
-    "total_seconds": 9057
+    "total_seconds": 9891
   },
   "kelly2506": {
     "week_seconds": 0,
@@ -15953,5 +15953,10 @@
     "week_seconds": 3,
     "week_start": 1782952069,
     "total_seconds": 3
+  },
+  "llamalord121": {
+    "week_seconds": 0,
+    "week_start": 1782953807,
+    "total_seconds": 0
   }
 }
