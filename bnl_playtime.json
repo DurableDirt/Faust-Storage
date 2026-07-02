@@ -15935,9 +15935,9 @@
     "total_seconds": 5
   },
   "thewilsoneye": {
-    "week_seconds": 0,
+    "week_seconds": 8068,
     "week_start": 1782950480,
-    "total_seconds": 0
+    "total_seconds": 8068
   },
   "eljoseds": {
     "week_seconds": 0,
@@ -15987,6 +15987,11 @@
   "thomasprivatized": {
     "week_seconds": 0,
     "week_start": 1782957727,
+    "total_seconds": 0
+  },
+  "creepa_troopa": {
+    "week_seconds": 0,
+    "week_start": 1782958556,
     "total_seconds": 0
   }
 }
