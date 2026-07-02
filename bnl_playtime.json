@@ -415,9 +415,9 @@
     "total_seconds": 396
   },
   "maverick1351": {
-    "week_seconds": 70072,
+    "week_seconds": 72324,
     "week_start": 1782689758,
-    "total_seconds": 287628
+    "total_seconds": 289880
   },
   "hg__80": {
     "week_seconds": 93999,
@@ -450,9 +450,9 @@
     "total_seconds": 442406
   },
   "mrtnt1925": {
-    "week_seconds": 45359,
+    "week_seconds": 47698,
     "week_start": 1782689758,
-    "total_seconds": 372913
+    "total_seconds": 375252
   },
   "axsld": {
     "week_seconds": 0,
@@ -15945,9 +15945,9 @@
     "total_seconds": 0
   },
   "iitalyy": {
-    "week_seconds": 746,
+    "week_seconds": 2732,
     "week_start": 1782951558,
-    "total_seconds": 746
+    "total_seconds": 2732
   },
   "des23": {
     "week_seconds": 3,
@@ -15963,5 +15963,10 @@
     "week_seconds": 5,
     "week_start": 1782954204,
     "total_seconds": 5
+  },
+  "peterbot9000": {
+    "week_seconds": 0,
+    "week_start": 1782954675,
+    "total_seconds": 0
   }
 }
