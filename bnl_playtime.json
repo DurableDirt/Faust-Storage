@@ -730,9 +730,9 @@
     "total_seconds": 300241
   },
   "marc_1500": {
-    "week_seconds": 46724,
+    "week_seconds": 47039,
     "week_start": 1782693358,
-    "total_seconds": 247290
+    "total_seconds": 247605
   },
   "zipjaw3979": {
     "week_seconds": 0,
@@ -16075,9 +16075,9 @@
     "total_seconds": 1686
   },
   "sharpredux": {
-    "week_seconds": 10538,
+    "week_seconds": 10571,
     "week_start": 1782970010,
-    "total_seconds": 10538
+    "total_seconds": 10571
   },
   "jcasta_765": {
     "week_seconds": 215,
@@ -16202,6 +16202,11 @@
   "fightmaster64": {
     "week_seconds": 0,
     "week_start": 1782996569,
+    "total_seconds": 0
+  },
+  "ph1kixz": {
+    "week_seconds": 0,
+    "week_start": 1782996981,
     "total_seconds": 0
   }
 }
