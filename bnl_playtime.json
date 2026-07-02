@@ -1090,9 +1090,9 @@
     "total_seconds": 134660
   },
   "majjcrunsgf": {
-    "week_seconds": 22623,
+    "week_seconds": 23095,
     "week_start": 1782700558,
-    "total_seconds": 98147
+    "total_seconds": 98619
   },
   "magickponch": {
     "week_seconds": 39832,
@@ -1345,9 +1345,9 @@
     "total_seconds": 249426
   },
   "choripancaliente": {
-    "week_seconds": 19974,
+    "week_seconds": 35983,
     "week_start": 1782707758,
-    "total_seconds": 199701
+    "total_seconds": 215710
   },
   "magicmars345": {
     "week_seconds": 10490,
@@ -15993,5 +15993,10 @@
     "week_seconds": 171,
     "week_start": 1782958556,
     "total_seconds": 171
+  },
+  "slimesare": {
+    "week_seconds": 0,
+    "week_start": 1782959132,
+    "total_seconds": 0
   }
 }
