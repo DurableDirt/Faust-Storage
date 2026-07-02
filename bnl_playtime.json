@@ -2620,9 +2620,9 @@
     "total_seconds": 682
   },
   "comstaat": {
-    "week_seconds": 2616,
+    "week_seconds": 4316,
     "week_start": 1782750958,
-    "total_seconds": 16086
+    "total_seconds": 17786
   },
   "syvslime": {
     "week_seconds": 3837,
@@ -16265,8 +16265,8 @@
     "total_seconds": 0
   },
   "ministrike": {
-    "week_seconds": 0,
+    "week_seconds": 1274,
     "week_start": 1783004627,
-    "total_seconds": 0
+    "total_seconds": 1274
   }
 }
