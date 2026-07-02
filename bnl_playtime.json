@@ -640,9 +640,9 @@
     "total_seconds": 203581
   },
   "beepcar": {
-    "week_seconds": 137471,
+    "week_seconds": 139473,
     "week_start": 1782693358,
-    "total_seconds": 584480
+    "total_seconds": 586482
   },
   "moopie50": {
     "week_seconds": 933,
@@ -16245,9 +16245,9 @@
     "total_seconds": 1326
   },
   "lethal_donut": {
-    "week_seconds": 6376,
+    "week_seconds": 6559,
     "week_start": 1783002604,
-    "total_seconds": 6376
+    "total_seconds": 6559
   },
   "hecc_53": {
     "week_seconds": 790,
