@@ -13815,9 +13815,9 @@
     "total_seconds": 19671
   },
   "fonchox9": {
-    "week_seconds": 21802,
+    "week_seconds": 22507,
     "week_start": 1782682913,
-    "total_seconds": 21802
+    "total_seconds": 22507
   },
   "grizsen": {
     "week_seconds": 651,
@@ -16165,9 +16165,9 @@
     "total_seconds": 2829
   },
   "njury": {
-    "week_seconds": 11320,
+    "week_seconds": 13439,
     "week_start": 1782991339,
-    "total_seconds": 11320
+    "total_seconds": 13439
   },
   "kingu_11": {
     "week_seconds": 6517,
@@ -16348,5 +16348,10 @@
     "week_seconds": 5,
     "week_start": 1783015234,
     "total_seconds": 5
+  },
+  "benjamin3973": {
+    "week_seconds": 0,
+    "week_start": 1783016289,
+    "total_seconds": 0
   }
 }
