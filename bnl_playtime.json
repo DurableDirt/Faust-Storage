@@ -3915,9 +3915,9 @@
     "total_seconds": 32785
   },
   "bruisedbread": {
-    "week_seconds": 14306,
+    "week_seconds": 15298,
     "week_start": 1782815758,
-    "total_seconds": 120669
+    "total_seconds": 121661
   },
   "plumily": {
     "week_seconds": 50606,
@@ -14860,9 +14860,9 @@
     "total_seconds": 2050
   },
   "swe_iskan": {
-    "week_seconds": 27144,
+    "week_seconds": 27163,
     "week_start": 1782821135,
-    "total_seconds": 27144
+    "total_seconds": 27163
   },
   "radiance011": {
     "week_seconds": 1291,
@@ -16390,8 +16390,8 @@
     "total_seconds": 5
   },
   "6el1": {
-    "week_seconds": 31,
+    "week_seconds": 65,
     "week_start": 1783018575,
-    "total_seconds": 31
+    "total_seconds": 65
   }
 }
