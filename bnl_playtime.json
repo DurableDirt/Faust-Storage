@@ -3935,9 +3935,9 @@
     "total_seconds": 27
   },
   "forrestmoss": {
-    "week_seconds": 32516,
+    "week_seconds": 32596,
     "week_start": 1782819358,
-    "total_seconds": 79326
+    "total_seconds": 79406
   },
   "edvinsvanis": {
     "week_seconds": 0,
@@ -7445,9 +7445,9 @@
     "total_seconds": 830
   },
   "_sublim3": {
-    "week_seconds": 21993,
+    "week_seconds": 22256,
     "week_start": 1782542158,
-    "total_seconds": 27466
+    "total_seconds": 27729
   },
   "sigmaguy83297": {
     "week_seconds": 0,
@@ -16083,5 +16083,10 @@
     "week_seconds": 215,
     "week_start": 1782974782,
     "total_seconds": 215
+  },
+  "quinnyl1": {
+    "week_seconds": 18,
+    "week_start": 1782975150,
+    "total_seconds": 18
   }
 }
