@@ -5185,9 +5185,9 @@
     "total_seconds": 118
   },
   "shafiahaz2478": {
-    "week_seconds": 16737,
+    "week_seconds": 17205,
     "week_start": 1782922174,
-    "total_seconds": 107184
+    "total_seconds": 107652
   },
   "ahmad_elayyen": {
     "week_seconds": 0,
@@ -16133,5 +16133,10 @@
     "week_seconds": 30,
     "week_start": 1782982721,
     "total_seconds": 30
+  },
+  "xenon545588": {
+    "week_seconds": 0,
+    "week_start": 1782985951,
+    "total_seconds": 0
   }
 }
