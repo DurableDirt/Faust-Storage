@@ -9255,9 +9255,9 @@
     "total_seconds": 1192
   },
   "aletheiad": {
-    "week_seconds": 33207,
+    "week_seconds": 37231,
     "week_start": 1782772558,
-    "total_seconds": 96103
+    "total_seconds": 100127
   },
   "td_xgodx": {
     "week_seconds": 0,
@@ -15972,6 +15972,11 @@
   "hex_knight": {
     "week_seconds": 0,
     "week_start": 1782955404,
+    "total_seconds": 0
+  },
+  "theawfulwaffle": {
+    "week_seconds": 0,
+    "week_start": 1782956388,
     "total_seconds": 0
   }
 }
