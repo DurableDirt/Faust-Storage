@@ -2555,9 +2555,9 @@
     "total_seconds": 1116
   },
   "yunfi": {
-    "week_seconds": 59297,
+    "week_seconds": 75535,
     "week_start": 1782750958,
-    "total_seconds": 351344
+    "total_seconds": 367582
   },
   "myng11": {
     "week_seconds": 0,
@@ -16593,5 +16593,10 @@
     "week_seconds": 486,
     "week_start": 1783037336,
     "total_seconds": 486
+  },
+  "lhmancrusher2": {
+    "week_seconds": 0,
+    "week_start": 1783038911,
+    "total_seconds": 0
   }
 }
