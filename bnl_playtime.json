@@ -14250,9 +14250,9 @@
     "total_seconds": 1526
   },
   "spiikex": {
-    "week_seconds": 56615,
+    "week_seconds": 56806,
     "week_start": 1782744082,
-    "total_seconds": 56615
+    "total_seconds": 56806
   },
   "auguststealth": {
     "week_seconds": 271,
@@ -16583,5 +16583,10 @@
     "week_seconds": 78,
     "week_start": 1783036672,
     "total_seconds": 78
+  },
+  "rantm": {
+    "week_seconds": 0,
+    "week_start": 1783037042,
+    "total_seconds": 0
   }
 }
