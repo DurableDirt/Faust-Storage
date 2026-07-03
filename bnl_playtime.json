@@ -2385,9 +2385,9 @@
     "total_seconds": 734
   },
   "theonenamedbeezz": {
-    "week_seconds": 75710,
+    "week_seconds": 76732,
     "week_start": 1782747358,
-    "total_seconds": 248595
+    "total_seconds": 249617
   },
   "benjamin12chief": {
     "week_seconds": 0,
@@ -4495,9 +4495,9 @@
     "total_seconds": 6084
   },
   "nulldorito": {
-    "week_seconds": 27907,
+    "week_seconds": 27912,
     "week_start": 1782857374,
-    "total_seconds": 254270
+    "total_seconds": 254275
   },
   "moirai_3242": {
     "week_seconds": 0,
@@ -16585,8 +16585,13 @@
     "total_seconds": 503
   },
   "rantm": {
-    "week_seconds": 0,
+    "week_seconds": 292,
     "week_start": 1783037042,
+    "total_seconds": 292
+  },
+  "bergenbus": {
+    "week_seconds": 0,
+    "week_start": 1783037336,
     "total_seconds": 0
   }
 }
